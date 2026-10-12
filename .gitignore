@@ -15,3 +15,5 @@ Thumbs.db
 /audit/screens/
 /preview/
 /*.zip
+/tools/tests/proj-*/
+/tools/tests/brk-*/
