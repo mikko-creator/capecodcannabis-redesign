@@ -1,6 +1,6 @@
 {
   "schema": "site-reforge/gate@1",
-  "generated": "2026-10-12T16:11:19.157Z",
+  "generated": "2026-10-12T16:55:55.495Z",
   "project": "capecodcannabis-com",
   "target": "https://capecodcannabis.com/",
   "verdict": "NOT-READY",
@@ -100,7 +100,7 @@
       "label": "Brand token layer emitted and actually referenced",
       "stage": "brand",
       "status": "PASS",
-      "evidence": "194 tokens declared, 185 referenced across 10 authored sheet(s), 0 off-token colour literal(s)"
+      "evidence": "197 tokens declared, 188 referenced across 10 authored sheet(s), 0 off-token colour literal(s)"
     },
     {
       "id": "C14",
