@@ -420,3 +420,47 @@ source of truth.
     8. **The `age-gate-plugin-strings` allowedAdded entry** is limited by `kinds` to the gate's own strings, so it
        cannot excuse the same sentences as body text.
     9. **docs/PIPELINE-SITE.md**: its three stale statements (lines about 21, 110 and 441) are corrected.
+19. **Calm revision (added 2026-10-13 by the orchestrator, on the operator's direction).**
+
+    The operator, after reviewing the published preview, wrote: "the background is too noisy and there's a lot going
+    on, it takes away the viewers eyes away from the promotions and the actual products. Redesign and make the designs
+    milder and more toned down but keep the current branding". This ruling wins over DESIGN-SPEC where they differ.
+
+    1. **What the brand keeps.** The palette, the logo, Roboto, Roboto Flex and Playball, the section-title accents,
+       the Uncle Tim's Bridge hero, the Google rating plate, the whale-fluke loop and the client's real photos.
+    2. **Grounds are quiet.**
+       - Home sections alternate between white and foam.
+       - The offers band is the soft sky tint `--tint`.
+       - The reviews band is the one solid harbour band.
+       - The footer is the solid harbour gradient.
+       - No band carries a photo, the whale-tail pattern, pools, glints or a seam sweep. `parts.mjs band()` ignores
+         its `pattern` and `pools` options.
+    3. **Content sits on plain surfaces** (`glass.css .surface`: white, a hairline `--line`, the soft `--sh-soft`).
+       Glass stays only where it frames something: the header, the hero panes over photos (home, interior,
+       category), the mega menu, the dialogs and the sticky price bar.
+    4. **Two cut-outs remain:** the hero sea glass and the footer whale fluke on home. The 404 also keeps its fluke.
+       The cut-outs that are no longer rendered:
+       - the bud;
+       - the second sea glass;
+       - the fan leaf;
+       - the beach grass;
+       - the terpene;
+       - the interior-hero and category-hero cut-outs;
+       - the product-lens sea glass.
+    5. **Photos are framed, not placed behind text.**
+       - The storefront postcard is a straight framed photo beside the intro, with no tape, postmark or seam crossing.
+       - The visit band frames the storefront photo beside the map.
+       - The whale-fluke loop plays in a rounded frame under its panel (4.17.11 otherwise unchanged).
+    6. **DESIGN-SPEC requirements superseded or narrowed:**
+       - R-16, six or more protrusions crossing seams on home: superseded. R-17 and R-18 still apply to the cut-outs
+         that remain.
+       - R-24, rails and panels on photo or smoked bands, and the backdrop variety between sections: superseded by
+         point 2.
+       - R-11 and R-12 apply only to the glass that remains.
+    7. **Evidence on the calm build** (orchestrator, 2026-10-13, `tmp/calm/`):
+       - text parity recall 1, 0 missing, 0 added;
+       - link-check, build-check (AI label 180/180), product-guard, static checks (9 controls), the R-46 scan, hover
+         parity and the C13 token check all pass;
+       - the age gate passes 78/78;
+       - home at 1280x585@1.5: 1,160 KB before scroll and 1,537 KB after a full scroll excluding the loop video
+         (before this revision: 1,363 and 2,752). CLS is 0 at 1280 and at 390.

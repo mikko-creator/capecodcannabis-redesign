@@ -47,6 +47,9 @@
 .scrim { position: absolute; inset: 0; z-index: -1; pointer-events: none; background: linear-gradient(180deg, var(--c-01283a-a00) 30%, var(--c-01283a-a62) 60%, var(--c-012232-a90) 100%); }
 /* plain card for flat grounds (4.6) */
 .card { position: relative; background: var(--c-white); border-radius: var(--r-m); box-shadow: var(--sh-2); }
+/* calm revision (operator, 2026-10-13): the plain surface for content on quiet grounds - no backdrop-filter, a hairline
+   border and a soft shadow, so offers, ads and products carry the colour */
+.surface { position: relative; background: var(--c-white); border: 1px solid var(--line); border-radius: var(--r-m); box-shadow: var(--sh-soft); color: var(--ink); }
 
 /* fallbacks (4.5): text contrast never depends on the blur (R-14) */
 @supports not ((backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px))) {
@@ -58,7 +61,7 @@
   .glass--smoke { background: linear-gradient(150deg, var(--c-012637-a95), var(--c-harbour-2-a93)); }
 }
 @media (forced-colors: active) {
-  .glass, .glass--smoke, .plate, .card { background: Canvas; color: CanvasText; border: 1px solid CanvasText; -webkit-backdrop-filter: none; backdrop-filter: none; }
+  .glass, .glass--smoke, .plate, .card, .surface { background: Canvas; color: CanvasText; border: 1px solid CanvasText; -webkit-backdrop-filter: none; backdrop-filter: none; }
   .glass::before, .scrim { display: none; }
   :focus-visible { outline-color: Highlight; }
 }

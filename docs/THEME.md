@@ -1,4 +1,4 @@
-# THEME: the "Seashore Glass" theme as integrated (INTEGRATOR, 2026-10-12)
+| R-24 composition | SUPERSEDED | BUILD-CONTRACT 4.19 grounds: white and foam alternate, the offers band is the sky tint, the reviews band is the one solid harbour band, and no band carries a photo or pattern. Checked by eye on the full home page at 1280 and 390 (tmp/calm/shots). || R-22 CLS | PASS | (calm build) Home is 0 at 1280x585@1.5 and at 390x844@3. Roboto Flex is font-display optional (the earlier 0.196 was the headline re-wrapping on the font swap). || R-20 weight | PASS | (calm build, tmp/calm/weight-*.json) Home at 1280x585@1.5: 1,160 KB before scroll and 1,537 KB after a full scroll excluding the 713 KB loop video. At 390x844@3: 1,069 and 1,732 KB. Caps are 1,400 and 3,000. || R-16 protrusions cross seams | SUPERSEDED | BUILD-CONTRACT 4.19: two cut-outs remain on home (the hero sea glass and the footer fluke), at the operator's direction to tone the design down. || R-11 backdrop variety | PASS (narrowed) | Calm revision (BUILD-CONTRACT 4.19): glass remains only on the header, the hero panes over photos, the mega menu, the dialogs and the sticky price bar. The home hero pane sits over the bridge photo. Content cards are plain surfaces with no backdrop-filter, so R-11 does not apply to them. The earlier offer-card measurements (0.44 at 1280) describe the superseded smoked band. |# THEME: the "Seashore Glass" theme as integrated (INTEGRATOR, 2026-10-12)
 
 This is the integrator's map of the finished theme: who owns what, how to build and check it, which acceptance
 requirements (DESIGN-SPEC R-1 to R-48) have evidence, and what is still open. The binding docs are unchanged and win
@@ -82,6 +82,8 @@ The integrator's own files: `src/content/removals.json` (run 1 narrowed 7 entrie
 `tmp/integrator/run1-backup-pre-narrowing/` and `tmp/integrator/run2/backup-pre-run2/`.
 
 ## 4. Acceptance coverage (DESIGN-SPEC section 12)
+
+**Calm revision (2026-10-13, BUILD-CONTRACT 4.19).** The operator asked for a milder, toned-down design. The rows for R-11, R-16, R-20, R-22 and R-24 below reflect it. Every other row stands; the calm build re-passed the gates listed in 4.19.7.
 
 **Sources.**
 - The lanes' reports, pulled from the workflow transcripts by `tmp/integrator/run3/lane-reqs.mjs` into

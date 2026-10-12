@@ -321,13 +321,12 @@ function footer(page, ctx) {
   const gate = ctx.ageGate || {};
   const must = (gate.notes || []).find((n) => /VALID ID/.test(n));
   const top = toTop || (ctx.nav && ctx.nav.backToTop);
+  /* calm revision (operator, 2026-10-13): the footer is the solid harbour gradient under its wave edge, without the
+     deep-water photo; the newsletter is a plain outlined panel (no smoked glass). The whale fluke stays on home. */
   return '<footer class="ftr" data-footer>'
-    /* the home offers band paints the same file with the wide-band sizes; the same sizes here let the browser reuse that
-       variant instead of fetching a second one (orchestrator, 2026-10-12, R-20: 154 KB on home) */
-    + '<div class="ftr__sea" aria-hidden="true">' + slotImg(ctx, 'BAND-DEEPWATER', { alt: '', sizes: page.kind === 'home' ? '(min-width: 1101px) 125vw, 100vw' : '100vw', cls: 'ftr__sea-img', tag: false }) + '</div>'
     + (page.kind === 'home' ? protrusion(ctx, 'CUT-FLUKE', { cls: 'protrude--fluke', sizes: '(max-width: 700px) 260px, 520px', breach: true }) : '')
     + '<div class="wrap ftr__in">'
-    + (news.length ? '<section class="ftr__news glass glass--smoke" data-glass="smoke">' + news.join('\n') + '</section>' : '')
+    + (news.length ? '<section class="ftr__news ftr__news--calm">' + news.join('\n') + '</section>' : '')
     + '<div class="ftr__grid">' + cols.map((c) => '<section class="ftr__part ' + c.cls + '"' + (c.id ? ' id="' + c.id + '"' : '') + '>' + c.html.join('\n') + '</section>').join('') + '</div>'
     + (hoursDone ? '' : '<span id="hours"></span>')
     + '<div class="ftr__legal">' + legal.join('\n') + (must ? '<p class="ftr__must">' + e(ctx, must) + '</p>' : '') + '<p class="ftr__ai">' + AI_NOTE + '</p></div>'

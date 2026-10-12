@@ -18,6 +18,11 @@ Written by the spec writer on 2026-10-12, between 12:09 and 12:41, inside a 60-m
 
 ---
 
+> **Calm revision, 2026-10-13.** On the operator's direction the design was toned down: quiet grounds, plain surfaces, glass only
+> where it frames something, and two cut-outs on home. BUILD-CONTRACT 4.19 records it. It supersedes R-16 and R-24, and narrows
+> R-11 and R-12 to the glass that remains. Where this spec describes photo, pattern or smoked bands behind content,
+> 4.19 wins.
+
 ## 1. Decision, and what changes from the prototype
 
 ### 1.1 The vote

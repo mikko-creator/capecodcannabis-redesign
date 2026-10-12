@@ -112,3 +112,9 @@
   .ihero__frame, .iprose .band__pattern { display: none; }
   .ihero__pane, .iprose__col { width: 100%; box-shadow: none; }
 }
+
+/* calm revision (operator, 2026-10-13): quiet grounds under the interior hero - foam behind prose, white behind post
+   lists with plain cards; the 404 is the solid harbour band with an outlined pane */
+.iprose { background: var(--foam); }
+.iposts--calm { background: var(--c-white); }
+.i404__pane--calm { border-radius: var(--r-l); background: var(--c-white-a12); border: 1px solid var(--c-sky-a30); }

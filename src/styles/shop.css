@@ -244,3 +244,13 @@
 @media print {
   .fbar, .pdp-sticky { display: none !important; }
 }
+
+/* calm revision (operator, 2026-10-13): quiet grounds for the shop pages - no sea-glass or deep-water photos, no
+   patterns or cut-outs; panels are plain surfaces (glass.css .surface) and the live-menu band is the soft sky tint */
+.shop-live--calm { color: var(--ink); background: var(--tint); }
+.shop-live--calm .live-panel__menu { color: var(--harbour); }
+.shop-copy--calm { background: var(--foam); }
+.shero--calm { background: var(--foam); }
+.shero--calm::after { content: none; }
+.pdp--calm, .pdp:not(.pdp--stub) { background: var(--foam); }
+.live-panel.surface { min-height: 0; }

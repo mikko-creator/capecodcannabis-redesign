@@ -87,7 +87,8 @@ function hero(page, ctx, fam, parts) {
     const id = 'PLACE-' + ((hash(page.path) % 6) + 1);
     frame = '<div class="ihero__frame">' + slotImg(ctx, id, { cls: 'ihero__img', sizes: '(max-width: 900px) 100vw, 56vw', loading: 'eager', fetchpriority: 'high', frameCls: 'ihero__ai' }) + '</div>';
   }
-  const cut = photo && CUT[fam] && slot(CUT[fam]) ? protrusion(ctx, CUT[fam], { cls: 'protrude--ihero protrude--' + fam, sizes: '(max-width: 1100px) 170px, 230px' }) : '';
+  /* calm revision (operator, 2026-10-13): no cut-out on interior heroes */
+  const cut = '';
   return '<section class="ihero ihero--' + fam + (photo ? '' : ' ihero--plain') + '">' + frame
     + '<div class="wrap ihero__in"><div class="ihero__pane ' + (photo ? 'glass glass--hero" data-glass="light">' : 'card">') + crumbs + inner + '</div></div>' + cut + '</section>';
 }
@@ -103,13 +104,13 @@ function body(page, ctx, fam, rest) {
     const html = run.map((s) => renderSection(s, ctx, { cls: 'iprose__sec', inner: (h) => h })).filter(Boolean).join('\n');
     run = [];
     if (!html) return;
-    out.push(band(ctx, '<div class="iprose__col">' + html + '</div>', { tag: 'div', cls: 'iprose iprose--' + fam, pattern: true, pools: true }));
+    out.push(band(ctx, '<div class="iprose__col">' + html + '</div>', { tag: 'div', cls: 'iprose iprose--' + fam }));
   };
   for (const s of rest) {
     if (!hasPosts(s)) { run.push(s); continue; }
     flush();
-    const inner = renderSection(s, ctx, { cls: 'iposts__sec', inner: (h) => h, postCard: 'glass' });
-    if (inner) out.push(band(ctx, inner, { tag: 'div', cls: 'iposts iposts--' + fam, backdrop: 'H-BAND-5' }));
+    const inner = renderSection(s, ctx, { cls: 'iposts__sec', inner: (h) => h, postCard: 'surface' });
+    if (inner) out.push(band(ctx, inner, { tag: 'div', cls: 'iposts iposts--calm iposts--' + fam }));
   }
   flush();
   return out.join('\n');
@@ -131,7 +132,7 @@ function calendarMain(page, ctx) {
   for (const s of (page.sections || []).filter((x) => x && !x.hiddenAll && !x.popup)) for (const b of s.blocks || []) if (visible(b) && !calendarUi(b)) blocks.push(b);
   const list = blocks.map((b) => (b.t === 'rich' && /href="[^"]*\/event\//.test(b.html || '') ? '<div class="event-list">' + renderBlock(b, ctx) + '</div>' : renderBlock(b, ctx))).filter(Boolean).join('\n');
   const crumbs = breadcrumbs(page, ctx, { cls: 'ihero__crumbs' });
-  return band(ctx, '<div class="iprose__col ical__col">' + crumbs + list + '</div>', { tag: 'div', cls: 'iprose ical', pattern: true, pools: true });
+  return band(ctx, '<div class="iprose__col ical__col">' + crumbs + list + '</div>', { tag: 'div', cls: 'iprose ical' });
 }
 
 /** <main> inner html for an interior page */
@@ -158,8 +159,8 @@ export function renderTemplate(page, ctx) {
 const NOT_FOUND = { title: 'Page not found', text: 'Sorry, we could not find the page you were looking for.' };
 /** <main> inner html for 404.html (served at any depth: root-relative URLs are kept by the build) */
 export function render404Main(ctx) {
-  const pane = '<div class="i404__pane glass glass--smoke" data-glass="smoke"><h1 class="h1">' + ctx.esc(NOT_FOUND.title) + '</h1><p>' + ctx.esc(NOT_FOUND.text) + '</p>'
+  const pane = '<div class="i404__pane i404__pane--calm"><h1 class="h1">' + ctx.esc(NOT_FOUND.title) + '</h1><p>' + ctx.esc(NOT_FOUND.text) + '</p>'
     + '<p class="i404__cta">' + link(ctx, '/menu/', 'Shop Menu', { class: 'btn btn--sky' }) + ' ' + link(ctx, '/', 'Home', { class: 'btn btn--ghost btn--on-dark' }) + '</p></div>';
   const cut = slot('CUT-FLUKE') ? protrusion(ctx, 'CUT-FLUKE', { cls: 'protrude--i404', sizes: '(max-width: 700px) 220px, 400px' }) : '';
-  return band(ctx, '<div class="i404__in">' + cut + pane + '</div>', { tag: 'section', cls: 'i404', backdrop: 'BAND-DEEPWATER', smoke: true });
+  return band(ctx, '<div class="i404__in">' + cut + pane + '</div>', { tag: 'section', cls: 'i404', smoke: true });
 }

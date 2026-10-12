@@ -125,12 +125,13 @@ export function band(ctx, inner, opts = {}) {
     /* the parallax moves the inner layer; .band__media stays put and clips it */
     back = '<div class="band__media" aria-hidden="true"><div class="band__layer"' + (opts.parallax ? ' data-parallax="' + ctx.escAttr(String(opts.parallax)) + '"' : '') + '>' + img + '</div></div>';
   }
-  const pattern = opts.pattern ? '<div class="band__pattern" aria-hidden="true"></div>' : '';
-  const pools = opts.pools ? '<div class="band__pools" aria-hidden="true"><span class="pool pool--a"></span><span class="pool pool--b"></span></div>' : '';
+  /* calm revision (operator, 2026-10-13): bands draw no pattern, pools or seam sweep; the options are accepted and ignored */
+  const pattern = '';
+  const pools = '';
   const body = opts.wrap === false ? inner : '<div class="wrap band__in">' + inner + '</div>';
   /* the seam light sweep (DESIGN-SPEC 6.10, graft 18): a decorative 2px light along the band's top edge, run once by
      site.js (.is-swept) when the edge enters the viewport; never under reduced motion. Last child, aria-hidden. */
-  const sweep = '<span class="band__sweep" aria-hidden="true"></span>';
+  const sweep = '';
   return '<' + tag + ctx.attrs({ class: ['band', opts.smoke ? 'band--smoke' : null, opts.cls].filter(Boolean).join(' '), ...(opts.attrs || {}) }) + '>' + back + pattern + pools + body + sweep + '</' + tag + '>';
 }
 /** a section title with exactly ONE accent (DESIGN-SPEC 3.2): 'grad' (gradient word), 'draw' (drawn SVG underline),

@@ -37,6 +37,11 @@
   --g-hi: rgba(255,255,255,.80); --g-mid: rgba(240,250,254,.62); --g-lo: rgba(214,242,252,.52);
   --g-edge: rgba(255,255,255,.78); --g-blur: 22px;
   --s-hi: rgba(1,38,55,.80); --s-lo: rgba(1,63,89,.72);
+  /* calm revision (operator, 2026-10-13): quiet grounds and plain surfaces for content; glass is kept for the header,
+     the hero pane and the dialogs */
+  --tint: #E9F6FC;         /* the soft sky ground of the offers band */
+  --line: rgba(1,83,117,.12);   /* the hairline border of a plain surface */
+  --sh-soft: 0 1px 2px rgba(1,63,89,.06), 0 12px 30px -18px rgba(1,63,89,.24);
   /* type (3.2) */
   --f-text: "Roboto", "Roboto Fallback", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
   --f-disp: "Roboto Flex", "Roboto Flex Fallback", "Roboto", system-ui, sans-serif;

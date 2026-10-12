@@ -116,8 +116,10 @@ function livePanel(ctx, page, { heading, tone, attrs } = {}) {
   const menu = shopMenuItem(ctx);
   /* two separate block elements: the hand-off and the menu link are two labels, never one run (parity units) */
   const menuLink = menu && ctx.url(menu.href) !== ctx.url(page.path) ? '<p>' + link(ctx, menu.href, e(ctx, menu.label), { class: 'live-panel__menu' }) + '</p>' : '';
-  const cls = ['live-panel', smoke ? 'glass glass--smoke' : tone === 'light' ? 'glass glass--aqua' : 'live-panel--card'].join(' ');
-  return '<div' + ctx.attrs({ class: cls, 'data-glass': smoke ? 'smoke' : tone === 'light' ? 'light' : null, ...(attrs || {}) }) + '>'
+  /* calm revision (operator, 2026-10-13): every live-menu panel is a plain surface */
+  void smoke;
+  const cls = ['live-panel', 'surface'].join(' ');
+  return '<div' + ctx.attrs({ class: cls, ...(attrs || {}) }) + '>'
     + (heading ? '<p class="live-panel__h">' + e(ctx, heading) + '</p>' : '')
     + '<div class="live-panel__actions"><p>' + handoff(ctx, page.path, { cls: 'btn ' + (smoke ? 'btn--sky' : 'btn--ink') + ' handoff' }) + '</p>' + menuLink + '</div></div>';
 }
@@ -209,18 +211,17 @@ export function productBody(page, ctx) {
   const crumbs = breadcrumbs(page, ctx, { cls: 'pdp__crumbs' });
   const brand = p.brand ? '<p class="pdp__brand"><span data-catalog="brand">' + link(ctx, p.brand.path, e(ctx, p.brand.name)) + '</span>' + (p.brand.match === 'slug-start' ? ' <span class="chip-note">(' + e(ctx, LABELS.fromSlug) + ')</span>' : '') + '</p>' : '';
   const h1 = '<h1 class="h1 pdp__title" data-guard="name">' + e(ctx, p.title) + '</h1>';
-  const back = '<div class="pdp__bg" aria-hidden="true"><div class="band__layer" data-parallax="0.06">' + slotImg(ctx, 'H-BAND-1', { alt: '', sizes: '(max-width: 700px) 100vw, 60vw', cls: 'pdp__bg-img', tag: false, loading: 'eager' }) + '</div></div>';
+  const back = '';   /* calm revision: no sea-glass photo behind product pages */
   if (!p.full) {
     /* Plan B stub: H1, breadcrumb, brand link, labelled chips with their captions, the hand-off. No image, price or offers */
-    return '<section class="pdp pdp--stub">' + back + '<div class="wrap pdp__in"><div class="pdp__panel glass glass--aqua" data-glass="light">'
+    return '<section class="pdp pdp--stub pdp--calm">' + back + '<div class="wrap pdp__in"><div class="pdp__panel surface">'
       + crumbs + brand + h1 + chipsHtml(ctx, p)
       + '<p class="pdp__handoff">' + handoff(ctx, page.path) + '</p></div></div></section>';
   }
   const f = p.full;
   const o = (f.offers || [])[0] || null;
   const photo = f.imageHash ? '<img' + ctx.attrs({ class: 'lens__img', src: ctx.dutchie(f.imageHash, { w: 250, h: 250 }), srcset: ctx.dutchie(f.imageHash, { w: 250, h: 250 }) + ' 1x, ' + ctx.dutchie(f.imageHash, { w: 250, h: 250, dpr: 2 }) + ' 2x', width: 250, height: 250, alt: p.title, loading: 'eager', decoding: 'async', fetchpriority: 'high' }) + '>' : '';
-  const stage = '<div class="pdp__stage"><div class="lens">' + photo
-    + protrusion(ctx, 'CUT-SEAGLASS', { cls: 'protrude--lens', sizes: '(max-width: 700px) 100px, 230px' }) + '</div></div>';
+  const stage = '<div class="pdp__stage"><div class="lens">' + photo + '</div></div>';
   const offer = o ? '<div class="pdp__offer">'
     + '<p class="pdp__price"><span class="pdp__variant" data-guard="variant">' + e(ctx, o.name) + '</span> <span class="pdp__amount" data-guard="price">' + e(ctx, money(o)) + '</span></p>'
     + '<p class="pdp__asof">' + e(ctx, LABELS.asOf) + ' ' + e(ctx, f.asOf) + '</p>'
@@ -230,8 +231,7 @@ export function productBody(page, ctx) {
     + '<button type="button" class="btn btn--ghost btn--sm pdp__view" data-bag-view hidden>' + e(ctx, L.viewBag) + '</button>'
     + '<p class="pdp__note fine">' + e(ctx, L.preview) + '</p>'
     + '<p class="sr" role="status" aria-live="polite" data-bag-live></p></div>' : '';
-  const panel = '<div class="pdp__panel glass glass--aqua" data-glass="light">'
-    + protrusion(ctx, 'CUT-TERPENE', { cls: 'protrude--pane', sizes: '(max-width: 700px) 120px, 170px' })
+  const panel = '<div class="pdp__panel surface">'
     + crumbs + brand + h1 + chipsHtml(ctx, p) + offer + buy + '</div>';
   const desc = (f.descriptionLines || []).length ? '<section class="pdp-more"><div class="wrap"><div class="pdp-more__pane card">'
     + '<ul class="pdp__desc">' + f.descriptionLines.map((l) => '<li data-guard="desc">' + e(ctx, l) + '</li>').join('') + '</ul>'
@@ -278,14 +278,14 @@ function hero(page, ctx) {
     return {
       html: '<section class="shero shero--cat"><div class="shero__frame">'
         + '<div class="shero__photo"><div class="shero__layer" data-parallax="0.08">' + slotImg(ctx, catSlot, { alt, sizes: '(max-width: 700px) 100vw, 52vw', cls: 'shero__img', loading: 'eager', fetchpriority: 'high', frameCls: 'shero__ai' }) + '</div></div>'
-        + protrusion(ctx, 'CUT-BUD', { cls: 'protrude--cat', sizes: '(max-width: 700px) 130px, 230px' }) + '</div>'
+        + '</div>'
         + '<div class="wrap shero__in">' + pane + '</div></section>',
       used,
     };
   }
   return {
-    html: '<section class="shero shero--band"><div class="shero__band" aria-hidden="true"><div class="band__layer" data-parallax="0.06">' + slotImg(ctx, 'H-BAND-1', { alt: '', sizes: '100vw', cls: 'shero__band-img', tag: false, loading: 'eager', fetchpriority: 'high' }) + '</div></div>'
-      + '<div class="wrap shero__in">' + pane + '</div></section>',
+    html: '<section class="shero shero--band shero--calm">'
+      + '<div class="wrap shero__in"><div class="shero__pane surface">' + inner + '</div></div></section>',
     used,
   };
 }
@@ -296,7 +296,7 @@ function body(page, ctx, used) {
   let copy = [];
   const flush = () => {
     if (!copy.length) return;
-    out.push('<div class="shop-copy band"><div class="band__pattern" aria-hidden="true"></div><div class="band__pools" aria-hidden="true"><span class="pool pool--a"></span><span class="pool pool--b"></span></div><div class="wrap band__in"><div class="shop-copy__pane glass" data-glass="light">' + copy.join('\n') + '</div></div></div>');
+    out.push('<div class="shop-copy band shop-copy--calm"><div class="wrap band__in"><div class="shop-copy__pane surface">' + copy.join('\n') + '</div></div></div>');
     copy = [];
   };
   for (const s of page.sections || []) {
@@ -316,7 +316,7 @@ function listingBand(ctx, page, render) {
   PANEL_TONE = 'smoke';
   let html;
   try { html = render(); } finally { PANEL_TONE = null; }
-  return '<div class="shop-live band band--smoke"><div class="band__media" aria-hidden="true"><div class="band__layer" data-parallax="0.1">' + slotImg(ctx, 'BAND-DEEPWATER', { alt: '', sizes: '100vw', cls: 'band__img', tag: false }) + '</div></div><div class="wrap band__in">' + html + '</div></div>';
+  return '<div class="shop-live band shop-live--calm"><div class="wrap band__in">' + html + '</div></div>';
 }
 
 /** <main> inner html for a shop kind */

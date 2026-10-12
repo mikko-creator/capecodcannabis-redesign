@@ -73,3 +73,29 @@ calls.
   - the change-control ledger has 6,079 rows, every one decided, with the narrative slots mapped;
   - the live site's own 20 dead pages and 13 broken CDN images are accepted as source defects;
   - this file, `README.md` and `DEPLOY.md`.
+
+## Calm revision (2026-10-13)
+
+After reviewing the preview, the operator found the backgrounds too noisy: they drew the eye away from the promotions
+and products. The design was toned down and the branding kept (BUILD-CONTRACT 4.19).
+
+**Grounds.** Quiet grounds replace the photo, pattern, pool and glint bands:
+- white and foam alternate;
+- the offers band is a soft sky tint;
+- the reviews band is the one solid harbour band;
+- the footer is the solid harbour gradient.
+
+**Surfaces.** Content sits on plain white surfaces with a hairline border and a soft shadow. Glass stays on the header,
+the hero panes, the mega menu and the dialogs.
+
+**Cut-outs.** Two remain on home, the hero sea glass and the footer whale fluke; the 404 keeps its fluke. The
+whale-tail watermarks on cards and the seam sweeps are gone.
+
+**Photos.** The storefront photo is framed beside the intro and beside the map. The whale-fluke loop plays in a rounded
+frame under its panel.
+
+**Shop and interior pages.** No sea-glass or deep-water backgrounds; panels are plain; the live-menu band is the sky
+tint.
+
+**Result.** Home weight at 1280 fell to 1,160 KB before scroll and 1,537 KB after a full scroll, excluding the loop
+(it was 1,363 and 2,752). CLS is 0. All gates pass. The age gate passes 78/78.

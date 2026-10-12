@@ -318,3 +318,7 @@ html.gate-open { overflow: hidden; }
   .ftr__grid { grid-template-columns: 1fr; }
   .tool--bag { min-width: 44px; }
 }
+
+/* calm revision (operator, 2026-10-13): the newsletter as a plain outlined panel on the footer's solid harbour gradient */
+.ftr__news--calm { border-radius: var(--r-l); background: var(--c-white-a12); border: 1px solid var(--c-sky-a30); color: var(--c-white); }
+.ftr__news--calm a:not(.btn) { color: var(--sky); }
