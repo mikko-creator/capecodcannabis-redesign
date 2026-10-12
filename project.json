@@ -4,7 +4,7 @@
   "targetUrl": "https://capecodcannabis.com/",
   "origin": "https://capecodcannabis.com",
   "createdAt": "2026-10-12T00:09:39.500Z",
-  "updatedAt": "2026-10-12T16:09:07.910Z",
+  "updatedAt": "2026-10-12T16:11:31.198Z",
   "config": {
     "maxPages": 8000,
     "concurrency": 2,
@@ -108,7 +108,7 @@
     },
     "decontaminate": {
       "status": "done",
-      "at": "2026-10-12T16:07:36.222Z",
+      "at": "2026-10-12T16:11:17.831Z",
       "note": "CLEAN (0 traces)"
     },
     "parity": {
@@ -138,13 +138,13 @@
     },
     "gate": {
       "status": "fail",
-      "at": "2026-10-12T16:09:07.910Z",
+      "at": "2026-10-12T16:11:19.158Z",
       "note": "NOT-READY — 15/29 passing"
     },
     "package": {
-      "status": "pending",
-      "at": null,
-      "note": ""
+      "status": "forced",
+      "at": "2026-10-12T16:11:31.198Z",
+      "note": "capecodcannabis-com-handoff-v20261012.zip — 14236 entries, 817654689 bytes"
     }
   },
   "notes": []
