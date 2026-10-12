@@ -1,0 +1,1077 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/event/hellavated-baja-blastoff-pop-up/",
+ "sourceUrl": "https://capecodcannabis.com/event/hellavated-baja-blastoff-pop-up/",
+ "requestedUrl": "https://capecodcannabis.com/event/hellavated-baja-blastoff-pop-up",
+ "slug": "event-hellavated-baja-blastoff-pop-up",
+ "kind": "event",
+ "wpTemplate": "event",
+ "derived": false,
+ "rawFile": "audit/raw/event-hellavated-baja-blastoff-pop-up.html",
+ "rawSha256": "2883cf0c889a9612a65ad1650920fd58b853c52dc6ead214cc9e506984023f27",
+ "regionKind": "body-minus-chrome",
+ "title": "Hellavated Baja Blastoff Pop-Up | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+ "metaDescription": "Learn more about the Hellavated brand products including Vape Cartridges and Infused Pre-Rolls on June 27, 2026 from 12pm to 2pm at Cape Cod Cannabis.",
+ "canonical": "https://capecodcannabis.com/event/hellavated-baja-blastoff-pop-up/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "Hellavated Baja Blastoff Pop-Up | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "Learn more about the Hellavated brand products including Vape Cartridges and Infused Pre-Rolls on June 27, 2026 from 12pm to 2pm at Cape Cod Cannabis.",
+  "url": "https://capecodcannabis.com/event/hellavated-baja-blastoff-pop-up/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2026-06-10T11:50:59-04:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2025/04/hellavated-baja-blastoff_200px.png",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/2025/04/hellavated-baja-blastoff_200px.png",
+  "image:width": "200",
+  "image:height": "238",
+  "image:alt": "Hellavated brand and NEW Limited-time Drop Flavor - Baja Blastoff at Cape Cod Cannabis in Wellfleet.",
+  "image:type": "image/png"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438",
+  "tag": [
+   "baja blastoff",
+   "cannabis",
+   "cape cod cannabis",
+   "cartridges",
+   "carts",
+   "hellavated",
+   "infused pre-rolls",
+   "pop-up event",
+   "pop-ups"
+  ]
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "Hellavated Baja Blastoff Pop-Up | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "Learn more about the Hellavated brand products including Vape Cartridges and Infused Pre-Rolls on June 27, 2026 from 12pm to 2pm at Cape Cod Cannabis.",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2025/04/hellavated-baja-blastoff_200px.png"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Place",
+     "@id": "https://capecodcannabis.com/#place",
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.916265712481554",
+      "longitude": "-69.98840341462632"
+     },
+     "hasMap": "https://www.google.com/maps/search/?api=1&amp;query=41.916265712481554,-69.98840341462632",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     }
+    },
+    {
+     "@type": [
+      "LocalBusiness",
+      "Organization"
+     ],
+     "@id": "https://capecodcannabis.com/#organization",
+     "name": "Cape Cod Cannabis in Wellfleet - Best dispensary on Cape Cod.",
+     "url": "https://capecodcannabis.com",
+     "sameAs": [
+      "https://www.facebook.com/profile.php?id=100077867156438",
+      "https://twitter.com/capecodcanna"
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "logo": {
+      "@type": "ImageObject",
+      "@id": "https://capecodcannabis.com/#logo",
+      "url": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "contentUrl": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "caption": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+      "inLanguage": "en-US",
+      "width": "700",
+      "height": "500"
+     },
+     "openingHours": [
+      "Mo,Tu,We,Th,Fr,Sa,Su 8:00 - 8:00"
+     ],
+     "description": "Welcome to Cape Cod Cannabis, recognized by many as the Best Dispensary on Cape Cod, located in Wellfleet. Conveniently situated in the Route 6 shopping plaza in South Wellfleet, we are a trusted destination for both locals and visitors traveling from Provincetown, Truro, Wellfleet, Eastham, Orleans, Brewster, Dennis, Harwich, Chatham, Yarmouth, Sandwich and across the Cape and beyond.\n\nCape Cod Cannabis, your go-to cannabis haven, offers a carefully curated selection of high quality products, including flower, pre-rolls, edibles, vaporizers, concentrates, tinctures, topicals, CBD, accessories, and more. With a focus on education, selection, and a welcoming experience, we make it easy to explore and find what works best for you whether you are visiting the Cape or live here year round.",
+     "location": {
+      "@id": "https://capecodcannabis.com/#place"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/#logo"
+     },
+     "telephone": "+1-774-383-3133"
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://capecodcannabis.com/#website",
+     "url": "https://capecodcannabis.com",
+     "name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+     "alternateName": "Cape Cod Cannabis | Wellfleet's Top Rated Cannabis Store on Cape Cod",
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "https://capecodcannabis.com/wp-content/uploads/2025/04/hellavated-baja-blastoff_200px.png",
+     "url": "https://capecodcannabis.com/wp-content/uploads/2025/04/hellavated-baja-blastoff_200px.png",
+     "width": "200",
+     "height": "238",
+     "caption": "Hellavated brand and NEW Limited-time Drop Flavor - Baja Blastoff at Cape Cod Cannabis in Wellfleet.",
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/event/hellavated-baja-blastoff-pop-up/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/events-calendar/",
+        "name": "Events"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "3",
+       "item": {
+        "@id": "https://capecodcannabis.com/event/hellavated-baja-blastoff-pop-up/",
+        "name": "Hellavated Baja Blastoff Pop-Up"
+       }
+      }
+     ]
+    },
+    {
+     "@type": "WebPage",
+     "@id": "https://capecodcannabis.com/event/hellavated-baja-blastoff-pop-up/#webpage",
+     "url": "https://capecodcannabis.com/event/hellavated-baja-blastoff-pop-up/",
+     "name": "Hellavated Baja Blastoff Pop-Up | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "datePublished": "2025-04-28T09:55:06-04:00",
+     "dateModified": "2026-06-10T11:50:59-04:00",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2025/04/hellavated-baja-blastoff_200px.png"
+     },
+     "inLanguage": "en-US",
+     "breadcrumb": {
+      "@id": "https://capecodcannabis.com/event/hellavated-baja-blastoff-pop-up/#breadcrumb"
+     }
+    },
+    {
+     "image": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2025/04/hellavated-baja-blastoff_200px.png"
+     },
+     "name": "Hellavated Baja Blastoff Pop-Up | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "description": "Learn more about the Hellavated brand products including Vape Cartridges and Infused Pre-Rolls on June 27, 2026 from 12pm to 2pm at Cape Cod Cannabis.",
+     "@type": "Event",
+     "eventStatus": "EventScheduled",
+     "eventAttendanceMode": "OfflineEventAttendanceMode",
+     "location": {
+      "@type": "Place",
+      "name": "Cape Cod Cannabis Pop-Up Event",
+      "url": "https://capecodcannabis.com/events-calendar/",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "1446 State Highway Rt. 6, Wellfleet, MA",
+       "addressLocality": "South Wellfleet",
+       "addressRegion": "Cape Cod",
+       "postalCode": "02667",
+       "addressCountry": "United States"
+      }
+     },
+     "performer": {
+      "@type": "Organization",
+      "name": "Holistic Brands"
+     },
+     "startDate": "2025-07-11T16:00:00-04:00",
+     "endDate": "2025-07-11T18:00:00-04:00",
+     "offers": {
+      "@type": "Offer",
+      "name": "General Admission",
+      "category": "primary",
+      "availability": "InStock"
+     },
+     "@id": "https://capecodcannabis.com/event/hellavated-baja-blastoff-pop-up/#schema-1059969",
+     "organizer": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "inLanguage": "en-US",
+     "mainEntityOfPage": {
+      "@id": "https://capecodcannabis.com/event/hellavated-baja-blastoff-pop-up/#webpage"
+     }
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  },
+  [
+   {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "Hellavated Baja Blastoff Pop-Up",
+    "description": "&lt;p&gt;Learn more about the Hellavated brand that offers great products, such as their Vape Cartridges, Infused Pre-Rolls, and more! Kick it into HIGH gear. Juicy Stickz combines whole bud flower [&hellip;]&lt;/p&gt;\\n",
+    "image": "https://capecodcannabis.com/wp-content/uploads/2025/04/hellavated-baja-blastoff_200px.png",
+    "url": "https://capecodcannabis.com/event/hellavated-baja-blastoff-pop-up/",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "startDate": "2026-06-27T12:00:00-04:00",
+    "endDate": "2026-06-27T14:00:00-04:00",
+    "location": {
+     "@type": "Place",
+     "name": "Cape Cod Cannabis",
+     "description": "",
+     "url": "",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressLocality": "Wellfleet",
+      "addressRegion": "MA",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "telephone": "774-383-3133",
+     "sameAs": "https://www.capecodcannabis.com"
+    },
+    "performer": "Organization"
+   }
+  ]
+ ],
+ "h1": "Hellavated Baja Blastoff Pop-Up",
+ "h1Source": {
+  "count": 1,
+  "visible": 1,
+  "hidden": 0
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Events",
+   "href": "/events-calendar/"
+  },
+  {
+   "label": "Hellavated Baja Blastoff Pop-Up",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "jsonld",
+ "section": null,
+ "sections": [
+  {
+   "n": 0,
+   "id": "4d8f4efa",
+   "doc": "tec_event_single_dynamic#92071",
+   "blocks": [
+    {
+     "t": "event-field",
+     "field": "calendar_link",
+     "text": "« All Events",
+     "links": [
+      {
+       "label": "« All Events",
+       "href": "/events-calendar/"
+      }
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "status",
+     "text": "This event has passed."
+    },
+    {
+     "t": "event-field",
+     "field": "title",
+     "text": "Hellavated Baja Blastoff Pop-Up",
+     "level": 1
+    },
+    {
+     "t": "event-field",
+     "field": "datetime",
+     "text": "June 27, 2026\n@ 12:00 pm\n- 2:00 pm"
+    },
+    {
+     "t": "image",
+     "ref": "assets/source/b74b6f8a-hellavated-baja-blastoff_200px.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/04/hellavated-baja-blastoff_200px.png?lossy=2&strip=0&webp=1",
+     "alt": "Hellavated brand and NEW Limited-time Drop Flavor - Baja Blastoff at Cape Cod Cannabis in Wellfleet.",
+     "w": 200,
+     "h": 238,
+     "kind": "event-image"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Learn more about the Hellavated brand that offers great products, such as their Vape Cartridges, Infused Pre-Rolls, and more!"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Kick it into HIGH gear. Juicy Stickz combines whole bud flower with our proprietary infusion of melted diamonds, botanical terpenes, and kief to create a potent flavor explosion, packaged expertly in a 0.75g pre-roll. You can expect a smooth, tasty burn all the way to the end that delivers on potency and is packed with flavor. Available in singles or 5-packs.</p><p>Vapes will never be the same. Hellavated carts combine the unmatched potency of distillate with our unique hella-tasty natural terpene blends to deliver an out-of-this-world experience that is sure to make your mouth water. You can expect maximum flavor and a smooth and easy vaping experience no matter which Hellavated vape you pick for the day’s adventures.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Be one of the FIRST 20 Hellavated fans at our exclusive Baja Blastoff Pop-Up and receive a STASH Can entry to WIN a $500 Taco Bell Gift Card!"
+    },
+    {
+     "t": "rich",
+     "html": "<p><a href=\"https://www.hellavated.com/products/limited-time-only-flavors/\" target=\"_blank\" rel=\"noopener\">No purchase necessary to enter.</a></p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "NEW FLAVOR! LIMITED TIME DROP!"
+    },
+    {
+     "t": "rich",
+     "html": "<p>. <img src=\"assets/source/9259cb4c-Hellavated_OR_cartridge_Baja-Blastoff.png\" alt=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" width=\"220\" height=\"386\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://www.hellavated.com/wp-content/uploads/2026/06/Hellavated_OR_cartridge_Baja-Blastoff.png\"> <img src=\"assets/source/2e5b1668-Hellavated_OR_JuicyStickz_Baja-Blastoff-scaled.png\" alt=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" width=\"99\" height=\"374\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://www.hellavated.com/wp-content/uploads/2026/06/Hellavated_OR_JuicyStickz_Baja-Blastoff-scaled.png\"></p>"
+    },
+    {
+     "t": "heading",
+     "level": 5,
+     "text": "Available on 6/27/26 – Baja Blastoff takes the iconic tropical soda flavor and launches it into another dimension. This limited-edition release delivers a rush of sweet lime and bright citrus notes, capturing that unmistakable nostalgic flavor with a cosmic twist."
+    },
+    {
+     "t": "rich",
+     "html": "<p><a href=\"/brands/hellavated/\"><img src=\"assets/source/d151dbdc-Shop-Now-Button-200px.png\" alt=\"Shop Now at Cape Cod Cannabis in Wellfleet, MA\" width=\"223\" height=\"77\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/04/Shop-Now-Button-200px.png?lossy=2&amp;strip=0&amp;webp=1\"></a></p>"
+    },
+    {
+     "t": "event-field",
+     "field": "venue",
+     "text": "Cape Cod Cannabis\n1446 US-6\nWellfleet,MA02667United States\n+ Google Map\n774-383-3133\nView Venue Website",
+     "links": [
+      {
+       "label": "+ Google Map",
+       "href": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=1446+US-6+Wellfleet+MA+02667+United+States"
+      },
+      {
+       "label": "774-383-3133",
+       "href": "tel:774-383-3133"
+      },
+      {
+       "label": "View Venue Website",
+       "href": "/"
+      }
+     ],
+     "ariaLabels": [
+      "Venue location map"
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "categories",
+     "text": "Categories:\nPop-Ups",
+     "links": [
+      {
+       "label": "Pop-Ups",
+       "href": "/events-calendar/category/pop-ups/"
+      }
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "tags",
+     "text": "Tags:\nbaja blastoff,\ncannabis,\ncape cod cannabis,\ncartridges,\ncarts,\nhellavated,\ninfused pre-rolls,\npop-up event,\npop-ups",
+     "links": [
+      {
+       "label": "baja blastoff",
+       "href": "/tag/baja-blastoff/"
+      },
+      {
+       "label": "cannabis",
+       "href": "/tag/cannabis/"
+      },
+      {
+       "label": "cape cod cannabis",
+       "href": "/tag/cape-cod-cannabis/"
+      },
+      {
+       "label": "cartridges",
+       "href": "/tag/cartridges/"
+      },
+      {
+       "label": "carts",
+       "href": "/tag/carts/"
+      },
+      {
+       "label": "hellavated",
+       "href": "/tag/hellavated/"
+      },
+      {
+       "label": "infused pre-rolls",
+       "href": "/tag/infused-pre-rolls/"
+      },
+      {
+       "label": "pop-up event",
+       "href": "/tag/pop-up-event/"
+      },
+      {
+       "label": "pop-ups",
+       "href": "/tag/pop-ups/"
+      }
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "export",
+     "text": "Add to calendar\nGoogle Calendar\niCalendar\nOutlook 365\nOutlook Live",
+     "links": [
+      {
+       "label": "Google Calendar",
+       "href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20260627T120000/20260627T140000&text=Hellavated%20Baja%20Blastoff%20Pop-Up&details=%3Ch3%3E%3Cstrong%3ELearn+more+about+the+Hellavated+brand+that+offers+great+products%2C+such+as+their+Vape+Cartridges%2C+Infused+Pre-Rolls%2C+and+more%21%3C%2Fstrong%3E%3C%2Fh3%3EKick+it+into+HIGH+gear.+Juicy+Stickz+combines+whole+bud+flower+with+our+proprietary+infusion+of+melted+diamonds%2C+botanical+terpenes%2C+and+kief+to+create+a+potent+flavor+explosion%2C+packaged+expertly+in+a+0.75g+pre-roll.+You+can+expect+a+smooth%2C+tasty+burn+all+the+way+to+the+end+that+delivers+on+potency+and+is+packed+with+flavor.+Available+in+singles+or+5-packs.%26nbsp%3BVapes+will+never+be+the+same.+Hellavated+carts+combine+the+unmatched+potency+of+distillate+with+our+unique+hella-tasty+natural+terpene+blends+to+deliver+an+out-of-this-world+experience+that+is+sure+to+make+your+mouth+water.+You+can+expect+maximum+flavor+and+a+smooth+and+easy+vaping+experience+no+matter+which+Hellavated+vape+you+pick+for+the+day%E2%80%99s+adventures.%26nbsp%3B%3Ch3+style%3D%22text-align%3A+center%3B%22%3E%3Cstrong%3E%3Cspan+style%3D%22color%3A+%23333399%3B%22%3EBe+one+of+the+FIRST+20+H%3C%2Fspan%3E%3C%2Fstrong%3E%3C%2Fh3%3E+%28View+Full+event+Description+Here%3A+https%3A%2F%2Fcapecodcannabis.com%2Fevent%2Fhellavated-baja-blastoff-pop-up%2F%29&location=Cape%20Cod%20Cannabis,%201446%20US-6,%20Wellfleet,%20MA,%2002667,%20United%20States&trp=false&ctz=America/New_York&sprop=website:https://capecodcannabis.com"
+      },
+      {
+       "label": "iCalendar",
+       "href": "/event/hellavated-baja-blastoff-pop-up/?ical=1"
+      },
+      {
+       "label": "Outlook 365",
+       "href": "https://outlook.office.com/owa/?path=/calendar/action/compose&rrv=addevent&startdt=2026-06-27T12%3A00%3A00-04%3A00&enddt=2026-06-27T14%3A00%3A00-04%3A00&location=Cape%20Cod%20Cannabis,%201446%20US-6,%20Wellfleet,%20MA,%2002667,%20United%20States&subject=Hellavated%20Baja%20Blastoff%20Pop-Up&body=Learn%20more%20about%20the%20Hellavated%20brand%20that%20offers%20great%20products%2C%20such%20as%20their%20Vape%20Cartridges%2C%20Infused%20Pre-Rolls%2C%20and%20more%21Kick%20it%20into%20HIGH%20gear.%20Juicy%20Stickz%20combines%20whole%20bud%20flower%20with%20our%20proprietary%20infusion%20of%20melted%20diamonds%2C%20botanical%20terpenes%2C%20and%20kief%20to%20create%20a%20potent%20flavor%20explosion%2C%20packaged%20expertly%20in%20a%200.75g%20pre-roll.%20You%20can%20expect%20a%20smooth%2C%20tasty%20burn%20all%20the%20way%20to%20the%20end%20that%20delivers%20on%20potency%20and%20is%20packed%20with%20flavor.%20Available%20in%20singles%20or%205-packs.%26nbsp%3BVapes%20will%20never%20be%20the%20same.%20Hellavated%20carts%20combine%20the%20unmatched%20potency%20of%20distillate%20with%20our%20unique%20hella-tasty%20natural%20terpene%20blends%20to%20deliver%20an%20out-of-this-world%20experience%20that%20is%20sure%20to%20make%20your%20mouth%20water.%20You%20can%20expect%20maximum%20flavor%20and%20a%20smooth%20and%20easy%20vaping%20experience%20no%20matter%20which%20Hellavated%20vape%20you%20pick%20for%20the%20day%E2%80%99s%20adventures.%26nbsp%3BBe%20one%20of%20the%20FIRST%2020%20H%20%28View%20Full%20Event%20Description%20Here%3A%20https%3A%2F%2Fcapecodcannabis.com%2Fevent%2Fhellavated-baja-blastoff-pop-up%2F%29"
+      },
+      {
+       "label": "Outlook Live",
+       "href": "https://outlook.live.com/owa/?path=/calendar/action/compose&rrv=addevent&startdt=2026-06-27T12%3A00%3A00-04%3A00&enddt=2026-06-27T14%3A00%3A00-04%3A00&location=Cape%20Cod%20Cannabis,%201446%20US-6,%20Wellfleet,%20MA,%2002667,%20United%20States&subject=Hellavated%20Baja%20Blastoff%20Pop-Up&body=Learn%20more%20about%20the%20Hellavated%20brand%20that%20offers%20great%20products%2C%20such%20as%20their%20Vape%20Cartridges%2C%20Infused%20Pre-Rolls%2C%20and%20more%21Kick%20it%20into%20HIGH%20gear.%20Juicy%20Stickz%20combines%20whole%20bud%20flower%20with%20our%20proprietary%20infusion%20of%20melted%20diamonds%2C%20botanical%20terpenes%2C%20and%20kief%20to%20create%20a%20potent%20flavor%20explosion%2C%20packaged%20expertly%20in%20a%200.75g%20pre-roll.%20You%20can%20expect%20a%20smooth%2C%20tasty%20burn%20all%20the%20way%20to%20the%20end%20that%20delivers%20on%20potency%20and%20is%20packed%20with%20flavor.%20Available%20in%20singles%20or%205-packs.%26nbsp%3BVapes%20will%20never%20be%20the%20same.%20Hellavated%20carts%20combine%20the%20unmatched%20potency%20of%20distillate%20with%20our%20unique%20hella-tasty%20natural%20terpene%20blends%20to%20deliver%20an%20out-of-this-world%20experience%20that%20is%20sure%20to%20make%20your%20mouth%20water.%20You%20can%20expect%20maximum%20flavor%20and%20a%20smooth%20and%20easy%20vaping%20experience%20no%20matter%20which%20Hellavated%20vape%20you%20pick%20for%20the%20day%E2%80%99s%20adventures.%26nbsp%3BBe%20one%20of%20the%20FIRST%2020%20H%20%28View%20Full%20Event%20Description%20Here%3A%20https%3A%2F%2Fcapecodcannabis.com%2Fevent%2Fhellavated-baja-blastoff-pop-up%2F%29"
+      }
+     ],
+     "ariaLabels": [
+      "View links to add events to your calendar"
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "navigation",
+     "text": "Boards in the Stores 2026 Online Auction\nGood Feels - Good Vibes Pop-Up",
+     "links": [
+      {
+       "label": "Boards in the Stores 2026 Online Auction",
+       "href": "/event/boards-in-the-stores-2026/"
+      },
+      {
+       "label": "Good Feels - Good Vibes Pop-Up",
+       "href": "/event/good-feels-good-vibes-pop-up/"
+      }
+     ],
+     "ariaLabels": [
+      "Events"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "a7bb484",
+   "doc": "tec_event_single_dynamic#92071",
+   "hiddenAll": true,
+   "dev": [],
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/b74b6f8a-hellavated-baja-blastoff_200px.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/04/hellavated-baja-blastoff_200px.png?lossy=2&strip=0&webp=1",
+     "alt": "Hellavated brand and NEW Limited-time Drop Flavor - Baja Blastoff at Cape Cod Cannabis in Wellfleet.",
+     "w": 200,
+     "h": 238,
+     "kind": "event-image",
+     "dev": [],
+     "hiddenAll": true
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "c7b579f",
+   "doc": "tec_event_single_dynamic#92071",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/c0c34846-CCC_Logo_650px-geo-tag-r9v1ohpw5zerbd7bkhgpgccbma2ezjddi6xfhghm0u.jpg",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/elementor/thumbs/CCC_Logo_650px-geo-tag-r9v1ohpw5zerbd7bkhgpgccbma2ezjddi6xfhghm0u.jpg?lossy=2&strip=0&webp=1",
+     "alt": "Cape Cod Cannabis Recreational Dispensary near me in Wellfleet, MA ... it's worth the trip!",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary near me in Wellfleet, MA … it’s worth the trip!"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": null,
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong><em>Cape Cod Cannabis…always worth the trip!</em></strong></p>"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "event-field": 9,
+  "heading": 4,
+  "image": 3,
+  "rich": 5
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "tec-loading-spinner",
+    "text": "Loading Events",
+    "reason": "The Events Calendar AJAX loading spinner (plugin runtime UI, origin wp-content gif); declared in removals.json"
+   },
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [],
+  "aliasesResolved": [
+   {
+    "from": "https://capecodcannabis.com/events-calendar/",
+    "to": "/events-calendar/"
+   },
+   {
+    "from": "/brands/hellavated/",
+    "to": "/brands/hellavated/"
+   },
+   {
+    "from": "https://capecodcannabis.com/event/hellavated-baja-blastoff-pop-up/?ical=1",
+    "to": "/event/hellavated-baja-blastoff-pop-up/?ical=1"
+   },
+   {
+    "from": "https://capecodcannabis.com/event/boards-in-the-stores-2026/",
+    "to": "/event/boards-in-the-stores-2026/"
+   },
+   {
+    "from": "https://capecodcannabis.com/event/good-feels-good-vibes-pop-up/",
+    "to": "/event/good-feels-good-vibes-pop-up/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

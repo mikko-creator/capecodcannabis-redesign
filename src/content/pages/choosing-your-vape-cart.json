@@ -1,0 +1,897 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/choosing-your-vape-cart/",
+ "sourceUrl": "https://capecodcannabis.com/choosing-your-vape-cart/",
+ "requestedUrl": "https://capecodcannabis.com/choosing-your-vape-cart",
+ "slug": "choosing-your-vape-cart",
+ "kind": "blog-post",
+ "wpTemplate": "post",
+ "derived": false,
+ "rawFile": "audit/raw/choosing-your-vape-cart.html",
+ "rawSha256": "7656cce229d8c906db558eb0a78843cd0b96cf0786e1e54ea1a29048c62372bd",
+ "regionKind": "body-minus-chrome",
+ "title": "Choosing Your Vape Cart | Cape Cod Cannabis Dispensary",
+ "metaDescription": "Choosing Your Vape Cart | There are many vaporizer cartridges and all in one disposables out there at a vast amount of different price points, how can you tell which one is right for you? I like to shop by device, then by what's in the cartridges and finally by the cannabis strain. Vaporizers are a nice convenient and relatively discrete cannabis consumption option with many devices to choose from.",
+ "canonical": "https://capecodcannabis.com/choosing-your-vape-cart/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "Choosing Your Vape Cart | Cape Cod Cannabis Dispensary",
+  "description": "Choosing Your Vape Cart | There are many vaporizer cartridges and all in one disposables out there at a vast amount of different price points, how can you tell which one is right for you? I like to shop by device, then by what's in the cartridges and finally by the cannabis strain. Vaporizers are a nice convenient and relatively discrete cannabis consumption option with many devices to choose from.",
+  "url": "https://capecodcannabis.com/choosing-your-vape-cart/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2025-05-02T11:24:12-04:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2024/02/Carts-Variety-2c-Mitch-Blog-1366-x-768.jpeg",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/2024/02/Carts-Variety-2c-Mitch-Blog-1366-x-768.jpeg",
+  "image:width": "1366",
+  "image:height": "768",
+  "image:alt": "Choosing your Vape Cart",
+  "image:type": "image/jpeg"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438",
+  "tag": [
+   "cape cod cannabis",
+   "how to purchase vape cartridges",
+   "how to purchase vape carts",
+   "mitch arruda",
+   "vape cartridges",
+   "vape carts"
+  ],
+  "section": "Cannabis 101",
+  "published_time": "2024-02-12T16:26:46-05:00",
+  "modified_time": "2025-05-02T11:24:12-04:00"
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "Choosing Your Vape Cart | Cape Cod Cannabis Dispensary",
+  "description": "Choosing Your Vape Cart | There are many vaporizer cartridges and all in one disposables out there at a vast amount of different price points, how can you tell which one is right for you? I like to shop by device, then by what's in the cartridges and finally by the cannabis strain. Vaporizers are a nice convenient and relatively discrete cannabis consumption option with many devices to choose from.",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2024/02/Carts-Variety-2c-Mitch-Blog-1366-x-768.jpeg",
+  "label1": "Written by",
+  "data1": "rrh_clientadmin",
+  "label2": "Time to read",
+  "data2": "2 minutes"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Place",
+     "@id": "https://capecodcannabis.com/#place",
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.916265712481554",
+      "longitude": "-69.98840341462632"
+     },
+     "hasMap": "https://www.google.com/maps/search/?api=1&amp;query=41.916265712481554,-69.98840341462632",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     }
+    },
+    {
+     "@type": [
+      "LocalBusiness",
+      "Organization"
+     ],
+     "@id": "https://capecodcannabis.com/#organization",
+     "name": "Cape Cod Cannabis in Wellfleet - Best dispensary on Cape Cod.",
+     "url": "https://capecodcannabis.com",
+     "sameAs": [
+      "https://www.facebook.com/profile.php?id=100077867156438",
+      "https://twitter.com/capecodcanna"
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "logo": {
+      "@type": "ImageObject",
+      "@id": "https://capecodcannabis.com/#logo",
+      "url": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "contentUrl": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "caption": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+      "inLanguage": "en-US",
+      "width": "700",
+      "height": "500"
+     },
+     "openingHours": [
+      "Mo,Tu,We,Th,Fr,Sa,Su 8:00 - 8:00"
+     ],
+     "description": "Welcome to Cape Cod Cannabis, recognized by many as the Best Dispensary on Cape Cod, located in Wellfleet. Conveniently situated in the Route 6 shopping plaza in South Wellfleet, we are a trusted destination for both locals and visitors traveling from Provincetown, Truro, Wellfleet, Eastham, Orleans, Brewster, Dennis, Harwich, Chatham, Yarmouth, Sandwich and across the Cape and beyond.\n\nCape Cod Cannabis, your go-to cannabis haven, offers a carefully curated selection of high quality products, including flower, pre-rolls, edibles, vaporizers, concentrates, tinctures, topicals, CBD, accessories, and more. With a focus on education, selection, and a welcoming experience, we make it easy to explore and find what works best for you whether you are visiting the Cape or live here year round.",
+     "location": {
+      "@id": "https://capecodcannabis.com/#place"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/#logo"
+     },
+     "telephone": "+1-774-383-3133"
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://capecodcannabis.com/#website",
+     "url": "https://capecodcannabis.com",
+     "name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+     "alternateName": "Cape Cod Cannabis | Wellfleet's Top Rated Cannabis Store on Cape Cod",
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "https://capecodcannabis.com/wp-content/uploads/2024/02/Carts-Variety-2c-Mitch-Blog-1366-x-768.jpeg",
+     "url": "https://capecodcannabis.com/wp-content/uploads/2024/02/Carts-Variety-2c-Mitch-Blog-1366-x-768.jpeg",
+     "width": "1366",
+     "height": "768",
+     "caption": "Choosing your Vape Cart",
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/choosing-your-vape-cart/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/category/cannabis-101/",
+        "name": "Cannabis 101"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "3",
+       "item": {
+        "@id": "https://capecodcannabis.com/choosing-your-vape-cart/",
+        "name": "Choosing Your Vape Cart"
+       }
+      }
+     ]
+    },
+    {
+     "@type": "WebPage",
+     "@id": "https://capecodcannabis.com/choosing-your-vape-cart/#webpage",
+     "url": "https://capecodcannabis.com/choosing-your-vape-cart/",
+     "name": "Choosing Your Vape Cart | Cape Cod Cannabis Dispensary",
+     "datePublished": "2024-02-12T16:26:46-05:00",
+     "dateModified": "2025-05-02T11:24:12-04:00",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2024/02/Carts-Variety-2c-Mitch-Blog-1366-x-768.jpeg"
+     },
+     "inLanguage": "en-US",
+     "breadcrumb": {
+      "@id": "https://capecodcannabis.com/choosing-your-vape-cart/#breadcrumb"
+     }
+    },
+    {
+     "@type": "Person",
+     "@id": "https://capecodcannabis.com/choosing-your-vape-cart/#author",
+     "name": "rrh_clientadmin",
+     "image": {
+      "@type": "ImageObject",
+      "@id": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "url": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "caption": "rrh_clientadmin",
+      "inLanguage": "en-US"
+     },
+     "worksFor": {
+      "@id": "https://capecodcannabis.com/#organization"
+     }
+    },
+    {
+     "@type": "Article",
+     "headline": "Choosing Your Vape Cart | Cape Cod Cannabis Dispensary | Cape Cod's Best Recreational Dispensary |",
+     "keywords": "Choosing Your Vape Cart,vape cartridge,vape,cape cod cannabis",
+     "datePublished": "2024-02-12T16:26:46-05:00",
+     "dateModified": "2025-05-02T11:24:12-04:00",
+     "articleSection": "Cannabis 101",
+     "author": {
+      "@id": "https://capecodcannabis.com/choosing-your-vape-cart/#author",
+      "name": "rrh_clientadmin"
+     },
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "description": "Choosing Your Vape Cart | There are many vaporizer cartridges and all in one disposables out there at a vast amount of different price points, how can you tell which one is right for you? I like to shop by device, then by what&#039;s in the cartridges and finally by the cannabis strain. Vaporizers are a nice convenient and relatively discrete cannabis consumption option with many devices to choose from.",
+     "name": "Choosing Your Vape Cart | Cape Cod Cannabis Dispensary | Cape Cod's Best Recreational Dispensary |",
+     "@id": "https://capecodcannabis.com/choosing-your-vape-cart/#richSnippet",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/choosing-your-vape-cart/#webpage"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2024/02/Carts-Variety-2c-Mitch-Blog-1366-x-768.jpeg"
+     },
+     "inLanguage": "en-US",
+     "mainEntityOfPage": {
+      "@id": "https://capecodcannabis.com/choosing-your-vape-cart/#webpage"
+     }
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "h1": "Choosing Your Vape Cart",
+ "h1Source": {
+  "count": 1,
+  "visible": 1,
+  "hidden": 0
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Cannabis 101",
+   "href": "/category/cannabis-101/"
+  },
+  {
+   "label": "Choosing Your Vape Cart",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "visible",
+ "breadcrumbsSeparator": " / ",
+ "breadcrumbsLabel": "breadcrumbs",
+ "breadcrumbsInRegion": true,
+ "section": null,
+ "sections": [
+  {
+   "n": 0,
+   "id": "3f1093a4",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "Choosing Your Vape Cart"
+    },
+    {
+     "t": "meta",
+     "items": [
+      {
+       "text": "February 12, 2024",
+       "href": "/2024/02/12/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "1be748f",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Choosing Your Vape Cart"
+    },
+    {
+     "t": "rich",
+     "html": "<p>There are many <a href=\"/categories/vaporizers/\">vaporizer cartridges</a> and all in one <a href=\"/categories/vaporizers/disposables/\">disposables</a> out there at a vast amount of different price points, how can you tell which one is right for you? I like to shop by device, then by what’s in the cartridges and finally by the <a href=\"/strains/\">cannabis strain</a>. Vaporizers are a nice convenient and relatively discrete cannabis consumption option with many devices to choose from.</p><p>In general there are two types of <a href=\"/categories/concentrates/\">concentrate</a> vaporizers that come in the “pen” format: disposables and cartridges. Disposable vaporizers are an all in one device that includes both the concentrate and the battery that can be disposed of once you have finished the contents. Cartridges are similar to disposables but they do not include the battery which is needed to consume the oil inside the cartridge. Batteries (also called <a href=\"https://www.thekindpen.com/product-category/510-thread-battery-vape-pens/\" target=\"_blank\" rel=\"noopener\"><b>cart vaporizers</b></a>) come in all shapes and sizes which will work with almost every cartridge on the market using the “510” threading which refers to the size of the joint on the cartridge. Reusable batteries tend to give you more options and over time are more cost effective than disposables but have a larger upfront price tag. If you are looking to get into vaping but don’t know if you’ll stick with it, a disposable is a great option; however, if you are looking for a long term device with better hardware, a battery and cartridge is the way to go. Once you have decided on the hardware, the next step is to look into which type of concentrate is best for you.</p><p>There are three categories of concentrate that are most common in vaporizers: <a href=\"/?s=hash+rosin\">hash rosin</a>, <a href=\"/categories/concentrates/live-resin/\">resin</a> and distillate. Live hash rosin is the cleanest and least processed of the concentrates and is generally seen as the “healthiest” way to vape. Only heat and pressure are used in this process and the high tends to have more of an entourage effect and feel “fuller” when compared to that of distillate. Resin is similar to rosin in the fact that it has a decent cannabinoid content and leads to a more well rounded high than distillate; however, resin is heavily processed using propane and butane. The <strong><a href=\"/terpene-cannabinoid-guide/\">terpenes</a></strong> are preserved well when it comes to making resin and most companies don’t need to add in any outside flavor. Distillate is the most processed of the concentrates using either Co2 or ethanol in its creation. The distillation process leaves close to pure THC without any other compound, this is then put into the cartridge with added flavors derived from botanicals or cannabis. If you are looking for a nice well rounded high, resin or rosin is the way to go. If you are looking to not break the bank but still want something to puff on, distillate is a solid option. If you are worried at all about discretion, botanical terpene carts don’t smell as much as resin or rosin carts and come in fun flavors like mango or candy. Once you have decided on the hardware and concentrate type, have a chat with your product specialist and they will help you find the strain that best suits your needs.</p><p>Vaporizers are a fun and convenient way to consume your cannabis, start off small and work your way into the wonderful world of concentrates!</p><p><em>– Mitch Arruda – Cape Cod Cannabis Product Specialist</em></p>"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "329af6c",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "postnav",
+     "prev": {
+      "srLabel": "Prev",
+      "title": "Dry Herb – Why make the switch?",
+      "href": "/dry-herb-why-make-the-switch/"
+     },
+     "next": {
+      "title": "High Anxiety",
+      "srLabel": "Next",
+      "href": "/high-anxiety/"
+     },
+     "ariaLabels": [
+      "Post Navigation"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": "9ba89d6",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "comments",
+     "note": "WordPress comment form; no comment backend in a static rebuild"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "comments": 1,
+  "heading": 2,
+  "meta": 1,
+  "postnav": 1,
+  "rich": 1
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [],
+  "aliasesResolved": [
+   {
+    "from": "https://capecodcannabis.com/2024/02/12/",
+    "to": "/2024/02/12/"
+   },
+   {
+    "from": "https://capecodcannabis.com/categories/vaporizers/",
+    "to": "/categories/vaporizers/"
+   },
+   {
+    "from": "https://capecodcannabis.com/categories/vaporizers/disposables/",
+    "to": "/categories/vaporizers/disposables/"
+   },
+   {
+    "from": "/strains",
+    "to": "/strains/"
+   },
+   {
+    "from": "https://capecodcannabis.com/categories/concentrates/",
+    "to": "/categories/concentrates/"
+   },
+   {
+    "from": "/categories/concentrates/live-resin/",
+    "to": "/categories/concentrates/live-resin/"
+   },
+   {
+    "from": "https://capecodcannabis.com/terpene-cannabinoid-guide/",
+    "to": "/terpene-cannabinoid-guide/"
+   },
+   {
+    "from": "https://capecodcannabis.com/dry-herb-why-make-the-switch/",
+    "to": "/dry-herb-why-make-the-switch/"
+   },
+   {
+    "from": "https://capecodcannabis.com/high-anxiety/",
+    "to": "/high-anxiety/"
+   },
+   {
+    "from": "https://capecodcannabis.com/category/cannabis-101/",
+    "to": "/category/cannabis-101/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

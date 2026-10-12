@@ -1,0 +1,798 @@
+{
+ "schema": "capecodcannabis-reforge/brand@1",
+ "generated": "2026-10-12T01:45:00Z",
+ "role": "brand (UNDERSTAND phase)",
+ "method": "No live computed-style capture exists (origin firewall lockout from 2026-10-12T00:44:20Z). Evidence: audit/prelock/kit.css (LiteSpeed combined CSS with the Elementor kit .elementor-kit-8), audit/prelock/home.html, audit/raw/*.html (743 files), assets/source (sr-assets download, 2,051 files), audit/image-inventory.json, plus 8 requests to the CDN b2702268.assetcdn.net (listed in logo.cdnRequests). Pixel colours come from decoding the image files (tmp/understand/brand/probe.mjs, 5-bit buckets, mean hex per bucket). Contrast ratios are WCAG 2.x relative luminance computed in Node. Nothing was requested from capecodcannabis.com.",
+ "logo": {
+  "description": "A New England town-line sign: a white panel with a black keyline border and a double-arched top edge (two humps meeting in a centre dip, like an open book). Inside: CAPE COD in heavy, wide, geometric uppercase sans set on an upward arc; a solid blue whale fluke (tail) in the centre; EST. to the left and 2018 to the right in smaller condensed uppercase sans; CANNABIS in the same heavy uppercase sans, set straight, below the tail. Lettering and border are black (#000000 in the PNGs, about #241F21 in the lossy WebPs); panel is white; the tail is the only colour, #24A3DC. Some versions add a soft grey drop shadow outside the panel. The favicon is the whale tail alone on transparency. The lettering typeface is outlined artwork and is not identified (UNVERIFIED); it is not Roboto.",
+  "colours": [
+   {
+    "hex": "#FFFFFF",
+    "part": "sign panel",
+    "shareOfOpaquePixels": 0.7613,
+    "evidence": "probe.mjs on audit/prelock/logo-agegate.png (lossless origin PNG)"
+   },
+   {
+    "hex": "#000000",
+    "part": "lettering and keyline border",
+    "shareOfOpaquePixels": 0.113,
+    "evidence": "same file; lossy WebP versions decode to #232122/#241F21"
+   },
+   {
+    "hex": "#24A3DC",
+    "part": "whale tail",
+    "shareOfOpaquePixels": 0.0367,
+    "evidence": "same file; favicon tail decodes to #25A2DD. Distinct from the kit primary #02A7EB"
+   }
+  ],
+  "whaleTailMeaning": "The Wellfleet blog post says the town's name is believed to come from \"whale fleet\" (audit/raw/exploring-wellfleet-ma-cape-cod.html). The tail also appears as the header/footer pattern, on the storefront window decals and on the parking cones (assets/source/11d6f8ea-CCC-Storefront.webp).",
+  "variants": [
+   {
+    "use": "header (theme-site-logo widget, template 18695)",
+    "src": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/elementor/thumbs/CCC-Logo-pr1hbosryw7qhdibj7baymy1z2tyhsipa5ll50lqgg.webp?lossy=2&strip=0&webp=1",
+    "local": "assets/source/84e934d9-CCC-Logo-pr1hbosryw7qhdibj7baymy1z2tyhsipa5ll50lqgg.webp",
+    "intrinsic": "700x568",
+    "format": "WebP lossy (VP8X+ALPH+VP8)",
+    "alpha": true,
+    "transparentPct": 4.1,
+    "bytes": 17160,
+    "pages": 744,
+    "alt": "Dispensary near me | Cape Cod Cannabis Dispensary in Wellfleet, MA",
+    "evidence": "audit/prelock/home.html: data-widget_type=\"theme-site-logo.default\" immediately before the img (offset 85676)"
+   },
+   {
+    "use": "footer (image widget, template 1996, wp-image-14342)",
+    "src": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2021/08/CCC-Logo-Footer.webp?lossy=2&strip=0&webp=1",
+    "local": "assets/source/e4ae712e-CCC-Logo-Footer.webp",
+    "intrinsic": "700x568",
+    "format": "WebP lossy (VP8X+ICCP+ALPH+VP8)",
+    "alpha": true,
+    "transparentPct": 4.2,
+    "bytes": 32848,
+    "pages": 744,
+    "srcset": "300x243, 160x130, 480x389, 640x519 also downloaded",
+    "alt": "Dispensary near me | Cape Cod Cannabis Dispensary in Wellfleet, MA"
+   },
+   {
+    "use": "age gate (.age-gate-heading-title-logo)",
+    "src": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/12/CCC_Logo_320px-2.png?lossy=2&strip=0&webp=1",
+    "local": "assets/source/1c48453a-CCC_Logo_320px-2.png (CDN copy: palette PNG + tRNS, 6,461 bytes); audit/prelock/logo-agegate.png (origin original: RGBA, 30,436 bytes)",
+    "intrinsic": "370x306",
+    "alpha": true,
+    "transparentPct": 29.1,
+    "notes": "Has drop shadow. Site CSS: .age-gate-heading img {max-width:320px; aspect-ratio:700/500; object-fit:cover}",
+    "alt": "Cape Cod Cannabis in Wellfleet, MA...Always worth the trip!"
+   },
+   {
+    "use": "favicon 32 (link rel=icon sizes=32x32)",
+    "src": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2022/01/cropped-CCC-Favicon-1-32x32.webp?lossy=2&strip=0&webp=1",
+    "local": "assets/source/ef3d170b-cropped-CCC-Favicon-1-32x32.webp",
+    "intrinsic": "32x32",
+    "alpha": true,
+    "content": "whale tail only"
+   },
+   {
+    "use": "favicon 192 (link rel=icon sizes=192x192)",
+    "src": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2022/01/cropped-CCC-Favicon-1-192x192.webp?lossy=2&strip=0&webp=1",
+    "local": "assets/source/d0c3b5e9-cropped-CCC-Favicon-1-192x192.webp",
+    "intrinsic": "192x192",
+    "alpha": true,
+    "content": "whale tail only"
+   },
+   {
+    "use": "apple-touch-icon",
+    "src": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2022/01/cropped-CCC-Favicon-1-180x180.webp?lossy=2&strip=0&webp=1",
+    "local": "assets/source/42e4021b-cropped-CCC-Favicon-1-180x180.webp",
+    "intrinsic": "180x180",
+    "alpha": true,
+    "transparentPct": 37.3,
+    "content": "whale tail only, mean #25A2DD"
+   },
+   {
+    "use": "msapplication-TileImage",
+    "src": "https://capecodcannabis.com/wp-content/uploads/2022/01/cropped-CCC-Favicon-1-270x270.webp",
+    "local": null,
+    "intrinsic": "270x270 (from file name; UNVERIFIED)",
+    "notes": "CDN answered 302 to the origin; not followed, not downloaded"
+   },
+   {
+    "use": "og:image and twitter:image (home)",
+    "src": "https://capecodcannabis.com/wp-content/uploads/2025/09/Home-Featured-Image-1200-x-628-2_geo.png",
+    "local": "tmp/understand/brand/masters/og-home-1200x628.png (fetched from the CDN mirror, 200 image/png, 883,123 bytes)",
+    "intrinsic": "1200x628",
+    "alpha": "RGBA but fully opaque",
+    "content": "The sign logo centred over a Cape Cod beach photo: turquoise sea, blue sky with clouds, sand, dune grass in the foreground",
+    "alt": "Shop Cape Cod Cannabis Dispensary near me on Cape Cod in Wellfleet, MA"
+   },
+   {
+    "use": "schema.org Organization logo (JSON-LD @id https://capecodcannabis.com/#logo)",
+    "src": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+    "local": "tmp/understand/brand/masters/ccc-sign-700x500-schema-shadow.webp (CDN mirror, 200 image/webp, 20,164 bytes)",
+    "intrinsic": "700x500",
+    "format": "WebP lossy + alpha",
+    "alpha": true,
+    "transparentPct": 27.9,
+    "notes": "Drop-shadow version with padding",
+    "caption": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod"
+   },
+   {
+    "use": "in-content logo (4 pages)",
+    "src": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2024/04/CCC_Logo_650px.png?lossy=2&strip=0&webp=1",
+    "local": "assets/source/95c5c457-CCC_Logo_650px.png",
+    "intrinsic": "648x548",
+    "format": "PNG RGBA 8-bit",
+    "alpha": true,
+    "transparentPct": 21.4,
+    "bytes": 32618,
+    "notes": "Drop-shadow version. The unparameterised URL is not cached at the CDN (302 to origin)"
+   },
+   {
+    "use": "in-content logo (3 pages)",
+    "src": ".../2025/12/CCC_Logo_320px.png",
+    "local": "assets/source/572b659d-CCC_Logo_320px.png",
+    "intrinsic": "320x256",
+    "alpha": true
+   },
+   {
+    "use": "in-content logo (4 pages)",
+    "src": ".../2025/04/CCC_Logo_250px.png",
+    "local": "assets/source/80866f34-CCC_Logo_250px.png",
+    "intrinsic": "250x200",
+    "alpha": false,
+    "notes": "On a white background; not usable on colour"
+   },
+   {
+    "use": "in-content logo with geo-tag metadata (4 pages; a 300x275 Elementor thumb of it on 60 pages)",
+    "src": ".../2023/12/CCC_Logo_650px-geo-tag-1.jpg",
+    "local": "assets/source/1a7e34ec-CCC_Logo_650px-geo-tag-1.jpg",
+    "intrinsic": "648x548",
+    "format": "JPEG with 4 colour components, 603,200 bytes",
+    "alpha": false,
+    "notes": "Not a usable master"
+   },
+   {
+    "use": "Joint Commerce store photo (duplicate of the footer logo)",
+    "src": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+    "local": "assets/source/57c05750-5164-CCC-Logo-Footer.png",
+    "intrinsic": "700x568",
+    "notes": "Inventory marks it a duplicate of CCC-Logo-Footer.webp"
+   }
+  ],
+  "notBrand": [
+   {
+    "src": ".../2021/08/RRH-Logo-White.webp (733x150, white, on 744 pages)",
+    "what": "Previous agency's footer credit (Rank Really High). Remove in the rebuild (decontamination)."
+   }
+  ],
+  "masters": {
+   "primary": {
+    "file": "tmp/understand/brand/masters/ccc-sign-700x568-footer-noshadow.webp",
+    "decodedPng": "tmp/understand/brand/masters/ccc-sign-700x568-footer-noshadow.decoded.png",
+    "why": "Largest sign rendering available (panel fills about 660 of 700 px), transparent outside the arched top, no baked shadow, so CSS can supply depth. Lossy WebP."
+   },
+   "withShadow": {
+    "file": "tmp/understand/brand/masters/ccc-sign-648x548-shadow.png",
+    "why": "Largest PNG with real RGBA; shadow baked in."
+   },
+   "losslessSmall": {
+    "file": "tmp/understand/brand/masters/ccc-sign-370x306-shadow-agegate-origin.png",
+    "why": "The only file fetched from the origin itself (before the lockout); lossless RGBA."
+   },
+   "icon": {
+    "file": "tmp/understand/brand/masters/ccc-whale-tail-icon-192.webp",
+    "why": "Largest whale-tail-only icon on disk."
+   },
+   "pattern": {
+    "file": "tmp/understand/brand/masters/ccc-pattern-whale-tails-179x114.webp",
+    "why": "Header/footer whale-tail tile, white on transparent."
+   },
+   "gap": "No vector (SVG/AI/EPS) logo exists in the evidence: 0 SVG images in audit/image-inventory.json. Ask the client for a vector master; until then the 700x568 WebP caps the sign at about 350 CSS px wide for 2x sharpness."
+  },
+  "cdnRequests": [
+   {
+    "n": 1,
+    "utc": "01:10:13",
+    "url": "/wp-content/uploads/2022/01/CCC-Logo.webp",
+    "result": "302 text/html, 0 bytes (location not recorded)"
+   },
+   {
+    "n": 2,
+    "utc": "01:10:29",
+    "url": "same, headers only",
+    "result": "200 OK, Server: BunnyCDN-PH1-1245 (body discarded)"
+   },
+   {
+    "n": 3,
+    "utc": "01:10:45",
+    "url": "/wp-content/uploads/2022/01/CCC-Logo.webp",
+    "result": "200 image/webp, 20,164 bytes, saved"
+   },
+   {
+    "n": 4,
+    "utc": "01:10:48",
+    "url": "/wp-content/uploads/2024/04/CCC_Logo_650px.png",
+    "result": "302 to https://capecodcannabis.com/wp-content/uploads/2024/04/CCC_Logo_650px.png, not followed"
+   },
+   {
+    "n": 5,
+    "utc": "01:10:52",
+    "url": "/wp-content/uploads/2025/09/Home-Featured-Image-1200-x-628-2_geo.png",
+    "result": "200 image/png, 883,123 bytes, saved"
+   },
+   {
+    "n": 6,
+    "utc": "01:10:56",
+    "url": "/wp-content/uploads/2022/01/cropped-CCC-Favicon-1-270x270.webp",
+    "result": "302 to the origin, not followed"
+   },
+   {
+    "n": 7,
+    "utc": "01:16:02",
+    "url": "/wp-content/uploads/2022/09/CCC_Pattern.webp?lossy=2&strip=0&webp=1",
+    "result": "200 image/webp, 818 bytes, saved"
+   },
+   {
+    "n": 8,
+    "utc": "01:16:05",
+    "url": "/wp-content/uploads/2021/12/CCC_Pattern.webp?lossy=2&strip=0&webp=1",
+    "result": "200 image/webp, 818 bytes (identical size to 7)"
+   }
+  ],
+  "cdnFinding": "The CDN (BunnyCDN) 302-redirects objects it has not cached to the origin, so unparameterised 'original' URLs cannot be fetched without touching the origin. Only URLs referenced by the live HTML/CSS were requested, so no 404 was relayed to the origin."
+ },
+ "palette": [
+  {
+   "hex": "#02A7EB",
+   "token": "--e-global-color-primary",
+   "role": "brand primary: buttons, links, h6, header search button, Specials menu item, Shop Bundles badge, event titles",
+   "usage": "30 var() references in kit.css (color 10, background-color 8, border-color 8)",
+   "brandPrimary": true
+  },
+  {
+   "hex": "#015375",
+   "token": "--e-global-color-accent",
+   "role": "brand deep blue: button and link hover, age-gate button hover",
+   "usage": "7 var() references in kit.css",
+   "brandPrimary": true
+  },
+  {
+   "hex": "#000000",
+   "token": "--e-global-color-text (and bb98ae3)",
+   "role": "text: h1-h5, labels, body; logo lettering",
+   "usage": "34 + 9 var() references; 40 hard-coded in kit.css; 3,290 inline style colours in content",
+   "brandPrimary": true
+  },
+  {
+   "hex": "#FFFFFF",
+   "token": "--e-global-color-secondary (and be74b8f)",
+   "role": "background; button labels; logo panel",
+   "usage": "17 + 7 var() references; 142 hard-coded in kit.css",
+   "brandPrimary": true
+  },
+  {
+   "hex": "#C0E9FA",
+   "token": "--e-global-color-5d35960",
+   "role": "light sky blue: header background under the whale-tail pattern (container e653a2d), a footer block, a home border",
+   "usage": "5 var() references",
+   "brandPrimary": false
+  },
+  {
+   "hex": "#F4F4F4",
+   "token": "--e-global-color-d12f9b9",
+   "role": "light grey surface: footer and home card backgrounds",
+   "usage": "16 var() references; 23 inline",
+   "brandPrimary": false
+  },
+  {
+   "hex": "#636363",
+   "token": "--e-global-color-5e25e5b",
+   "role": "muted text: footer links and phone (.footer-link, .footer-phone)",
+   "usage": "10 var() references",
+   "brandPrimary": false
+  },
+  {
+   "hex": "#00DB4AA8",
+   "token": "--e-global-color-2730197",
+   "role": "green at 66% alpha (composites to #57E788 on white)",
+   "usage": "defined only: 0 var() references in kit.css rules, 0 in raw pages",
+   "brandPrimary": false
+  },
+  {
+   "hex": "#24A3DC",
+   "token": null,
+   "role": "logo whale-tail blue (artwork only)",
+   "usage": "logo and favicon pixels",
+   "brandPrimary": true
+  },
+  {
+   "hex": "#07A80F",
+   "token": null,
+   "role": "Staff Pick badge background (white text)",
+   "usage": "site custom CSS (style#wp-custom-css)",
+   "brandPrimary": false
+  },
+  {
+   "hex": "#B8E6F9",
+   "token": null,
+   "role": ".featured-brand / .featured-brand2 chip background",
+   "usage": "site custom CSS",
+   "brandPrimary": false
+  },
+  {
+   "hex": "#00CCFF",
+   "token": null,
+   "role": "editor highlight colour in content (award line, stats)",
+   "usage": "101 inline style occurrences, e.g. the 2026 Cape Cod Choice Awards line",
+   "brandPrimary": false
+  },
+  {
+   "hex": "#FF0000",
+   "token": null,
+   "role": "editor red for compliance and disclaimer notes",
+   "usage": "129 inline style occurrences, e.g. 'Per MA Cannabis Control Commission regulations,'",
+   "brandPrimary": false
+  },
+  {
+   "hex": "#111111 / #1D1D1D / #7BD389",
+   "token": null,
+   "role": "password-protected page form (dark card, green submit)",
+   "usage": "site custom CSS",
+   "brandPrimary": false
+  },
+  {
+   "hex": "rgba(0,0,0,.5)",
+   "token": null,
+   "role": "card glow shadow: box-shadow 0 0 10px 0",
+   "usage": "21 rules in the home template (117740)",
+   "brandPrimary": false
+  }
+ ],
+ "contrast": [
+  {
+   "fg": "#000000",
+   "bg": "#FFFFFF",
+   "ratio": 21,
+   "grade": "AAA",
+   "use": "body and heading text"
+  },
+  {
+   "fg": "#FFFFFF",
+   "bg": "#02A7EB",
+   "ratio": 2.72,
+   "grade": "FAIL",
+   "use": "live primary button label (16px bold is not large text)"
+  },
+  {
+   "fg": "#02A7EB",
+   "bg": "#FFFFFF",
+   "ratio": 2.72,
+   "grade": "FAIL",
+   "use": "live link colour and h6"
+  },
+  {
+   "fg": "#FFFFFF",
+   "bg": "#015375",
+   "ratio": 8.42,
+   "grade": "AAA",
+   "use": "button hover"
+  },
+  {
+   "fg": "#636363",
+   "bg": "#F4F4F4",
+   "ratio": 5.46,
+   "grade": "AA",
+   "use": "footer links"
+  },
+  {
+   "fg": "#000000",
+   "bg": "#C0E9FA",
+   "ratio": 16.28,
+   "grade": "AAA",
+   "use": "header text on sky blue"
+  },
+  {
+   "fg": "#02A7EB",
+   "bg": "#C0E9FA",
+   "ratio": 2.11,
+   "grade": "FAIL",
+   "use": "primary on sky blue"
+  },
+  {
+   "fg": "#015375",
+   "bg": "#C0E9FA",
+   "ratio": 6.52,
+   "grade": "AA",
+   "use": "accent on sky blue"
+  },
+  {
+   "fg": "#FFFFFF",
+   "bg": "#07A80F",
+   "ratio": 3.17,
+   "grade": "large/UI only",
+   "use": "Staff Pick badge"
+  },
+  {
+   "fg": "#000000",
+   "bg": "#02A7EB",
+   "ratio": 7.73,
+   "grade": "AAA",
+   "use": "black label on primary (alternative)"
+  },
+  {
+   "fg": "#FFFFFF",
+   "bg": "#017BAE",
+   "ratio": 4.72,
+   "grade": "AA",
+   "use": "PROPOSED darker primary for filled buttons (same hue as #02A7EB; not a source colour)"
+  },
+  {
+   "fg": "#00CCFF",
+   "bg": "#FFFFFF",
+   "ratio": 1.9,
+   "grade": "FAIL",
+   "use": "content highlight colour"
+  },
+  {
+   "fg": "#FF0000",
+   "bg": "#FFFFFF",
+   "ratio": 4,
+   "grade": "large only",
+   "use": "content compliance notes"
+  },
+  {
+   "fg": "#24A3DC",
+   "bg": "#FFFFFF",
+   "ratio": 2.86,
+   "grade": "below 3:1",
+   "use": "whale tail as a graphic on white"
+  }
+ ],
+ "fonts": [
+  {
+   "family": "Roboto",
+   "role": "everything: the Elementor kit defines 24 typography sets; 23 declare Roboto and a8d387b (18px, 600, normal) declares no family and inherits Roboto (fixer re-count of the .elementor-kit-8 block in audit/prelock/kit.css)",
+   "hosting": "self-hosted by Elementor's local Google Fonts copy: /wp-content/uploads/elementor/google-fonts/fonts/roboto-*.woff2 (162 @font-face rules in kit.css (18 weight/style combinations x 9 unicode subsets): weights 100-900, normal and italic, font-stretch:100%, font-display:swap). None were downloaded (fonts 0/0 in audit/font-inventory.json).",
+   "licence": "SIL Open Font License 1.1 on Google Fonts (UNVERIFIED this session; older releases were Apache 2.0)",
+   "weightsUsed": [
+    100,
+    400,
+    600,
+    700
+   ],
+   "sizes": {
+    "h1": "3rem / 700 / line-height 1.2em (2.625rem at max-width 1025px, 2.25rem at max-width 767px)",
+    "h2": "2.5rem / 700 / 1.2em (2.25rem, 2rem)",
+    "h3": "2rem / 700 / 1.2em (1.875rem, 1.5rem)",
+    "h4": "1.75rem / 700 / 1.2em (1.625rem, 1.5rem); also used for label",
+    "h5": "1.5rem / 700 / 1.2em (1.375rem, 1.3rem)",
+    "h6": "colour primary only; size not set by the kit",
+    "body": "1rem / 400 / 1.5em",
+    "button": "1rem / 700 / 1.5em (kit 'primary' set)",
+    "link": "1rem / 700 / 1.5em, colour primary, hover accent",
+    "small": "0.9rem and 0.8rem sets in 700, 100, 400 and 400 italic",
+    "alternateHeadingSet": "a441c90..fe138e8: same sizes as h1-h5 at weight 400"
+   },
+   "letterSpacing": "none set in any kit typography set",
+   "textTransform": "none in every kit set; uppercase appears only where the copy itself is typed in capitals (e.g. JOIN OUR NEWSLETTER)",
+   "weightsNote": "600 only in kit set a8d387b (18px, no family declared); all other sets use 100, 400 or 700"
+  },
+  {
+   "family": "Playball",
+   "role": "script accent, used once: home element d3e845d, the line 'Thank you Cape Cod!' above the Google reviews carousel, font-style italic",
+   "hosting": "NOT LOADED: no Playball @font-face in kit.css and no Playball reference in any of the 743 raw pages (grep count 0), so the live line most likely renders in the fallback sans-serif italic (UNVERIFIED: no live render)",
+   "licence": "SIL Open Font License 1.1 on Google Fonts (UNVERIFIED this session)"
+  },
+  {
+   "family": "plugin noise (not brand)",
+   "role": "eicons, swiper-icons, Open Sans (1 rule), The Events Calendar's --tec-font-family-sans-serif, WordPress core system stack",
+   "hosting": "plugin CSS",
+   "licence": "n/a"
+  }
+ ],
+ "components": {
+  "buttons": {
+   "shape": "pill: border-radius 300px; 1px solid border in the fill colour; padding 16px 32px",
+   "rest": "background #02A7EB, label #FFFFFF, Roboto 700 1rem/1.5em",
+   "hover": "background and border #015375, label #FFFFFF, radius 32px (still reads as a pill at this height)",
+   "ageGate": "Yes/No buttons get primary borders and accent hover via site CSS",
+   "evidence": "kit.css .elementor-kit-8 button,... and :hover rules"
+  },
+  "cards": {
+   "shape": "border-radius 15px (22 rules in the home template)",
+   "shadow": "box-shadow 0 0 10px 0 rgb(0 0 0 / .5) (21 rules)",
+   "surfaces": "#FFFFFF or #F4F4F4",
+   "header": "header shadows 0 8px 8px rgba(0,0,0,.25) and 0 8px 16px rgba(0,0,0,.25)"
+  },
+  "badges": [
+   {
+    "name": "Staff Pick",
+    "style": "diagonal corner ribbon: rotate(45deg) translate(44px,-11px), padding 10px 50px, #07A80F with white 600 14px text; flat badge on product detail"
+   },
+   {
+    "name": "Shop Bundles / Shop Offer / Shop Offers / Bundles",
+    "style": "CSS ::before labels drawn over the Joint special-offer badge and buttons: primary background, radius 8px, Roboto 15px"
+   },
+   {
+    "name": "featured-brand chip",
+    "style": "#B8E6F9 background, bold, radius 5px (featured-brand2: radius 0)"
+   }
+  ],
+  "compliance": "Site CSS hides original prices, strike-through 'before' prices and the Joint special-offer badge under the comment 'Hide Specials MA Compliance', replacing 'Specials' wording with 'Bundles'/'Offers'. The redesign must not reintroduce was/now pricing.",
+  "ageGate": {
+   "box": ".age-gate: 1px solid #CCCCCC border, radius 8px, padding 32px",
+   "logo": "max-width 320px",
+   "copy": [
+    "Welcome!",
+    "Are you over 21 years of age?",
+    "Yes",
+    "No",
+    "*Must be 21+ with a VALID ID."
+   ],
+   "logoAlt": "Cape Cod Cannabis in Wellfleet, MA...Always worth the trip!",
+   "pages": "743 of 743 raw pages carry the age-gate markup (grep age-gate-headline)"
+  },
+  "icons": {
+   "system": "Font Awesome 5 inline SVGs via Elementor (e-font-icon-svg) plus eicons; no custom icon set",
+   "homeCounts": {
+    "fas-angle-up": 17,
+    "fas-angle-down": 17,
+    "fas-caret-down": 13,
+    "fas-long-arrow-alt-right": 12,
+    "fas-plus": 3,
+    "fas-minus": 3,
+    "eicon-menu-bar": 3,
+    "eicon-close": 3,
+    "fas-search": 2,
+    "eicon-chevron-left/right": 2,
+    "fab-facebook/linkedin/twitter/instagram": 1
+   }
+  },
+  "emojiAsIcons": {
+   "count": "42 of 9,950 headings across 743 raw pages contain emoji",
+   "byEmoji": {
+    "⭐": 40,
+    "🅿": 5,
+    "💵": 5,
+    "🛒": 5,
+    "ℹ": 5,
+    "🔥": 4
+   },
+   "homeExamples": [
+    "🅿️ Easy Parking",
+    "💵 Debit & Cash Accepted",
+    "🛒 Order Online & Pickup",
+    "ℹ️ Expert Cannabis Guidance",
+    "900+ ⭐⭐⭐⭐⭐ Google Reviews",
+    "4.9 ⭐ Rating"
+   ],
+   "elsewhere": "menu item '⭐ Daily Offers ⭐'; ✅ list markers in the loyalty post; 🔥 in bundle descriptions"
+  },
+  "pattern": "Whale-tail tile (179x114, white on transparent) over #C0E9FA in the header container e653a2d (Elementor motion-effects layer) and repeated in the footer",
+  "dividers": "One Elementor 'book' shape divider on the home page (shape_divider_bottom: book); its double hump echoes the sign's arched top",
+  "motionOnLiveSite": "None to speak of: in the home page data-settings there is one '_animation':'none', no hover-animation classes (elementor-animation-*), no sticky flag; the only motion is the Elementor motion-effects layer behind the header and footer patterns (its settings were not captured; UNVERIFIED) and the client-rendered carousels",
+  "photography": [
+   {
+    "file": "assets/source/11d6f8ea-CCC-Storefront.webp",
+    "what": "Real storefront: grey cedar-shingle Cape-style building with dormers, green roof, US flag and OPEN flag, dark window panels with the sign logo and big blue whale tails, blue-and-white parking cones with whale tails, next to the South Wellfleet post office. Bright clear daylight."
+   },
+   {
+    "file": "assets/source/13096766-CCC-Beach-Team.webp",
+    "what": "Despite the file name, a soft-focus sunset photo of a white lighthouse on rocks with golden grasses; warm peach sky. Location not verifiable as Cape Cod."
+   },
+   {
+    "file": "assets/source/226fa9d9-Cape-Cod-Homepage-Background-2-2048x1073.png",
+    "what": "Stock-style macro of a flowering cannabis top lit pink/magenta on a cyan-to-magenta gradient (bucket colours #05CBE2 to #D174B5)."
+   },
+   {
+    "file": "tmp/understand/brand/masters/og-home-1200x628.png",
+    "what": "Sign over a beach: turquoise water (#0098D1, #027D9A), sky, sand, dune grass."
+   },
+   {
+    "file": "assets/source/11b4223f-Moonrock-Mondays-Hero-Banner-765-x-330.png",
+    "what": "Promo banners: dark navy ground, white heavy uppercase headline, light-blue pill with the price, partner logo plus the sign logo."
+   }
+  ]
+ },
+ "voice": {
+  "traits": [
+   "warm and welcoming, addressed to 'you'",
+   "proudly local: Wellfleet, Route 6, the Outer Cape, long lists of Cape towns",
+   "destination framing: a stop worth making on the way down the Cape",
+   "education-first and trust-led: honest, unhurried, responsible",
+   "light playfulness: one pun, exclamation marks and emoji in promos",
+   "compliance-aware: 21+, valid ID, MA regulations, no was/now pricing",
+   "SEO-heavy: 'dispensary near me' and town keywords in titles and headings"
+  ],
+  "phrases": [
+   "Always worth the trip! (all 743 files via the age gate: visible h3 line and logo alt; footer on 741 files, not /links/ or /free-bar-coasters/)",
+   "Experience the difference… (18 pages)",
+   "Shop Menu (742 pages)",
+   "Order Ahead (74 pages)",
+   "Click for directions (17 pages)",
+   "Outer Cape (51 pages)",
+   "budtender (41 pages)",
+   "residents and visitors",
+   "Wellfleet's first (cannabis) dispensary",
+   "Serving Cape Cod Since 2021",
+   "Est. 2018 (logo)",
+   "largest selection ... best prices on Cape Cod",
+   "Loyalty VIP",
+   "Mix & match",
+   "While supplies last.",
+   "Double up"
+  ],
+  "ctaVerbs": [
+   "Shop",
+   "Order",
+   "Join",
+   "Earn",
+   "Redeem",
+   "Visit",
+   "Discover",
+   "Learn",
+   "Click",
+   "Leave (a review)",
+   "Sign up",
+   "Grab",
+   "Stock up"
+  ],
+  "addressing": "Second person 'you'; customers are 'our amazing customers', 'Cape Cod residents and visitors', 'locals and visitors', 'VIP member'; first person plural 'we' for the store",
+  "wordsToAvoid": [
+   "was/now or strike-through pricing and the word 'Specials' in UI labels (the site relabels to Bundles/Offers under 'MA Compliance')",
+   "medical or cure claims in any new microcopy or alt text (RECOMMENDATION, not evidence)",
+   "anything aimed at under-21s: cartoon or candy styling, youthful models (RECOMMENDATION; PLAN.md imagery rules)",
+   "depicting consumption in generated imagery (PLAN.md)",
+   "the old agency name (Rank Really High) anywhere"
+  ],
+  "quotes": [
+   {
+    "text": "Always worth the trip!",
+    "page": "footer of every page (all 743 audit/raw/*.html files) and the age-gate logo alt text"
+   },
+   {
+    "text": "Welcome!",
+    "page": "age gate h2.age-gate-headline (audit/raw/index.html)"
+   },
+   {
+    "text": "*Must be 21+ with a VALID ID.",
+    "page": "age gate (audit/raw/index.html)"
+   },
+   {
+    "text": "Whether you’re exploring the Outer Cape or relaxing after a beach day, our friendly and knowledgeable team is here to help you find the perfect product for your needs. Cape Cod Cannabis in Wellfleet is…Always worth the trip!",
+    "page": "home (audit/raw/index.html)"
+   },
+   {
+    "text": "Choosing a cannabis dispensary is about more than finding the closest location. It’s about finding knowledgeable people, quality products, and a place you can trust.",
+    "page": "home and about (audit/raw/index.html, about-cape-cod-cannabis.html)"
+   },
+   {
+    "text": "Since 2021, we’ve built lasting relationships with thousands of customers by focusing on education before recommendations, honesty before sales, and exceptional service during every visit.",
+    "page": "home and about"
+   },
+   {
+    "text": "At Cape Cod Cannabis, trust is earned through consistency, transparency, and a genuine commitment to our customers.",
+    "page": "home and about"
+   },
+   {
+    "text": "To guide you through the process and consult you on your cannabis needs. No hassle and at your own pace.",
+    "page": "home, under 'ℹ️ Expert Cannabis Guidance'"
+   },
+   {
+    "text": "Join for FREE and earn redeemable VIP points at Cape Cod Cannabis toward Accessories, Apparel or CBD products. Sign-up in-store today!",
+    "page": "home"
+   },
+   {
+    "text": "Thank you Cape Cod!",
+    "page": "home h4 above the reviews carousel (the one Playball element)"
+   },
+   {
+    "text": "Cape Cod Cannabis in Wellfleet…Always worth the trip!",
+    "page": "about (audit/raw/about-cape-cod-cannabis.html)"
+   },
+   {
+    "text": "At Cape Cod Cannabis, Wellfleet’s first dispensary, our mission is to cultivate a vibrant and sustainable cannabis community, rooted in the spirit of the Cape […]",
+    "page": "about"
+   },
+   {
+    "text": "Visit us in the Rt 6. shopping plaza in South Wellfleet, MA and experience the difference… always worth the trip! Please contact us at (774) 383-3133 if you have further questions and weed be happy to assist.",
+    "page": "FAQ (audit/raw/faqs-420.html)"
+   },
+   {
+    "text": "Overall, expect a safe, regulated, and educational experience designed to help you feel comfortable and informed…and NOT rushed.",
+    "page": "FAQ"
+   },
+   {
+    "text": "Just a short drive down Route 6 from Provincetown, MA (or on your way to PTown)",
+    "page": "town page (audit/raw/dispensary-near-provincetown.html), h2"
+   },
+   {
+    "text": "It’s worth the trip!",
+    "page": "town page (dispensary-near-provincetown.html), last list item"
+   },
+   {
+    "text": "Double up and save! 🔥 Mix & match select Infused Pre-Rolls and grab 2 for just $20. Pick your favorites or switch it up and try something new!",
+    "page": "specials (audit/raw/specials-infused-pre-rolls-2-for-20.html)"
+   },
+   {
+    "text": "*Website cart may not reflect the bundled price but it will be adjusted at time of payment.",
+    "page": "specials (specials-infused-pre-rolls-2-for-20.html)"
+   },
+   {
+    "text": "Get more Glorious Moonrocks for less! Mix & match 3.5g Moonrocks and grab 2 for $70 or 5 for $160. While supplies last.",
+    "page": "specials (audit/raw/specials-glorious-3-5g-moonrocks-2-for-70-5-for-160.html)"
+   },
+   {
+    "text": "At Cape Cod Cannabis in Wellfleet, MA, we believe in rewarding our amazing customers!",
+    "page": "blog post (audit/raw/join-our-loyalty-vip-program-today.html)"
+   },
+   {
+    "text": "✅ Earn points on every purchase—no hassle, no hidden fees!",
+    "page": "blog post (join-our-loyalty-vip-program-today.html)"
+   },
+   {
+    "text": "Branded Apparel – Rock your Cape Cod Cannabis pride with stylish hoodies, hats, and tees.",
+    "page": "blog post (join-our-loyalty-vip-program-today.html)"
+   },
+   {
+    "text": "The town’s name is believed to be derived from “whale fleet,” as the area was once a bustling center for whaling and fishing.",
+    "page": "blog post (audit/raw/exploring-wellfleet-ma-cape-cod.html)"
+   },
+   {
+    "text": "Boards in the Stores is back for 2026 and bidding is now open! Click here to bid or learn more!",
+    "page": "header announcement link (audit/raw/index.html; present on 742 of 743 raw pages)"
+   }
+  ],
+  "quoteNote": "Quotes are verbatim words. Whitespace that the extractor inserted where inline links were stripped (e.g. 'dispensary , voted') is removed; HTML entities are decoded. '[…]' marks a sentence cut short here, not in the source."
+ },
+ "keep": [
+  "the town-line sign logo, unaltered (no recolouring, no redrawing of letters)",
+  "the whale tail as the single colour accent and recurring motif",
+  "#02A7EB primary, #015375 accent, black, white; #C0E9FA sky and the whale-tail pattern",
+  "Roboto as the type voice",
+  "'Always worth the trip!' as the sign-off",
+  "the age-gate copy, verbatim",
+  "the warm, local, educational tone; every word of copy verbatim"
+ ],
+ "canEvolve": [
+  "layout and section rhythm",
+  "glass surfaces (frosted panels over sky, sea and photo backdrops)",
+  "depth: layered planes, protrusions across section seams, cut-out product and scenery imagery",
+  "motion: scroll reveals and hover states (the live site has almost none)",
+  "type pairing: Roboto for text plus Roboto Flex or Roboto at heavier weights for display; Playball properly loaded for short sign-offs only",
+  "accessible colour use: darker primary (#017BAE proposed) for white-label buttons and links"
+ ],
+ "directions": [
+  {
+   "name": "Seashore Glass (daylight town-line sign)",
+   "summary": "Bright, airy, beach-day mood taken straight from the og:image (the sign over a turquoise beach) and the header's whale-tail pattern on #C0E9FA. Backgrounds are layered sky-to-sea gradients and real Cape scenery; content sits on frosted white glass panels whose top edge borrows the sign's double-arched silhouette, so every card reads as a small town sign. Black Roboto type on white glass, #015375 for links and button hover, #02A7EB reserved for large fills, outlines and the glow behind the whale tail. Depth comes from three planes: a slow-parallax photo or gradient back plane, the glass middle plane, and a front plane of cut-out product jars, dune grass and the lighthouse that break out of the glass and over section seams. The whale-tail tile becomes a faint watermark that drifts at a different speed from the content. Motion is a calm 'tide' reveal (content rising from below a soft wave mask) and gentle 4-6 px hover lifts with a stronger shadow. Signature motif: the arched sign top as card, badge and section-divider shape (echoing the site's existing 'book' divider)."
+  },
+  {
+   "name": "Outer Cape After Dark (smoked glass, neon tide)",
+   "summary": "An evening version of the brand built on the existing accent #015375 deepened toward night navy, and on the site's own neon imagery (the cyan-to-magenta cannabis macro on the home background, the dark navy promo banners). Surfaces are smoked dark glass with a thin cyan rim light in #02A7EB, so the blue finally reads as light rather than as low-contrast text. The white sign logo sits on its own white plate and glows like a lit roadside sign, which keeps it unaltered. Depth comes from glowing product and bud cut-outs that overlap panel edges, soft bokeh orbs on a back plane and a horizon line of moonlit water. Offers, Moonrock Mondays-style bundles and the Loyalty VIP band suit this mood best. Motion: slow gradient drift in the background, a light sweep across glass on hover, counters for '900+ Google Reviews' and '4.9' that tick up once. Risk to manage: keep it adult and calm, never club-flyer; body text stays light on dark at AA or better."
+  },
+  {
+   "name": "Route 6 Postcard (road-trip destination)",
+   "summary": "Builds the whole site around the line the brand repeats on every page, 'Always worth the trip!', and the town pages' 'Just a short drive down Route 6'. The mood is a sunny road trip: layered postcards, photo prints and ticket-like glass cards stacked at slight angles, with the real storefront photo (whale-tail window decals, whale-tail cones) as the hero destination. Glass is clear window glass with frosted 'decal' areas, like the shop windows, over warm sand and sea tones sampled from the brand's beach photography, with #02A7EB and the whale tail as the wayfinding colour. Depth: photos and the sign pin out of frames and overlap the next section, and a dotted Route 6 line runs down the page linking sections and the served-towns list. Motion: the route line draws itself on scroll, cards settle into place like dealt postcards, and hover tilts a card a few degrees with a parallax shift inside it. Type: Roboto at heavy weights for headlines, Roboto text, Playball only for the hand-written sign-off 'Thank you Cape Cod!'. Signature motif: route markers and mile-post counters ('Serving Cape Cod Since 2021', 'Est. 2018')."
+  }
+ ],
+ "unverified": [
+  "Live rendering of any page (lockout): computed styles, the header's motion-effects settings, sticky behaviour, and whether Playball renders",
+  "Roboto and Playball licence texts (not fetched this session)",
+  "Logo lettering typeface (artwork, not identified)",
+  "msapplication tile 270x270 dimensions (file name only)",
+  "Whether the lighthouse photo shows Cape Cod, and whether it is a stock photo: 13096766-CCC-Beach-Team.webp has no EXIF or XMP chunk (WebP chunks VP8X, ICCP, VP8, PSAI). Do not use it as a Cape Cod cut-out (Direction A) until the client confirms",
+  "Section background images on non-home templates: 169 distinct LiteSpeed combined CSS files are referenced across audit/raw, only the home bundle (audit/prelock/kit.css) was captured, and the HTML has no inline background image (31 style attributes, all background-image:inherit)"
+ ],
+ "verificationLog": [
+  {
+   "at": "2026-10-12",
+   "lane": "fixer",
+   "changes": [
+    "fonts[Roboto].role: 25 sets -> 24 sets, 23 Roboto + a8d387b inherits",
+    "phrases[0]: footer of all 743 -> age gate 743, footer 741",
+    "unverified: lighthouse caution with chunk evidence",
+    "unverified: non-home section backgrounds added"
+   ]
+  }
+ ]
+}

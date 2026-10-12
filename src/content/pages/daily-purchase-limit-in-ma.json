@@ -1,0 +1,1397 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/daily-purchase-limit-in-ma/",
+ "sourceUrl": "https://capecodcannabis.com/daily-purchase-limit-in-ma/",
+ "requestedUrl": "https://capecodcannabis.com/daily-purchase-limit-in-ma",
+ "slug": "daily-purchase-limit-in-ma",
+ "kind": "standard-page",
+ "wpTemplate": "page-full-width",
+ "derived": false,
+ "rawFile": "audit/raw/daily-purchase-limit-in-ma.html",
+ "rawSha256": "60f26bebcc9cee8bce8e0247efbb384f43117089c99d12ad7a2fb847ccac0c91",
+ "regionKind": "body-minus-chrome",
+ "title": "Understanding the daily purchase limit in MA | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA | Cape Cod's Best Recreational Cannabis Dispensary Near Me |",
+ "metaDescription": "Understanding the daily purchase limit in MA | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA | Cape Cod's Best Recreational Cannabis Dispensary Near Me",
+ "canonical": "https://capecodcannabis.com/daily-purchase-limit-in-ma/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "Understanding the daily purchase limit in MA | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA | Cape Cod's Best Recreational Cannabis Dispensary Near Me |",
+  "description": "Understanding the daily purchase limit in MA | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA | Cape Cod's Best Recreational Cannabis Dispensary Near Me",
+  "url": "https://capecodcannabis.com/daily-purchase-limit-in-ma/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2026-04-23T14:12:37-04:00"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438"
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "Understanding the daily purchase limit in MA | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA | Cape Cod's Best Recreational Cannabis Dispensary Near Me |",
+  "description": "Understanding the daily purchase limit in MA | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA | Cape Cod's Best Recreational Cannabis Dispensary Near Me",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "label1": "Time to read",
+  "data1": "5 minutes"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/daily-purchase-limit-in-ma/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/daily-purchase-limit-in-ma/",
+        "name": "Understanding the daily purchase limit in MA"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "h1": "Understanding the Daily Purchase Limit in Wellfleet, MA",
+ "h1Source": {
+  "count": 1,
+  "visible": 1,
+  "hidden": 0
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Understanding the daily purchase limit in MA",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "visible",
+ "breadcrumbsSeparator": " / ",
+ "breadcrumbsLabel": "breadcrumbs",
+ "breadcrumbsInRegion": true,
+ "section": "Cannabis 101",
+ "sections": [
+  {
+   "n": 0,
+   "id": "6dc9799",
+   "doc": "section#11803",
+   "cont": true,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "Understanding the Daily Purchase Limit in Wellfleet, MA"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "b25520b",
+   "doc": "wp-page#116316",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "Breaking Down Massachusetts’ Daily Purchase Limits for Recreational Cannabis (UPDATED 4/2026)"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Massachusetts has a well-defined legal framework for recreational cannabis purchases to ensure consumer safety, responsible usage, and regulatory compliance. The daily legal limit is <strong>56</strong><b> grams (2 ounces) of flower</b>, but this can be distributed across various cannabis products. <strong>Here’s how the daily limit translates into practical terms and grams (g) for different product types.</strong></p>"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "86cb54f",
+   "doc": "wp-page#116316",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "FLOWER EQUIVALENCY BREAKDOWN"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": "2bd0f63",
+   "doc": "wp-page#116316",
+   "blocks": [
+    {
+     "t": "html",
+     "review": true,
+     "text": "Open Calculator\nX\nDaily Limit Calculator\n(For educational purposes only. Limits may vary based on actual potency)\nFlower (grams):\nConcentrate (grams):\nVape Cartridges (grams):\nTinctures (mg):\nEdibles (mg):\nMoonrocks:\nChoose from dropdown\nCrude Boys | Frosted Buds\nFour20 | Moonrocks\nGlorious | Moonrocks\nMoonrocks (# of units):\nTOTAL\nClear",
+     "html": "Open Calculator X<h5>Daily Limit Calculator</h5><h6>(For educational purposes only. Limits may vary based on actual potency)</h6>",
+     "controls": [
+      {
+       "tag": "button",
+       "label": "X"
+      },
+      {
+       "tag": "input",
+       "type": "number",
+       "name": "flower",
+       "placeholder": "0"
+      },
+      {
+       "tag": "input",
+       "type": "number",
+       "name": "concentrate",
+       "placeholder": "0"
+      },
+      {
+       "tag": "input",
+       "type": "number",
+       "name": "vape",
+       "placeholder": "0"
+      },
+      {
+       "tag": "input",
+       "type": "number",
+       "name": "tincture",
+       "placeholder": "0"
+      },
+      {
+       "tag": "input",
+       "type": "number",
+       "name": "edibles",
+       "placeholder": "0"
+      },
+      {
+       "tag": "select",
+       "name": "moonrocksSelect",
+       "options": [
+        {
+         "label": "Choose from dropdown",
+         "value": "0,0"
+        },
+        {
+         "label": "Crude Boys | Frosted Buds",
+         "value": "1.575,1.925"
+        },
+        {
+         "label": "Four20 | Moonrocks",
+         "value": "0.84,2.66"
+        },
+        {
+         "label": "Glorious | Moonrocks",
+         "value": "2.18,1.31"
+        }
+       ]
+      },
+      {
+       "tag": "input",
+       "type": "number",
+       "name": "moonrocksQty",
+       "placeholder": "0"
+      },
+      {
+       "tag": "button",
+       "type": "button",
+       "label": "TOTAL"
+      },
+      {
+       "tag": "button",
+       "type": "button",
+       "label": "Clear"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "id": "2ae829a",
+   "doc": "wp-page#116316",
+   "dev": [
+    "widescreen",
+    "desktop"
+   ],
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>Use the calculator above to determine your daily limit.</p>",
+     "dev": [
+      "widescreen",
+      "desktop"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "id": "ad4659d",
+   "doc": "wp-page#116316",
+   "hiddenAll": true,
+   "dev": [],
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>Click the (+) to open and (-) to close each section below. Use the calculator above to calculate your daily limit.</p>",
+     "dev": [],
+     "hiddenAll": true
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "id": "64ac830",
+   "doc": "wp-page#116316",
+   "dev": [
+    "tablet",
+    "mobile_extra",
+    "mobile"
+   ],
+   "blocks": [
+    {
+     "t": "faq",
+     "kind": "nested-accordion",
+     "items": [
+      {
+       "q": "Flower",
+       "open": true,
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 4,
+         "text": "FLOWER",
+         "dev": [
+          "tablet",
+          "mobile_extra",
+          "mobile"
+         ]
+        },
+        {
+         "t": "rich",
+         "html": "<p>Single gram = 1g<br>Eighth = 3.5g<br>Quarter = 7g<br>Half Ounce = 14g<br>Full Ounce = 28g</p>",
+         "dev": [
+          "tablet",
+          "mobile_extra",
+          "mobile"
+         ]
+        }
+       ]
+      },
+      {
+       "q": "Vapes / Carts / Concentrates",
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 4,
+         "text": "VAPE / CARTS / CONCENTRATES",
+         "dev": [
+          "tablet",
+          "mobile_extra",
+          "mobile"
+         ]
+        },
+        {
+         "t": "rich",
+         "html": "<p>0.5g = 2.8g<br>1g = 5.6g<br>2g = 11.2g</p>",
+         "dev": [
+          "tablet",
+          "mobile_extra",
+          "mobile"
+         ]
+        }
+       ]
+      },
+      {
+       "q": "Tincture",
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 4,
+         "text": "TINCTURE",
+         "dev": [
+          "tablet",
+          "mobile_extra",
+          "mobile"
+         ]
+        },
+        {
+         "t": "rich",
+         "html": "<p>100mg = 0.56g<br>500mg = 2.8g<br>1000mg = 5.6g</p>",
+         "dev": [
+          "tablet",
+          "mobile_extra",
+          "mobile"
+         ]
+        }
+       ]
+      },
+      {
+       "q": "Infused / Moonrocks",
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 4,
+         "text": "INFUSED / MOONROCKS",
+         "dev": [
+          "tablet",
+          "mobile_extra",
+          "mobile"
+         ]
+        },
+        {
+         "t": "rich",
+         "html": "<p>A combination of Flower and Concentrate can affect the daily allowance based on the percentage of Flower and Concentrate amounts.</p>",
+         "dev": [
+          "tablet",
+          "mobile_extra",
+          "mobile"
+         ]
+        }
+       ]
+      },
+      {
+       "q": "Edibles / Beverages",
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 4,
+         "text": "EDIBLES / BEVERAGES",
+         "dev": [
+          "tablet",
+          "mobile_extra",
+          "mobile"
+         ]
+        },
+        {
+         "t": "rich",
+         "html": "<p>5mg = 0.28g<br>10mg = 0.56g<br>20mg = 1.12g<br>25mg = 1.4g<br>50mg = 2.8g<br>100mg = 5.6g</p>",
+         "dev": [
+          "tablet",
+          "mobile_extra",
+          "mobile"
+         ]
+        }
+       ]
+      },
+      {
+       "q": "NO LIMIT",
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 4,
+         "text": "NO LIMIT",
+         "dev": [
+          "tablet",
+          "mobile_extra",
+          "mobile"
+         ]
+        },
+        {
+         "t": "rich",
+         "html": "<p>Topicals = NO LIMIT<br>CBD = NO LIMIT<br>Seeds = NO LIMIT<br>Accessories = NO LIMIT</p>",
+         "dev": [
+          "tablet",
+          "mobile_extra",
+          "mobile"
+         ]
+        }
+       ]
+      }
+     ],
+     "ariaLabels": [
+      "Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys"
+     ],
+     "dev": [
+      "tablet",
+      "mobile_extra",
+      "mobile"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "id": "c7898de",
+   "doc": "wp-page#116316",
+   "dev": [
+    "tablet",
+    "mobile_extra",
+    "mobile"
+   ],
+   "blocks": [
+    {
+     "t": "faq",
+     "kind": "nested-accordion",
+     "items": [
+      {
+       "q": "Understanding the 28-Gram Daily Limit",
+       "open": true,
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 4,
+         "text": "Understanding the 28-Gram Daily Limit",
+         "dev": [
+          "tablet",
+          "mobile_extra",
+          "mobile"
+         ]
+        },
+        {
+         "t": "rich",
+         "html": "<p>The state allows you to purchase <b>28 grams of flower or its equivalent</b> in other cannabis formats. Let’s break down how these limits apply:</p><p>• <b>Flower</b>: Up to <b>28 grams</b> (1 ounce).</p><p>• <b>Edibles</b>: A total of <b>500mg THC</b>, which is roughly <b>5 packs of 20 servings</b>, each serving containing <b>5mg of THC</b>.</p><p>• <b>Concentrates</b>: Up to <b>5 grams</b> of cannabis concentrates, such as wax, shatter, or live resin (equivalent to <b>5 x 1g</b> or <b>10 x 0.5g</b> packages).</p><p>• <b>Tinctures</b>: A total of <strong>5000mg</strong> = approximately <strong>5</strong><b> x 1000mg bottles</b>, depending on the product’s potency and total THC content.</p><p>• <b>Pre-roll Joints</b>: <b>28 pre-roll joints</b>, assuming each joint contains roughly <b>1 gram of flower</b>.</p><p>• <b>Vape Cartridges</b>: Up to <b>10 x 0.5g cartridges</b> or <b>5 x 1g cartridges/disposables</b>.</p>",
+         "dev": [
+          "tablet",
+          "mobile_extra",
+          "mobile"
+         ]
+        }
+       ]
+      },
+      {
+       "q": "Why Are Purchase Limits Important?",
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Massachusetts’ purchase limits serve three critical purposes:</p><p><b>• Encourage Responsible Use</b>: Limiting daily purchases helps consumers manage their intake responsibly.</p><p><b>• Prevent Diversion</b>: Restricting quantities reduces the risk of products entering the illicit market.</p><p><b>• Promote Safety</b>: Regulating how much THC a consumer can access in one day helps prevent overconsumption.</p>",
+         "dev": [
+          "tablet",
+          "mobile_extra",
+          "mobile"
+         ]
+        }
+       ]
+      },
+      {
+       "q": "Tips for Staying Within the Limit",
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>• <b>Know Your Preferences</b>: Decide what products suit your needs—flower, concentrates, edibles, or a mix.</p><p>• <b>Plan Ahead</b>: If you intend to purchase multiple product types, calculate the total equivalency before checkout.</p><p>• <b>Consult the Experts</b>: Dispensary staff can help you understand product potencies and their impact on the daily limit.</p>",
+         "dev": [
+          "tablet",
+          "mobile_extra",
+          "mobile"
+         ]
+        }
+       ]
+      }
+     ],
+     "ariaLabels": [
+      "Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys"
+     ],
+     "dev": [
+      "tablet",
+      "mobile_extra",
+      "mobile"
+     ],
+     "conflict": true
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "id": "03a463d",
+   "doc": "wp-page#116316",
+   "dev": [
+    "widescreen",
+    "desktop"
+   ],
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "Understanding the 56-Gram Daily Limit",
+     "dev": [
+      "widescreen",
+      "desktop"
+     ],
+     "conflict": true
+    },
+    {
+     "t": "rich",
+     "html": "<p>The state now allows you to purchase <strong>56</strong><b> grams of flower or its equivalent</b> in other cannabis formats. Let’s break down how these limits apply:</p><p>• <b>Flower</b>: Up to <strong>56</strong><b> grams</b> (2 ounces).</p><p>• <b>Edibles</b>: A total of <strong>10</strong><b>00mg THC</b>, which is roughly <strong>10</strong><b> packs of 20 servings</b>, each serving containing <b>5mg of THC</b>.</p><p>• <b>Concentrates</b>: Up to <strong>10</strong><b> grams</b> of cannabis concentrates, such as wax, shatter, or live resin (equivalent to <strong>10</strong><b> x 1g</b> or <strong>20</strong><b> x 0.5g</b> packages).</p><p>• <b>Tinctures</b>: A total of <strong>10000mg</strong> = approximately <strong>10</strong><b> x 1000mg bottles</b>, depending on the product’s potency and total THC content.</p><p>• <b>Pre-roll Joints</b>: <b>56 pre-roll joints</b>, assuming each joint contains roughly <b>1 gram of flower</b>.</p><p>• <b>Vape Cartridges</b>: Up to <strong>20</strong><b> x 0.5g cartridges</b> or <strong>10</strong><b> x 1g cartridges/disposables</b>.</p>",
+     "dev": [
+      "widescreen",
+      "desktop"
+     ],
+     "conflict": true
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "id": "481dbce",
+   "doc": "wp-page#116316",
+   "blocks": [
+    {
+     "t": "button",
+     "label": "Shop Menu",
+     "href": "/menu/"
+    },
+    {
+     "t": "button",
+     "label": "Shop Bundles",
+     "href": "/specials/"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "button": 2,
+  "faq": 2,
+  "heading": 11,
+  "html": 1,
+  "rich": 13
+ },
+ "ledger": {
+  "collapsed": [
+   {
+    "section": "9e22104",
+    "t": "heading",
+    "dev": [
+     "widescreen",
+     "desktop"
+    ],
+    "text": "FLOWER"
+   },
+   {
+    "section": "9e22104",
+    "t": "rich",
+    "dev": [
+     "widescreen",
+     "desktop"
+    ],
+    "text": "Single gram = 1g / Eighth = 3.5g / Quarter = 7g / Half Ounce = 14g / Full Ounce = 28g"
+   },
+   {
+    "section": "9e22104",
+    "t": "heading",
+    "dev": [
+     "widescreen",
+     "desktop"
+    ],
+    "text": "VAPE / CARTS / CONCENTRATES"
+   },
+   {
+    "section": "9e22104",
+    "t": "rich",
+    "dev": [
+     "widescreen",
+     "desktop"
+    ],
+    "text": "0.5g = 2.8g / 1g = 5.6g / 2g = 11.2g"
+   },
+   {
+    "section": "9e22104",
+    "t": "heading",
+    "dev": [
+     "widescreen",
+     "desktop"
+    ],
+    "text": "TINCTURE"
+   },
+   {
+    "section": "9e22104",
+    "t": "rich",
+    "dev": [
+     "widescreen",
+     "desktop"
+    ],
+    "text": "100mg = 0.56g / 500mg = 2.8g / 1000mg = 5.6g"
+   },
+   {
+    "section": "9e22104",
+    "t": "heading",
+    "dev": [
+     "widescreen",
+     "desktop"
+    ],
+    "text": "INFUSED / MOONROCKS"
+   },
+   {
+    "section": "9e22104",
+    "t": "rich",
+    "dev": [
+     "widescreen",
+     "desktop"
+    ],
+    "text": "A combination of Flower and Concentrate can affect the daily allowance based on the percentage of Flower and Concentrate amounts."
+   },
+   {
+    "section": "9e22104",
+    "t": "heading",
+    "dev": [
+     "widescreen",
+     "desktop"
+    ],
+    "text": "EDIBLES / BEVERAGES"
+   },
+   {
+    "section": "9e22104",
+    "t": "rich",
+    "dev": [
+     "widescreen",
+     "desktop"
+    ],
+    "text": "5mg = 0.28g / 10mg = 0.56g / 20mg = 1.12g / 25mg = 1.4g / 50mg = 2.8g / 100mg = 5.6g"
+   },
+   {
+    "section": "9e22104",
+    "t": "heading",
+    "dev": [
+     "widescreen",
+     "desktop"
+    ],
+    "text": "NO LIMIT"
+   },
+   {
+    "section": "9e22104",
+    "t": "rich",
+    "dev": [
+     "widescreen",
+     "desktop"
+    ],
+    "text": "Topicals = NO LIMIT / CBD = NO LIMIT / Seeds = NO LIMIT / Accessories = NO LIMIT"
+   },
+   {
+    "section": "03a463d",
+    "t": "heading",
+    "dev": [
+     "widescreen",
+     "desktop"
+    ],
+    "text": "Why Are Purchase Limits Important?"
+   },
+   {
+    "section": "03a463d",
+    "t": "rich",
+    "dev": [
+     "widescreen",
+     "desktop"
+    ],
+    "text": "Massachusetts’ purchase limits serve three critical purposes: / • Encourage Responsible Use: Limiting daily purchases helps consumers manage their intake responsibly. / • Prevent Diversion: Restricting quantities reduces the risk of products entering the illicit market. / • Promote Safety: Regulating how much THC a consumer can access in one day helps prevent overconsumption."
+   },
+   {
+    "section": "03a463d",
+    "t": "heading",
+    "dev": [
+     "widescreen",
+     "desktop"
+    ],
+    "text": "Tips for Staying Within the Limit"
+   },
+   {
+    "section": "03a463d",
+    "t": "rich",
+    "dev": [
+     "widescreen",
+     "desktop"
+    ],
+    "text": "• Know Your Preferences: Decide what products suit your needs—flower, concentrates, edibles, or a mix. / • Plan Ahead: If you intend to purchase multiple product types, calculate the total equivalency before checkout. / • Consult the Experts: Dispensary staff can help you understand product potencies and their impact on the daily limit."
+   }
+  ],
+  "keptDeviceOnly": [
+   {
+    "section": "64ac830",
+    "t": "faq",
+    "dev": [
+     "tablet",
+     "mobile_extra",
+     "mobile"
+    ],
+    "text": "flower / flower / single gram = 1g / eighth = 3.5g / quarter = 7g / half ounce = 14g / full ounce = 28g / vapes / carts / concentrates / vape / carts / concentrates / 0.5g = 2.8g / 1g = 5.6g / 2g = 11.2g / tincture / tincture / 100mg = 0.56"
+   },
+   {
+    "section": "c7898de",
+    "t": "faq",
+    "dev": [
+     "tablet",
+     "mobile_extra",
+     "mobile"
+    ],
+    "text": "understanding the 28-gram daily limit / understanding the 28-gram daily limit / the state allows you to purchase 28 grams of flower or its equivalent in other cannabis formats. let's break down how these limits apply: / • flower: up to 28 g"
+   },
+   {
+    "section": "2ae829a",
+    "t": "rich",
+    "dev": [
+     "widescreen",
+     "desktop"
+    ],
+    "text": "use the calculator above to determine your daily limit."
+   },
+   {
+    "section": "03a463d",
+    "t": "heading",
+    "dev": [
+     "widescreen",
+     "desktop"
+    ],
+    "text": "understanding the 56-gram daily limit"
+   },
+   {
+    "section": "03a463d",
+    "t": "rich",
+    "dev": [
+     "widescreen",
+     "desktop"
+    ],
+    "text": "the state now allows you to purchase 56 grams of flower or its equivalent in other cannabis formats. let's break down how these limits apply: / • flower: up to 56 grams (2 ounces). / • edibles: a total of 1000mg thc, which is roughly 10 pac"
+   }
+  ],
+  "conflicts": [
+   {
+    "kind": "numbers-differ-by-device",
+    "a": {
+     "section": "c7898de",
+     "dev": [
+      "tablet",
+      "mobile_extra",
+      "mobile"
+     ],
+     "line": "Understanding the 28-Gram Daily Limit"
+    },
+    "b": {
+     "section": "03a463d",
+     "dev": [
+      "widescreen",
+      "desktop"
+     ],
+     "line": "Understanding the 56-Gram Daily Limit"
+    }
+   },
+   {
+    "kind": "numbers-differ-by-device",
+    "a": {
+     "section": "c7898de",
+     "dev": [
+      "tablet",
+      "mobile_extra",
+      "mobile"
+     ],
+     "line": "• Edibles: A total of 500mg THC, which is roughly 5 packs of 20 servings, each serving containing 5mg of THC."
+    },
+    "b": {
+     "section": "03a463d",
+     "dev": [
+      "widescreen",
+      "desktop"
+     ],
+     "line": "• Edibles: A total of 1000mg THC, which is roughly 10 packs of 20 servings, each serving containing 5mg of THC."
+    }
+   },
+   {
+    "kind": "numbers-differ-by-device",
+    "a": {
+     "section": "c7898de",
+     "dev": [
+      "tablet",
+      "mobile_extra",
+      "mobile"
+     ],
+     "line": "• Concentrates: Up to 5 grams of cannabis concentrates, such as wax, shatter, or live resin (equivalent to 5 x 1g or 10 x 0.5g packages)."
+    },
+    "b": {
+     "section": "03a463d",
+     "dev": [
+      "widescreen",
+      "desktop"
+     ],
+     "line": "• Concentrates: Up to 10 grams of cannabis concentrates, such as wax, shatter, or live resin (equivalent to 10 x 1g or 20 x 0.5g packages)."
+    }
+   },
+   {
+    "kind": "numbers-differ-by-device",
+    "a": {
+     "section": "c7898de",
+     "dev": [
+      "tablet",
+      "mobile_extra",
+      "mobile"
+     ],
+     "line": "• Tinctures: A total of 5000mg = approximately 5 x 1000mg bottles, depending on the product’s potency and total THC content."
+    },
+    "b": {
+     "section": "03a463d",
+     "dev": [
+      "widescreen",
+      "desktop"
+     ],
+     "line": "• Tinctures: A total of 10000mg = approximately 10 x 1000mg bottles, depending on the product’s potency and total THC content."
+    }
+   },
+   {
+    "kind": "numbers-differ-by-device",
+    "a": {
+     "section": "c7898de",
+     "dev": [
+      "tablet",
+      "mobile_extra",
+      "mobile"
+     ],
+     "line": "• Pre-roll Joints: 28 pre-roll joints, assuming each joint contains roughly 1 gram of flower."
+    },
+    "b": {
+     "section": "03a463d",
+     "dev": [
+      "widescreen",
+      "desktop"
+     ],
+     "line": "• Pre-roll Joints: 56 pre-roll joints, assuming each joint contains roughly 1 gram of flower."
+    }
+   },
+   {
+    "kind": "numbers-differ-by-device",
+    "a": {
+     "section": "c7898de",
+     "dev": [
+      "tablet",
+      "mobile_extra",
+      "mobile"
+     ],
+     "line": "• Vape Cartridges: Up to 10 x 0.5g cartridges or 5 x 1g cartridges/disposables."
+    },
+    "b": {
+     "section": "03a463d",
+     "dev": [
+      "widescreen",
+      "desktop"
+     ],
+     "line": "• Vape Cartridges: Up to 20 x 0.5g cartridges or 10 x 1g cartridges/disposables."
+    }
+   }
+  ],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [],
+  "aliasesResolved": [
+   {
+    "from": "/menu",
+    "to": "/menu/"
+   },
+   {
+    "from": "/offers",
+    "to": "/specials/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

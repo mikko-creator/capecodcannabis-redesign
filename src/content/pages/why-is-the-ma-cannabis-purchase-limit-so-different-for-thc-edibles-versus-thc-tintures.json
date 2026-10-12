@@ -1,0 +1,1016 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/why-is-the-ma-cannabis-purchase-limit-so-different-for-thc-edibles-versus-thc-tintures/",
+ "sourceUrl": "https://capecodcannabis.com/why-is-the-ma-cannabis-purchase-limit-so-different-for-thc-edibles-versus-thc-tintures/",
+ "requestedUrl": "https://capecodcannabis.com/why-is-the-ma-cannabis-purchase-limit-so-different-for-thc-edibles-versus-thc-tintures",
+ "slug": "why-is-the-ma-cannabis-purchase-limit-so-different-for-thc-edibles-versus-thc-tintures",
+ "kind": "blog-post",
+ "wpTemplate": "post",
+ "derived": false,
+ "rawFile": "audit/raw/why-is-the-ma-cannabis-purchase-limit-so-different-for-thc-edibles-versus-thc-tintures.html",
+ "rawSha256": "87841111e5ce087ef09c141b3c42f5878e2f99db1cb3978a81191eaf4f0f70f4",
+ "regionKind": "body-minus-chrome",
+ "title": "Why is the MA Cannabis Purchase Limit so different for THC Edibles versus THC Tintures? | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+ "metaDescription": "Why is the MA Cannabis Purchase Limit so different for THC Edibles versus THC Tinctures? Cape Cod Cannabis Recreational Dispensary can clear this up for you.",
+ "canonical": "https://capecodcannabis.com/why-is-the-ma-cannabis-purchase-limit-so-different-for-thc-edibles-versus-thc-tintures/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "Why is the MA Cannabis Purchase Limit so different for THC Edibles versus THC Tintures? | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "Why is the MA Cannabis Purchase Limit so different for THC Edibles versus THC Tinctures? Cape Cod Cannabis Recreational Dispensary can clear this up for you.",
+  "url": "https://capecodcannabis.com/why-is-the-ma-cannabis-purchase-limit-so-different-for-thc-edibles-versus-thc-tintures/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2026-06-30T12:03:06-04:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2023/01/Sunset-Orleans-1024x683.jpg",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/2023/01/Sunset-Orleans-1024x683.jpg",
+  "image:width": "800",
+  "image:height": "534",
+  "image:alt": "Cape Cod Cannabis, Wellfleet, MA - It's worth the trip!",
+  "image:type": "image/jpeg"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438",
+  "tag": [
+   "cannabis regulations MA",
+   "cape cod cannabis",
+   "dispensary near me",
+   "edibles vs tinctures MA",
+   "Massachusetts cannabis limits",
+   "THC daily limit"
+  ],
+  "section": "Cannabis 101",
+  "published_time": "2025-07-15T08:23:37-04:00",
+  "modified_time": "2026-06-30T12:03:06-04:00"
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "Why is the MA Cannabis Purchase Limit so different for THC Edibles versus THC Tintures? | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "Why is the MA Cannabis Purchase Limit so different for THC Edibles versus THC Tinctures? Cape Cod Cannabis Recreational Dispensary can clear this up for you.",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2023/01/Sunset-Orleans-1024x683.jpg",
+  "label1": "Written by",
+  "data1": "rrh_clientadmin",
+  "label2": "Time to read",
+  "data2": "3 minutes"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Place",
+     "@id": "https://capecodcannabis.com/#place",
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.916265712481554",
+      "longitude": "-69.98840341462632"
+     },
+     "hasMap": "https://www.google.com/maps/search/?api=1&amp;query=41.916265712481554,-69.98840341462632",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     }
+    },
+    {
+     "@type": [
+      "LocalBusiness",
+      "Organization"
+     ],
+     "@id": "https://capecodcannabis.com/#organization",
+     "name": "Cape Cod Cannabis in Wellfleet - Best dispensary on Cape Cod.",
+     "url": "https://capecodcannabis.com",
+     "sameAs": [
+      "https://www.facebook.com/profile.php?id=100077867156438",
+      "https://twitter.com/capecodcanna"
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "logo": {
+      "@type": "ImageObject",
+      "@id": "https://capecodcannabis.com/#logo",
+      "url": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "contentUrl": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "caption": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+      "inLanguage": "en-US",
+      "width": "700",
+      "height": "500"
+     },
+     "openingHours": [
+      "Mo,Tu,We,Th,Fr,Sa,Su 8:00 - 8:00"
+     ],
+     "description": "Welcome to Cape Cod Cannabis, recognized by many as the Best Dispensary on Cape Cod, located in Wellfleet. Conveniently situated in the Route 6 shopping plaza in South Wellfleet, we are a trusted destination for both locals and visitors traveling from Provincetown, Truro, Wellfleet, Eastham, Orleans, Brewster, Dennis, Harwich, Chatham, Yarmouth, Sandwich and across the Cape and beyond.\n\nCape Cod Cannabis, your go-to cannabis haven, offers a carefully curated selection of high quality products, including flower, pre-rolls, edibles, vaporizers, concentrates, tinctures, topicals, CBD, accessories, and more. With a focus on education, selection, and a welcoming experience, we make it easy to explore and find what works best for you whether you are visiting the Cape or live here year round.",
+     "location": {
+      "@id": "https://capecodcannabis.com/#place"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/#logo"
+     },
+     "telephone": "+1-774-383-3133"
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://capecodcannabis.com/#website",
+     "url": "https://capecodcannabis.com",
+     "name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+     "alternateName": "Cape Cod Cannabis | Wellfleet's Top Rated Cannabis Store on Cape Cod",
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "https://capecodcannabis.com/wp-content/uploads/2023/01/Sunset-Orleans-scaled.jpg",
+     "url": "https://capecodcannabis.com/wp-content/uploads/2023/01/Sunset-Orleans-scaled.jpg",
+     "width": "2560",
+     "height": "1707",
+     "caption": "Cape Cod Cannabis, Wellfleet, MA - It's worth the trip!",
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/why-is-the-ma-cannabis-purchase-limit-so-different-for-thc-edibles-versus-thc-tintures/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/category/cannabis-101/",
+        "name": "Cannabis 101"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "3",
+       "item": {
+        "@id": "https://capecodcannabis.com/why-is-the-ma-cannabis-purchase-limit-so-different-for-thc-edibles-versus-thc-tintures/",
+        "name": "Why is the MA Cannabis Purchase Limit so different for THC Edibles versus THC Tintures?"
+       }
+      }
+     ]
+    },
+    {
+     "@type": "WebPage",
+     "@id": "https://capecodcannabis.com/why-is-the-ma-cannabis-purchase-limit-so-different-for-thc-edibles-versus-thc-tintures/#webpage",
+     "url": "https://capecodcannabis.com/why-is-the-ma-cannabis-purchase-limit-so-different-for-thc-edibles-versus-thc-tintures/",
+     "name": "Why is the MA Cannabis Purchase Limit so different for THC Edibles versus THC Tintures? | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "datePublished": "2025-07-15T08:23:37-04:00",
+     "dateModified": "2026-06-30T12:03:06-04:00",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2023/01/Sunset-Orleans-scaled.jpg"
+     },
+     "inLanguage": "en-US",
+     "breadcrumb": {
+      "@id": "https://capecodcannabis.com/why-is-the-ma-cannabis-purchase-limit-so-different-for-thc-edibles-versus-thc-tintures/#breadcrumb"
+     }
+    },
+    {
+     "@type": "Person",
+     "@id": "https://capecodcannabis.com/why-is-the-ma-cannabis-purchase-limit-so-different-for-thc-edibles-versus-thc-tintures/#author",
+     "name": "rrh_clientadmin",
+     "image": {
+      "@type": "ImageObject",
+      "@id": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "url": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "caption": "rrh_clientadmin",
+      "inLanguage": "en-US"
+     },
+     "worksFor": {
+      "@id": "https://capecodcannabis.com/#organization"
+     }
+    },
+    {
+     "@type": "Article",
+     "headline": "Why is the MA Cannabis Purchase Limit so different for THC Edibles versus THC Tintures? | Cape Cod Cannabis",
+     "keywords": "MA Cannabis Purchase Limit, recreational dispensary near me, thc edibles versus thc tinctures",
+     "datePublished": "2025-07-15T08:23:37-04:00",
+     "dateModified": "2026-06-30T12:03:06-04:00",
+     "articleSection": "Cannabis 101, Start Here",
+     "author": {
+      "@id": "https://capecodcannabis.com/why-is-the-ma-cannabis-purchase-limit-so-different-for-thc-edibles-versus-thc-tintures/#author",
+      "name": "rrh_clientadmin"
+     },
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "description": "Why is the MA Cannabis Purchase Limit so different for THC Edibles versus THC Tinctures? Cape Cod Cannabis Recreational Dispensary can clear this up for you.",
+     "name": "Why is the MA Cannabis Purchase Limit so different for THC Edibles versus THC Tintures? | Cape Cod Cannabis",
+     "@id": "https://capecodcannabis.com/why-is-the-ma-cannabis-purchase-limit-so-different-for-thc-edibles-versus-thc-tintures/#richSnippet",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/why-is-the-ma-cannabis-purchase-limit-so-different-for-thc-edibles-versus-thc-tintures/#webpage"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2023/01/Sunset-Orleans-scaled.jpg"
+     },
+     "inLanguage": "en-US",
+     "mainEntityOfPage": {
+      "@id": "https://capecodcannabis.com/why-is-the-ma-cannabis-purchase-limit-so-different-for-thc-edibles-versus-thc-tintures/#webpage"
+     }
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "h1": "Why is the MA Cannabis Purchase Limit so different for THC Edibles versus THC Tintures?",
+ "h1Source": {
+  "count": 1,
+  "visible": 1,
+  "hidden": 0
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Cannabis 101",
+   "href": "/category/cannabis-101/"
+  },
+  {
+   "label": "Why is the MA Cannabis Purchase Limit so different for THC Edibles versus THC Tintures?",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "visible",
+ "breadcrumbsSeparator": " / ",
+ "breadcrumbsLabel": "breadcrumbs",
+ "breadcrumbsInRegion": true,
+ "section": null,
+ "sections": [
+  {
+   "n": 0,
+   "id": "3f1093a4",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "Why is the MA Cannabis Purchase Limit so different for THC Edibles versus THC Tintures?"
+    },
+    {
+     "t": "meta",
+     "items": [
+      {
+       "text": "July 15, 2025",
+       "href": "/2025/07/15/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "f3030dc",
+   "doc": "wp-post#141751",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/aadf68e5-Edibles-Tile-for-Website-1-768x512.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2021/12/Edibles-Tile-for-Website-1-768x512.png?lossy=2&strip=0&webp=1",
+     "master": "assets/source/c9066120-Edibles-Tile-for-Website-1.png",
+     "alt": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 768,
+     "h": 512
+    },
+    {
+     "t": "image",
+     "ref": "assets/source/7fb1339e-tinctures-banner-1000px-768x512.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/07/tinctures-banner-1000px-768x512.png?lossy=2&strip=0&webp=1",
+     "master": "assets/source/ffe0fa8c-tinctures-banner-1000px.png",
+     "alt": "Find Tinctures at a Recreational Dispensary Near Me - Cape Cod Cannabis, Wellfleet, MA",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 768,
+     "h": 512
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "839265b",
+   "doc": "wp-post#141751",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong>Update 4/20/26 – The state now allows you to purchase 56 grams of flower or its equivalent in other cannabis formats.</strong> Let’s break down how these limits apply:</p><p>• <b>Flower</b>: Up to <strong>56</strong><b> grams</b> (2 ounces).</p><p>• <b>Edibles</b>: A total of <strong>10</strong><b>00mg THC</b>, which is roughly <strong>10</strong><b> packs of 20 servings</b>, each serving containing <b>5mg of THC</b>.</p><p>• <b>Concentrates</b>: Up to <strong>10</strong><b> grams</b> of cannabis concentrates, such as wax, shatter, or live resin (equivalent to <strong>10</strong><b> x 1g</b> or <strong>20</strong><b> x 0.5g</b> packages).</p><p>• <b>Tinctures</b>: A total of <strong>10000mg</strong> = approximately <strong>10</strong><b> x 1000mg bottles</b>, depending on the product’s potency and total THC content.</p><p>• <b>Pre-roll Joints</b>: <b>56 pre-roll joints</b>, assuming each joint contains roughly <b>1 gram of flower</b>.</p><p>• <b>Vape Cartridges</b>: Up to <strong>20</strong><b> x 0.5g cartridges</b> or <strong>10</strong><b> x 1g cartridges/disposables</b>.</p>"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": "1df3c5a5",
+   "doc": "wp-post#141751",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Edibles vs. Tinctures: Understanding MA Cannabis Purchase Limits"
+    },
+    {
+     "t": "rich",
+     "html": "<p>When shopping for cannabis in Massachusetts, especially at trusted dispensaries like <a href=\"/menu/\"><strong>Cape Cod Cannabis</strong></a> in Wellfleet, understanding the state’s purchase limits can help you stay compliant and make smarter product choices. One surprising detail many consumers overlook is the major difference between how much THC you can legally buy in <a href=\"/categories/edibles/\"><strong>edibles</strong></a> versus <a href=\"/categories/tinctures/\"><strong>tinctures</strong></a>. While edibles are capped at <strong>1,000mg of THC per day</strong>, tinctures fall under the concentrate category and are allowed up to a whopping <strong>10,000mg per day</strong>. In this blog, we’ll break down why the limits differ, how Massachusetts calculates daily cannabis allowances, and what it all means for your next visit to Cape Cod Cannabis.</p><p>Whether you’re a seasoned cannabis consumer or a first-time visitor to Cape Cod looking for legal weed, knowing the <strong>Massachusetts daily cannabis purchase limits</strong> for edibles and tinctures can help you make informed buying decisions. We’ll explore how these limits affect your options for <a href=\"/categories/edibles/\"><strong>THC-infused edibles</strong></a>, <a href=\"/categories/tinctures/\"><strong>cannabis tinctures</strong></a>, and other recreational marijuana products (visit <a href=\"/daily-purchase-limit-in-ma/\">Understanding the Daily Purchase Limit in MA</a> page for our online calculator). Plus, we’ll explain how the state’s flower-equivalency system works and what it means for your shopping experience. Cape Cod Cannabis offers a wide selection of edibles and tinctures to fit your needs—let’s help you shop smart and stay within the legal limits.</p><p><strong>Here’s how much you can legally buy per 24-hour period for recreational cannabis in MA:</strong></p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "1. Edibles — 1,000 mg THC/day"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Massachusetts law caps<strong> <a href=\"/categories/edibles/\">edible purchases</a> at 1,000 mg THC per person per day</strong>. That means popular gummies, chocolates, and infused drinks must total no more than 500 mg THC across all edible products.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "2. Tinctures (Concentrates) — 10,000 mg THC/day"
+    },
+    {
+     "t": "rich",
+     "html": "<ul><li><a href=\"/categories/tinctures/\">Tinctures</a> fall under the “concentrates” category, which is <strong>limited to 10 grams of active THC concentrate per day, equivalent to 10,000 mg THC</strong>.</li><li>Each tincture bottle can<strong> contain up to 1,000 mg THC</strong>, and you can <strong>legally purchase up to ten bottles per day (10 × 1,000 mg = 10,000 mg THC)</strong> .</li></ul>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Why Such a Big Difference?"
+    },
+    {
+     "t": "rich",
+     "html": "<p>The discrepancy stems from Massachusetts’ system<strong> equating 1 ounce of <a href=\"/categories/flower/\">flower</a> (28 g)</strong> to <strong>about 5,000 mg of THC</strong>, assuming an<strong> average THC potency of 17.8%</strong>.</p><p><a href=\"/categories/edibles/\">Edibles</a>, though potent, are capped at a much lower total daily THC, likely to limit ingestion risks and overdosing. <a href=\"/categories/tinctures/\">Tinctures</a>, treated like concentrated oils, have a higher cap recognizing their different use patterns—but still within the flower-equivalency system.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "What This Means for You"
+    },
+    {
+     "t": "rich",
+     "html": "<p><strong><a href=\"/categories/edibles/\">Edibles</a>:</strong> A single chocolate bar or gummy pack (typically 100 mg THC) <strong>uses 10% of your daily edible THC allowance</strong>. So pacing your intake across the day is key.</p><p><strong><a href=\"/categories/tinctures/\">Tinctures</a>:</strong> With tinctures, you need to track total THC across all bottles.</p><p><strong>Combinations:</strong> Mixing <a href=\"/categories/edibles/\">edibles</a>, <a href=\"/categories/tinctures/\">tinctures</a>, <a href=\"/categories/flower/\">flower</a>, and <a href=\"/categories/vaporizers/\">vapes</a>? Massachusetts law enforces a <em><strong>unified daily limit</strong> </em>based on <a href=\"/categories/flower/\">flower</a> equivalency. Your combined total—flower weight + (THC in edibles/100 mg × 10 g flower eq.) + (THC in tinctures similarly)—must not exceed 56 g flower equivalent.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Buying Smart at Cape Cod Cannabis Recreational Dispensary"
+    },
+    {
+     "t": "rich",
+     "html": "<p>1.<strong> Set your goals.</strong> Are you micro-dosing edibles or using tinctures for precision?<br>2. <strong>Know your doses.</strong> Ask budtenders for THC amounts—e.g., 500 mg vs 100 mg tinctures.<br>3. <strong>Mix wisely.</strong> If you combine edibles and tinctures, calculate the total flower equivalency to stay under 56 g.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Takeaway"
+    },
+    {
+     "t": "rich",
+     "html": "<ul><li><strong>1,000 mg THC (edibles) per day</strong></li><li><strong>10,000 mg THC (tinctures/concentrates) per day</strong></li><li>All purchases are ultimately measured by a <strong>56 g flower-equivalency limit</strong> .</li></ul><p>At <strong><a href=\"/menu/\">Cape Cod Cannabis Recreational Dispensary</a></strong>, we’re here to help you navigate Massachusetts’ regulations so you can enjoy cannabis responsibly and legally. For more information and for our <a href=\"/daily-purchase-limit-in-ma/\">Daily Limit Calculator</a> to determine what or how much of each category you can purchase daily in MA for recreational cannabis. Have questions—just ask on your next visit or give us a call. Stay informed, stay in limits, and stay safe!</p>"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "id": "300e318",
+   "doc": "wp-post#141751",
+   "blocks": [
+    {
+     "t": "button",
+     "label": "Shop Edibles",
+     "href": "/categories/edibles/"
+    },
+    {
+     "t": "button",
+     "label": "Shop Tinctures",
+     "href": "/categories/tinctures/"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "id": "329af6c",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "postnav",
+     "prev": {
+      "srLabel": "Prev",
+      "title": "What is 710 Dab Day?",
+      "href": "/what-is-710-dab-day/"
+     },
+     "next": {
+      "title": "Cannabis-Infused Summer Drink Recipes 2025",
+      "srLabel": "Next",
+      "href": "/cannabis-infused-summer-drink-recipes-2025/"
+     },
+     "ariaLabels": [
+      "Post Navigation"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "id": "9ba89d6",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "comments",
+     "note": "WordPress comment form; no comment backend in a static rebuild"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "button": 2,
+  "comments": 1,
+  "heading": 8,
+  "image": 2,
+  "meta": 1,
+  "postnav": 1,
+  "rich": 8
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [],
+  "aliasesResolved": [
+   {
+    "from": "https://capecodcannabis.com/2025/07/15/",
+    "to": "/2025/07/15/"
+   },
+   {
+    "from": "/menu",
+    "to": "/menu/"
+   },
+   {
+    "from": "/categories/edibles/",
+    "to": "/categories/edibles/"
+   },
+   {
+    "from": "/categories/tinctures/",
+    "to": "/categories/tinctures/"
+   },
+   {
+    "from": "/daily-purchase-limit-in-ma/",
+    "to": "/daily-purchase-limit-in-ma/"
+   },
+   {
+    "from": "/categories/edibles",
+    "to": "/categories/edibles/"
+   },
+   {
+    "from": "/categories/flower",
+    "to": "/categories/flower/"
+   },
+   {
+    "from": "/categories/vaporizers",
+    "to": "/categories/vaporizers/"
+   },
+   {
+    "from": "/categories/tinctures",
+    "to": "/categories/tinctures/"
+   },
+   {
+    "from": "https://capecodcannabis.com/what-is-710-dab-day/",
+    "to": "/what-is-710-dab-day/"
+   },
+   {
+    "from": "https://capecodcannabis.com/cannabis-infused-summer-drink-recipes-2025/",
+    "to": "/cannabis-infused-summer-drink-recipes-2025/"
+   },
+   {
+    "from": "https://capecodcannabis.com/category/cannabis-101/",
+    "to": "/category/cannabis-101/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

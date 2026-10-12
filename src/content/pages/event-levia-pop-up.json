@@ -1,0 +1,919 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/event/levia-pop-up/",
+ "sourceUrl": "https://capecodcannabis.com/event/levia-pop-up/",
+ "requestedUrl": "https://capecodcannabis.com/event/levia-pop-up",
+ "slug": "event-levia-pop-up",
+ "kind": "event",
+ "wpTemplate": "event",
+ "derived": false,
+ "rawFile": "audit/raw/event-levia-pop-up.html",
+ "rawSha256": "3dd65730a4f58c282c4d99ba473a8daefdab6b60a93792f36551756e70b2abfd",
+ "regionKind": "body-minus-chrome",
+ "title": "Levia Pop-Up | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+ "metaDescription": "At LEVIA, we are creating the best tasting social seltzer EVER. Rooted in simple, all-natural ingredients, LEVIA will elevate your experience with a fast",
+ "canonical": "https://capecodcannabis.com/event/levia-pop-up/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "Levia Pop-Up | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "At LEVIA, we are creating the best tasting social seltzer EVER. Rooted in simple, all-natural ingredients, LEVIA will elevate your experience with a fast",
+  "url": "https://capecodcannabis.com/event/levia-pop-up/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2026-07-01T13:56:18-04:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2026/05/levia-logo-bottom-type-opt.png",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/2026/05/levia-logo-bottom-type-opt.png",
+  "image:width": "340",
+  "image:height": "206",
+  "image:alt": "levia pop-up",
+  "image:type": "image/png"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438",
+  "tag": [
+   "best",
+   "cape cod cannabis",
+   "edible drinks",
+   "levia",
+   "thc seltzers"
+  ]
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "Levia Pop-Up | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "At LEVIA, we are creating the best tasting social seltzer EVER. Rooted in simple, all-natural ingredients, LEVIA will elevate your experience with a fast",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2026/05/levia-logo-bottom-type-opt.png"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/event/levia-pop-up/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/events-calendar/",
+        "name": "Events"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "3",
+       "item": {
+        "@id": "https://capecodcannabis.com/event/levia-pop-up/",
+        "name": "Levia Pop-Up"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  },
+  [
+   {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "Levia Pop-Up",
+    "description": "&lt;p&gt;Learn more about Levia products! At LEVIA, we are creating the best tasting social seltzer EVER. Rooted in simple, all-natural ingredients, LEVIA will elevate your experience with a fast &amp; predictable [&hellip;]&lt;/p&gt;\\n",
+    "image": "https://capecodcannabis.com/wp-content/uploads/2026/05/levia-logo-bottom-type-opt.png",
+    "url": "https://capecodcannabis.com/event/levia-pop-up/",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "startDate": "2026-05-16T13:00:00-04:00",
+    "endDate": "2026-05-16T15:00:00-04:00",
+    "location": {
+     "@type": "Place",
+     "name": "Cape Cod Cannabis",
+     "description": "",
+     "url": "",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressLocality": "Wellfleet",
+      "addressRegion": "MA",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "telephone": "774-383-3133",
+     "sameAs": "https://www.capecodcannabis.com"
+    },
+    "performer": "Organization"
+   }
+  ]
+ ],
+ "h1": "The Finest Cannabis Goods",
+ "h1Source": {
+  "count": 2,
+  "visible": 2,
+  "hidden": 0,
+  "note": "source has several visible h1s; the first is primary, the rest carry demote:true"
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Events",
+   "href": "/events-calendar/"
+  },
+  {
+   "label": "Levia Pop-Up",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "jsonld",
+ "section": null,
+ "sections": [
+  {
+   "n": 0,
+   "id": "4d8f4efa",
+   "doc": "tec_event_single_dynamic#92071",
+   "blocks": [
+    {
+     "t": "event-field",
+     "field": "calendar_link",
+     "text": "« All Events",
+     "links": [
+      {
+       "label": "« All Events",
+       "href": "/events-calendar/"
+      }
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "status",
+     "text": "This event has passed."
+    },
+    {
+     "t": "event-field",
+     "field": "title",
+     "text": "Levia Pop-Up",
+     "level": 1,
+     "demote": true
+    },
+    {
+     "t": "event-field",
+     "field": "datetime",
+     "text": "May 16, 2026\n@ 1:00 pm\n- 3:00 pm"
+    },
+    {
+     "t": "image",
+     "ref": "assets/source/4e56cc74-levia-logo-bottom-type-opt.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/05/levia-logo-bottom-type-opt.png?lossy=2&strip=0&webp=1",
+     "alt": "",
+     "w": 340,
+     "h": 206,
+     "kind": "event-image"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Learn more about Levia products!"
+    },
+    {
+     "t": "rich",
+     "html": "<p>At LEVIA, we are creating the best tasting social seltzer <b>EVER</b>. Rooted in simple, all-natural ingredients, LEVIA will elevate your experience with a fast &amp; predictable onset of effects.</p><p><img alt=\"LEVIA Seltzers\" width=\"579\" height=\"206\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://levia.buzz/wp-content/uploads/sites/28/2021/01/LEVIA-seltzers.png\" data-missing=\"download-failed\"></p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Cannabis-Infused Social Seltzer with Natural Flavors<br> 5MG THC • Zero Calories • Zero Sugar</p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p><img alt=\"Applanche | Seasonal Blend I Seltzer I 12oz image 0\" width=\"334\" height=\"334\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://images.dutchie.com/c526de1e7dead2d4ed714b7db70d7dbe\" data-missing=\"not-inventoried\"></p>"
+    },
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "The Finest Cannabis Goods"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Crafted With<br> Premium Ingredients<br> And a Superior Process</p><p><strong><a href=\"/brands/levia/\">Click to shop Levia products!</a></strong></p>"
+    },
+    {
+     "t": "event-field",
+     "field": "venue",
+     "text": "Cape Cod Cannabis\n1446 US-6\nWellfleet,MA02667United States\n+ Google Map\n774-383-3133\nView Venue Website",
+     "links": [
+      {
+       "label": "+ Google Map",
+       "href": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=1446+US-6+Wellfleet+MA+02667+United+States"
+      },
+      {
+       "label": "774-383-3133",
+       "href": "tel:774-383-3133"
+      },
+      {
+       "label": "View Venue Website",
+       "href": "/"
+      }
+     ],
+     "ariaLabels": [
+      "Venue location map"
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "categories",
+     "text": "Categories:\nPop-Ups",
+     "links": [
+      {
+       "label": "Pop-Ups",
+       "href": "/events-calendar/category/pop-ups/"
+      }
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "tags",
+     "text": "Tags:\nbest,\ncape cod cannabis,\nedible drinks,\nlevia,\nthc seltzers",
+     "links": [
+      {
+       "label": "best",
+       "href": "/tag/best/"
+      },
+      {
+       "label": "cape cod cannabis",
+       "href": "/tag/cape-cod-cannabis/"
+      },
+      {
+       "label": "edible drinks",
+       "href": "/tag/edible-drinks/"
+      },
+      {
+       "label": "levia",
+       "href": "/tag/levia/"
+      },
+      {
+       "label": "thc seltzers",
+       "href": "/tag/thc-seltzers/"
+      }
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "export",
+     "text": "Add to calendar\nGoogle Calendar\niCalendar\nOutlook 365\nOutlook Live",
+     "links": [
+      {
+       "label": "Google Calendar",
+       "href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20260516T130000/20260516T150000&text=Levia%20Pop-Up&details=%3Ch3%3E%3Cstrong%3ELearn+more+about+Levia+products%21%3C%2Fstrong%3E%3C%2Fh3%3EAt+LEVIA%2C+we+are+creating+the+best+tasting+social+seltzer%C2%A0%3Cb%3EEVER%3C%2Fb%3E.+Rooted+in+simple%2C+all-natural+ingredients%2C+LEVIA+will+elevate+your+experience+with+a+fast+%26amp%3B+predictable+onset+of+effects.%26nbsp%3B%3Cimg+class%3D%22tinc_seltzers_lettering+aligncenter%22+src%3D%22https%3A%2F%2Flevia.buzz%2Fwp-content%2Fuploads%2Fsites%2F28%2F2021%2F01%2FLEVIA-seltzers.png%22+alt%3D%22LEVIA+Seltzers%22+width%3D%22579%22+height%3D%22206%22+%2F%3E%3Cdiv+class%3D%22et_pb_module+graphic_headline_text+et_pb_text_align_center%22%3E%3Cdiv+class%3D%22et_pb_text_inner%22%3E%3Cp+style%3D%22text-align%3A+center%3B%22%3ECannabis-Infused+Social+Seltzer+with+Natural+Flavors5MG+THC+%E2%80%A2+Zero+Calories+%E2%80%A2+Zero+Sugar%3C%2Fp%3E+%3C%2Fdiv%3E%3C%2Fdiv%3E%26nbsp%3B%3Cimg+class%3D%22aligncenter%22+src%3D%22https%3A%2F%2Fimages.dutchie.com%2Fc526de1e7dead2d4ed714b7db70d7dbe%22+alt%3D%22Applanche+%7C+Seasonal+Blend+I+Seltzer+I+12oz+image+0%22+width%3D%22334%22+height%3D%22334%22+%2F%3E%26nbsp%3B%3Ch1+style%3D%22text-align%3A+center%3B%22%3EThe+FinestCannabis+Goods%3C%2Fh1%3E%3Cp+class%3D%22p_med%22+style%3D%22tex+%28View+Full+event+Description+Here%3A+https%3A%2F%2Fcapecodcannabis.com%2Fevent%2Flevia-pop-up%2F%29&location=Cape%20Cod%20Cannabis,%201446%20US-6,%20Wellfleet,%20MA,%2002667,%20United%20States&trp=false&ctz=America/New_York&sprop=website:https://capecodcannabis.com"
+      },
+      {
+       "label": "iCalendar",
+       "href": "/event/levia-pop-up/?ical=1"
+      },
+      {
+       "label": "Outlook 365",
+       "href": "https://outlook.office.com/owa/?path=/calendar/action/compose&rrv=addevent&startdt=2026-05-16T13%3A00%3A00-04%3A00&enddt=2026-05-16T15%3A00%3A00-04%3A00&location=Cape%20Cod%20Cannabis,%201446%20US-6,%20Wellfleet,%20MA,%2002667,%20United%20States&subject=Levia%20Pop-Up&body=Learn%20more%20about%20Levia%20products%21At%20LEVIA%2C%20we%20are%20creating%20the%20best%20tasting%20social%20seltzer%C2%A0EVER.%20Rooted%20in%20simple%2C%20all-natural%20ingredients%2C%20LEVIA%20will%20elevate%20your%20experience%20with%20a%20fast%20%26amp%3B%20predictable%20onset%20of%20effects.%26nbsp%3B%3Cp%20style%3D%22text-align%3A%20center%3B%22%3ECannabis-Infused%20Social%20Seltzer%20with%20Natural%20Flavors5MG%20THC%20%E2%80%A2%20Zero%20Calories%20%E2%80%A2%20Zero%20Sugar%3C%2Fp%3E%26nbsp%3B%26nbsp%3BThe%20FinestCannabis%20Goods%3Cp%20class%3D%22p_med%22%20style%3D%22text-align%3A%20center%3B%22%3ECrafted%20WithPremium%20IngredientsAnd%20a%20Superior%20Process%3C%2Fp%3E%26nbsp%3B%26nbsp%3BClick%20to%20shop%20Levia%20products%21%26nbsp%3B"
+      },
+      {
+       "label": "Outlook Live",
+       "href": "https://outlook.live.com/owa/?path=/calendar/action/compose&rrv=addevent&startdt=2026-05-16T13%3A00%3A00-04%3A00&enddt=2026-05-16T15%3A00%3A00-04%3A00&location=Cape%20Cod%20Cannabis,%201446%20US-6,%20Wellfleet,%20MA,%2002667,%20United%20States&subject=Levia%20Pop-Up&body=Learn%20more%20about%20Levia%20products%21At%20LEVIA%2C%20we%20are%20creating%20the%20best%20tasting%20social%20seltzer%C2%A0EVER.%20Rooted%20in%20simple%2C%20all-natural%20ingredients%2C%20LEVIA%20will%20elevate%20your%20experience%20with%20a%20fast%20%26amp%3B%20predictable%20onset%20of%20effects.%26nbsp%3B%3Cp%20style%3D%22text-align%3A%20center%3B%22%3ECannabis-Infused%20Social%20Seltzer%20with%20Natural%20Flavors5MG%20THC%20%E2%80%A2%20Zero%20Calories%20%E2%80%A2%20Zero%20Sugar%3C%2Fp%3E%26nbsp%3B%26nbsp%3BThe%20FinestCannabis%20Goods%3Cp%20class%3D%22p_med%22%20style%3D%22text-align%3A%20center%3B%22%3ECrafted%20WithPremium%20IngredientsAnd%20a%20Superior%20Process%3C%2Fp%3E%26nbsp%3B%26nbsp%3BClick%20to%20shop%20Levia%20products%21%26nbsp%3B"
+      }
+     ],
+     "ariaLabels": [
+      "View links to add events to your calendar"
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "navigation",
+     "text": "Blackstone Valley Cannabis Pop-Up on 4/20\nWana Pop-Up Event",
+     "links": [
+      {
+       "label": "Blackstone Valley Cannabis Pop-Up on 4/20",
+       "href": "/event/blackstone-valley-cannabis-pop-up-on-4-20/"
+      },
+      {
+       "label": "Wana Pop-Up Event",
+       "href": "/event/wana-pop-up-event/"
+      }
+     ],
+     "ariaLabels": [
+      "Events"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "a7bb484",
+   "doc": "tec_event_single_dynamic#92071",
+   "hiddenAll": true,
+   "dev": [],
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/4e56cc74-levia-logo-bottom-type-opt.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/05/levia-logo-bottom-type-opt.png?lossy=2&strip=0&webp=1",
+     "alt": "",
+     "w": 340,
+     "h": 206,
+     "kind": "event-image",
+     "dev": [],
+     "hiddenAll": true
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "c7b579f",
+   "doc": "tec_event_single_dynamic#92071",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/c0c34846-CCC_Logo_650px-geo-tag-r9v1ohpw5zerbd7bkhgpgccbma2ezjddi6xfhghm0u.jpg",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/elementor/thumbs/CCC_Logo_650px-geo-tag-r9v1ohpw5zerbd7bkhgpgccbma2ezjddi6xfhghm0u.jpg?lossy=2&strip=0&webp=1",
+     "alt": "Cape Cod Cannabis Recreational Dispensary near me in Wellfleet, MA ... it's worth the trip!",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary near me in Wellfleet, MA … it’s worth the trip!"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": null,
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong><em>Cape Cod Cannabis…always worth the trip!</em></strong></p>"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "event-field": 9,
+  "heading": 2,
+  "image": 3,
+  "rich": 5
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "tec-loading-spinner",
+    "text": "Loading Events",
+    "reason": "The Events Calendar AJAX loading spinner (plugin runtime UI, origin wp-content gif); declared in removals.json"
+   },
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [],
+  "aliasesResolved": [
+   {
+    "from": "https://capecodcannabis.com/events-calendar/",
+    "to": "/events-calendar/"
+   },
+   {
+    "from": "/brands/levia/",
+    "to": "/brands/levia/"
+   },
+   {
+    "from": "https://capecodcannabis.com/event/levia-pop-up/?ical=1",
+    "to": "/event/levia-pop-up/?ical=1"
+   },
+   {
+    "from": "https://capecodcannabis.com/event/blackstone-valley-cannabis-pop-up-on-4-20/",
+    "to": "/event/blackstone-valley-cannabis-pop-up-on-4-20/"
+   },
+   {
+    "from": "https://capecodcannabis.com/event/wana-pop-up-event/",
+    "to": "/event/wana-pop-up-event/"
+   }
+  ],
+  "imagesMissing": [
+   {
+    "srcUrl": "https://levia.buzz/wp-content/uploads/sites/28/2021/01/LEVIA-seltzers.png",
+    "missing": "download-failed"
+   },
+   {
+    "srcUrl": "https://images.dutchie.com/c526de1e7dead2d4ed714b7db70d7dbe",
+    "missing": "not-inventoried"
+   }
+  ],
+  "h1InRich": 0
+ }
+}

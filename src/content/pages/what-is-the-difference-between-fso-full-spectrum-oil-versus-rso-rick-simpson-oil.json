@@ -1,0 +1,983 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/what-is-the-difference-between-fso-full-spectrum-oil-versus-rso-rick-simpson-oil/",
+ "sourceUrl": "https://capecodcannabis.com/what-is-the-difference-between-fso-full-spectrum-oil-versus-rso-rick-simpson-oil/",
+ "requestedUrl": "https://capecodcannabis.com/what-is-the-difference-between-fso-full-spectrum-oil-versus-rso-rick-simpson-oil",
+ "slug": "what-is-the-difference-between-fso-full-spectrum-oil-versus-rso-rick-simpson-oil",
+ "kind": "blog-post",
+ "wpTemplate": "post",
+ "derived": false,
+ "rawFile": "audit/raw/what-is-the-difference-between-fso-full-spectrum-oil-versus-rso-rick-simpson-oil.html",
+ "rawSha256": "8c1e1820e4baf7636bfa7fee0a9973c776422bbe5832664c3dfb0bcd5cb0515e",
+ "regionKind": "body-minus-chrome",
+ "title": "What is the difference between FSO (Full-Spectrum Oil) versus RSO (Rick Simpson Oil)? | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+ "metaDescription": "When searching for the best dispensary near me on Cape Cod, many customers want to know more about different types of cannabis oils—especially Full-Spectrum",
+ "canonical": "https://capecodcannabis.com/what-is-the-difference-between-fso-full-spectrum-oil-versus-rso-rick-simpson-oil/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "What is the difference between FSO (Full-Spectrum Oil) versus RSO (Rick Simpson Oil)? | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "When searching for the best dispensary near me on Cape Cod, many customers want to know more about different types of cannabis oils—especially Full-Spectrum",
+  "url": "https://capecodcannabis.com/what-is-the-difference-between-fso-full-spectrum-oil-versus-rso-rick-simpson-oil/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2025-09-01T17:23:02-04:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2025/09/rso-fso.png",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/2025/09/rso-fso.png",
+  "image:width": "1024",
+  "image:height": "512",
+  "image:alt": "What is the difference between FSO (Full-Spectrum Oil) versus RSO (Rick Simpson Oil)? Cape Cod Cannabis in Wellfleet, MA",
+  "image:type": "image/png"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438",
+  "tag": [
+   "cape cod cannabis",
+   "dispensary near me",
+   "fso",
+   "full-spectrum oil",
+   "rick simpson oil",
+   "rso",
+   "what is the difference between FSO and RSO?"
+  ],
+  "section": "Cannabis 101",
+  "published_time": "2025-09-01T17:15:03-04:00",
+  "modified_time": "2025-09-01T17:23:02-04:00"
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "What is the difference between FSO (Full-Spectrum Oil) versus RSO (Rick Simpson Oil)? | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "When searching for the best dispensary near me on Cape Cod, many customers want to know more about different types of cannabis oils—especially Full-Spectrum",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2025/09/rso-fso.png",
+  "label1": "Written by",
+  "data1": "rrh_clientadmin",
+  "label2": "Time to read",
+  "data2": "2 minutes"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Place",
+     "@id": "https://capecodcannabis.com/#place",
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.916265712481554",
+      "longitude": "-69.98840341462632"
+     },
+     "hasMap": "https://www.google.com/maps/search/?api=1&amp;query=41.916265712481554,-69.98840341462632",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     }
+    },
+    {
+     "@type": [
+      "LocalBusiness",
+      "Organization"
+     ],
+     "@id": "https://capecodcannabis.com/#organization",
+     "name": "Cape Cod Cannabis in Wellfleet - Best dispensary on Cape Cod.",
+     "url": "https://capecodcannabis.com",
+     "sameAs": [
+      "https://www.facebook.com/profile.php?id=100077867156438",
+      "https://twitter.com/capecodcanna"
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "logo": {
+      "@type": "ImageObject",
+      "@id": "https://capecodcannabis.com/#logo",
+      "url": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "contentUrl": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "caption": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+      "inLanguage": "en-US",
+      "width": "700",
+      "height": "500"
+     },
+     "openingHours": [
+      "Mo,Tu,We,Th,Fr,Sa,Su 8:00 - 8:00"
+     ],
+     "description": "Welcome to Cape Cod Cannabis, recognized by many as the Best Dispensary on Cape Cod, located in Wellfleet. Conveniently situated in the Route 6 shopping plaza in South Wellfleet, we are a trusted destination for both locals and visitors traveling from Provincetown, Truro, Wellfleet, Eastham, Orleans, Brewster, Dennis, Harwich, Chatham, Yarmouth, Sandwich and across the Cape and beyond.\n\nCape Cod Cannabis, your go-to cannabis haven, offers a carefully curated selection of high quality products, including flower, pre-rolls, edibles, vaporizers, concentrates, tinctures, topicals, CBD, accessories, and more. With a focus on education, selection, and a welcoming experience, we make it easy to explore and find what works best for you whether you are visiting the Cape or live here year round.",
+     "location": {
+      "@id": "https://capecodcannabis.com/#place"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/#logo"
+     },
+     "telephone": "+1-774-383-3133"
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://capecodcannabis.com/#website",
+     "url": "https://capecodcannabis.com",
+     "name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+     "alternateName": "Cape Cod Cannabis | Wellfleet's Top Rated Cannabis Store on Cape Cod",
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "https://capecodcannabis.com/wp-content/uploads/2025/09/rso-fso.png",
+     "url": "https://capecodcannabis.com/wp-content/uploads/2025/09/rso-fso.png",
+     "width": "1024",
+     "height": "512",
+     "caption": "What is the difference between FSO (Full-Spectrum Oil) versus RSO (Rick Simpson Oil)? Cape Cod Cannabis in Wellfleet, MA",
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/what-is-the-difference-between-fso-full-spectrum-oil-versus-rso-rick-simpson-oil/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/category/cannabis-101/",
+        "name": "Cannabis 101"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "3",
+       "item": {
+        "@id": "https://capecodcannabis.com/what-is-the-difference-between-fso-full-spectrum-oil-versus-rso-rick-simpson-oil/",
+        "name": "What is the difference between FSO (Full-Spectrum Oil) versus RSO (Rick Simpson Oil)?"
+       }
+      }
+     ]
+    },
+    {
+     "@type": "WebPage",
+     "@id": "https://capecodcannabis.com/what-is-the-difference-between-fso-full-spectrum-oil-versus-rso-rick-simpson-oil/#webpage",
+     "url": "https://capecodcannabis.com/what-is-the-difference-between-fso-full-spectrum-oil-versus-rso-rick-simpson-oil/",
+     "name": "What is the difference between FSO (Full-Spectrum Oil) versus RSO (Rick Simpson Oil)? | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "datePublished": "2025-09-01T17:15:03-04:00",
+     "dateModified": "2025-09-01T17:23:02-04:00",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2025/09/rso-fso.png"
+     },
+     "inLanguage": "en-US",
+     "breadcrumb": {
+      "@id": "https://capecodcannabis.com/what-is-the-difference-between-fso-full-spectrum-oil-versus-rso-rick-simpson-oil/#breadcrumb"
+     }
+    },
+    {
+     "@type": "Person",
+     "@id": "https://capecodcannabis.com/what-is-the-difference-between-fso-full-spectrum-oil-versus-rso-rick-simpson-oil/#author",
+     "name": "rrh_clientadmin",
+     "image": {
+      "@type": "ImageObject",
+      "@id": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "url": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "caption": "rrh_clientadmin",
+      "inLanguage": "en-US"
+     },
+     "worksFor": {
+      "@id": "https://capecodcannabis.com/#organization"
+     }
+    },
+    {
+     "@type": "Article",
+     "headline": "What is the difference between FSO (Full-Spectrum Oil) versus RSO (Rick Simpson Oil)? | Cape Cod Cannabis",
+     "keywords": "full-spectrum oil,rick simpson oil",
+     "datePublished": "2025-09-01T17:15:03-04:00",
+     "dateModified": "2025-09-01T17:23:02-04:00",
+     "articleSection": "Cannabis 101",
+     "author": {
+      "@id": "https://capecodcannabis.com/what-is-the-difference-between-fso-full-spectrum-oil-versus-rso-rick-simpson-oil/#author",
+      "name": "rrh_clientadmin"
+     },
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "description": "When searching for the best dispensary near me on Cape Cod, many customers want to know more about different types of cannabis oils—especially Full-Spectrum",
+     "name": "What is the difference between FSO (Full-Spectrum Oil) versus RSO (Rick Simpson Oil)? | Cape Cod Cannabis",
+     "@id": "https://capecodcannabis.com/what-is-the-difference-between-fso-full-spectrum-oil-versus-rso-rick-simpson-oil/#richSnippet",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/what-is-the-difference-between-fso-full-spectrum-oil-versus-rso-rick-simpson-oil/#webpage"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2025/09/rso-fso.png"
+     },
+     "inLanguage": "en-US",
+     "mainEntityOfPage": {
+      "@id": "https://capecodcannabis.com/what-is-the-difference-between-fso-full-spectrum-oil-versus-rso-rick-simpson-oil/#webpage"
+     }
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "h1": "What is the difference between FSO (Full-Spectrum Oil) versus RSO (Rick Simpson Oil)?",
+ "h1Source": {
+  "count": 2,
+  "visible": 2,
+  "hidden": 0,
+  "note": "source has several visible h1s; the first is primary, the rest carry demote:true"
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Cannabis 101",
+   "href": "/category/cannabis-101/"
+  },
+  {
+   "label": "What is the difference between FSO (Full-Spectrum Oil) versus RSO (Rick Simpson Oil)?",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "visible",
+ "breadcrumbsSeparator": " / ",
+ "breadcrumbsLabel": "breadcrumbs",
+ "breadcrumbsInRegion": true,
+ "section": null,
+ "sections": [
+  {
+   "n": 0,
+   "id": "3f1093a4",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "What is the difference between FSO (Full-Spectrum Oil) versus RSO (Rick Simpson Oil)?"
+    },
+    {
+     "t": "meta",
+     "items": [
+      {
+       "text": "September 1, 2025",
+       "href": "/2025/09/01/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "9b43577",
+   "doc": "wp-post#145815",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "FSO vs. RSO: What’s the Difference? | Cape Cod Cannabis",
+     "demote": true
+    },
+    {
+     "t": "rich",
+     "html": "<p>When searching for the <b>best dispensary near me</b> on Cape Cod, many customers want to know more about different types of cannabis oils—especially <b><a href=\"/?s=fso\">Full-Spectrum Oil</a> (FSO)</b> and <b><a href=\"/?s=rso\">Rick Simpson Oil</a> (RSO)</b>. At <b>Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA</b>, we believe that an informed customer is a confident customer. Here’s a clear comparison to help you understand the key differences, benefits, and uses of FSO vs. RSO.</p><p>The main difference is that RSO (<a href=\"/?s=rso\">Rick Simpson Oil</a>) is a specific type of high-potency, full-spectrum oil originally created by Rick Simpson using a particular solvent (often alcohol) and high-THC strains, while FSO (<a href=\"/?s=fso\">Full-Spectrum Oil</a>) is a broader category for whole-plant extracts that preserve the cannabis plant’s full profile of cannabinoids, terpenes, and other compounds, which can be made with various solvents and processes. Essentially, RSO is a well-known historical example of FSO, but most commercial “RSO” products are now carefully monitored FSOs.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "What Is Full-Spectrum Oil (FSO)?"
+    },
+    {
+     "t": "rich",
+     "html": "<p><b>Full-Spectrum Oil (FSO)</b> is a cannabis extract that contains the full range of cannabinoids, terpenes, flavonoids, and other natural plant compounds. This means it includes <b>THC, CBD, CBG, and minor cannabinoids</b> working together in what’s known as the <b>entourage effect</b>.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Benefits of FSO:"
+    },
+    {
+     "t": "rich",
+     "html": "<ul><li><p>Balanced cannabinoid profile for a well-rounded effect</p></li><li><p>Preserves terpenes, which may enhance flavor and therapeutic benefits</p></li><li><p>Available in tinctures, capsules, and vape cartridges</p></li><li><p>Suitable for daytime or evening use depending on the strain</p></li></ul>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "What Is Rick Simpson Oil (RSO)?"
+    },
+    {
+     "t": "rich",
+     "html": "<p><b>Rick Simpson Oil (RSO)</b> is a highly concentrated cannabis oil named after its creator, Rick Simpson. Unlike most extracts, RSO is typically <b>very high in THC</b> and often used by medical cannabis patients seeking strong, long-lasting effects.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Benefits of RSO:"
+    },
+    {
+     "t": "rich",
+     "html": "<ul><li><p>Extremely potent with high THC levels</p></li><li><p>Typically ingested orally in small doses (grain-of-rice size)</p></li><li><p>Often chosen for wellness-focused use and relief management</p></li><li><p>Sticky, tar-like consistency</p></li></ul>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Key Differences Between FSO and RSO"
+    },
+    {
+     "t": "rich",
+     "html": "<table><thead><tr><th><p><b>Feature</b></p></th><th><p><b>Full-Spectrum Oil (FSO)</b></p></th><th><p><b>Rick Simpson Oil (RSO)</b></p></th></tr></thead><tbody><tr><td><p>Cannabinoid Profile</p></td><td><p>Broad mix of THC, CBD &amp; minor cannabinoids</p></td><td><p>High THC concentration</p></td></tr><tr><td><p>Terpenes</p></td><td><p>Retains natural flavors &amp; aromas</p></td><td><p>Often stronger, earthy taste</p></td></tr><tr><td><p>Usage</p></td><td><p>Tinctures, vapes, edibles</p></td><td><p>Orally (small doses), capsules</p></td></tr><tr><td><p>Potency</p></td><td><p>Moderate to strong</p></td><td><p>Very strong (high-THC)</p></td></tr><tr><td><p>Best For</p></td><td><p>Everyday balance, entourage effect</p></td><td><p>Targeted relief, medical use</p></td></tr></tbody></table>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Which One Is Right for You?"
+    },
+    {
+     "t": "rich",
+     "html": "<ul><li><p>If you’re looking for <b>balanced effects, natural flavor, and everyday versatility</b>, <a href=\"/?s=fso\"><b>FSO</b></a> might be the better fit.</p></li><li><p>If you’re seeking <b>high potency, long-lasting relief, or targeted medical benefits</b>, <a href=\"/?s=rso\"><b>RSO</b></a> may be more suitable.</p></li></ul><p>Our <b>knowledgeable Cape Cod Cannabis team in Wellfleet</b> is here to <a href=\"/faqs-420/\">answer your questions</a> and guide you toward the product that fits your needs best.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Shop Cannabis Oils & Cannabis products on Cape Cod"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Searching for a <b>dispensary near me</b> with high-quality cannabis oils? At <b>Cape Cod Cannabis</b>, we carry a wide selection of <b><a href=\"/?s=fso\">Full-Spectrum Oils (FSO)</a>, <a href=\"/?s=rso\">Rick Simpson Oil (RSO)</a>, <a href=\"/categories/tinctures/\">tinctures</a>, <a href=\"/categories/vaporizers/\">vaporizers</a>, <a href=\"/categories/edibles/\">edibles</a>, <a href=\"/categories/flower/\">flower</a>, <a href=\"/categories/concentrates/\">concentrates</a>, <a href=\"/categories/topicals/\">topicals</a>, <a href=\"/categories/seeds/\">cannabis seeds</a>, <a href=\"/categories/cbd/\">CBD</a> and <a href=\"/categories/pre-rolls/\">pre-rolls</a></b>. Whether you’re a local resident or visiting the Cape, we provide top-notch products, friendly service, and convenient online ordering for in-store pickup.</p><p><a href=\"/directions/\">Visit us today in South Wellfleet</a>, right off Route 6, and discover why Cape Cod Cannabis is the <b>#1 choice for dispensaries on Cape Cod</b>.</p>"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "329af6c",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "postnav",
+     "prev": {
+      "srLabel": "Prev",
+      "title": "Embracing the End of Summer on Cape Cod",
+      "href": "/embracing-the-end-of-summer-on-cape-cod/"
+     },
+     "next": {
+      "title": "The Ancient Origins of Halloween October 31st and our Toke or Treat",
+      "srLabel": "Next",
+      "href": "/the-ancient-origins-of-halloween-toke-or-treat/"
+     },
+     "ariaLabels": [
+      "Post Navigation"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": "9ba89d6",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "comments",
+     "note": "WordPress comment form; no comment backend in a static rebuild"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "comments": 1,
+  "heading": 9,
+  "meta": 1,
+  "postnav": 1,
+  "rich": 8
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [],
+  "aliasesResolved": [
+   {
+    "from": "https://capecodcannabis.com/2025/09/01/",
+    "to": "/2025/09/01/"
+   },
+   {
+    "from": "/faqs-420/",
+    "to": "/faqs-420/"
+   },
+   {
+    "from": "/categories/tinctures",
+    "to": "/categories/tinctures/"
+   },
+   {
+    "from": "/categories/vaporizers",
+    "to": "/categories/vaporizers/"
+   },
+   {
+    "from": "/categories/edibles",
+    "to": "/categories/edibles/"
+   },
+   {
+    "from": "/categories/flower",
+    "to": "/categories/flower/"
+   },
+   {
+    "from": "/categories/concentrates",
+    "to": "/categories/concentrates/"
+   },
+   {
+    "from": "/categories/topicals",
+    "to": "/categories/topicals/"
+   },
+   {
+    "from": "/categories/seeds",
+    "to": "/categories/seeds/"
+   },
+   {
+    "from": "/categories/cbd",
+    "to": "/categories/cbd/"
+   },
+   {
+    "from": "/categories/pre-rolls",
+    "to": "/categories/pre-rolls/"
+   },
+   {
+    "from": "/directions",
+    "to": "/directions/"
+   },
+   {
+    "from": "https://capecodcannabis.com/embracing-the-end-of-summer-on-cape-cod/",
+    "to": "/embracing-the-end-of-summer-on-cape-cod/"
+   },
+   {
+    "from": "https://capecodcannabis.com/the-ancient-origins-of-halloween-toke-or-treat/",
+    "to": "/the-ancient-origins-of-halloween-toke-or-treat/"
+   },
+   {
+    "from": "https://capecodcannabis.com/category/cannabis-101/",
+    "to": "/category/cannabis-101/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

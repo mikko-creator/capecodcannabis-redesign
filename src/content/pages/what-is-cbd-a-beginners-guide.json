@@ -1,0 +1,1116 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/what-is-cbd-a-beginners-guide/",
+ "sourceUrl": "https://capecodcannabis.com/what-is-cbd-a-beginners-guide/",
+ "requestedUrl": "https://capecodcannabis.com/what-is-cbd-a-beginners-guide",
+ "slug": "what-is-cbd-a-beginners-guide",
+ "kind": "blog-post",
+ "wpTemplate": "post",
+ "derived": false,
+ "rawFile": "audit/raw/what-is-cbd-a-beginners-guide.html",
+ "rawSha256": "ba2972dbeba0a50866a14abb5612e5348ea2f8e8402beb3deac1e0b840c8ee38",
+ "regionKind": "body-minus-chrome",
+ "title": "What Is CBD? A Beginner's Guide | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+ "metaDescription": "What is CBD? Discover how CBD works, explore its potential benefits, and learn about CBD products in this beginner's guide from Cape Cod Cannabis, your trusted dispensary in Wellfleet.",
+ "canonical": "https://capecodcannabis.com/what-is-cbd-a-beginners-guide/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "What Is CBD? A Beginner's Guide | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "What is CBD? Discover how CBD works, explore its potential benefits, and learn about CBD products in this beginner's guide from Cape Cod Cannabis, your trusted dispensary in Wellfleet.",
+  "url": "https://capecodcannabis.com/what-is-cbd-a-beginners-guide/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2026-09-17T10:08:13-04:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2021/12/cbd.jpg",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/2021/12/cbd.jpg",
+  "image:width": "1200",
+  "image:height": "682",
+  "image:alt": "CBD",
+  "image:type": "image/jpeg"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438",
+  "tag": [
+   "benefits of cbd",
+   "cape cod cannabis",
+   "cbd",
+   "introduction to cbd",
+   "wellfleet dispensary",
+   "what is CBD?",
+   "What is the difference between CBD and THC?"
+  ],
+  "section": "Start Here",
+  "published_time": "2026-07-01T11:55:38-04:00",
+  "modified_time": "2026-09-17T10:08:13-04:00"
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "What Is CBD? A Beginner's Guide | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "What is CBD? Discover how CBD works, explore its potential benefits, and learn about CBD products in this beginner's guide from Cape Cod Cannabis, your trusted dispensary in Wellfleet.",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2021/12/cbd.jpg",
+  "label1": "Written by",
+  "data1": "rrh_clientadmin",
+  "label2": "Time to read",
+  "data2": "8 minutes"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Place",
+     "@id": "https://capecodcannabis.com/#place",
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.916265712481554",
+      "longitude": "-69.98840341462632"
+     },
+     "hasMap": "https://www.google.com/maps/search/?api=1&amp;query=41.916265712481554,-69.98840341462632",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     }
+    },
+    {
+     "@type": [
+      "LocalBusiness",
+      "Organization"
+     ],
+     "@id": "https://capecodcannabis.com/#organization",
+     "name": "Cape Cod Cannabis in Wellfleet - Best dispensary on Cape Cod.",
+     "url": "https://capecodcannabis.com",
+     "sameAs": [
+      "https://www.facebook.com/profile.php?id=100077867156438",
+      "https://twitter.com/capecodcanna"
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "logo": {
+      "@type": "ImageObject",
+      "@id": "https://capecodcannabis.com/#logo",
+      "url": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "contentUrl": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "caption": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+      "inLanguage": "en-US",
+      "width": "700",
+      "height": "500"
+     },
+     "openingHours": [
+      "Mo,Tu,We,Th,Fr,Sa,Su 8:00 - 8:00"
+     ],
+     "description": "Welcome to Cape Cod Cannabis, recognized by many as the Best Dispensary on Cape Cod, located in Wellfleet. Conveniently situated in the Route 6 shopping plaza in South Wellfleet, we are a trusted destination for both locals and visitors traveling from Provincetown, Truro, Wellfleet, Eastham, Orleans, Brewster, Dennis, Harwich, Chatham, Yarmouth, Sandwich and across the Cape and beyond.\n\nCape Cod Cannabis, your go-to cannabis haven, offers a carefully curated selection of high quality products, including flower, pre-rolls, edibles, vaporizers, concentrates, tinctures, topicals, CBD, accessories, and more. With a focus on education, selection, and a welcoming experience, we make it easy to explore and find what works best for you whether you are visiting the Cape or live here year round.",
+     "location": {
+      "@id": "https://capecodcannabis.com/#place"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/#logo"
+     },
+     "telephone": "+1-774-383-3133"
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://capecodcannabis.com/#website",
+     "url": "https://capecodcannabis.com",
+     "name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+     "alternateName": "Cape Cod Cannabis | Wellfleet's Top Rated Cannabis Store on Cape Cod",
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "https://capecodcannabis.com/wp-content/uploads/2021/12/cbd.jpg",
+     "url": "https://capecodcannabis.com/wp-content/uploads/2021/12/cbd.jpg",
+     "width": "1200",
+     "height": "682",
+     "caption": "CBD",
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/what-is-cbd-a-beginners-guide/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/category/start-here/",
+        "name": "Start Here"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "3",
+       "item": {
+        "@id": "https://capecodcannabis.com/what-is-cbd-a-beginners-guide/",
+        "name": "What Is CBD? A Beginner&#8217;s Guide"
+       }
+      }
+     ]
+    },
+    {
+     "@type": "WebPage",
+     "@id": "https://capecodcannabis.com/what-is-cbd-a-beginners-guide/#webpage",
+     "url": "https://capecodcannabis.com/what-is-cbd-a-beginners-guide/",
+     "name": "What Is CBD? A Beginner&#039;s Guide | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "datePublished": "2026-07-01T11:55:38-04:00",
+     "dateModified": "2026-09-17T10:08:13-04:00",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2021/12/cbd.jpg"
+     },
+     "inLanguage": "en-US",
+     "breadcrumb": {
+      "@id": "https://capecodcannabis.com/what-is-cbd-a-beginners-guide/#breadcrumb"
+     }
+    },
+    {
+     "@type": "Person",
+     "@id": "https://capecodcannabis.com/what-is-cbd-a-beginners-guide/#author",
+     "name": "rrh_clientadmin",
+     "image": {
+      "@type": "ImageObject",
+      "@id": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "url": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "caption": "rrh_clientadmin",
+      "inLanguage": "en-US"
+     },
+     "worksFor": {
+      "@id": "https://capecodcannabis.com/#organization"
+     }
+    },
+    {
+     "@type": "Article",
+     "headline": "What Is CBD? A Beginner&#039;s Guide | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA | Cape",
+     "keywords": "what is cbd",
+     "datePublished": "2026-07-01T11:55:38-04:00",
+     "dateModified": "2026-09-17T10:08:13-04:00",
+     "articleSection": "Cannabis 101, Start Here",
+     "author": {
+      "@id": "https://capecodcannabis.com/what-is-cbd-a-beginners-guide/#author",
+      "name": "rrh_clientadmin"
+     },
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "description": "What is CBD? Discover how CBD works, explore its potential benefits, and learn about CBD products in this beginner&#039;s guide from Cape Cod Cannabis, your trusted dispensary in Wellfleet.",
+     "name": "What Is CBD? A Beginner&#039;s Guide | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA | Cape",
+     "@id": "https://capecodcannabis.com/what-is-cbd-a-beginners-guide/#richSnippet",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/what-is-cbd-a-beginners-guide/#webpage"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2021/12/cbd.jpg"
+     },
+     "inLanguage": "en-US",
+     "mainEntityOfPage": {
+      "@id": "https://capecodcannabis.com/what-is-cbd-a-beginners-guide/#webpage"
+     }
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "h1": "What Is CBD? A Beginner’s Guide",
+ "h1Source": {
+  "count": 1,
+  "visible": 1,
+  "hidden": 0
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Start Here",
+   "href": "/category/start-here/"
+  },
+  {
+   "label": "What Is CBD? A Beginner’s Guide",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "visible",
+ "breadcrumbsSeparator": " / ",
+ "breadcrumbsLabel": "breadcrumbs",
+ "breadcrumbsInRegion": true,
+ "section": null,
+ "sections": [
+  {
+   "n": 0,
+   "id": "3f1093a4",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "What Is CBD? A Beginner’s Guide"
+    },
+    {
+     "t": "meta",
+     "items": [
+      {
+       "text": "July 1, 2026",
+       "href": "/2026/07/01/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "1be748f",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/2119ffa4-Canna-101-CCC-Logo.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/12/Canna-101-CCC-Logo.png?lossy=2&strip=0&webp=1",
+     "alt": "Cannabis 101: A Beginner's Guide to Cannabis from Cape Cod Cannabis in Wellfleet, MA",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 449,
+     "h": 407,
+     "inHeading": true
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "What Is CBD? A Beginner’s Guide"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Cannabidiol, commonly known as CBD, has recently gained significant attention as a natural remedy for a variety of health concerns. As part of the cannabis plant, CBD is one of over a hundred cannabinoids found in hemp and marijuana. Unlike THC, the psychoactive component of cannabis, CBD offers therapeutic benefits without the high. This article will explore the different ways in which CBD can be utilized for everyday issues, providing insights into its benefits for anxiety, body aches, sleep disturbances, and more.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "What is CBD?"
+    },
+    {
+     "t": "rich",
+     "html": "<p>CBD is derived primarily from hemp, a cannabis variety that is low in THC. It is extracted in various forms, including oils, tinctures, edibles, and topical creams. Its non-psychoactive nature makes it appealing to those looking for health benefits without the mind-altering effects associated with marijuana. As more people seek natural alternatives to pharmaceuticals, CBD has emerged as a popular choice for managing stress, pain, and other health conditions.</p><p><img src=\"assets/source/1b4d43ad-CBD-765x330-2b.png\" alt=\"What is CBD? A Beginner's Guide\" width=\"765\" height=\"330\" title=\"What is CBD? A Beginner's Guide\" data-source-url=\"https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/07/CBD-765x330-2b.png?lossy=2&amp;strip=0&amp;webp=1\"></p>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "How does CBD work in the body?"
+    },
+    {
+     "t": "rich",
+     "html": "<p>The human body has a complex system known as the endocannabinoid system (ECS), which plays a crucial role in regulating various physiological processes, including mood, appetite, and pain sensation. CBD interacts with the ECS by binding to cannabinoid receptors, potentially influencing the release of neurotransmitters and promoting homeostasis. This interaction is believed to underlie many of the therapeutic effects attributed to CBD.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "CBD for Anxiety Relief"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Understanding anxiety and its effects"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Anxiety disorders are among the most common mental health issues, affecting millions of people worldwide. Symptoms can range from excessive worrying and restlessness to physical manifestations like increased heart rate and sweating. The traditional treatment methods, including psychotherapy and pharmaceuticals, can sometimes lead to unwanted side effects, prompting many to seek alternative options such as CBD.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Research on CBD and anxiety"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Numerous studies have investigated the efficacy of CBD in reducing anxiety. Research published in journals like Neurotherapeutics has shown that CBD can significantly decrease anxiety levels in both animal models and human clinical trials. It is believed to enhance the brain’s serotonin receptor activity, which is critical for mood regulation. A 2019 study found that 79% of participants experienced reduced anxiety within the first month of using CBD, showcasing its potential as a viable option for managing anxiety disorders.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Personal stories and testimonials"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Many individuals have shared personal success stories regarding their use of CBD for anxiety relief. Users have reported feeling calmer and more relaxed after incorporating CBD into their daily routine. These testimonials highlight CBD’s potential to improve quality of life, particularly for those who may not respond well to conventional treatments.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Using CBD for Body Aches"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Common causes of body aches"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Body aches can stem from a variety of sources ranging from muscle strain, inflammation, chronic conditions, to even stress. Daily activities, overexertion, and injuries can lead to physical discomfort that affects one’s ability to perform everyday tasks. Painkillers and anti-inflammatory medications often come with side effects and risks, encouraging many to consider more natural alternatives like CBD.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "How CBD can alleviate pain"
+    },
+    {
+     "t": "rich",
+     "html": "<p>CBD’s anti-inflammatory properties can provide significant relief for individuals suffering from chronic pain conditions. By interacting with receptors in the ECS, CBD may help reduce inflammation and modulate pain signals sent to the brain. This dual action can lead to a more holistic approach to pain management, potentially reducing reliance on conventional pharmaceuticals.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Different forms of CBD for pain relief"
+    },
+    {
+     "t": "rich",
+     "html": "<p>CBD is available in various forms suitable for pain relief, including oils, balms, and capsules. Topical applications, such as creams or lotions infused with CBD, are particularly popular among those dealing with localized pain. Each form has its own absorption rate and potency, allowing individuals to choose the option that best suits their needs.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Internal Issues and CBD"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Digestive health and CBD"
+    },
+    {
+     "t": "rich",
+     "html": "<p>CBD has shown promise in supporting digestive health. It may help regulate appetite and reduce symptoms related to various gastrointestinal issues, such as irritable bowel syndrome (IBS). The anti-inflammatory properties of CBD can also play a role in alleviating inflammation in the gut, providing a natural remedy for those suffering from digestive distress.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "CBD’s impact on inflammation"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Chronic inflammation is linked to a range of health issues, including autoimmune diseases and even cancer. CBD’s ability to reduce inflammation is gaining recognition among researchers and healthcare professionals. By mitigating inflammation, CBD may help alleviate symptoms associated with numerous conditions, thus promoting overall health and wellness.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Case studies and anecdotal evidence"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Many individuals report improved digestive health and reduced inflammation after using CBD. Anecdotal evidence suggests that CBD can be beneficial in managing conditions like Crohn’s disease and ulcerative colitis, providing symptom relief and improving quality of life. These stories often serve to inspire others to explore CBD as a potential therapeutic option.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Improving Sleep with CBD"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "The importance of sleep for overall health"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Sleep is essential for physical and mental health, yet many individuals face challenges in achieving restful slumber. Sleep deprivation can lead to serious health issues, including weakened immunity, cognitive decline, and increased stress levels. Finding effective solutions for sleep disturbances is critical for maintaining overall well-being.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "How CBD can enhance sleep quality"
+    },
+    {
+     "t": "rich",
+     "html": "<p>CBD may offer a natural solution for sleep issues by addressing the underlying causes of insomnia, such as anxiety and pain. Preliminary studies indicate that CBD can help individuals fall asleep faster and prolong the duration of sleep. By easing anxiety and promoting relaxation, CBD can facilitate a more restful night’s sleep.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Tips for using CBD to improve sleep"
+    },
+    {
+     "t": "rich",
+     "html": "<p>When considering CBD for sleep, it’s important to start with a low dose and gradually increase it until the desired effects are achieved. Many users find that taking CBD about an hour before bed can yield the best results. Additionally, establishing a calming bedtime routine and creating a sleep-conducive environment can enhance the effectiveness of CBD in promoting quality sleep.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Exploring Other Benefits of CBD"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "CBD for stress management"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Chronic stress can have detrimental effects on physical and mental health. CBD has been shown to have anxiolytic properties that may help individuals manage stress more effectively. By promoting a sense of calm and relaxation, CBD may be beneficial for those experiencing high levels of stress in their daily lives.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Skin health and CBD"
+    },
+    {
+     "t": "rich",
+     "html": "<p>CBD is also gaining traction in the skincare industry due to its anti-inflammatory and antioxidant properties. It may help reduce acne, eczema, and psoriasis symptoms by regulating oil production and combating inflammation. Many skincare products now incorporate CBD, offering a natural solution for common skin issues.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Potential benefits for mood regulation"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Beyond its effects on anxiety, CBD may also play a role in mood regulation. By interacting with serotonin receptors, CBD could provide mood-stabilizing effects. This property makes it a potential candidate for individuals struggling with mood disorders, providing a more natural approach to managing their symptoms.</p><hr><p><a href=\"/strains/high-cbd/?strain=high-cbd\"><img src=\"assets/source/00536c65-CBD_Education_and_Information-1-1024x409.png\" alt=\"What is CBD? A Beginner's Guide\" width=\"800\" height=\"320\" title=\"What is CBD? A Beginner's Guide\" data-source-url=\"https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/07/CBD_Education_and_Information-1-1024x409.png?lossy=2&amp;strip=0&amp;webp=1\" data-master=\"assets/source/60443995-CBD_Education_and_Information-1.png\"></a></p>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Conclusion: Embracing CBD for a Healthier Lifestyle"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Recap of the therapeutic benefits"
+    },
+    {
+     "t": "rich",
+     "html": "<p>CBD presents a promising option for individuals seeking natural solutions to various health issues, from anxiety and body aches to sleep disturbances and digestive problems. Its versatility and therapeutic properties make it a popular choice for many, especially those looking for alternatives to traditional medicine.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Final thoughts on incorporating CBD"
+    },
+    {
+     "t": "rich",
+     "html": "<p>As research continues to unveil the potential benefits of CBD, more people are exploring its use as part of a healthier lifestyle. While individual experiences may vary, the growing body of evidence supports the therapeutic benefits of CBD. Whether for stress relief, pain management, or improved sleep, CBD stands out as a natural ally in the quest for overall wellness.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Still have questions about CBD?"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Visit <a href=\"/directions/\">Cape Cod Cannabis in Wellfleet</a>, on Route 6 in South Wellfleet in the shopping plaza, and speak with one of our knowledgeable Product Specialists. Whether you’re exploring CBD for the first time or looking to better understand the differences between CBD products, we’re here to help you make informed decisions.</p><p><a href=\"/strains/high-cbd/?strain=high-cbd\"><img src=\"assets/source/d151dbdc-Shop-Now-Button-200px.png\" alt=\"Shop Now at Cape Cod Cannabis in Wellfleet, MA\" width=\"200\" height=\"69\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/04/Shop-Now-Button-200px.png?lossy=2&amp;strip=0&amp;webp=1\"></a></p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "FAQs"
+    },
+    {
+     "t": "rich",
+     "html": "<ul><li><strong>What is the difference between CBD and THC?</strong> CBD is non-psychoactive and does not produce a high like THC, which is the psychoactive component of cannabis. CBD focuses on therapeutic effects without altering mental state.</li></ul><p><table><thead><tr><th>CBD</th><th>THC</th></tr></thead><tbody><tr><td>Non intoxicating</td><td>Intoxicating</td></tr><tr><td>Found in hemp and cannabis</td><td>Found in cannabis</td></tr><tr><td>May support wellness</td><td>Produces psychoactive effects</td></tr><tr><td>Available in many product types</td><td>Available in many product types</td></tr></tbody></table></p><ul><li><strong>Is CBD legal?</strong> The legal status of CBD varies by country and region. In many places, hemp-derived CBD products containing less than 0.3% THC are legal, but it’s essential to check local laws.</li></ul><ul><li><strong>How do I take CBD?</strong> CBD can be taken in various forms including oils, capsules, edibles, and topicals. The method of consumption may influence the onset and duration of effects.</li></ul><ul><li><strong>Are there side effects of CBD?</strong> While CBD is generally considered safe, some users may experience side effects such as fatigue, changes in appetite, or diarrhea. It’s important to consult with a healthcare professional before starting any new supplement.</li></ul><ul><li><strong>How long does it take for CBD to work?</strong> The onset of effects can vary based on the delivery method. Oils and tinctures may take effect within 15-45 minutes, while edibles could take longer due to digestion time.</li><li><p><strong>Is CBD Right for You?</strong></p><p>CBD may appeal to adults who are interested in:</p><ul><li>Learning about cannabinoids</li><li>Non intoxicating cannabis options</li><li>Exploring hemp derived wellness products</li><li>Understanding the differences between CBD and THC</li></ul></li></ul><hr><p>*All information contained herein and, on our website, www.capecodcannabis.com, is for educational purposes only.</p><p>None of this information should be interpreted as medical or treatment advice for any person or condition. Always consult with a licensed physician in all matters regarding your health. Please see our <a href=\"/disclaimer/\">Disclaimer / MA Laws page</a> for more information.</p>"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "329af6c",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "postnav",
+     "prev": {
+      "srLabel": "Prev",
+      "title": "250 Years of America: Celebrating Independence, Community, and the Spirit of Cape Cod",
+      "href": "/250-years-of-america-and-the-spirit-of-cape-cod/"
+     },
+     "next": {
+      "title": "Massachusetts Cannabis Purchase Limit",
+      "srLabel": "Next",
+      "href": "/massachusetts-cannabis-purchase-limit/"
+     },
+     "ariaLabels": [
+      "Post Navigation"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": "9ba89d6",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "comments",
+     "note": "WordPress comment form; no comment backend in a static rebuild"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "comments": 1,
+  "heading": 29,
+  "image": 1,
+  "meta": 1,
+  "postnav": 1,
+  "rich": 22
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [],
+  "aliasesResolved": [
+   {
+    "from": "https://capecodcannabis.com/2026/07/01/",
+    "to": "/2026/07/01/"
+   },
+   {
+    "from": "https://capecodcannabis.com/strains/high-cbd/?strain=high-cbd",
+    "to": "/strains/high-cbd/?strain=high-cbd"
+   },
+   {
+    "from": "/directions",
+    "to": "/directions/"
+   },
+   {
+    "from": "https://capecodcannabis.com/disclaimer",
+    "to": "/disclaimer/"
+   },
+   {
+    "from": "https://capecodcannabis.com/250-years-of-america-and-the-spirit-of-cape-cod/",
+    "to": "/250-years-of-america-and-the-spirit-of-cape-cod/"
+   },
+   {
+    "from": "https://capecodcannabis.com/massachusetts-cannabis-purchase-limit/",
+    "to": "/massachusetts-cannabis-purchase-limit/"
+   },
+   {
+    "from": "https://capecodcannabis.com/category/start-here/",
+    "to": "/category/start-here/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

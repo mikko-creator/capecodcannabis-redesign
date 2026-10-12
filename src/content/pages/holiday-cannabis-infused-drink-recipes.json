@@ -1,0 +1,1080 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/holiday-cannabis-infused-drink-recipes/",
+ "sourceUrl": "https://capecodcannabis.com/holiday-cannabis-infused-drink-recipes/",
+ "requestedUrl": "https://capecodcannabis.com/holiday-cannabis-infused-drink-recipes",
+ "slug": "holiday-cannabis-infused-drink-recipes",
+ "kind": "blog-post",
+ "wpTemplate": "post",
+ "derived": false,
+ "rawFile": "audit/raw/holiday-cannabis-infused-drink-recipes.html",
+ "rawSha256": "4ac5119ed5c1a5b84bebddb4da55a492e3833517161b5dc2efa4406d205ef5ab",
+ "regionKind": "body-minus-chrome",
+ "title": "The Perfect 420 Holiday Cannabis-Infused Drink Recipes | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+ "metaDescription": "Looking to elevate your holiday celebrations? Try these festive cannabis-infused drink recipes (non-alcoholic) from Cape Cod Cannabis in Wellfleet, MA and",
+ "canonical": "https://capecodcannabis.com/holiday-cannabis-infused-drink-recipes/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "The Perfect 420 Holiday Cannabis-Infused Drink Recipes | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "Looking to elevate your holiday celebrations? Try these festive cannabis-infused drink recipes (non-alcoholic) from Cape Cod Cannabis in Wellfleet, MA and",
+  "url": "https://capecodcannabis.com/holiday-cannabis-infused-drink-recipes/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2026-06-30T11:36:04-04:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2024/10/Mmmmmmmm.jpg",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/2024/10/Mmmmmmmm.jpg",
+  "image:width": "1200",
+  "image:height": "600",
+  "image:alt": "Holiday Cannabis-Infused Drink Recipes - Cape Cod Cannabis in Wellfleet, MA",
+  "image:type": "image/jpeg"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438",
+  "tag": [
+   "cannabis infused drink recipes",
+   "good feels",
+   "thc beverage enhancers"
+  ],
+  "section": "Cape Cod Lifestyle",
+  "published_time": "2024-10-01T14:18:17-04:00",
+  "modified_time": "2026-06-30T11:36:04-04:00"
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "The Perfect 420 Holiday Cannabis-Infused Drink Recipes | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "Looking to elevate your holiday celebrations? Try these festive cannabis-infused drink recipes (non-alcoholic) from Cape Cod Cannabis in Wellfleet, MA and",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2024/10/Mmmmmmmm.jpg",
+  "label1": "Written by",
+  "data1": "rrh_clientadmin",
+  "label2": "Time to read",
+  "data2": "3 minutes"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Place",
+     "@id": "https://capecodcannabis.com/#place",
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.916265712481554",
+      "longitude": "-69.98840341462632"
+     },
+     "hasMap": "https://www.google.com/maps/search/?api=1&amp;query=41.916265712481554,-69.98840341462632",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     }
+    },
+    {
+     "@type": [
+      "LocalBusiness",
+      "Organization"
+     ],
+     "@id": "https://capecodcannabis.com/#organization",
+     "name": "Cape Cod Cannabis in Wellfleet - Best dispensary on Cape Cod.",
+     "url": "https://capecodcannabis.com",
+     "sameAs": [
+      "https://www.facebook.com/profile.php?id=100077867156438",
+      "https://twitter.com/capecodcanna"
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "logo": {
+      "@type": "ImageObject",
+      "@id": "https://capecodcannabis.com/#logo",
+      "url": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "contentUrl": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "caption": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+      "inLanguage": "en-US",
+      "width": "700",
+      "height": "500"
+     },
+     "openingHours": [
+      "Mo,Tu,We,Th,Fr,Sa,Su 8:00 - 8:00"
+     ],
+     "description": "Welcome to Cape Cod Cannabis, recognized by many as the Best Dispensary on Cape Cod, located in Wellfleet. Conveniently situated in the Route 6 shopping plaza in South Wellfleet, we are a trusted destination for both locals and visitors traveling from Provincetown, Truro, Wellfleet, Eastham, Orleans, Brewster, Dennis, Harwich, Chatham, Yarmouth, Sandwich and across the Cape and beyond.\n\nCape Cod Cannabis, your go-to cannabis haven, offers a carefully curated selection of high quality products, including flower, pre-rolls, edibles, vaporizers, concentrates, tinctures, topicals, CBD, accessories, and more. With a focus on education, selection, and a welcoming experience, we make it easy to explore and find what works best for you whether you are visiting the Cape or live here year round.",
+     "location": {
+      "@id": "https://capecodcannabis.com/#place"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/#logo"
+     },
+     "telephone": "+1-774-383-3133"
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://capecodcannabis.com/#website",
+     "url": "https://capecodcannabis.com",
+     "name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+     "alternateName": "Cape Cod Cannabis | Wellfleet's Top Rated Cannabis Store on Cape Cod",
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "https://capecodcannabis.com/wp-content/uploads/2024/10/Mmmmmmmm.jpg",
+     "url": "https://capecodcannabis.com/wp-content/uploads/2024/10/Mmmmmmmm.jpg",
+     "width": "1200",
+     "height": "600",
+     "caption": "Holiday Cannabis-Infused Drink Recipes - Cape Cod Cannabis in Wellfleet, MA",
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/holiday-cannabis-infused-drink-recipes/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/category/cape-cod-lifestyle/",
+        "name": "Cape Cod Lifestyle"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "3",
+       "item": {
+        "@id": "https://capecodcannabis.com/holiday-cannabis-infused-drink-recipes/",
+        "name": "The Perfect 420 Holiday Cannabis-Infused Drink Recipes"
+       }
+      }
+     ]
+    },
+    {
+     "@type": "WebPage",
+     "@id": "https://capecodcannabis.com/holiday-cannabis-infused-drink-recipes/#webpage",
+     "url": "https://capecodcannabis.com/holiday-cannabis-infused-drink-recipes/",
+     "name": "The Perfect 420 Holiday Cannabis-Infused Drink Recipes | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "datePublished": "2024-10-01T14:18:17-04:00",
+     "dateModified": "2026-06-30T11:36:04-04:00",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2024/10/Mmmmmmmm.jpg"
+     },
+     "inLanguage": "en-US",
+     "breadcrumb": {
+      "@id": "https://capecodcannabis.com/holiday-cannabis-infused-drink-recipes/#breadcrumb"
+     }
+    },
+    {
+     "@type": "Person",
+     "@id": "https://capecodcannabis.com/holiday-cannabis-infused-drink-recipes/#author",
+     "name": "rrh_clientadmin",
+     "image": {
+      "@type": "ImageObject",
+      "@id": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "url": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "caption": "rrh_clientadmin",
+      "inLanguage": "en-US"
+     },
+     "worksFor": {
+      "@id": "https://capecodcannabis.com/#organization"
+     }
+    },
+    {
+     "articleSection": "Cape Cod Lifestyle",
+     "headline": "The Perfect 420 Holiday Cannabis-Infused Drink Recipes | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "description": "Looking to elevate your holiday celebrations? Try these festive cannabis-infused drink recipes (non-alcoholic) from Cape Cod Cannabis in Wellfleet, MA and",
+     "keywords": "cannabis-infused drink recipes, cape cod cannabis",
+     "@type": "Article",
+     "author": {
+      "@id": "https://capecodcannabis.com/holiday-cannabis-infused-drink-recipes/#author",
+      "name": "rrh_clientadmin"
+     },
+     "datePublished": "2024-10-01T14:18:17-04:00",
+     "dateModified": "2026-06-30T11:36:04-04:00",
+     "image": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2024/10/Mmmmmmmm.jpg"
+     },
+     "name": "The Perfect 420 Holiday Cannabis-Infused Drink Recipes | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "@id": "https://capecodcannabis.com/holiday-cannabis-infused-drink-recipes/#schema-739928",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/holiday-cannabis-infused-drink-recipes/#webpage"
+     },
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "inLanguage": "en-US",
+     "mainEntityOfPage": {
+      "@id": "https://capecodcannabis.com/holiday-cannabis-infused-drink-recipes/#webpage"
+     }
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "h1": null,
+ "h1Source": {
+  "count": 0,
+  "visible": 0,
+  "hidden": 0,
+  "note": "source has no h1",
+  "candidates": [
+   {
+    "text": "Holiday Cannabis-Infused Drink Recipes (non-alcoholic)",
+    "from": "first visible heading (level 2)"
+   },
+   {
+    "text": "The Perfect 420 Holiday Cannabis-Infused Drink Recipes",
+    "from": "breadcrumb last item (visible)"
+   },
+   {
+    "text": "The Perfect 420 Holiday Cannabis-Infused Drink Recipes | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+    "from": "title"
+   }
+  ]
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Cape Cod Lifestyle",
+   "href": "/category/cape-cod-lifestyle/"
+  },
+  {
+   "label": "The Perfect 420 Holiday Cannabis-Infused Drink Recipes",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "visible",
+ "breadcrumbsSeparator": " / ",
+ "breadcrumbsLabel": "breadcrumbs",
+ "breadcrumbsInRegion": true,
+ "section": null,
+ "sections": [
+  {
+   "n": 0,
+   "id": "3f1093a4",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "meta",
+     "items": [
+      {
+       "text": "October 1, 2024",
+       "href": "/2024/10/01/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "5dcefa9",
+   "doc": "wp-post#108525",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Holiday Cannabis-Infused Drink Recipes (non-alcoholic)"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "60f3ac58",
+   "doc": "wp-post#108525",
+   "dev": [
+    "widescreen",
+    "mobile_extra"
+   ],
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong>Looking to elevate your holiday celebrations?</strong> Try these festive cannabis-infused drink recipes (non-alcoholic) from Cape Cod Cannabis in Wellfleet, MA and <a href=\"/brands/good-feels/\">Good Feels / Good Vibes beverage enhancers</a>. Whether you’re hosting a cozy gathering or looking to unwind, our carefully curated selection of cannabis beverages is perfect for any occasion.</p><p>Made with high-quality, locally sourced ingredients, these drinks offer a refreshing twist on traditional holiday favorites. From cannabis-infused hot cocoa to spiced cider with a kick, our recipes will bring warmth and cheer to your festivities. Visit Cape Cod Cannabis in Wellfleet to explore our full range of products and make this holiday season truly memorable. <em><strong>As always, consume responsibly and safely when preparing. 21+ yrs old.</strong></em></p>",
+     "dev": [
+      "widescreen",
+      "mobile_extra"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": "085cd0f",
+   "doc": "wp-post#108525",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong>Looking to elevate your holiday celebrations in a fun and unique way?</strong></p><p>Try these festive, non-alcoholic cannabis-infused drink recipes from Cape Cod Cannabis in Wellfleet, MA, featuring <a href=\"/brands/good-feels/\">Good Feels / Good Vibes beverage enhancers</a>. Whether you’re hosting a cozy family gathering, celebrating with friends, or simply looking to unwind after a busy day of holiday prep, our thoughtfully crafted selection of cannabis beverages will set the perfect tone for any occasion.</p><p>Made with high-quality, locally sourced ingredients and infused with top-notch cannabis extracts, these drinks put a delightful twist on traditional holiday favorites. Imagine sipping on rich, cannabis-infused hot cocoa while sitting by the fire, or warming up with spiced apple cider enhanced with a gentle cannabis kick. Each recipe is designed to enhance your holiday spirit, bringing a sense of warmth and relaxation to your celebrations while ensuring a flavorful, enjoyable experience.</p><p>At <strong>Cape Cod Cannabis</strong>, we take pride in offering products that meet the highest standards of quality and taste, allowing you to enjoy the benefits of cannabis in a fun, delicious, and socially responsible way. Our cannabis-infused drinks are non-alcoholic, making them perfect for those who want a festive experience without the added alcohol. With a wide range of flavors and options, you can find something to suit any palate, whether you’re looking for something sweet, spicy, or refreshingly light.</p><p>Visit Cape Cod Cannabis in Wellfleet to explore our full range of products, including the <a href=\"/brands/good-feels/\">Good Feels / Good Vibes beverage enhancers</a>, and discover how to make your holiday season truly memorable. As always, we remind you to consume responsibly and safely. <em><strong>These cannabis-infused beverages are intended for adults 21 and older, so please enjoy them in moderation and share the holiday cheer responsibly.</strong></em></p>"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "id": "ad5a554",
+   "doc": "wp-post#108525",
+   "blocks": [
+    {
+     "t": "button",
+     "label": "Shop Good Feels",
+     "href": "/brands/good-feels/"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "id": "af6a641",
+   "doc": "wp-post#108525",
+   "blocks": [
+    {
+     "t": "divider"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "id": "dcf5f85",
+   "doc": "wp-post#108525",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/0f5e9a8f-Holidaze_Herb-Infused_Holiday_Nog-285x300.jpg",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2024/10/Holidaze_Herb-Infused_Holiday_Nog-285x300.jpg?lossy=2&strip=0&webp=1",
+     "master": "assets/source/09da75f3-Holidaze_Herb-Infused_Holiday_Nog.jpg",
+     "alt": "Holiday Cannabis-Infused Drink Recipes - Cape Cod Cannabis in Wellfleet, MA",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 285,
+     "h": 300
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "id": "e368170",
+   "doc": "wp-post#108525",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Holidaze Herb-Infused Holiday Nog"
+    },
+    {
+     "t": "rich",
+     "html": "<p>INGREDIENTS:</p><ul><li>1 cup Eggnog</li><li>1/2 teaspoon Ground Nutmeg</li><li><a href=\"/brands/good-feels/\">Good Feels Beverage Enhancer</a> (add two .75ml droppers per serving, 4.5-5mg THC &amp; 3mg CBD)</li><li>Cinnamon Sticks for garnish (optional)</li></ul><p>INSTRUCTIONS:</p><ol><li>In a glass, pour the Eggnog</li><li>Add the Good Feels Beverage Enhancer and stir well</li><li>Sprinkle Ground Nutmeg on top</li><li>Optionally, garnish with a cinnamon stick</li></ol>"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "id": "caf1418",
+   "doc": "wp-post#108525",
+   "blocks": [
+    {
+     "t": "divider"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "id": "24b5196",
+   "doc": "wp-post#108525",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/02242822-Night_Before_Christmas_Tea-285x300.jpg",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2024/10/Night_Before_Christmas_Tea-285x300.jpg?lossy=2&strip=0&webp=1",
+     "master": "assets/source/7cad76eb-Night_Before_Christmas_Tea.jpg",
+     "alt": "Holiday Cannabis-Infused Drink Recipes - Cape Cod Cannabis in Wellfleet, MA",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 285,
+     "h": 300
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "id": "70f1ee8",
+   "doc": "wp-post#108525",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Night Before Christmas Tea"
+    },
+    {
+     "t": "rich",
+     "html": "<p>INGREDIENTS:</p><ul><li>1 cup water</li><li>1 lavender tea bag</li><li>1-2 droppers of <a href=\"/brands/good-feels/\">Good Feels Sleep Beverage Enhancer</a> (adjust to preference)</li><li>Honey or sweetener (optional, to taste)</li><li>Cinnamon stick (for stirring)</li></ul><p>INSTRUCTIONS:</p><ol><li>Boil 1 cup of water</li><li>Steep the lavender tea bag in hot water for 5-7 minutes, infusing the flavors of the holiday season</li><li>Remove the tea bag</li><li>Allow the tea to cool to a warm, comfortable temperature</li><li>Add 1-2 droppers of Good Feels Beverage Enhancer to the spiced tea. Adjust the dosage according to your preference</li><li>Optionally, sweeten the tea with honey or your preferred sweetener to taste</li><li>Stir well using a cinnamon stick</li></ol>"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "id": "a99517c",
+   "doc": "wp-post#108525",
+   "blocks": [
+    {
+     "t": "divider"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "id": "601cb5a",
+   "doc": "wp-post#108525",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/eeb8d370-Buddy_The_Elfs_Winter_Delight-285x300.jpg",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2024/10/Buddy_The_Elfs_Winter_Delight-285x300.jpg?lossy=2&strip=0&webp=1",
+     "master": "assets/source/7066de79-Buddy_The_Elfs_Winter_Delight.jpg",
+     "alt": "Holiday Cannabis-Infused Drink Recipes - Cape Cod Cannabis in Wellfleet, MA",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 285,
+     "h": 300
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "id": "d57ccaa",
+   "doc": "wp-post#108525",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Buddy the Elf’s Winter Delight"
+    },
+    {
+     "t": "rich",
+     "html": "<p>INGREDIENTS:</p><ul><li>1 cup of oat milk (or milk)</li><li>1/2 teaspoon vanilla extract</li><li>1/4 cup maple syrup (adjust to taste)</li><li>1/4 cup hot cocoa mix</li><li>Whipped Cream</li><li>Crushed candy canes for garnish</li><li><a href=\"/brands/good-feels/\">Good Feels Sleep Beverage Enhancer</a> (Add two .75ml droppers per serving, 4.5-5mg THC &amp; 3mg CBD, adjust to preference)</li></ul><p>INSTRUCTIONS:</p><ol><li>In a saucepan, heat oat milk (milk) over medium heat until hot but not boiling</li><li>Stir in vanilla extract, maple syrup, and hot cocoa mix. Continue to heat and whisk until well combined and hot</li><li>Remove from heat and let it cool slightly</li><li>Good Feels Sleep Beverage Enhancer (Add two .75ml droppers per serving, 4.5-5mg THC &amp; 3mg CBD, adjust to preference) and stir well</li><li>Pour the hot cocoa into a mug</li><li>Top with whipped cream and crushed candy canes for a festive touch</li><li><em>Enjoy Buddy the Elf’s Winter Delight!</em></li></ol>"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "id": "00027f0",
+   "doc": "wp-post#108525",
+   "blocks": [
+    {
+     "t": "button",
+     "label": "Shop Good Feels",
+     "href": "/brands/good-feels/"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "id": "329af6c",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "postnav",
+     "prev": {
+      "srLabel": "Prev",
+      "title": "Cannabis Glossary 101",
+      "href": "/cannabis-glossary-101/"
+     },
+     "next": {
+      "title": "The Myth of High THC Potency: Why It’s Not the Only Factor in Choosing the Best Cannabis Flower",
+      "srLabel": "Next",
+      "href": "/the-myth-of-high-thc-potency/"
+     },
+     "ariaLabels": [
+      "Post Navigation"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "id": "9ba89d6",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "comments",
+     "note": "WordPress comment form; no comment backend in a static rebuild"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "button": 2,
+  "comments": 1,
+  "divider": 3,
+  "heading": 4,
+  "image": 3,
+  "meta": 1,
+  "postnav": 1,
+  "rich": 5
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [
+   {
+    "section": "60f3ac58",
+    "t": "rich",
+    "dev": [
+     "widescreen",
+     "mobile_extra"
+    ],
+    "text": "looking to elevate your holiday celebrations? try these festive cannabis-infused drink recipes (non-alcoholic) from cape cod cannabis in wellfleet, ma and good feels / good vibes beverage enhancers. whether you're hosting a cozy gathering o"
+   }
+  ],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [],
+  "aliasesResolved": [
+   {
+    "from": "https://capecodcannabis.com/2024/10/01/",
+    "to": "/2024/10/01/"
+   },
+   {
+    "from": "/brands/good-feels/",
+    "to": "/brands/good-feels/"
+   },
+   {
+    "from": "https://capecodcannabis.com/brands/good-feels/",
+    "to": "/brands/good-feels/"
+   },
+   {
+    "from": "https://capecodcannabis.com/cannabis-glossary-101/",
+    "to": "/cannabis-glossary-101/"
+   },
+   {
+    "from": "https://capecodcannabis.com/the-myth-of-high-thc-potency/",
+    "to": "/the-myth-of-high-thc-potency/"
+   },
+   {
+    "from": "https://capecodcannabis.com/category/cape-cod-lifestyle/",
+    "to": "/category/cape-cod-lifestyle/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

@@ -1,0 +1,887 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/event/u4ea-farms-pop-up/",
+ "sourceUrl": "https://capecodcannabis.com/event/u4ea-farms-pop-up/",
+ "requestedUrl": "https://capecodcannabis.com/event/u4ea-farms-pop-up",
+ "slug": "event-u4ea-farms-pop-up",
+ "kind": "event",
+ "wpTemplate": "event",
+ "derived": false,
+ "rawFile": "audit/raw/event-u4ea-farms-pop-up.html",
+ "rawSha256": "e8e3a3d49a88fbe3a6e646a4c4cdab50f5b9c64fbe35137b3b834b3ff34e4f60",
+ "regionKind": "body-minus-chrome",
+ "title": "U4EA Farms Pop-Up | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+ "metaDescription": "At U4EA Farms, our team consists of experienced cultivators, botanists, and industry innovators. With decades of combined expertise in both traditional and",
+ "canonical": "https://capecodcannabis.com/event/u4ea-farms-pop-up/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "U4EA Farms Pop-Up | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "At U4EA Farms, our team consists of experienced cultivators, botanists, and industry innovators. With decades of combined expertise in both traditional and",
+  "url": "https://capecodcannabis.com/event/u4ea-farms-pop-up/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2025-05-08T14:01:35-04:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2025/02/U4EA_Farms_logo_200px.png",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/2025/02/U4EA_Farms_logo_200px.png",
+  "image:width": "200",
+  "image:height": "200",
+  "image:alt": "U4EA Farms at Cape Cod Cannabis in Wellfleet, MA",
+  "image:type": "image/png"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438",
+  "tag": [
+   "flower",
+   "pop-up",
+   "pop-up event",
+   "U4EA Farms"
+  ]
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "U4EA Farms Pop-Up | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "At U4EA Farms, our team consists of experienced cultivators, botanists, and industry innovators. With decades of combined expertise in both traditional and",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2025/02/U4EA_Farms_logo_200px.png"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/event/u4ea-farms-pop-up/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/events-calendar/",
+        "name": "Events"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "3",
+       "item": {
+        "@id": "https://capecodcannabis.com/event/u4ea-farms-pop-up/",
+        "name": "U4EA Farms Pop-Up"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  },
+  [
+   {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "U4EA Farms Pop-Up",
+    "description": "&lt;p&gt;Learn more about U4EA Farm products! U4EA Farms Story We Are Cultivating Euphoria At our core, we are a family united by a love for cannabis. We are committed to [&hellip;]&lt;/p&gt;\\n",
+    "image": "https://capecodcannabis.com/wp-content/uploads/2025/02/U4EA_Farms_logo_200px.png",
+    "url": "https://capecodcannabis.com/event/u4ea-farms-pop-up/",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "startDate": "2025-02-14T11:00:00-05:00",
+    "endDate": "2025-02-14T14:00:00-05:00",
+    "location": {
+     "@type": "Place",
+     "name": "Cape Cod Cannabis",
+     "description": "",
+     "url": "",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressLocality": "Wellfleet",
+      "addressRegion": "MA",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "telephone": "774-383-3133",
+     "sameAs": "https://www.capecodcannabis.com"
+    },
+    "performer": "Organization"
+   }
+  ]
+ ],
+ "h1": "U4EA Farms Pop-Up",
+ "h1Source": {
+  "count": 1,
+  "visible": 1,
+  "hidden": 0
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Events",
+   "href": "/events-calendar/"
+  },
+  {
+   "label": "U4EA Farms Pop-Up",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "jsonld",
+ "section": null,
+ "sections": [
+  {
+   "n": 0,
+   "id": "4d8f4efa",
+   "doc": "tec_event_single_dynamic#92071",
+   "blocks": [
+    {
+     "t": "event-field",
+     "field": "calendar_link",
+     "text": "« All Events",
+     "links": [
+      {
+       "label": "« All Events",
+       "href": "/events-calendar/"
+      }
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "status",
+     "text": "This event has passed."
+    },
+    {
+     "t": "event-field",
+     "field": "title",
+     "text": "U4EA Farms Pop-Up",
+     "level": 1
+    },
+    {
+     "t": "event-field",
+     "field": "datetime",
+     "text": "February 14, 2025\n@ 11:00 am\n- 2:00 pm"
+    },
+    {
+     "t": "image",
+     "ref": "assets/source/a82a8bbb-U4EA_Farms_logo_200px.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/02/U4EA_Farms_logo_200px.png?lossy=2&strip=0&webp=1",
+     "alt": "U4EA Farms at Cape Cod Cannabis in Wellfleet, MA",
+     "w": 200,
+     "h": 200,
+     "kind": "event-image"
+    },
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "Learn more about U4EA Farm products!"
+    },
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "U4EA Farms Story"
+    },
+    {
+     "t": "rich",
+     "html": "<p><strong>We Are Cultivating Euphoria</strong><br> At our core, we are a family united by a love for cannabis. We are committed to producing the finest cannabis products, nurturing our plants with care, and delivering unparalleled quality to our customers. Our story is a testament to the power of passion, hard work, and the belief that dreams, no matter how unconventional, can be realized.</p><p><img src=\"assets/source/1d2b9bb7-ourstory-heroV2.png\" alt=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://u4eafarms.com/wp-content/uploads/2024/11/ourstory-heroV2.png\"></p><p>At U4EA Farms, our team consists of experienced cultivators, botanists, and industry innovators. With decades of combined expertise in both traditional and modern cannabis cultivation, our experts are dedicated to perfecting every aspect of our growth process. They blend passion with precision, ensuring every product meets our rigorous standards for quality and efficacy.</p><p><a href=\"/brands/u4ea-farms/\"><strong>Click here to shop U4EA Farms products!</strong></a></p>"
+    },
+    {
+     "t": "event-field",
+     "field": "venue",
+     "text": "Cape Cod Cannabis\n1446 US-6\nWellfleet,MA02667United States\n+ Google Map\n774-383-3133\nView Venue Website",
+     "links": [
+      {
+       "label": "+ Google Map",
+       "href": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=1446+US-6+Wellfleet+MA+02667+United+States"
+      },
+      {
+       "label": "774-383-3133",
+       "href": "tel:774-383-3133"
+      },
+      {
+       "label": "View Venue Website",
+       "href": "/"
+      }
+     ],
+     "ariaLabels": [
+      "Venue location map"
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "categories",
+     "text": "Categories:\nPop-Ups",
+     "links": [
+      {
+       "label": "Pop-Ups",
+       "href": "/events-calendar/category/pop-ups/"
+      }
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "tags",
+     "text": "Tags:\nflower,\npop-up,\npop-up event,\nU4EA Farms",
+     "links": [
+      {
+       "label": "flower",
+       "href": "/tag/flower/"
+      },
+      {
+       "label": "pop-up",
+       "href": "/tag/pop-up/"
+      },
+      {
+       "label": "pop-up event",
+       "href": "/tag/pop-up-event/"
+      },
+      {
+       "label": "U4EA Farms",
+       "href": "/tag/u4ea-farms/"
+      }
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "export",
+     "text": "Add to calendar\nGoogle Calendar\niCalendar\nOutlook 365\nOutlook Live",
+     "links": [
+      {
+       "label": "Google Calendar",
+       "href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20250214T110000/20250214T140000&text=U4EA%20Farms%20Pop-Up&details=%3Ch4%3E%3Cstrong%3ELearn+more+about+U4EA+Farm+products%21%3C%2Fstrong%3E%3C%2Fh4%3E%3Ch4%3E%3C%2Fh4%3E%3Ch4%3E%3Cstrong%3EU4EA+Farms+Story%3C%2Fstrong%3E%3C%2Fh4%3E%3Cstrong%3EWe+Are+Cultivating+Euphoria%3C%2Fstrong%3EAt+our+core%2C+we+are+a+family+united+by+a+love+for+cannabis.+We+are+committed+to+producing+the+finest+cannabis+products%2C+nurturing+our+plants+with+care%2C+and+delivering+unparalleled+quality+to+our+customers.+Our+story+is+a+testament+to+the+power+of+passion%2C+hard+work%2C+and+the+belief+that+dreams%2C+no+matter+how+unconventional%2C+can+be+realized.%26nbsp%3B%3Cimg+class%3D%22aligncenter%22+src%3D%22https%3A%2F%2Fu4eafarms.com%2Fwp-content%2Fuploads%2F2024%2F11%2Fourstory-heroV2.png%22+%2F%3E%26nbsp%3BAt+U4EA+Farms%2C+our+team+consists+of+experienced+cultivators%2C+botanists%2C+and+industry+innovators.+With+decades+of+combined+expertise+in+both+traditional+and+modern+cannabis+cultivation%2C+our+experts+are+dedicated+to+perfecting+every+aspect+of+our+growth+process.+They+blend+passion+with+precision%2C+ensuring+every+product+meets+our+rigorous+standards+for+quality++%28View+Full+event+Description+Here%3A+https%3A%2F%2Fcapecodcannabis.com%2Fevent%2Fu4ea-farms-pop-up%2F%29&location=Cape%20Cod%20Cannabis,%201446%20US-6,%20Wellfleet,%20MA,%2002667,%20United%20States&trp=false&ctz=America/New_York&sprop=website:https://capecodcannabis.com"
+      },
+      {
+       "label": "iCalendar",
+       "href": "/event/u4ea-farms-pop-up/?ical=1"
+      },
+      {
+       "label": "Outlook 365",
+       "href": "https://outlook.office.com/owa/?path=/calendar/action/compose&rrv=addevent&startdt=2025-02-14T11%3A00%3A00-05%3A00&enddt=2025-02-14T14%3A00%3A00-05%3A00&location=Cape%20Cod%20Cannabis,%201446%20US-6,%20Wellfleet,%20MA,%2002667,%20United%20States&subject=U4EA%20Farms%20Pop-Up&body=Learn%20more%20about%20U4EA%20Farm%20products%21U4EA%20Farms%20StoryWe%20Are%20Cultivating%20EuphoriaAt%20our%20core%2C%20we%20are%20a%20family%20united%20by%20a%20love%20for%20cannabis.%20We%20are%20committed%20to%20producing%20the%20finest%20cannabis%20products%2C%20nurturing%20our%20plants%20with%20care%2C%20and%20delivering%20unparalleled%20quality%20to%20our%20customers.%20Our%20story%20is%20a%20testament%20to%20the%20power%20of%20passion%2C%20hard%20work%2C%20and%20the%20belief%20that%20dreams%2C%20no%20matter%20how%20unconventional%2C%20can%20be%20realized.%26nbsp%3B%26nbsp%3BAt%20U4EA%20Farms%2C%20our%20team%20consists%20of%20experienced%20cultivators%2C%20botanists%2C%20and%20industry%20innovators.%20With%20decades%20of%20combined%20expertise%20in%20both%20traditional%20and%20modern%20cannabis%20cultivation%2C%20our%20experts%20are%20dedicated%20to%20perfecting%20every%20aspect%20of%20our%20growth%20process.%20They%20blend%20passion%20with%20precision%2C%20ensuring%20every%20product%20meets%20our%20rigorous%20standards%20for%20quality%20and%20efficacy.%26nbsp%3BClick%20here%20to%20shop%20U4EA%20Farms%20products%21"
+      },
+      {
+       "label": "Outlook Live",
+       "href": "https://outlook.live.com/owa/?path=/calendar/action/compose&rrv=addevent&startdt=2025-02-14T11%3A00%3A00-05%3A00&enddt=2025-02-14T14%3A00%3A00-05%3A00&location=Cape%20Cod%20Cannabis,%201446%20US-6,%20Wellfleet,%20MA,%2002667,%20United%20States&subject=U4EA%20Farms%20Pop-Up&body=Learn%20more%20about%20U4EA%20Farm%20products%21U4EA%20Farms%20StoryWe%20Are%20Cultivating%20EuphoriaAt%20our%20core%2C%20we%20are%20a%20family%20united%20by%20a%20love%20for%20cannabis.%20We%20are%20committed%20to%20producing%20the%20finest%20cannabis%20products%2C%20nurturing%20our%20plants%20with%20care%2C%20and%20delivering%20unparalleled%20quality%20to%20our%20customers.%20Our%20story%20is%20a%20testament%20to%20the%20power%20of%20passion%2C%20hard%20work%2C%20and%20the%20belief%20that%20dreams%2C%20no%20matter%20how%20unconventional%2C%20can%20be%20realized.%26nbsp%3B%26nbsp%3BAt%20U4EA%20Farms%2C%20our%20team%20consists%20of%20experienced%20cultivators%2C%20botanists%2C%20and%20industry%20innovators.%20With%20decades%20of%20combined%20expertise%20in%20both%20traditional%20and%20modern%20cannabis%20cultivation%2C%20our%20experts%20are%20dedicated%20to%20perfecting%20every%20aspect%20of%20our%20growth%20process.%20They%20blend%20passion%20with%20precision%2C%20ensuring%20every%20product%20meets%20our%20rigorous%20standards%20for%20quality%20and%20efficacy.%26nbsp%3BClick%20here%20to%20shop%20U4EA%20Farms%20products%21"
+      }
+     ],
+     "ariaLabels": [
+      "View links to add events to your calendar"
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "navigation",
+     "text": "Blackstone Valley Cannabis Pop-Up Event\nCoast Cannabis Co. Pop-Up",
+     "links": [
+      {
+       "label": "Blackstone Valley Cannabis Pop-Up Event",
+       "href": "/event/blackstone-valley-cannabis-pop-up-event/"
+      },
+      {
+       "label": "Coast Cannabis Co. Pop-Up",
+       "href": "/event/coast-cannabis-co-pop-up-3/"
+      }
+     ],
+     "ariaLabels": [
+      "Events"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "a7bb484",
+   "doc": "tec_event_single_dynamic#92071",
+   "hiddenAll": true,
+   "dev": [],
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/a82a8bbb-U4EA_Farms_logo_200px.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/02/U4EA_Farms_logo_200px.png?lossy=2&strip=0&webp=1",
+     "alt": "U4EA Farms at Cape Cod Cannabis in Wellfleet, MA",
+     "w": 200,
+     "h": 200,
+     "kind": "event-image",
+     "dev": [],
+     "hiddenAll": true
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "c7b579f",
+   "doc": "tec_event_single_dynamic#92071",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/c0c34846-CCC_Logo_650px-geo-tag-r9v1ohpw5zerbd7bkhgpgccbma2ezjddi6xfhghm0u.jpg",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/elementor/thumbs/CCC_Logo_650px-geo-tag-r9v1ohpw5zerbd7bkhgpgccbma2ezjddi6xfhghm0u.jpg?lossy=2&strip=0&webp=1",
+     "alt": "Cape Cod Cannabis Recreational Dispensary near me in Wellfleet, MA ... it's worth the trip!",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary near me in Wellfleet, MA … it’s worth the trip!"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": null,
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong><em>Cape Cod Cannabis…always worth the trip!</em></strong></p>"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "event-field": 9,
+  "heading": 2,
+  "image": 3,
+  "rich": 2
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "tec-loading-spinner",
+    "text": "Loading Events",
+    "reason": "The Events Calendar AJAX loading spinner (plugin runtime UI, origin wp-content gif); declared in removals.json"
+   },
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [],
+  "aliasesResolved": [
+   {
+    "from": "https://capecodcannabis.com/events-calendar/",
+    "to": "/events-calendar/"
+   },
+   {
+    "from": "https://capecodcannabis.com/event/u4ea-farms-pop-up/?ical=1",
+    "to": "/event/u4ea-farms-pop-up/?ical=1"
+   },
+   {
+    "from": "https://capecodcannabis.com/event/blackstone-valley-cannabis-pop-up-event/",
+    "to": "/event/blackstone-valley-cannabis-pop-up-event/"
+   },
+   {
+    "from": "https://capecodcannabis.com/event/coast-cannabis-co-pop-up-3/",
+    "to": "/event/coast-cannabis-co-pop-up-3/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

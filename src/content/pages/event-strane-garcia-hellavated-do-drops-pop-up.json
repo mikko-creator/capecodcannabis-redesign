@@ -1,0 +1,900 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/event/strane-garcia-hellavated-do-drops-pop-up/",
+ "sourceUrl": "https://capecodcannabis.com/event/strane-garcia-hellavated-do-drops-pop-up/",
+ "requestedUrl": "https://capecodcannabis.com/event/strane-garcia-hellavated-do-drops-pop-up",
+ "slug": "event-strane-garcia-hellavated-do-drops-pop-up",
+ "kind": "event",
+ "wpTemplate": "event",
+ "derived": false,
+ "rawFile": "audit/raw/event-strane-garcia-hellavated-do-drops-pop-up.html",
+ "rawSha256": "39b21e2af1ef995bf3f4079e11ec8ec0e41a0b64dfca89bc347840dc9a5148b1",
+ "regionKind": "body-minus-chrome",
+ "title": "Strane Pop-Up | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+ "metaDescription": "Learn more about the Strane brand and what they offer such as Flower, Disposables, Vaporizers, Pre-Rolls!",
+ "canonical": "https://capecodcannabis.com/event/strane-garcia-hellavated-do-drops-pop-up/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "Strane Pop-Up | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "Learn more about the Strane brand and what they offer such as Flower, Disposables, Vaporizers, Pre-Rolls!",
+  "url": "https://capecodcannabis.com/event/strane-garcia-hellavated-do-drops-pop-up/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2024-08-09T15:33:31-04:00"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438",
+  "tag": [
+   "cartridges",
+   "flower",
+   "pop-up",
+   "pop-up event",
+   "strane",
+   "vaporizers"
+  ]
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "Strane Pop-Up | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "Learn more about the Strane brand and what they offer such as Flower, Disposables, Vaporizers, Pre-Rolls!",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/event/strane-garcia-hellavated-do-drops-pop-up/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/events-calendar/",
+        "name": "Events"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "3",
+       "item": {
+        "@id": "https://capecodcannabis.com/event/strane-garcia-hellavated-do-drops-pop-up/",
+        "name": "Strane Pop-Up"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  },
+  [
+   {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "Strane Pop-Up",
+    "description": "&lt;p&gt;&nbsp; Learn more about the Strane brand and what they offer such as Flower, Disposables, Vaporizers, Pre-Rolls! &nbsp; Strane - Strane can be found in so many places and form [&hellip;]&lt;/p&gt;\\n",
+    "image": "https://capecodcannabis.com/wp-content/uploads/2024/03/strane_logo_200px.jpg",
+    "url": "https://capecodcannabis.com/event/strane-garcia-hellavated-do-drops-pop-up/",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "startDate": "2024-08-09T14:00:00-04:00",
+    "endDate": "2024-08-09T17:00:00-04:00",
+    "location": {
+     "@type": "Place",
+     "name": "Cape Cod Cannabis",
+     "description": "",
+     "url": "",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressLocality": "Wellfleet",
+      "addressRegion": "MA",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "telephone": "774-383-3133",
+     "sameAs": "https://www.capecodcannabis.com"
+    },
+    "performer": "Organization"
+   }
+  ]
+ ],
+ "h1": "Strane Pop-Up",
+ "h1Source": {
+  "count": 1,
+  "visible": 1,
+  "hidden": 0
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Events",
+   "href": "/events-calendar/"
+  },
+  {
+   "label": "Strane Pop-Up",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "jsonld",
+ "section": null,
+ "sections": [
+  {
+   "n": 0,
+   "id": "4d8f4efa",
+   "doc": "tec_event_single_dynamic#92071",
+   "blocks": [
+    {
+     "t": "event-field",
+     "field": "calendar_link",
+     "text": "« All Events",
+     "links": [
+      {
+       "label": "« All Events",
+       "href": "/events-calendar/"
+      }
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "status",
+     "text": "This event has passed."
+    },
+    {
+     "t": "event-field",
+     "field": "title",
+     "text": "Strane Pop-Up",
+     "level": 1
+    },
+    {
+     "t": "event-field",
+     "field": "datetime",
+     "text": "August 9, 2024\n@ 2:00 pm\n- 5:00 pm"
+    },
+    {
+     "t": "image",
+     "ref": "assets/source/e4f8eca8-strane_logo_200px.jpg",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2024/03/strane_logo_200px.jpg?lossy=2&strip=0&webp=1",
+     "alt": "",
+     "w": 200,
+     "h": 41,
+     "kind": "event-image"
+    },
+    {
+     "t": "rich",
+     "html": "<p><strong>Learn more about the Strane brand and what they offer such as Flower, Disposables, Vaporizers, Pre-Rolls!</strong></p><ul><li><strong>Strane</strong> – Strane can be found in so many places and form factors and it all starts with the unique cultivars cannabis customers and budtenders love. Nature and nurture, Strane showcases our skill at growing craft cannabis at scale.</li></ul><p><img alt=\"Alien Mints image 0\" width=\"240\" height=\"230\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://images.dutchie.com/f0ba8fa19e07745f3b4afbb1f325df19?auto=format&amp;fit=fill&amp;fill=solid&amp;ixlib=react-9.5.4&amp;h=330&amp;w=344\" data-missing=\"not-inventoried\"> <img alt=\"Grandaddy Purps | Disposable image 0\" width=\"242\" height=\"233\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://images.dutchie.com/65cd5eacddc198f32a209fcb3f4fbf71?auto=format&amp;fit=fill&amp;fill=solid&amp;ixlib=react-9.5.4&amp;h=330&amp;w=344\" data-missing=\"not-inventoried\"> <img alt=\"Super Gremlin | Live Resin Terps image 0\" width=\"242\" height=\"232\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://images.dutchie.com/5ac561bf1f969627297d495e40b100c5?auto=format&amp;fit=fill&amp;fill=solid&amp;ixlib=react-9.5.4&amp;h=330&amp;w=344\" data-missing=\"not-inventoried\"> <img alt=\"Gas Cake | 10pk | 0.5g image 0\" width=\"228\" height=\"219\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://images.dutchie.com/7c429ec8c17803d2bd6d04b2fd17e2de?auto=format&amp;fit=fill&amp;fill=solid&amp;ixlib=react-9.5.4&amp;h=330&amp;w=344\" data-missing=\"not-inventoried\"></p><p><strong><a href=\"/brands/strane/\">Click here to shop Strane products!</a></strong></p>"
+    },
+    {
+     "t": "event-field",
+     "field": "venue",
+     "text": "Cape Cod Cannabis\n1446 US-6\nWellfleet,MA02667United States\n+ Google Map\n774-383-3133\nView Venue Website",
+     "links": [
+      {
+       "label": "+ Google Map",
+       "href": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=1446+US-6+Wellfleet+MA+02667+United+States"
+      },
+      {
+       "label": "774-383-3133",
+       "href": "tel:774-383-3133"
+      },
+      {
+       "label": "View Venue Website",
+       "href": "/"
+      }
+     ],
+     "ariaLabels": [
+      "Venue location map"
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "categories",
+     "text": "Categories:\nPop-Ups",
+     "links": [
+      {
+       "label": "Pop-Ups",
+       "href": "/events-calendar/category/pop-ups/"
+      }
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "tags",
+     "text": "Tags:\ncartridges,\nflower,\npop-up,\npop-up event,\nstrane,\nvaporizers",
+     "links": [
+      {
+       "label": "cartridges",
+       "href": "/tag/cartridges/"
+      },
+      {
+       "label": "flower",
+       "href": "/tag/flower/"
+      },
+      {
+       "label": "pop-up",
+       "href": "/tag/pop-up/"
+      },
+      {
+       "label": "pop-up event",
+       "href": "/tag/pop-up-event/"
+      },
+      {
+       "label": "strane",
+       "href": "/tag/strane/"
+      },
+      {
+       "label": "vaporizers",
+       "href": "/tag/vaporizers/"
+      }
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "export",
+     "text": "Add to calendar\nGoogle Calendar\niCalendar\nOutlook 365\nOutlook Live",
+     "links": [
+      {
+       "label": "Google Calendar",
+       "href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20240809T140000/20240809T170000&text=Strane%20Pop-Up&details=%26nbsp%3B%3Cstrong%3ELearn+more+about+the+Strane+brand+and+what+they+offer+such+as+Flower%2C+Disposables%2C+Vaporizers%2C+Pre-Rolls%21%3C%2Fstrong%3E%26nbsp%3B%3Cul%3E+%09%3Cli%3E%3Cstrong%3EStrane%3C%2Fstrong%3E+-+Strane+can+be+found+in+so+many+places+and+form+factors+and+it+all+starts+with+the+unique+cultivars+cannabis+customers+and+budtenders+love.+Nature+and+nurture%2C+Strane+showcases+our+skill+at+growing+craft+cannabis+at+scale.%3C%2Fli%3E%3C%2Ful%3E%26nbsp%3B%3Cimg+class%3D%22%22+src%3D%22https%3A%2F%2Fimages.dutchie.com%2Ff0ba8fa19e07745f3b4afbb1f325df19%3Fauto%3Dformat%26amp%3Bfit%3Dfill%26amp%3Bfill%3Dsolid%26amp%3Bixlib%3Dreact-9.5.4%26amp%3Bh%3D330%26amp%3Bw%3D344%22+alt%3D%22Alien+Mints+image+0%22+width%3D%22240%22+height%3D%22230%22+%2F%3E+%3Cimg+class%3D%22%22+src%3D%22https%3A%2F%2Fimages.dutchie.com%2F65cd5eacddc198f32a209fcb3f4fbf71%3Fauto%3Dformat%26amp%3Bfit%3Dfill%26amp%3Bfill%3Dsolid%26amp%3Bixlib%3Dreact-9.5.4%26amp%3Bh%3D330%26amp%3Bw%3D344%22+alt%3D%22Grandaddy+Purps+%7C+Disposable+image+0%22+width%3D%22242%22+height%3D%22233%22+%2F%3E+%3Cimg+class%3D%22%22+src%3D%22https%3A%2F%2Fimages.dutchie.com%2F5ac561bf1f969627297d495e40b100c5%3Fauto%3Dformat%26amp%3Bfit%3Dfill%26amp%3Bfill%3Dsolid%26a+%28View+Full+event+Description+Here%3A+https%3A%2F%2Fcapecodcannabis.com%2Fevent%2Fstrane-garcia-hellavated-do-drops-pop-up%2F%29&location=Cape%20Cod%20Cannabis,%201446%20US-6,%20Wellfleet,%20MA,%2002667,%20United%20States&trp=false&ctz=America/New_York&sprop=website:https://capecodcannabis.com"
+      },
+      {
+       "label": "iCalendar",
+       "href": "/event/strane-garcia-hellavated-do-drops-pop-up/?ical=1"
+      },
+      {
+       "label": "Outlook 365",
+       "href": "https://outlook.office.com/owa/?path=/calendar/action/compose&rrv=addevent&startdt=2024-08-09T14%3A00%3A00-04%3A00&enddt=2024-08-09T17%3A00%3A00-04%3A00&location=Cape%20Cod%20Cannabis,%201446%20US-6,%20Wellfleet,%20MA,%2002667,%20United%20States&subject=Strane%20Pop-Up&body=%26nbsp%3BLearn%20more%20about%20the%20Strane%20brand%20and%20what%20they%20offer%20such%20as%20Flower%2C%20Disposables%2C%20Vaporizers%2C%20Pre-Rolls%21%26nbsp%3B%20%09Strane%20-%20Strane%20can%20be%20found%20in%20so%20many%20places%20and%20form%20factors%20and%20it%20all%20starts%20with%20the%20unique%20cultivars%20cannabis%20customers%20and%20budtenders%20love.%20Nature%20and%20nurture%2C%20Strane%20showcases%20our%20skill%20at%20growing%20craft%20cannabis%20at%20scale.%26nbsp%3B%20%20%20%26nbsp%3B%26nbsp%3B%26nbsp%3BClick%20here%20to%20shop%20Strane%20products%21%26nbsp%3B%26nbsp%3B"
+      },
+      {
+       "label": "Outlook Live",
+       "href": "https://outlook.live.com/owa/?path=/calendar/action/compose&rrv=addevent&startdt=2024-08-09T14%3A00%3A00-04%3A00&enddt=2024-08-09T17%3A00%3A00-04%3A00&location=Cape%20Cod%20Cannabis,%201446%20US-6,%20Wellfleet,%20MA,%2002667,%20United%20States&subject=Strane%20Pop-Up&body=%26nbsp%3BLearn%20more%20about%20the%20Strane%20brand%20and%20what%20they%20offer%20such%20as%20Flower%2C%20Disposables%2C%20Vaporizers%2C%20Pre-Rolls%21%26nbsp%3B%20%09Strane%20-%20Strane%20can%20be%20found%20in%20so%20many%20places%20and%20form%20factors%20and%20it%20all%20starts%20with%20the%20unique%20cultivars%20cannabis%20customers%20and%20budtenders%20love.%20Nature%20and%20nurture%2C%20Strane%20showcases%20our%20skill%20at%20growing%20craft%20cannabis%20at%20scale.%26nbsp%3B%20%20%20%26nbsp%3B%26nbsp%3B%26nbsp%3BClick%20here%20to%20shop%20Strane%20products%21%26nbsp%3B%26nbsp%3B"
+      }
+     ],
+     "ariaLabels": [
+      "View links to add events to your calendar"
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "navigation",
+     "text": "Kosmik, Cultivators Classic and Uncut Pop-Up\nKosmik, Cultivators Classic and Uncut Pop-Up",
+     "links": [
+      {
+       "label": "Kosmik, Cultivators Classic and Uncut Pop-Up",
+       "href": "/event/komik-classic-cultivators-and-uncut-pop-up/"
+      },
+      {
+       "label": "Kosmik, Cultivators Classic and Uncut Pop-Up",
+       "href": "/event/kosmik-cultivators-classic-and-uncut-pop-up-3/"
+      }
+     ],
+     "ariaLabels": [
+      "Events"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "a7bb484",
+   "doc": "tec_event_single_dynamic#92071",
+   "hiddenAll": true,
+   "dev": [],
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/e4f8eca8-strane_logo_200px.jpg",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2024/03/strane_logo_200px.jpg?lossy=2&strip=0&webp=1",
+     "alt": "",
+     "w": 200,
+     "h": 41,
+     "kind": "event-image",
+     "dev": [],
+     "hiddenAll": true
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "c7b579f",
+   "doc": "tec_event_single_dynamic#92071",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/c0c34846-CCC_Logo_650px-geo-tag-r9v1ohpw5zerbd7bkhgpgccbma2ezjddi6xfhghm0u.jpg",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/elementor/thumbs/CCC_Logo_650px-geo-tag-r9v1ohpw5zerbd7bkhgpgccbma2ezjddi6xfhghm0u.jpg?lossy=2&strip=0&webp=1",
+     "alt": "Cape Cod Cannabis Recreational Dispensary near me in Wellfleet, MA ... it's worth the trip!",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary near me in Wellfleet, MA … it’s worth the trip!"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": null,
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong><em>Cape Cod Cannabis…always worth the trip!</em></strong></p>"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "event-field": 9,
+  "image": 3,
+  "rich": 2
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "tec-loading-spinner",
+    "text": "Loading Events",
+    "reason": "The Events Calendar AJAX loading spinner (plugin runtime UI, origin wp-content gif); declared in removals.json"
+   },
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [],
+  "aliasesResolved": [
+   {
+    "from": "https://capecodcannabis.com/events-calendar/",
+    "to": "/events-calendar/"
+   },
+   {
+    "from": "https://capecodcannabis.com/brands/strane/",
+    "to": "/brands/strane/"
+   },
+   {
+    "from": "https://capecodcannabis.com/event/strane-garcia-hellavated-do-drops-pop-up/?ical=1",
+    "to": "/event/strane-garcia-hellavated-do-drops-pop-up/?ical=1"
+   },
+   {
+    "from": "https://capecodcannabis.com/event/komik-classic-cultivators-and-uncut-pop-up/",
+    "to": "/event/komik-classic-cultivators-and-uncut-pop-up/"
+   },
+   {
+    "from": "https://capecodcannabis.com/event/kosmik-cultivators-classic-and-uncut-pop-up-3/",
+    "to": "/event/kosmik-cultivators-classic-and-uncut-pop-up-3/"
+   }
+  ],
+  "imagesMissing": [
+   {
+    "srcUrl": "https://images.dutchie.com/f0ba8fa19e07745f3b4afbb1f325df19?auto=format&fit=fill&fill=solid&ixlib=react-9.5.4&h=330&w=344",
+    "missing": "not-inventoried"
+   },
+   {
+    "srcUrl": "https://images.dutchie.com/65cd5eacddc198f32a209fcb3f4fbf71?auto=format&fit=fill&fill=solid&ixlib=react-9.5.4&h=330&w=344",
+    "missing": "not-inventoried"
+   },
+   {
+    "srcUrl": "https://images.dutchie.com/5ac561bf1f969627297d495e40b100c5?auto=format&fit=fill&fill=solid&ixlib=react-9.5.4&h=330&w=344",
+    "missing": "not-inventoried"
+   },
+   {
+    "srcUrl": "https://images.dutchie.com/7c429ec8c17803d2bd6d04b2fd17e2de?auto=format&fit=fill&fill=solid&ixlib=react-9.5.4&h=330&w=344",
+    "missing": "not-inventoried"
+   }
+  ],
+  "h1InRich": 0
+ }
+}

@@ -9,9 +9,13 @@
 //     finding (it would 404 under a Pages project subpath); dist/404.html is served at any depth, so there every
 //     local reference must be root-relative and is resolved against the dist root;
 //   - a local reference resolves to an existing file (a directory to its index.html), never outside dist/.
+//   - (this build) a reference to a directory must end in "/" (WordPress trailing-slash paths; "x" without the slash
+//     only works where the host redirects), and percent-encoded UTF-8 paths resolve to their decoded file names
+//     (the 36 product slugs with "¼", the Greek terpene slugs).
 // Positive controls (in memory, against the real file set): a missing file, a root-absolute page link, a dead
-// fragment, a missing srcset candidate, a missing CSS url() and a page-relative link in 404.html must each be
-// reported, and a valid reference must not be; otherwise the run fails.
+// fragment, a missing srcset candidate, a missing CSS url(), a page-relative link in 404.html and a directory link
+// without its trailing slash must each be reported; a valid reference, and a percent-encoded link to a real UTF-8
+// directory, must not be; otherwise the run fails.
 //   node tools/link-check.mjs [--dir dist] [--json <report.json>]     exit 1 on any broken reference or a dead control
 import fs from 'node:fs';
 import path from 'node:path';
@@ -91,6 +95,7 @@ function checkFile(rel, text, env) {
     else cands = [target, target + '/index.html'];
     const hit = cands.find((c) => env.exists(c));
     if (!hit) { problems.push({ kind: 'missing', attr: r.attr, value: v, resolved: cands[0] }); continue; }
+    if (hit !== target && hit.endsWith('/index.html') && !clean.endsWith('/') && clean !== '' && target !== '.') { problems.push({ kind: 'dir-without-slash', attr: r.attr, value: v }); continue; }
     if (frag && /\.html$/.test(hit)) {
       const tids = env.idsOfFile(hit);
       if (tids && !tids.has(decodeURIComponent(frag))) problems.push({ kind: 'dead-fragment', attr: r.attr, value: v });
@@ -101,11 +106,11 @@ function checkFile(rel, text, env) {
 
 export function checkDist(dist) {
   const files = listFiles(dist);
-  const set = new Set(files);
+  const set = new Set(files.map((f) => f.normalize('NFC')));
   const idCache = new Map();
   const env = {
     hosts: {}, schemes: {}, fragments: 0,
-    exists: (p) => set.has(p.replace(/^\.\//, '')),
+    exists: (p) => set.has(p.replace(/^\.\//, '').normalize('NFC')),
     idsOfFile: (p) => { if (!idCache.has(p)) idCache.set(p, set.has(p) ? idsOf(fs.readFileSync(path.join(dist, p), 'utf8')) : null); return idCache.get(p); },
   };
   let local = 0, checked = 0;
@@ -127,6 +132,12 @@ export function checkDist(dist) {
   const p1 = checkFile(page, ctlHtml, cenv).problems;
   const p2 = checkFile('ctl/x.css', '.a{background:url("../none-3.webp")}.b{background:url(data:image/png;base64,AAAA)}', cenv).problems;
   const p3 = checkFile('404.html', '<a href="index.html">rel</a><a href="/">root ok</a>', cenv).problems;
+  /* this build: a directory link without its slash is reported; a percent-encoded link to a real UTF-8 dir is not */
+  const anyDir = files.find((f) => /^[^/]+\/index\.html$/.test(f));
+  const utfDir = files.find((f) => /[^\x00-\x7f]/.test(f) && /\/index\.html$/.test(f));
+  const dirNoSlash = anyDir ? '../../' + anyDir.replace(/\/index\.html$/, '') : null;
+  const utfRef = utfDir ? '../../' + utfDir.replace(/index\.html$/, '').split('/').map((s) => encodeURIComponent(s)).join('/') : null;
+  const p4 = checkFile(page, (dirNoSlash ? '<a href="' + dirNoSlash + '">d</a>' : '') + (utfRef ? '<a href="' + utfRef + '">u</a>' : ''), cenv).problems;
   const has = (ps, kind, value) => ps.some((p) => p.kind === kind && p.value === value);
   const control = {
     missingFile: has(p1, 'missing', '../../nope/'),
@@ -135,9 +146,12 @@ export function checkDist(dist) {
     missingSrcsetCandidate: has(p1, 'missing', '../../none-1.webp'),
     missingCssUrl: has(p2, 'missing', '../none-3.webp'),
     pageRelativeIn404: has(p3, 'page-relative-in-404', 'index.html'),
+    dirWithoutSlash: dirNoSlash ? has(p4, 'dir-without-slash', dirNoSlash) : true,
     validNotReported: !p1.some((p) => p.value === '../../' || (anyCss && p.value === '../../' + anyCss) || (anyImg && p.value === '../../' + anyImg)) && !p3.some((p) => p.value === '/'),
+    encodedUtf8Resolves: utfRef ? !p4.some((p) => p.value === utfRef) : true,
   };
-  control.fired = Object.values(control).every(Boolean);
+  control.utf8Sample = utfRef || '(no UTF-8 path in this tree)';
+  control.fired = Object.entries(control).filter(([k]) => k !== 'utf8Sample').every(([, v]) => Boolean(v));
   const byKind = broken.reduce((a, b) => { a[b.kind] = (a[b.kind] || 0) + 1; return a; }, {});
   const hosts = Object.fromEntries(Object.entries(env.hosts).sort((a, b) => b[1] - a[1] || (a[0] < b[0] ? -1 : 1)));
   return { dist, files: files.length, filesChecked: checked, localRefs: local, fragmentsChecked: env.fragments, externalHosts: hosts, schemes: env.schemes, broken, byKind, control };
@@ -153,7 +167,7 @@ if (isMain) {
   console.log('external hosts: ' + (Object.keys(r.externalHosts).length ? Object.entries(r.externalHosts).map(([h, n]) => h + ' ' + n).join(', ') : 'none'));
   console.log('schemes: ' + JSON.stringify(r.schemes));
   for (const b of r.broken.slice(0, 25)) console.log('  BROKEN ' + b.file + '  ' + b.kind + ' ' + b.attr + '=' + b.value);
-  console.log('control: ' + (r.control.fired ? 'fired (all 6 planted defects reported, valid references not)' : 'DID NOT FIRE ' + JSON.stringify(r.control)));
+  console.log('control: ' + (r.control.fired ? 'fired (all 7 planted defects reported; valid references and the encoded UTF-8 link ' + r.control.utf8Sample + ' not)' : 'DID NOT FIRE ' + JSON.stringify(r.control)));
   if (arg('--json')) fs.writeFileSync(path.resolve(arg('--json')), JSON.stringify(r, null, 1));
   process.exitCode = r.broken.length || !r.control.fired ? 1 : 0;
 }

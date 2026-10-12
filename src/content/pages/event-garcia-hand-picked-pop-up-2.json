@@ -1,0 +1,1078 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/event/garcia-hand-picked-pop-up-2/",
+ "sourceUrl": "https://capecodcannabis.com/event/garcia-hand-picked-pop-up-2/",
+ "requestedUrl": "https://capecodcannabis.com/event/garcia-hand-picked-pop-up-2",
+ "slug": "event-garcia-hand-picked-pop-up-2",
+ "kind": "event",
+ "wpTemplate": "event",
+ "derived": false,
+ "rawFile": "audit/raw/event-garcia-hand-picked-pop-up-2.html",
+ "rawSha256": "a7361a9564863753c035e79fe7a8030c2cd1bc4162da40635f30645088c427be",
+ "regionKind": "body-minus-chrome",
+ "title": "Garcia Hand Picked Pop-Up | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+ "metaDescription": "Given a blank space to create a cannabis brand worthy of Jerry, we picked everything carefully. We took an eco-friendly path whenever possible, sourced",
+ "canonical": "https://capecodcannabis.com/event/garcia-hand-picked-pop-up-2/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "Garcia Hand Picked Pop-Up | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "Given a blank space to create a cannabis brand worthy of Jerry, we picked everything carefully. We took an eco-friendly path whenever possible, sourced",
+  "url": "https://capecodcannabis.com/event/garcia-hand-picked-pop-up-2/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2026-07-23T13:31:36-04:00",
+  "video": "https://capecodcannabis.com/wp-content/uploads/2026/07/GHP_Spinning_Cultivars.mp4"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438",
+  "tag": [
+   "best dispensary on Cape Cod",
+   "cannabis",
+   "cannabis dispensary in Wellfleet",
+   "cannabis flower",
+   "flower",
+   "garcia hand picked",
+   "pop-up event",
+   "wellfleet dispensary"
+  ]
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "Garcia Hand Picked Pop-Up | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "Given a blank space to create a cannabis brand worthy of Jerry, we picked everything carefully. We took an eco-friendly path whenever possible, sourced",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Place",
+     "@id": "https://capecodcannabis.com/#place",
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.916265712481554",
+      "longitude": "-69.98840341462632"
+     },
+     "hasMap": "https://www.google.com/maps/search/?api=1&amp;query=41.916265712481554,-69.98840341462632",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     }
+    },
+    {
+     "@type": [
+      "LocalBusiness",
+      "Organization"
+     ],
+     "@id": "https://capecodcannabis.com/#organization",
+     "name": "Cape Cod Cannabis in Wellfleet - Best dispensary on Cape Cod.",
+     "url": "https://capecodcannabis.com",
+     "sameAs": [
+      "https://www.facebook.com/profile.php?id=100077867156438",
+      "https://twitter.com/capecodcanna"
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "logo": {
+      "@type": "ImageObject",
+      "@id": "https://capecodcannabis.com/#logo",
+      "url": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "contentUrl": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "caption": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+      "inLanguage": "en-US",
+      "width": "700",
+      "height": "500"
+     },
+     "openingHours": [
+      "Mo,Tu,We,Th,Fr,Sa,Su 8:00 - 8:00"
+     ],
+     "description": "Welcome to Cape Cod Cannabis, recognized by many as the Best Dispensary on Cape Cod, located in Wellfleet. Conveniently situated in the Route 6 shopping plaza in South Wellfleet, we are a trusted destination for both locals and visitors traveling from Provincetown, Truro, Wellfleet, Eastham, Orleans, Brewster, Dennis, Harwich, Chatham, Yarmouth, Sandwich and across the Cape and beyond.\n\nCape Cod Cannabis, your go-to cannabis haven, offers a carefully curated selection of high quality products, including flower, pre-rolls, edibles, vaporizers, concentrates, tinctures, topicals, CBD, accessories, and more. With a focus on education, selection, and a welcoming experience, we make it easy to explore and find what works best for you whether you are visiting the Cape or live here year round.",
+     "location": {
+      "@id": "https://capecodcannabis.com/#place"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/#logo"
+     },
+     "telephone": "+1-774-383-3133"
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://capecodcannabis.com/#website",
+     "url": "https://capecodcannabis.com",
+     "name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+     "alternateName": "Cape Cod Cannabis | Wellfleet's Top Rated Cannabis Store on Cape Cod",
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "https://capecodcannabis.com/wp-content/uploads/2024/05/Garcia_Hand_Picked_logo_200px.png",
+     "url": "https://capecodcannabis.com/wp-content/uploads/2024/05/Garcia_Hand_Picked_logo_200px.png",
+     "width": "200",
+     "height": "193",
+     "caption": "Garcia Hand Picked",
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/event/garcia-hand-picked-pop-up-2/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/events-calendar/",
+        "name": "Events"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "3",
+       "item": {
+        "@id": "https://capecodcannabis.com/event/garcia-hand-picked-pop-up-2/",
+        "name": "Garcia Hand Picked Pop-Up"
+       }
+      }
+     ]
+    },
+    {
+     "@type": "WebPage",
+     "@id": "https://capecodcannabis.com/event/garcia-hand-picked-pop-up-2/#webpage",
+     "url": "https://capecodcannabis.com/event/garcia-hand-picked-pop-up-2/",
+     "name": "Garcia Hand Picked Pop-Up | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "datePublished": "2026-07-23T12:23:04-04:00",
+     "dateModified": "2026-07-23T13:31:36-04:00",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2024/05/Garcia_Hand_Picked_logo_200px.png"
+     },
+     "inLanguage": "en-US",
+     "breadcrumb": {
+      "@id": "https://capecodcannabis.com/event/garcia-hand-picked-pop-up-2/#breadcrumb"
+     }
+    },
+    {
+     "@type": "VideoObject",
+     "name": "Garcia Hand Picked Pop-Up | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "description": "Given a blank space to create a cannabis brand worthy of Jerry, we picked everything carefully. We took an eco-friendly path whenever possible, sourced",
+     "uploadDate": "2026-07-23T12:23:04-04:00",
+     "thumbnailUrl": "https://capecodcannabis.com/wp-content/uploads/2024/05/Garcia_Hand_Picked_logo_200px.png",
+     "contentUrl": "https://capecodcannabis.com/wp-content/uploads/2026/07/GHP_Spinning_Cultivars.mp4",
+     "width": "1920",
+     "height": "1080",
+     "isFamilyFriendly": "True",
+     "@id": "https://capecodcannabis.com/event/garcia-hand-picked-pop-up-2/#schema-1915600",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/event/garcia-hand-picked-pop-up-2/#webpage"
+     },
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "inLanguage": "en-US",
+     "mainEntityOfPage": {
+      "@id": "https://capecodcannabis.com/event/garcia-hand-picked-pop-up-2/#webpage"
+     }
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  },
+  [
+   {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "Garcia Hand Picked Pop-Up",
+    "description": "&lt;p&gt;Learn more about Garcia Hand Picked products, their mission and who they are! &nbsp; THEIR STORY Given a blank space to create a cannabis brand worthy of Jerry, we picked [&hellip;]&lt;/p&gt;\\n",
+    "image": "https://capecodcannabis.com/wp-content/uploads/2024/05/Garcia_Hand_Picked_logo_200px.png",
+    "url": "https://capecodcannabis.com/event/garcia-hand-picked-pop-up-2/",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "startDate": "2026-08-14T16:00:00-04:00",
+    "endDate": "2026-08-14T18:00:00-04:00",
+    "location": {
+     "@type": "Place",
+     "name": "Cape Cod Cannabis",
+     "description": "",
+     "url": "",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressLocality": "Wellfleet",
+      "addressRegion": "MA",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "telephone": "774-383-3133",
+     "sameAs": "https://www.capecodcannabis.com"
+    },
+    "performer": "Organization"
+   }
+  ]
+ ],
+ "h1": "Garcia Hand Picked Pop-Up",
+ "h1Source": {
+  "count": 1,
+  "visible": 1,
+  "hidden": 0
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Events",
+   "href": "/events-calendar/"
+  },
+  {
+   "label": "Garcia Hand Picked Pop-Up",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "jsonld",
+ "section": null,
+ "sections": [
+  {
+   "n": 0,
+   "id": "4d8f4efa",
+   "doc": "tec_event_single_dynamic#92071",
+   "blocks": [
+    {
+     "t": "event-field",
+     "field": "calendar_link",
+     "text": "« All Events",
+     "links": [
+      {
+       "label": "« All Events",
+       "href": "/events-calendar/"
+      }
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "status",
+     "text": "This event has passed."
+    },
+    {
+     "t": "event-field",
+     "field": "title",
+     "text": "Garcia Hand Picked Pop-Up",
+     "level": 1
+    },
+    {
+     "t": "event-field",
+     "field": "datetime",
+     "text": "August 14, 2026\n@ 4:00 pm\n- 6:00 pm"
+    },
+    {
+     "t": "image",
+     "ref": "assets/source/6dbdd385-Garcia_Hand_Picked_logo_200px.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2024/05/Garcia_Hand_Picked_logo_200px.png?lossy=2&strip=0&webp=1",
+     "alt": "Garcia Hand Picked",
+     "w": 200,
+     "h": 193,
+     "kind": "event-image"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Learn more about Garcia Hand Picked products, their mission and who they are!"
+    },
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "THEIR STORY"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Given a blank space to create a cannabis brand worthy of Jerry, we picked everything carefully. We took an eco-friendly path whenever possible, sourced original and unique genetics with stories of their own, and partnered with expert and honorable people to cultivate, roll joints, and make sure everything is of the highest quality. We spent a lot of time looking for the right partners to ensure our weed is worth sharing. Our traveling Airstream, Bertha, continues to crisscross the country spreading her magic and bliss. She’s filled with merch and music and has become a beloved ambassador of Garcia Hand Picked.</p><p>Set intention for a good time, pick a favorite show, and share with your tribe what thousands of fans have already discovered: the transcendent experience of cannabis and music. Expand your mind and remember that life is yours to explore and enjoy.</p><p>Jerry was a musician, an artist, a legend, and for sure, someone who opted for fun in his lifetime. That is our hope for you. Take a moment to reconnect with everything that is beautiful, right, and good, and above all else, don’t forget to have fun!</p><p>With gratitude from our family to yours,<br> The Garcia Family</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Hand-Picked Cannabis Worthy of a Legend."
+    },
+    {
+     "t": "embed",
+     "kind": "video",
+     "src": "https://capecodcannabis.com/wp-content/uploads/2026/07/GHP_Spinning_Cultivars.mp4?_=1",
+     "settings": {
+      "controls": "controls"
+     }
+    },
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "CLASSIC FLOWER"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Inspired by old-school lot strains, Garcia Hand Picked cultivars like Florida Kush and LA Baker are becoming big hits with cannabis lovers.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "JERRY’S PICKS"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Modeled after Jerry’s guitar picks, Jerry’s Picks are tasty, all-natural, and terpene infused for a natural effect. With blueberry, raspberry, blackberry and 10 mg of THC artfully blended together, fun is highly likely.</p>",
+     "overflow": true
+    },
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "DOUBLE DOOBIE"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Imagine two joints where you thought there might be one, introducing Double Doobie. Same cultivars you’ve come to love, now in a two-half gram joint package. More joints, more bridges.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "ROADIE PACK"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Ten packs of quality pre-rolled joints are now available in ecofriendly packs made for passing and sharing.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "TOUR PACK"
+    },
+    {
+     "t": "rich",
+     "html": "<p>The Garcia Hand Picked Tour Pack was made for life on tour in an easy to pack, easy to share resealable bag.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Click here to shop Garcia Hand Picked products!",
+     "href": "/brands/garcia-hand-picked/"
+    },
+    {
+     "t": "event-field",
+     "field": "venue",
+     "text": "Cape Cod Cannabis\n1446 US-6\nWellfleet,MA02667United States\n+ Google Map\n774-383-3133\nView Venue Website",
+     "links": [
+      {
+       "label": "+ Google Map",
+       "href": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=1446+US-6+Wellfleet+MA+02667+United+States"
+      },
+      {
+       "label": "774-383-3133",
+       "href": "tel:774-383-3133"
+      },
+      {
+       "label": "View Venue Website",
+       "href": "/"
+      }
+     ],
+     "ariaLabels": [
+      "Venue location map"
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "tags",
+     "text": "Tags:\nbest dispensary on Cape Cod,\ncannabis,\ncannabis dispensary in Wellfleet,\ncannabis flower,\nflower,\ngarcia hand picked,\npop-up event,\nwellfleet dispensary",
+     "links": [
+      {
+       "label": "best dispensary on Cape Cod",
+       "href": "/tag/best-dispensary-on-cape-cod/"
+      },
+      {
+       "label": "cannabis",
+       "href": "/tag/cannabis/"
+      },
+      {
+       "label": "cannabis dispensary in Wellfleet",
+       "href": "/tag/cannabis-dispensary-in-wellfleet/"
+      },
+      {
+       "label": "cannabis flower",
+       "href": "/tag/cannabis-flower/"
+      },
+      {
+       "label": "flower",
+       "href": "/tag/flower/"
+      },
+      {
+       "label": "garcia hand picked",
+       "href": "/tag/garcia-hand-picked/"
+      },
+      {
+       "label": "pop-up event",
+       "href": "/tag/pop-up-event/"
+      },
+      {
+       "label": "wellfleet dispensary",
+       "href": "/tag/wellfleet-dispensary/"
+      }
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "export",
+     "text": "Add to calendar\nGoogle Calendar\niCalendar\nOutlook 365\nOutlook Live",
+     "links": [
+      {
+       "label": "Google Calendar",
+       "href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20260814T160000/20260814T180000&text=Garcia%20Hand%20Picked%20Pop-Up&details=%3Ch3%3E%3Cstrong%3ELearn+more+about+Garcia+Hand+Picked+products%2C+their+mission+and+who+they+are%21%3C%2Fstrong%3E%3C%2Fh3%3E%26nbsp%3B%3Ch4%3ETHEIR+STORY%3C%2Fh4%3EGiven+a+blank+space+to+create+a+cannabis+brand+worthy+of+Jerry%2C+we+picked+everything+carefully.+We+took+an+eco-friendly+path+whenever+possible%2C+sourced+original+and+unique+genetics+with+stories+of+their+own%2C+and+partnered+with+expert+and+honorable+people+to+cultivate%2C+roll+joints%2C+and+make+sure+everything+is+of+the+highest+quality.+We+spent+a+lot+of+time+looking+for+the+right+partners+to+ensure+our+weed+is+worth+sharing.+Our+traveling+Airstream%2C+Bertha%2C+continues+to+crisscross+the+country+spreading+her+magic+and+bliss.+She%E2%80%99s+filled+with+merch+and+music+and+has+become+a+beloved+ambassador+of+Garcia+Hand+Picked.%26nbsp%3BSet+intention+for+a+good+time%2C+pick+a+favorite+show%2C+and+share+with+your+tribe+what+thousands+of+fans+have+already+discovered%3A+the+transcendent+experience+of+cannabis+and+music.+Expand+your+mind+and+remember+that+life+is+yours+t+%28View+Full+event+Description+Here%3A+https%3A%2F%2Fcapecodcannabis.com%2Fevent%2Fgarcia-hand-picked-pop-up-2%2F%29&location=Cape%20Cod%20Cannabis,%201446%20US-6,%20Wellfleet,%20MA,%2002667,%20United%20States&trp=false&ctz=America/New_York&sprop=website:https://capecodcannabis.com"
+      },
+      {
+       "label": "iCalendar",
+       "href": "/event/garcia-hand-picked-pop-up-2/?ical=1"
+      },
+      {
+       "label": "Outlook 365",
+       "href": "https://outlook.office.com/owa/?path=/calendar/action/compose&rrv=addevent&startdt=2026-08-14T16%3A00%3A00-04%3A00&enddt=2026-08-14T18%3A00%3A00-04%3A00&location=Cape%20Cod%20Cannabis,%201446%20US-6,%20Wellfleet,%20MA,%2002667,%20United%20States&subject=Garcia%20Hand%20Picked%20Pop-Up&body=Learn%20more%20about%20Garcia%20Hand%20Picked%20products%2C%20their%20mission%20and%20who%20they%20are%21%26nbsp%3BTHEIR%20STORYGiven%20a%20blank%20space%20to%20create%20a%20cannabis%20brand%20worthy%20of%20Jerry%2C%20we%20picked%20everything%20carefully.%20We%20took%20an%20eco-friendly%20path%20whenever%20possible%2C%20sourced%20original%20and%20unique%20genetics%20with%20stories%20of%20their%20own%2C%20and%20partnered%20with%20expert%20and%20honorable%20people%20to%20cultivate%2C%20roll%20joints%2C%20and%20make%20sure%20everything%20is%20of%20the%20highest%20quality.%20We%20spent%20a%20lot%20of%20time%20looking%20for%20the%20right%20partners%20to%20ensure%20our%20weed%20is%20worth%20sharing.%20Our%20traveling%20Airstream%2C%20Bertha%2C%20continues%20to%20crisscross%20the%20country%20spreading%20her%20magic%20and%20bliss.%20She%E2%80%99s%20filled%20with%20merch%20and%20music%20and%20has%20become%20a%20beloved%20ambassador%20of%20Garcia%20Hand%20Picked.%26nbsp%3BSet%20intention%20for%20a%20good%20time%2C%20pick%20a%20favorite%20show%2C%20and%20share%20with%20your%20tribe%20what%20thousands%20of%20fans%20have%20already%20discovered%3A%20the%20transcendent%20experience%20of%20cannabis%20%20%28View%20Full%20Event%20Description%20Here%3A%20https%3A%2F%2Fcapecodcannabis.com%2Fevent%2Fgarcia-hand-picked-pop-up-2%2F%29"
+      },
+      {
+       "label": "Outlook Live",
+       "href": "https://outlook.live.com/owa/?path=/calendar/action/compose&rrv=addevent&startdt=2026-08-14T16%3A00%3A00-04%3A00&enddt=2026-08-14T18%3A00%3A00-04%3A00&location=Cape%20Cod%20Cannabis,%201446%20US-6,%20Wellfleet,%20MA,%2002667,%20United%20States&subject=Garcia%20Hand%20Picked%20Pop-Up&body=Learn%20more%20about%20Garcia%20Hand%20Picked%20products%2C%20their%20mission%20and%20who%20they%20are%21%26nbsp%3BTHEIR%20STORYGiven%20a%20blank%20space%20to%20create%20a%20cannabis%20brand%20worthy%20of%20Jerry%2C%20we%20picked%20everything%20carefully.%20We%20took%20an%20eco-friendly%20path%20whenever%20possible%2C%20sourced%20original%20and%20unique%20genetics%20with%20stories%20of%20their%20own%2C%20and%20partnered%20with%20expert%20and%20honorable%20people%20to%20cultivate%2C%20roll%20joints%2C%20and%20make%20sure%20everything%20is%20of%20the%20highest%20quality.%20We%20spent%20a%20lot%20of%20time%20looking%20for%20the%20right%20partners%20to%20ensure%20our%20weed%20is%20worth%20sharing.%20Our%20traveling%20Airstream%2C%20Bertha%2C%20continues%20to%20crisscross%20the%20country%20spreading%20her%20magic%20and%20bliss.%20She%E2%80%99s%20filled%20with%20merch%20and%20music%20and%20has%20become%20a%20beloved%20ambassador%20of%20Garcia%20Hand%20Picked.%26nbsp%3BSet%20intention%20for%20a%20good%20time%2C%20pick%20a%20favorite%20show%2C%20and%20share%20with%20your%20tribe%20what%20thousands%20of%20fans%20have%20already%20discovered%3A%20the%20transcendent%20experience%20of%20cannabis%20%20%28View%20Full%20Event%20Description%20Here%3A%20https%3A%2F%2Fcapecodcannabis.com%2Fevent%2Fgarcia-hand-picked-pop-up-2%2F%29"
+      }
+     ],
+     "ariaLabels": [
+      "View links to add events to your calendar"
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "navigation",
+     "text": "Jeeter Hook-Up Pop-Up\nCoast Cannabis Pop-Up Event",
+     "links": [
+      {
+       "label": "Jeeter Hook-Up Pop-Up",
+       "href": "/event/jeeter-hook-up-pop-up/"
+      },
+      {
+       "label": "Coast Cannabis Pop-Up Event",
+       "href": "/event/coast-cannabis-pop-up-event/"
+      }
+     ],
+     "ariaLabels": [
+      "Events"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "a7bb484",
+   "doc": "tec_event_single_dynamic#92071",
+   "hiddenAll": true,
+   "dev": [],
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/6dbdd385-Garcia_Hand_Picked_logo_200px.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2024/05/Garcia_Hand_Picked_logo_200px.png?lossy=2&strip=0&webp=1",
+     "alt": "Garcia Hand Picked",
+     "w": 200,
+     "h": 193,
+     "kind": "event-image",
+     "dev": [],
+     "hiddenAll": true
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "c7b579f",
+   "doc": "tec_event_single_dynamic#92071",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/c0c34846-CCC_Logo_650px-geo-tag-r9v1ohpw5zerbd7bkhgpgccbma2ezjddi6xfhghm0u.jpg",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/elementor/thumbs/CCC_Logo_650px-geo-tag-r9v1ohpw5zerbd7bkhgpgccbma2ezjddi6xfhghm0u.jpg?lossy=2&strip=0&webp=1",
+     "alt": "Cape Cod Cannabis Recreational Dispensary near me in Wellfleet, MA ... it's worth the trip!",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary near me in Wellfleet, MA … it’s worth the trip!"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": null,
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong><em>Cape Cod Cannabis…always worth the trip!</em></strong></p>"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "embed": 1,
+  "event-field": 8,
+  "heading": 9,
+  "image": 3,
+  "rich": 7
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "tec-loading-spinner",
+    "text": "Loading Events",
+    "reason": "The Events Calendar AJAX loading spinner (plugin runtime UI, origin wp-content gif); declared in removals.json"
+   },
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [],
+  "aliasesResolved": [
+   {
+    "from": "https://capecodcannabis.com/events-calendar/",
+    "to": "/events-calendar/"
+   },
+   {
+    "from": "https://capecodcannabis.com/brands/garcia-hand-picked",
+    "to": "/brands/garcia-hand-picked/"
+   },
+   {
+    "from": "https://capecodcannabis.com/event/garcia-hand-picked-pop-up-2/?ical=1",
+    "to": "/event/garcia-hand-picked-pop-up-2/?ical=1"
+   },
+   {
+    "from": "https://capecodcannabis.com/event/jeeter-hook-up-pop-up/",
+    "to": "/event/jeeter-hook-up-pop-up/"
+   },
+   {
+    "from": "https://capecodcannabis.com/event/coast-cannabis-pop-up-event/",
+    "to": "/event/coast-cannabis-pop-up-event/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

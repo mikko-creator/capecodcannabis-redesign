@@ -1,0 +1,947 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/the-ancient-origins-of-halloween-toke-or-treat/",
+ "sourceUrl": "https://capecodcannabis.com/the-ancient-origins-of-halloween-toke-or-treat/",
+ "requestedUrl": "https://capecodcannabis.com/the-ancient-origins-of-halloween-toke-or-treat",
+ "slug": "the-ancient-origins-of-halloween-toke-or-treat",
+ "kind": "blog-post",
+ "wpTemplate": "post",
+ "derived": false,
+ "rawFile": "audit/raw/the-ancient-origins-of-halloween-toke-or-treat.html",
+ "rawSha256": "b3339a4c729281bd9a25514de900288ee5769354a8046d6b2c92d9795bdfc306",
+ "regionKind": "body-minus-chrome",
+ "title": "The Ancient Origins of Halloween October 31st and our Toke or Treat | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+ "metaDescription": "Speaking of treats, Cape Cod Cannabis in Wellfleet is getting into the Halloween (Halloweed) spirit with our Toke or Treat Bundles. These exclusive bundles",
+ "canonical": "https://capecodcannabis.com/the-ancient-origins-of-halloween-toke-or-treat/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "The Ancient Origins of Halloween October 31st and our Toke or Treat | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "Speaking of treats, Cape Cod Cannabis in Wellfleet is getting into the Halloween (Halloweed) spirit with our Toke or Treat Bundles. These exclusive bundles",
+  "url": "https://capecodcannabis.com/the-ancient-origins-of-halloween-toke-or-treat/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2026-08-17T14:17:21-04:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2025/10/Toke-or-Treat-1200x600-1.png",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/2025/10/Toke-or-Treat-1200x600-1.png",
+  "image:width": "1200",
+  "image:height": "600",
+  "image:alt": "Happy Halloweed: Toke or Treat at Cape Cod Cannabis in Wellfleet.",
+  "image:type": "image/png"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438",
+  "tag": [
+   "bundles",
+   "cannabis",
+   "cannabis concentrate",
+   "cannabis edibles",
+   "cannabis flower",
+   "cape cod cannabis",
+   "halloweed",
+   "halloween",
+   "toke or treat",
+   "vaporizers"
+  ],
+  "section": "Cape Cod Lifestyle",
+  "published_time": "2025-10-23T13:09:58-04:00",
+  "modified_time": "2026-08-17T14:17:21-04:00"
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "The Ancient Origins of Halloween October 31st and our Toke or Treat | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "Speaking of treats, Cape Cod Cannabis in Wellfleet is getting into the Halloween (Halloweed) spirit with our Toke or Treat Bundles. These exclusive bundles",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2025/10/Toke-or-Treat-1200x600-1.png",
+  "label1": "Written by",
+  "data1": "rrh_clientadmin",
+  "label2": "Time to read",
+  "data2": "3 minutes"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Place",
+     "@id": "https://capecodcannabis.com/#place",
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.916265712481554",
+      "longitude": "-69.98840341462632"
+     },
+     "hasMap": "https://www.google.com/maps/search/?api=1&amp;query=41.916265712481554,-69.98840341462632",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     }
+    },
+    {
+     "@type": [
+      "LocalBusiness",
+      "Organization"
+     ],
+     "@id": "https://capecodcannabis.com/#organization",
+     "name": "Cape Cod Cannabis in Wellfleet - Best dispensary on Cape Cod.",
+     "url": "https://capecodcannabis.com",
+     "sameAs": [
+      "https://www.facebook.com/profile.php?id=100077867156438",
+      "https://twitter.com/capecodcanna"
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "logo": {
+      "@type": "ImageObject",
+      "@id": "https://capecodcannabis.com/#logo",
+      "url": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "contentUrl": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "caption": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+      "inLanguage": "en-US",
+      "width": "700",
+      "height": "500"
+     },
+     "openingHours": [
+      "Mo,Tu,We,Th,Fr,Sa,Su 8:00 - 8:00"
+     ],
+     "description": "Welcome to Cape Cod Cannabis, recognized by many as the Best Dispensary on Cape Cod, located in Wellfleet. Conveniently situated in the Route 6 shopping plaza in South Wellfleet, we are a trusted destination for both locals and visitors traveling from Provincetown, Truro, Wellfleet, Eastham, Orleans, Brewster, Dennis, Harwich, Chatham, Yarmouth, Sandwich and across the Cape and beyond.\n\nCape Cod Cannabis, your go-to cannabis haven, offers a carefully curated selection of high quality products, including flower, pre-rolls, edibles, vaporizers, concentrates, tinctures, topicals, CBD, accessories, and more. With a focus on education, selection, and a welcoming experience, we make it easy to explore and find what works best for you whether you are visiting the Cape or live here year round.",
+     "location": {
+      "@id": "https://capecodcannabis.com/#place"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/#logo"
+     },
+     "telephone": "+1-774-383-3133"
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://capecodcannabis.com/#website",
+     "url": "https://capecodcannabis.com",
+     "name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+     "alternateName": "Cape Cod Cannabis | Wellfleet's Top Rated Cannabis Store on Cape Cod",
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "https://capecodcannabis.com/wp-content/uploads/2025/10/Toke-or-Treat-1200x600-1.png",
+     "url": "https://capecodcannabis.com/wp-content/uploads/2025/10/Toke-or-Treat-1200x600-1.png",
+     "width": "1200",
+     "height": "600",
+     "caption": "Happy Halloweed: Toke or Treat at Cape Cod Cannabis in Wellfleet.",
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/the-ancient-origins-of-halloween-toke-or-treat/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/category/cape-cod-lifestyle/",
+        "name": "Cape Cod Lifestyle"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "3",
+       "item": {
+        "@id": "https://capecodcannabis.com/the-ancient-origins-of-halloween-toke-or-treat/",
+        "name": "The Ancient Origins of Halloween October 31st and our Toke or Treat"
+       }
+      }
+     ]
+    },
+    {
+     "@type": "WebPage",
+     "@id": "https://capecodcannabis.com/the-ancient-origins-of-halloween-toke-or-treat/#webpage",
+     "url": "https://capecodcannabis.com/the-ancient-origins-of-halloween-toke-or-treat/",
+     "name": "The Ancient Origins of Halloween October 31st and our Toke or Treat | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "datePublished": "2025-10-23T13:09:58-04:00",
+     "dateModified": "2026-08-17T14:17:21-04:00",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2025/10/Toke-or-Treat-1200x600-1.png"
+     },
+     "inLanguage": "en-US",
+     "breadcrumb": {
+      "@id": "https://capecodcannabis.com/the-ancient-origins-of-halloween-toke-or-treat/#breadcrumb"
+     }
+    },
+    {
+     "@type": "Person",
+     "@id": "https://capecodcannabis.com/the-ancient-origins-of-halloween-toke-or-treat/#author",
+     "name": "rrh_clientadmin",
+     "image": {
+      "@type": "ImageObject",
+      "@id": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "url": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "caption": "rrh_clientadmin",
+      "inLanguage": "en-US"
+     },
+     "worksFor": {
+      "@id": "https://capecodcannabis.com/#organization"
+     }
+    },
+    {
+     "@type": "Article",
+     "headline": "The Ancient Origins of Halloween October 31st and our Toke or Treat | Cape Cod Cannabis Recreational",
+     "keywords": "toke or treat, cape cod cannabis",
+     "datePublished": "2025-10-23T13:09:58-04:00",
+     "dateModified": "2026-08-17T14:17:21-04:00",
+     "articleSection": "Cape Cod Lifestyle",
+     "author": {
+      "@id": "https://capecodcannabis.com/the-ancient-origins-of-halloween-toke-or-treat/#author",
+      "name": "rrh_clientadmin"
+     },
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "description": "Speaking of treats, Cape Cod Cannabis in Wellfleet is getting into the Halloween (Halloweed) spirit with our Toke or Treat Bundles. These exclusive bundles",
+     "name": "The Ancient Origins of Halloween October 31st and our Toke or Treat | Cape Cod Cannabis Recreational",
+     "@id": "https://capecodcannabis.com/the-ancient-origins-of-halloween-toke-or-treat/#richSnippet",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/the-ancient-origins-of-halloween-toke-or-treat/#webpage"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2025/10/Toke-or-Treat-1200x600-1.png"
+     },
+     "inLanguage": "en-US",
+     "mainEntityOfPage": {
+      "@id": "https://capecodcannabis.com/the-ancient-origins-of-halloween-toke-or-treat/#webpage"
+     }
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "h1": "The Ancient Origins of Halloween October 31st and our Toke or Treat",
+ "h1Source": {
+  "count": 1,
+  "visible": 1,
+  "hidden": 0
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Cape Cod Lifestyle",
+   "href": "/category/cape-cod-lifestyle/"
+  },
+  {
+   "label": "The Ancient Origins of Halloween October 31st and our Toke or Treat",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "visible",
+ "breadcrumbsSeparator": " / ",
+ "breadcrumbsLabel": "breadcrumbs",
+ "breadcrumbsInRegion": true,
+ "section": null,
+ "sections": [
+  {
+   "n": 0,
+   "id": "3f1093a4",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "The Ancient Origins of Halloween October 31st and our Toke or Treat"
+    },
+    {
+     "t": "meta",
+     "items": [
+      {
+       "text": "October 23, 2025",
+       "href": "/2025/10/23/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "2ccc3ec0",
+   "doc": "wp-post#110789",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "How Halloween Started: The Origins of Spooky Season"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Halloween, a holiday loved by millions around the world, has become a celebration of all things spooky, with costumes, candy, and haunted houses taking center stage. But how did Halloween, as we know it today, actually begin? Let’s take a journey through time to explore the origins of Halloween and how it transformed into the festive and spooky holiday we love today.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "The Ancient Origins of Halloween"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Halloween dates back over 2,000 years to the ancient Celtic festival of <strong>Samhain</strong> <em>(pronounced “sow-win”)</em>. The Celts, who lived in what is now Ireland, the UK, and northern France, celebrated their new year on November 1st. This date marked the end of summer and the harvest, as well as the beginning of the cold, dark winter, a time often associated with death.</p><p>On the night of October 31st, the Celts believed that the boundary between the living and the dead was blurred, and that ghosts of the dead returned to earth. To ward off these spirits, they would light bonfires and wear costumes to protect themselves from evil.</p><p>As Christianity spread throughout the Celtic lands, the church incorporated elements of Samhain into their own traditions. By the 9th century, the church designated <strong>November 1st as All Saints’ Day</strong>, a day to honor saints and martyrs. The night before, <strong>All Hallows’ Eve</strong>, eventually became what we now call Halloween…<strong><em>or as we like to say, “Halloweed”</em></strong>.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Halloween Comes to America"
+    },
+    {
+     "t": "rich",
+     "html": "<p>When European immigrants, especially the Irish fleeing the potato famine in the 1800s, came to America, they brought their Halloween customs with them. Over time, these customs merged with other traditions, like Native American harvest celebrations and British “Guy Fawkes Day.” By the late 19th century, Halloween had become a community-based holiday in the U.S., marked by parties, parades, and trick-or-treating.</p><p>Trick-or-treating has its roots in the medieval tradition of <strong>“souling,”</strong> where the poor would go door-to-door offering prayers for the dead in exchange for food. In America, by the 1930s and 40s, this evolved into the child-friendly custom we know today, where kids dress up in costumes and go door-to-door collecting candy.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Modern-Day Halloween: Fun for All Ages"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Today, Halloween is more than just a day for kids to collect sweets. It’s a celebration enjoyed by people of all ages, with costume parties, haunted attractions, and an abundance of spooky-themed events. Whether you’re into ghost stories, horror films, or simply carving pumpkins, Halloween offers something for everyone.</p><p>As October 31st approaches, it’s the perfect time to embrace the festive spirit by decorating your home, preparing your costume, and yes, indulging in some seasonal treats.</p><p><a href=\"/specials/\"><img src=\"assets/source/503e8ba1-Toke-or-Treat-Bundles-800x800-1.jpg\" alt=\"Happy Halloweed: Toke or Treat at Cape Cod Cannabis in Wellfleet.\" width=\"600\" height=\"600\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2024/10/Toke-or-Treat-Bundles-800x800-1.jpg?lossy=2&amp;strip=0&amp;webp=1\"></a></p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Cape Cod Cannabis “Toke or Treat” Bundles"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Speaking of treats, <strong>Cape Cod Cannabis in Wellfleet</strong> is getting into the Halloween <em>(Halloweed)</em> spirit with our <a href=\"/specials/\"><strong>Toke or Treat Bundles</strong></a>. These exclusive bundles are perfect for cannabis enthusiasts looking to add a little extra fun to their Halloween celebrations. Whether you’re planning a spooky movie night, a Halloween-themed party, or just enjoying a quiet evening at home, our <a href=\"/specials/\"><strong>Toke or Treat Bundles</strong></a> provide everything you need to enhance your experience.</p><p><a href=\"/specials/\"><strong>Cape Cod Cannabis Toke or Treat Bundles</strong></a> come packed with a variety of premium cannabis products, from pre-rolls to edibles, ensuring you’ll have a range of options to elevate your Halloween festivities. Stop by our Wellfleet location, in the Rt. 6 shopping plaza, to grab your <a href=\"/specials/\"><strong>Toke or Treat bundle</strong></a> and <em>celebrate Halloweed Cape Cod style</em>!</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Celebrate Halloweed with a Twist!"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Halloween is a time for fun, frights, and a bit of mischief. Whether you’re hosting a party, trick-or-treating, or just enjoying the spooky season, Cape Cod Cannabis has you covered. Our <a href=\"/specials/\"><strong>Toke or Treat Bundles</strong></a> are the perfect companion for any Halloween celebration for everyone 21 yrs or older. So, while you’re embracing the ghosts of Halloween’s past, make sure to stop by and treat yourself to something special! <em>And, as always, celebrate responsibly.<br></em></p><p>——</p><p>Looking for more information on how to celebrate Halloweed with Cape Cod Cannabis? <a href=\"/directions/\">Visit our store in Wellfleet</a> or check out our website for all the latest offerings and always celebrate responsibly.</p>"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "ea5fb64",
+   "doc": "wp-post#110789",
+   "blocks": [
+    {
+     "t": "button",
+     "label": "Shop Bundles",
+     "href": "/specials/"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": "329af6c",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "postnav",
+     "prev": {
+      "srLabel": "Prev",
+      "title": "What is the difference between FSO (Full-Spectrum Oil) versus RSO (Rick Simpson Oil)?",
+      "href": "/what-is-the-difference-between-fso-full-spectrum-oil-versus-rso-rick-simpson-oil/"
+     },
+     "next": {
+      "title": "Green Wednesday 2025: Cape Cod Cannabis in Wellfleet",
+      "srLabel": "Next",
+      "href": "/green-wednesday-2025-your-guide-to-cannabis-deals-holiday-vibes/"
+     },
+     "ariaLabels": [
+      "Post Navigation"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "id": "9ba89d6",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "comments",
+     "note": "WordPress comment form; no comment backend in a static rebuild"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "button": 1,
+  "comments": 1,
+  "heading": 7,
+  "meta": 1,
+  "postnav": 1,
+  "rich": 6
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [],
+  "aliasesResolved": [
+   {
+    "from": "https://capecodcannabis.com/2025/10/23/",
+    "to": "/2025/10/23/"
+   },
+   {
+    "from": "/bundle",
+    "to": "/specials/"
+   },
+   {
+    "from": "https://capecodcannabis.com/bundle/",
+    "to": "/specials/"
+   },
+   {
+    "from": "/directions",
+    "to": "/directions/"
+   },
+   {
+    "from": "https://capecodcannabis.com/what-is-the-difference-between-fso-full-spectrum-oil-versus-rso-rick-simpson-oil/",
+    "to": "/what-is-the-difference-between-fso-full-spectrum-oil-versus-rso-rick-simpson-oil/"
+   },
+   {
+    "from": "https://capecodcannabis.com/green-wednesday-2025-your-guide-to-cannabis-deals-holiday-vibes/",
+    "to": "/green-wednesday-2025-your-guide-to-cannabis-deals-holiday-vibes/"
+   },
+   {
+    "from": "https://capecodcannabis.com/category/cape-cod-lifestyle/",
+    "to": "/category/cape-cod-lifestyle/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

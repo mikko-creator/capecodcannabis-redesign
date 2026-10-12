@@ -1,0 +1,1101 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/massachusetts-cannabis-repeal-2026/",
+ "sourceUrl": "https://capecodcannabis.com/massachusetts-cannabis-repeal-2026/",
+ "requestedUrl": "https://capecodcannabis.com/massachusetts-cannabis-repeal-2026",
+ "slug": "massachusetts-cannabis-repeal-2026",
+ "kind": "blog-post",
+ "wpTemplate": "post",
+ "derived": false,
+ "rawFile": "audit/raw/massachusetts-cannabis-repeal-2026.html",
+ "rawSha256": "7a631e4dc6cccf4d3c27eebad6cb82d21835a8f4c8af3fe0d08137047c2517b4",
+ "regionKind": "body-minus-chrome",
+ "title": "Massachusetts Cannabis Repeal 2026: What Every Voter Should Know",
+ "metaDescription": "Learn what the Massachusetts Cannabis Repeal ballot and Question 8 means for consumers, businesses, and voters before the November 3, 2026 election.",
+ "canonical": "https://capecodcannabis.com/massachusetts-cannabis-repeal-2026/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "Massachusetts Cannabis Repeal 2026: What Every Voter Should Know",
+  "description": "Learn what the Massachusetts Cannabis Repeal ballot and Question 8 means for consumers, businesses, and voters before the November 3, 2026 election.",
+  "url": "https://capecodcannabis.com/massachusetts-cannabis-repeal-2026/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2026-10-09T13:10:40-04:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2024/09/FAQ-banner.jpg",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/2024/09/FAQ-banner.jpg",
+  "image:width": "1900",
+  "image:height": "600",
+  "image:alt": "FAQs - Frequently asked questions at Cape Cod Cannabis in Wellfleet, MA",
+  "image:type": "image/jpeg",
+  "video": [
+   "https://capecodcannabis.com/wp-content/uploads/2026/07/stop-the-repeal-All_Voting_v11_MC.mp4",
+   "https://capecodcannabis.com/wp-content/uploads/2026/07/stop-the-repeal-Public_Health_v06_MC.mp4"
+  ]
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438",
+  "tag": [
+   "cape cod cannabis",
+   "Massachusetts Recreational Cannabis Repeal Vote 2026",
+   "recreational dispensaries in MA",
+   "stop the repeal MA"
+  ],
+  "section": "Cannabis News",
+  "published_time": "2026-07-22T10:02:41-04:00",
+  "modified_time": "2026-10-09T13:10:40-04:00"
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "Massachusetts Cannabis Repeal 2026: What Every Voter Should Know",
+  "description": "Learn what the Massachusetts Cannabis Repeal ballot and Question 8 means for consumers, businesses, and voters before the November 3, 2026 election.",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2024/09/FAQ-banner.jpg",
+  "label1": "Written by",
+  "data1": "rrh_clientadmin",
+  "label2": "Time to read",
+  "data2": "9 minutes"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Place",
+     "@id": "https://capecodcannabis.com/#place",
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.916265712481554",
+      "longitude": "-69.98840341462632"
+     },
+     "hasMap": "https://www.google.com/maps/search/?api=1&amp;query=41.916265712481554,-69.98840341462632",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     }
+    },
+    {
+     "@type": [
+      "LocalBusiness",
+      "Organization"
+     ],
+     "@id": "https://capecodcannabis.com/#organization",
+     "name": "Cape Cod Cannabis in Wellfleet - Best dispensary on Cape Cod.",
+     "url": "https://capecodcannabis.com",
+     "sameAs": [
+      "https://www.facebook.com/profile.php?id=100077867156438",
+      "https://twitter.com/capecodcanna"
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "logo": {
+      "@type": "ImageObject",
+      "@id": "https://capecodcannabis.com/#logo",
+      "url": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "contentUrl": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "caption": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+      "inLanguage": "en-US",
+      "width": "700",
+      "height": "500"
+     },
+     "openingHours": [
+      "Mo,Tu,We,Th,Fr,Sa,Su 8:00 - 8:00"
+     ],
+     "description": "Welcome to Cape Cod Cannabis, recognized by many as the Best Dispensary on Cape Cod, located in Wellfleet. Conveniently situated in the Route 6 shopping plaza in South Wellfleet, we are a trusted destination for both locals and visitors traveling from Provincetown, Truro, Wellfleet, Eastham, Orleans, Brewster, Dennis, Harwich, Chatham, Yarmouth, Sandwich and across the Cape and beyond.\n\nCape Cod Cannabis, your go-to cannabis haven, offers a carefully curated selection of high quality products, including flower, pre-rolls, edibles, vaporizers, concentrates, tinctures, topicals, CBD, accessories, and more. With a focus on education, selection, and a welcoming experience, we make it easy to explore and find what works best for you whether you are visiting the Cape or live here year round.",
+     "location": {
+      "@id": "https://capecodcannabis.com/#place"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/#logo"
+     },
+     "telephone": "+1-774-383-3133"
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://capecodcannabis.com/#website",
+     "url": "https://capecodcannabis.com",
+     "name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+     "alternateName": "Cape Cod Cannabis | Wellfleet's Top Rated Cannabis Store on Cape Cod",
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "https://capecodcannabis.com/wp-content/uploads/2024/09/FAQ-banner.jpg",
+     "url": "https://capecodcannabis.com/wp-content/uploads/2024/09/FAQ-banner.jpg",
+     "width": "1900",
+     "height": "600",
+     "caption": "FAQs - Frequently asked questions at Cape Cod Cannabis in Wellfleet, MA",
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/massachusetts-cannabis-repeal-2026/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/category/cannabis-news/",
+        "name": "Cannabis News"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "3",
+       "item": {
+        "@id": "https://capecodcannabis.com/massachusetts-cannabis-repeal-2026/",
+        "name": "Massachusetts Cannabis Repeal: What Every Voter Should Know"
+       }
+      }
+     ]
+    },
+    {
+     "@type": "WebPage",
+     "@id": "https://capecodcannabis.com/massachusetts-cannabis-repeal-2026/#webpage",
+     "url": "https://capecodcannabis.com/massachusetts-cannabis-repeal-2026/",
+     "name": "Massachusetts Cannabis Repeal 2026: What Every Voter Should Know",
+     "datePublished": "2026-07-22T10:02:41-04:00",
+     "dateModified": "2026-10-09T13:10:40-04:00",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2024/09/FAQ-banner.jpg"
+     },
+     "inLanguage": "en-US",
+     "breadcrumb": {
+      "@id": "https://capecodcannabis.com/massachusetts-cannabis-repeal-2026/#breadcrumb"
+     }
+    },
+    {
+     "@type": "Person",
+     "@id": "https://capecodcannabis.com/massachusetts-cannabis-repeal-2026/#author",
+     "name": "rrh_clientadmin",
+     "image": {
+      "@type": "ImageObject",
+      "@id": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "url": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "caption": "rrh_clientadmin",
+      "inLanguage": "en-US"
+     },
+     "worksFor": {
+      "@id": "https://capecodcannabis.com/#organization"
+     }
+    },
+    {
+     "articleSection": "Cannabis 101, Cannabis News, Start Here",
+     "headline": "Massachusetts Cannabis Repeal 2026: What Every Voter Should Know | Cape Cod's Best Recreational Dispensary | ",
+     "description": "Learn what the Massachusetts Cannabis Repeal ballot and Question 8 means for consumers, businesses, and voters before the November 3, 2026 election.",
+     "keywords": "Massachusetts cannabis repeal, stop the repeal, ballot question 8, Massachusetts Cannabis Ballot Question",
+     "@type": "Article",
+     "author": {
+      "@id": "https://capecodcannabis.com/massachusetts-cannabis-repeal-2026/#author",
+      "name": "rrh_clientadmin"
+     },
+     "datePublished": "2026-07-22T10:02:41-04:00",
+     "dateModified": "2026-10-09T13:10:40-04:00",
+     "image": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2024/09/FAQ-banner.jpg"
+     },
+     "name": "Massachusetts Cannabis Repeal 2026: What Every Voter Should Know | Cape Cod's Best Recreational Dispensary | ",
+     "@id": "https://capecodcannabis.com/massachusetts-cannabis-repeal-2026/#schema-1909800",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/massachusetts-cannabis-repeal-2026/#webpage"
+     },
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "inLanguage": "en-US",
+     "mainEntityOfPage": {
+      "@id": "https://capecodcannabis.com/massachusetts-cannabis-repeal-2026/#webpage"
+     }
+    },
+    {
+     "@type": "VideoObject",
+     "name": "Massachusetts Cannabis Repeal 2026: What Every Voter Should Know",
+     "description": "Learn what the Massachusetts Cannabis Repeal ballot and Question 8 means for consumers, businesses, and voters before the November 3, 2026 election.",
+     "uploadDate": "2026-07-22T10:02:41-04:00",
+     "thumbnailUrl": "https://capecodcannabis.com/wp-content/uploads/2024/09/FAQ-banner.jpg",
+     "contentUrl": "https://capecodcannabis.com/wp-content/uploads/2026/07/stop-the-repeal-All_Voting_v11_MC.mp4",
+     "width": "1280",
+     "height": "720",
+     "isFamilyFriendly": "True",
+     "@id": "https://capecodcannabis.com/massachusetts-cannabis-repeal-2026/#schema-2242700",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/massachusetts-cannabis-repeal-2026/#webpage"
+     },
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "VideoObject",
+     "name": "Massachusetts Cannabis Repeal 2026: What Every Voter Should Know",
+     "description": "Learn what the Massachusetts Cannabis Repeal ballot and Question 8 means for consumers, businesses, and voters before the November 3, 2026 election.",
+     "uploadDate": "2026-07-22T10:02:41-04:00",
+     "thumbnailUrl": "https://capecodcannabis.com/wp-content/uploads/2024/09/FAQ-banner.jpg",
+     "contentUrl": "https://capecodcannabis.com/wp-content/uploads/2026/07/stop-the-repeal-Public_Health_v06_MC.mp4",
+     "width": "1280",
+     "height": "720",
+     "isFamilyFriendly": "True",
+     "@id": "https://capecodcannabis.com/massachusetts-cannabis-repeal-2026/#schema-2242816",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/massachusetts-cannabis-repeal-2026/#webpage"
+     },
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "inLanguage": "en-US"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "h1": "Massachusetts Cannabis Repeal: What Every Voter Should Know",
+ "h1Source": {
+  "count": 2,
+  "visible": 2,
+  "hidden": 0,
+  "note": "source has several visible h1s; the first is primary, the rest carry demote:true"
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Cannabis News",
+   "href": "/category/cannabis-news/"
+  },
+  {
+   "label": "Massachusetts Cannabis Repeal: What Every Voter Should Know",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "visible",
+ "breadcrumbsSeparator": " / ",
+ "breadcrumbsLabel": "breadcrumbs",
+ "breadcrumbsInRegion": true,
+ "section": null,
+ "sections": [
+  {
+   "n": 0,
+   "id": "3f1093a4",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "Massachusetts Cannabis Repeal: What Every Voter Should Know"
+    },
+    {
+     "t": "meta",
+     "items": [
+      {
+       "text": "July 22, 2026",
+       "href": "/2026/07/22/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "1be748f",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "Massachusetts Cannabis Repeal: What Voters Need to Know Before the November 3, 2026 Election",
+     "demote": true
+    },
+    {
+     "t": "rich",
+     "html": "<p><img src=\"assets/source/dfc9056f-Vote-NO-on-8-300x211.png\" alt=\"Vote NO on Question 8 and Stop The Repeal MA - Recreational Marijuana - Click for more information.\" width=\"300\" height=\"211\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/07/Vote-NO-on-8-300x211.png?lossy=2&amp;strip=0&amp;webp=1\" data-master=\"assets/source/03bcfe19-Vote-NO-on-8.png\"></p><p>On <strong>Tuesday, November 3, 2026</strong>, Massachusetts voters will decide the future of recreational cannabis in the Commonwealth.</p>"
+    },
+    {
+     "t": "embed",
+     "kind": "video",
+     "src": "https://capecodcannabis.com/wp-content/uploads/2026/07/stop-the-repeal-All_Voting_v11_MC.mp4?_=1",
+     "settings": {
+      "controls": "controls"
+     }
+    },
+    {
+     "t": "rich",
+     "html": "<p>A statewide ballot question seeks to repeal Massachusetts’ regulated adult use cannabis program. If approved, the measure would eliminate legal recreational cannabis sales across the state while leaving the medical cannabis program in place. The campaign opposing the repeal, <strong>Stop the Repeal</strong>, encourages voters to learn about the proposal and its potential impacts before Election Day.</p><p>Whether you’re a Massachusetts resident, a Cape Cod local, or one of the millions of visitors who enjoy responsibly purchasing cannabis while vacationing on the Cape, understanding what’s at stake is important.</p><p><img src=\"assets/source/cc66ee03-Stop-The-Repeal-MA-1176x500-2-1024x435.png\" alt=\"Click here for more information about Stop the Repeal and Protect Regulated Recreational Marijuana in Massachusetts!\" width=\"800\" height=\"340\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/07/Stop-The-Repeal-MA-1176x500-2-1024x435.png?lossy=2&amp;strip=0&amp;webp=1\" data-master=\"assets/source/ebee256c-Stop-The-Repeal-MA-1176x500-2.png\"></p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "What Is Question 8 on the November 3, 2026 Massachusetts Ballot?"
+    },
+    {
+     "t": "rich",
+     "html": "<p><strong>Question 8</strong> asks Massachusetts voters whether to repeal the Commonwealth’s regulated adult use cannabis program. If approved, recreational cannabis sales would no longer be legal in Massachusetts, while the state’s medical cannabis program would remain in place.</p><p>The proposal would reverse the voter-approved legalization of recreational cannabis that Massachusetts residents adopted in 2016. Supporters of the <a href=\"https://StopTheRepealMA.com\" target=\"_blank\" rel=\"noopener\"><strong>Stop the Repeal</strong></a> campaign encourage voters to reject Question 8, arguing that maintaining a regulated cannabis market protects consumers, supports local businesses, preserves jobs, and continues to generate important tax revenue for Massachusetts communities.</p><p>As Election Day approaches, understanding what Question 8 would change is an important step in making an informed decision. Whether you are a Massachusetts resident or one of the many visitors who enjoy Cape Cod each year, staying informed about this statewide ballot question will help you understand how the outcome could affect the future of legal recreational cannabis throughout the Commonwealth.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Quick Facts About Massachusetts Ballot Question 8 and Massachusetts Cannabis Repeal?"
+    },
+    {
+     "t": "rich",
+     "html": "<ul><li><strong>Election Date:</strong> Tuesday, November 3, 2026</li><li><strong>Ballot Question:</strong> Question 8</li><li><strong>Proposal:</strong> Repeal Massachusetts’ regulated adult use recreational cannabis market</li><li><strong>Medical Cannabis:</strong> Would remain legal</li><li><strong>Who Can Vote:</strong> <a href=\"https://www.sec.state.ma.us/ovr/\" target=\"_blank\" rel=\"noopener\"><strong>Registered Massachusetts voters</strong></a></li><li><strong>Learn More at Stop The Repeal MA: <a href=\"https://stoptherepealma.com/\" target=\"_blank\" rel=\"noopener\">StopTheRepealMA.com</a></strong></li></ul><p><strong>Note:</strong> On the November 3, 2026 Massachusetts ballot, the recreational cannabis repeal appears as <strong>Question 8</strong>. If passed, Question 8 would repeal the Commonwealth’s regulated adult use cannabis program while leaving the medical cannabis program in place.</p><p><strong>IF this initiative passes it will have catastrophic affects, directly and indirectly, across Massachusetts:</strong></p><ul><li><strong>Job losses:</strong> Over 21,000 individual agents and industry workers face displacement as commercial cultivation, manufacturing, and retail operations unwind.</li><li><strong>Tax revenue loss:</strong> An estimated annual loss of nearly $300 million in state taxes plus $50 million in municipal local-option taxes, squeezing local and state budgets that fund public health and addiction services.</li><li><strong>Business closures:</strong> Roughly 400 active retail storefronts would be forced to permanently shut down or transition strictly to medical-only sales.</li></ul><p><strong>A repeal via Question 8 on the November 2026 ballot carries severe direct and indirect secondary losses. Beyond the immediate destruction of jobs and state revenue, cascading economic, regulatory, and public health losses would impact communities and adjacent industries across the state.</strong></p>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "What Is the Massachusetts Cannabis Repeal Ballot Question?"
+    },
+    {
+     "t": "rich",
+     "html": "<p>The ballot initiative proposes repealing the Commonwealth’s legal recreational cannabis market that Massachusetts voters originally approved in 2016.</p><p>According to the campaign materials, supporters of the Stop the Repeal effort believe repeal would affect far more than licensed cannabis businesses. They argue it could impact local economies, tax revenue, consumer access, and public safety by eliminating the state’s regulated adult use marketplace.</p>"
+    },
+    {
+     "t": "embed",
+     "kind": "video",
+     "src": "https://capecodcannabis.com/wp-content/uploads/2026/07/stop-the-repeal-Public_Health_v06_MC.mp4?_=2",
+     "settings": {
+      "controls": "controls"
+     }
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "What Could the Massachusetts Cannabis Repeal Mean?"
+    },
+    {
+     "t": "rich",
+     "html": "<p>If the ballot question passes, Massachusetts would no longer allow licensed recreational cannabis sales.</p><p>According to the Stop the Repeal campaign, repeal could have several impacts, including:</p><ul><li>The end of licensed adult use cannabis dispensaries across Massachusetts.</li><li>Reduced tax revenue that currently supports state and local programs.</li><li>Challenges for locally owned businesses that have invested in the regulated marketplace.</li><li>Criminal penalties returning for certain non medical cannabis sales.</li><li>A shift away from the regulated system that includes testing, labeling, and product safety standards.</li></ul><p><a href=\"https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/07/STR-Sign-White.png?lossy=2&amp;strip=0&amp;webp=1\" target=\"_blank\" rel=\"noopener\"><img src=\"assets/source/43c994fc-STR-Sign-White-791x1024.png\" alt=\"Massachusetts Recreational Cannabis Repeal ballot information infographic\" width=\"500\" height=\"647\" title=\"Massachusetts Recreational Cannabis Repeal ballot information infographic\" data-source-url=\"https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/07/STR-Sign-White-791x1024.png?lossy=2&amp;strip=0&amp;webp=1\" data-master=\"assets/source/16478cbc-STR-Sign-White.png\"></a></p><p><strong>ADDENDUM: IF this initiative passes it will have catastrophic affects, directly and indirectly, across Massachusetts:</strong></p><ul><li><strong>Job losses:</strong> Over 21,000 individual agents and industry workers face displacement as commercial cultivation, manufacturing, and retail operations unwind.</li><li><strong>Tax revenue loss:</strong> An estimated annual loss of nearly $300 million in state taxes plus $50 million in municipal local-option taxes, squeezing local and state budgets that fund public health and addiction services.</li><li><strong>Business closures:</strong> Roughly 400 active retail storefronts would be forced to permanently shut down or transition strictly to medical-only sales.</li></ul><p><strong>A repeal via Question 8 on the November 2026 ballot carries severe direct and indirect secondary losses. Beyond the immediate destruction of jobs and state revenue, cascading economic, regulatory, and public health losses would impact communities and adjacent industries across the state.</strong></p>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Direct Losses"
+    },
+    {
+     "t": "rich",
+     "html": "<ul><li><strong>Social Equity Funding Gutted:</strong> The <a href=\"https://www.masscann.org/keep-cannabis-legal-2026-vote-no-in-november/\" target=\"_blank\" rel=\"noopener\">Massachusetts Cannabis Social Equity Trust Fund</a>, which has disbursed $28.9 million in grants to historically disadvantaged entrepreneurs, would be completely defunded and eliminated. [5]</li><li><strong>Commercial Real Estate Crash:</strong> Hundreds of specialized cultivation facilities, manufacturing centers, and retail properties would suddenly become vacant, leading to mass lease defaults and a collapse in commercial property values.</li><li><strong>Loss of Ancillary Businesses:</strong> Direct closures would extend to ancillary B2B sectors, including cannabis-focused security firms, specialized legal/accounting practices, software platforms, and testing laboratories. [6]</li><li><strong>Destruction of Personal Property Rights:</strong> Legal home cultivation of up to six plants per adult—a right Massachusetts residents have utilized since 2016—would be completely banned. [5, 7]</li></ul>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Indirect Losses"
+    },
+    {
+     "t": "rich",
+     "html": "<ul><li><strong>Public Health and Safety Backslide:</strong> The elimination of a regulated marketplace means a complete loss of mandatory lab testing (for heavy metals, mold, and pesticides), accurate THC dosage labeling, and strict age verification at the point of sale. [3, 8]</li><li><strong>Resurgence of the Illicit Market:</strong> Consumer demand will not vanish; instead, billions of dollars in economic activity will shift back to unregulated, untaxed illicit street markets. [3, 9]</li><li><strong>Collapse of Tourism and Hospitality:</strong> Massachusetts will lose its competitive edge as a regional tourism hub for visitors from neighboring states, impacting hotels, restaurants, and local transport options that thrive on foot traffic near dispensaries.</li><li><strong>Municipal Infrastructure Deficits:</strong> Cities and towns would lose the funding mechanism for local-option tax infrastructure projects. Money currently used to pave roads, fund public schools, and finance community programming would vanish. [3, 10, 11]</li><li><strong>Increased Pharmaceutical Reliance:</strong> Public health advocates note that therapeutic users who do not hold a formal medical card may be forced back toward addictive pharmaceutical alternatives (like opioids or sedatives) due to the loss of retail access. [12]</li></ul><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Cannabis Control Commission Recognizes 10 Years of Adult-Use Cannabis in MA"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Massachusetts voters approved the creation of an adult-use cannabis industry by ballot measure in November 2016, the first state east of the Mississippi River to do so and the first state to <a href=\"https://masscannabiscontrol.com/equity/\" target=\"_blank\" rel=\"noopener\">have an equity mandate</a>. Since then, Massachusetts has built one of the largest legal cannabis markets in the country with a network of nearly 800 licensed businesses across the Commonwealth, each one a major contributor to the state’s economy. </p><p>Check out the <a href=\"https://masscannabiscontrol.com/open-data/10-years/\" target=\"_blank\" rel=\"noopener\">Cannabis Control Commision’s new initiative featuring economic data and a video capturing the highlights of the industry</a> over the last decade.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Why Regulation Matters"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Massachusetts has spent nearly a decade building one of the country’s most highly regulated cannabis markets.</p><p>Licensed dispensaries operate under strict state regulations that include:</p><ul><li>Laboratory testing</li><li>Child resistant packaging</li><li>Product labeling</li><li>Age verification</li><li>Seed to sale tracking</li><li>Consumer education</li><li>Product recalls when necessary</li></ul><p>These safeguards help consumers make informed purchasing decisions while supporting a transparent marketplace.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Supporting Local Massachusetts Businesses"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Since legalization, hundreds of Massachusetts businesses have opened their doors, creating thousands of jobs while contributing significant tax revenue to communities throughout the Commonwealth.</p><p>The Stop the Repeal campaign states that legal cannabis sales have generated <strong>nearly $2 billion in state and local revenue</strong> since legalization in 2016.</p><p>Many of these businesses are locally owned and operated, employing Massachusetts residents and supporting other local businesses through purchasing, partnerships, and community involvement.</p><p>Here on Cape Cod, recreational cannabis has become part of the region’s tourism economy, serving both residents and adult visitors while operating under Massachusetts law.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Consumer Safety Remains a Priority"
+    },
+    {
+     "t": "rich",
+     "html": "<p>One of the primary goals of cannabis legalization has been moving consumers toward a regulated marketplace.</p><p>Licensed dispensaries offer products that are:</p><ul><li>Tested for potency</li><li>Screened for contaminants</li><li>Clearly labeled</li><li>Sold only to adults 21 years of age or older</li><li>Produced and tracked under state regulations</li></ul><p>The Stop the Repeal campaign argues that maintaining a regulated legal market continues to provide important consumer protections.</p><hr><p><a href=\"https://StopTheRepealMA.com\" target=\"_blank\" rel=\"noopener\"><img src=\"assets/source/fc6c4970-Leafly-Stop-the-Repeal-Square-Tile-300-x-250-px.png\" alt=\"Click here to visit StopTheRepealMA.com for more information.\" width=\"300\" height=\"250\" title=\"Click here to visit StopTheRepealMA.com for more information.\" data-source-url=\"https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/07/Leafly-Stop-the-Repeal-Square-Tile-300-x-250-px.png?lossy=2&amp;strip=0&amp;webp=1\"></a></p>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "How Can You Learn More?"
+    },
+    {
+     "t": "rich",
+     "html": "<p>The Stop the Repeal campaign encourages Massachusetts residents to:</p><ul><li>Learn about the ballot question.</li><li><strong><a href=\"https://www.sec.state.ma.us/ovr/\" target=\"_blank\" rel=\"noopener\">Verify their voter registration</a></strong>.</li><li>Vote on <strong>Tuesday, November 3, 2026</strong>.</li><li>Volunteer or support public education efforts.</li><li>Share factual information with family and friends.</li></ul><p>For additional information, visit: <strong><a href=\"https://stoptherepealma.com/\" target=\"_blank\" rel=\"noopener\">StopTheRepealMA.com</a></strong></p><p><img src=\"assets/source/dfc9056f-Vote-NO-on-8-300x211.png\" alt=\"Vote NO on Question 8 and Stop The Repeal MA - Recreational Marijuana - Click for more information.\" width=\"300\" height=\"211\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/07/Vote-NO-on-8-300x211.png?lossy=2&amp;strip=0&amp;webp=1\" data-master=\"assets/source/03bcfe19-Vote-NO-on-8.png\"></p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Is medical cannabis affected?"
+    },
+    {
+     "t": "rich",
+     "html": "<p>According to the campaign, the ballot question focuses on Massachusetts’ recreational (adult-use) cannabis program. Medical cannabis would remain legal if the repeal measure were approved.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "When is the election?"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Election Day is <strong>Tuesday, November 3, 2026</strong>.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Where can I learn more?"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Visit the official campaign website: <strong><a href=\"https://stoptherepealma.com/\" target=\"_blank\" rel=\"noopener\">StopTheRepealMA.com</a></strong></p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Final Thoughts"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Massachusetts voters will make an important decision this November regarding the future of recreational cannabis in the Commonwealth. <a href=\"https://www.sec.state.ma.us/ovr/\" target=\"_blank\" rel=\"noopener\"><em><strong>Register to vote today!</strong></em></a></p><p>Regardless of where you stand, understanding the ballot question, reviewing reliable information, and participating in the democratic process are important steps in making an informed decision.</p><p>At <strong>Cape Cod Cannabis</strong>, we remain <a href=\"/intro-to-cannabis-101/\">committed to education</a>, responsible cannabis use, and helping adults better understand Massachusetts cannabis laws and regulations.</p><p>If you’d like to learn more about cannabis, responsible consumption, or the products available in Massachusetts, our knowledgeable team is always happy to help.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Sources"
+    },
+    {
+     "t": "rich",
+     "html": "<ul><li>Stop the Repeal MA. <em>Stop the Repeal – Keep Marijuana Legal in Massachusetts.</em> Available at: <a href=\"https://stoptherepealma.com/\" target=\"_blank\" rel=\"noopener\">StopTheRepealMA.com</a>. Accessed July 22, 2026.</li><li>Commonwealth of Massachusetts, Secretary of the Commonwealth. <em>State Elections Division Certifies Final Ballot Question Signature Totals.</em> July 17, 2026. <a href=\"https://www.sec.state.ma.us/divisions/news/left-story.htm\" target=\"_blank\" rel=\"noopener\">https://www.sec.state.ma.us/divisions/news/left-story.htm</a></li><li><a href=\"/wp-content/uploads/2026/07/Dispensary-Messaging-Stop-the-Repeal-Flyer-8.5x11.pdf\" target=\"_blank\" rel=\"noopener\"><em>2026 Recreational Cannabis Ballot Question 101</em> campaign flyer</a> provided by Stop the Repeal campaign.</li><li>Other: <a href=\"https://masscannabiscontrol.com/\" target=\"_blank\" rel=\"noopener\">MA Cannabis Control Commission</a></li></ul>"
+    },
+    {
+     "t": "heading",
+     "level": 6,
+     "text": "[1] https://www.forbes.com [2] https://ballotpedia.org [3] https://www.westernmassnews.com [4] https://aafcpa.com [5] https://www.masscann.org [6] https://aafcpa.com [7] https://massbudget.org [8] https://www.cannabisbusinesstimes.com [9] https://hbkcpa.com [10] https://www.westernmassnews.com [11] https://massgreenretail.co [12] https://www.youtube.com",
+     "href": "https://www.forbes.com/sites/ajherrington/2026/07/22/massachusetts-clears-marijuana-repeal-measure-for-november-ballot/"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "329af6c",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "postnav",
+     "prev": {
+      "srLabel": "Prev",
+      "title": "Massachusetts Cannabis Purchase Limit",
+      "href": "/massachusetts-cannabis-purchase-limit/"
+     },
+     "next": {
+      "title": "Outer Cape Music Festival 2026",
+      "srLabel": "Next",
+      "href": "/outer-cape-music-festival-2026/"
+     },
+     "ariaLabels": [
+      "Post Navigation"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": "9ba89d6",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "comments",
+     "note": "WordPress comment form; no comment backend in a static rebuild"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "comments": 1,
+  "embed": 2,
+  "heading": 20,
+  "meta": 1,
+  "postnav": 1,
+  "rich": 18
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [
+   {
+    "href": "/wp-content/uploads/2026/07/Dispensary-Messaging-Stop-the-Repeal-Flyer-8.5x11.pdf",
+    "from": "https://capecodcannabis.com/wp-content/uploads/2026/07/Dispensary-Messaging-Stop-the-Repeal-Flyer-8.5x11.pdf",
+    "status": "unknown"
+   }
+  ],
+  "aliasesResolved": [
+   {
+    "from": "https://capecodcannabis.com/2026/07/22/",
+    "to": "/2026/07/22/"
+   },
+   {
+    "from": "https://capecodcannabis.com/intro-to-cannabis-101/",
+    "to": "/intro-to-cannabis-101/"
+   },
+   {
+    "from": "https://capecodcannabis.com/massachusetts-cannabis-purchase-limit/",
+    "to": "/massachusetts-cannabis-purchase-limit/"
+   },
+   {
+    "from": "https://capecodcannabis.com/outer-cape-music-festival-2026/",
+    "to": "/outer-cape-music-festival-2026/"
+   },
+   {
+    "from": "https://capecodcannabis.com/category/cannabis-news/",
+    "to": "/category/cannabis-news/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

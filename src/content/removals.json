@@ -1,0 +1,139 @@
+{
+ "schema": "ccc-reforge/removals@1",
+ "note": "Declared lists for tools/text-parity.mjs (BUILD-CONTRACT 4.16.2). removals[]: source copy deliberately NOT carried into the rebuild; a source sentence that matches an entry counts as 'declared', not 'missing'. allowedAdded[]: strings the rebuild adds (UI microcopy only, never a claim, a fact or marketing copy); a built string that matches one is not ADDED. Every entry needs an id, a reason, and 'text' (one normalised sentence, matched exactly) or 'pattern' (a regular expression tested against one normalised sentence). 'pages' is '*' (every page, including '#chrome') or a list of output paths. 'kinds' (optional) limits an entry to source units of those kinds: text, alt, aria-label, placeholder, value. Device-duplicate collapse is NOT a removal (no sentence is lost by it), and copy hidden on every device is kept in the models as hiddenAll:true (BUILD-CONTRACT 4.5), so neither appears here. The orchestrator reviews every entry.",
+ "removals": [
+  {
+   "id": "agency-credit",
+   "pages": [
+    "#chrome",
+    "/free-bar-coasters/"
+   ],
+   "text": "Cape Cod Cannabis.com support by Rank Really High",
+   "reason": "The previous agency's footer credit (rankreallyhigh.com, logo alt text). BUILD-CONTRACT 4.8: removed with reason, recorded in the change ledger; src/content/chrome.json keeps it under agencyCredit with removed:true. /free-bar-coasters/ is a canvas page that prints the credit inside its own region; the build drops that block too (page.removedBlocks)."
+  },
+  {
+   "id": "smash-balloon-admin-error",
+   "pages": "*",
+   "pattern": "^(This error message is only visible to WordPress admins|Error: No feed found\\.|Please go to the Instagram Feed settings page to create a feed\\.)$",
+   "reason": "Smash Balloon Instagram plugin's admin-only error output (docs/CONTENT-MODEL.md section 6, Exclude). It is not copy; the model keeps an instagram-feed embed placeholder."
+  },
+  {
+   "id": "tec-loading-spinner",
+   "pages": "*",
+   "text": "Loading Events",
+   "reason": "The Events Calendar's AJAX loading spinner (span.tribe-events-ajax-loading: an <img alt=\"Loading Events\"> on an origin wp-content/plugins gif). Plugin runtime UI shown only while the calendar loads by AJAX; a static rebuild has no such state. Recorded per page in ledger.removed (what: tec-loading-spinner)."
+  },
+  {
+   "id": "widget-accordion-instructions",
+   "pages": "*",
+   "kinds": [
+    "aria-label"
+   ],
+   "pattern": "^(Accordion\\.|Open links with Enter or Space, close with Escape, and navigate with Arrow Keys)$",
+   "reason": "Old-platform widget instruction (BUILD-CONTRACT 4.16.3): the aria-label of Elementor's nested accordion, 'Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys' (split into two sentences by the checker). The rebuild renders FAQs as native details/summary disclosures, whose keyboard behaviour is built in, so no instruction label replaces it."
+  },
+  {
+   "id": "widget-slider-labels",
+   "pages": "*",
+   "kinds": [
+    "aria-label"
+   ],
+   "pattern": "^(Carousel|Image Carousel|Slides|Previous|Next|\\d+ of \\d+)$",
+   "reason": "Old-platform widget instructions (BUILD-CONTRACT 4.16.3): the aria-labels of Elementor's nested carousel and image carousel (Swiper): the region label 'Carousel' / 'Image Carousel', the slide-list label 'Slides', the slide position 'N of M' and the arrow buttons 'Previous' / 'Next'. The stub renders every slide as a static list, so it has no slider controls to label. A theme that builds a slider either keeps these labels verbatim or declares its own labels here and in allowedAdded[]. Limited to aria-labels: visible 'Previous' / 'Next' text (post navigation) is never covered."
+  },
+  {
+   "id": "tec-add-to-calendar-label",
+   "pages": "*",
+   "kinds": [
+    "aria-label"
+   ],
+   "text": "View links to add events to your calendar",
+   "reason": "The aria-label of The Events Calendar's 'Add to calendar' dropdown on the 60 event pages. That export feature is dropped: its Google/Outlook links embed live-site URLs and the iCal links are platform endpoints (?ical=), so the build unlinks all of them and keeps their visible labels as text (docs/PIPELINE-SITE.md sections 6 and 12). With no dropdown left, its control label goes."
+  },
+  {
+   "id": "tec-calendar-view-controls",
+   "pages": [
+    "/events-calendar/"
+   ],
+   "kinds": [
+    "aria-label"
+   ],
+   "pattern": "^(Display Events in List View|Display Events in Month View|Display Events in Day View|Top events list pagination|Bottom events list pagination|Click to select today's date|List of Events)$",
+   "reason": "The Events Calendar's AJAX view UI on /events-calendar/ (page-level ariaLabels in the model): the list/month/day view switcher, the top and bottom list-pagination navs, the date picker and the AJAX list container. Platform runtime: the rebuild renders the captured event list as page copy, with no view switching, AJAX pagination or date picker. 'List of Events' named the plugin's list container; a theme that wraps the event list in its own container may restore it verbatim and delete it from this pattern."
+  },
+  {
+   "id": "omitted-video-play-label",
+   "pages": [
+    "/event/treeworks-pop-up-2/",
+    "/event/treeworks-pop-up-3/"
+   ],
+   "kinds": [
+    "aria-label"
+   ],
+   "text": "FINAL-MILO-INTRO.mov Play video",
+   "reason": "The play-button label of a self-hosted video player. The video sits on the origin and was refused by the lockout, so the player is omitted and the surrounding copy kept (BUILD-CONTRACT 4.15.6). The label names the upload file; it is a control label, not copy."
+  },
+  {
+   "id": "age-gate-aria-label-placeholder",
+   "pages": [
+    "#chrome"
+   ],
+   "kinds": [
+    "aria-label"
+   ],
+   "text": "Verify you are over %s years of age?",
+   "reason": "The age-gate plugin's aria-label as printed, with a %s placeholder the plugin never fills. The rebuild fills it with 21 (allowedAdded age-gate-aria-label; src/content/chrome.json ageGate.ariaLabelNote; docs/CONTENT-MODEL.md section 2): one label replaced, declared as a pair (BUILD-CONTRACT 4.16.3)."
+  },
+  {
+   "id": "purchase-limit-28g-variant",
+   "pages": [
+    "/daily-purchase-limit-in-ma/"
+   ],
+   "pattern": "^(Understanding the 28-Gram Daily Limit|The state allows you to purchase 28 grams of flower or its equivalent in other cannabis formats\\.|• Flower: Up to 28 grams \\(1 ounce\\)\\.|• Edibles: A total of 500mg THC, which is roughly 5 packs of 20 servings, each serving containing 5mg of THC\\.|• Concentrates: Up to 5 grams of cannabis concentrates, such as wax, shatter, or live resin \\(equivalent to 5 x 1g or 10 x 0\\.5g packages\\)\\.|• Tinctures: A total of 5000mg = approximately 5 x 1000mg bottles, depending on the product's potency and total THC content\\.|• Pre-roll Joints: 28 pre-roll joints, assuming each joint contains roughly 1 gram of flower\\.|• Vape Cartridges: Up to 10 x 0\\.5g cartridges or 5 x 1g cartridges/disposables\\.)$",
+   "reason": "BUILD-CONTRACT 4.16.4 (conflict:true device variants). The tablet/mobile accordion (section c7898de) states a 28 g daily limit; the desktop variant (section 03a463d) states 56 g, which agrees with the site's dated statement on 23 pages ('As of April 19, 2026 ... up to 2 ounces', docs/FACTS-EVIDENCE.md C3). The build renders only the 56 g variant. These 8 sentences are exactly the 28 g item of that accordion (item 0, 'Understanding the 28-Gram Daily Limit'), computed with this checker's own tokenizer (tmp/h1/conflict28.mjs). Flagged to the client (docs/OPEN-DECISIONS.md B3). NOT covered, on purpose: the accordion's other two items ('Why Are Purchase Limits Important?', 'Tips for Staying Within the Limit') exist only in that variant and contradict nothing, so they must stay rendered (BUILD-CONTRACT 4.2)."
+  }
+ ],
+ "allowedAdded": [
+  {
+   "id": "plan-b-handoff",
+   "pages": "*",
+   "text": "Check price and availability",
+   "reason": "BUILD-CONTRACT 4.5 (Plan B): the hand-off link to the live menu (data-handoff=\"live-menu\") on product pages and on every Joint grid or rail whose product membership cannot be evidenced. Microcopy for a link, not a claim; the contract names this wording."
+  },
+  {
+   "id": "snapshot-date",
+   "pages": "*",
+   "text": "as of 2026-10-12",
+   "reason": "The dated-snapshot label: prices are 'as of <date>' (BUILD-CONTRACT 4.5) and the Google review snapshot shows its capture date, 2026-10-12 (4.7). The date is ctx.snapshotDate; if it changes, this entry changes with it."
+  },
+  {
+   "id": "popup-close",
+   "pages": [
+    "/about-cape-cod-cannabis/"
+   ],
+   "text": "Close",
+   "reason": "The close button of the about-page popup dialog (Elementor popup #236015, BUILD-CONTRACT 4.15.9). The source popup's close control is added by Elementor's runtime and is not in the captured HTML, so the rebuild uses its own label (4.16.3)."
+  },
+  {
+   "id": "chip-source-labels",
+   "pages": "*",
+   "pattern": "^\\((from the product name|from the product's web address)\\)$",
+   "reason": "BUILD-CONTRACT 4.16.7: each product chip, and a brand taken from the URL slug, says where it comes from: '(from the product name)' when the label is in the title verbatim, '(from the product's web address)' when it comes from the URL slug. Product pages are Plan B stubs with no captured source page, so the parity gate does not read them; the entry documents the wording."
+  },
+  {
+   "id": "age-gate-plugin-strings",
+   "pages": "*",
+   "pattern": "^(You are not old enough to view this content|Age Verification - Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA|Your browser does not support cookies, you may experience problems entering this site)$",
+   "reason": "BUILD-CONTRACT 4.15.2: the age-gate plugin's own strings, verbatim from its script config on every captured page (var age_gate: \"error\" with \"rechallenge\":\"1\", and \"customTitle\"; var age_gate_common: \"cookies\"). The checker's source corpus does not read script bodies, so they are declared here. They live in the age-gate dialog, outside <main>: the error and the cookie warning are hidden until shown, and the custom title is only document.title while the gate is up."
+  },
+  {
+   "id": "age-gate-aria-label",
+   "pages": "*",
+   "kinds": [
+    "aria-label"
+   ],
+   "text": "Verify you are over 21 years of age?",
+   "reason": "The age-gate dialog's accessible name: the plugin's own aria-label 'Verify you are over %s years of age?' with the placeholder it never fills set to 21 (src/content/chrome.json ageGate.ariaLabelNote; docs/CONTENT-MODEL.md section 2). Chrome, outside <main>."
+  }
+ ]
+}

@@ -1,0 +1,894 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/event/stingers-pop-up-event-2/",
+ "sourceUrl": "https://capecodcannabis.com/event/stingers-pop-up-event-2/",
+ "requestedUrl": "https://capecodcannabis.com/event/stingers-pop-up-event-2",
+ "slug": "event-stingers-pop-up-event-2",
+ "kind": "event",
+ "wpTemplate": "event",
+ "derived": false,
+ "rawFile": "audit/raw/event-stingers-pop-up-event-2.html",
+ "rawSha256": "e3e2869c23eff26fe56fdb08b7e29cc31b1f5a5bd513b9636a652cf8bca18289",
+ "regionKind": "body-minus-chrome",
+ "title": "Stingers Pop-Up Event | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+ "metaDescription": "From Boston to the Berkshires, Stingers brings big flavor and serious fire to the Bay State. Our Massachusetts lineup is all about craft, potency, and pure",
+ "canonical": "https://capecodcannabis.com/event/stingers-pop-up-event-2/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "Stingers Pop-Up Event | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "From Boston to the Berkshires, Stingers brings big flavor and serious fire to the Bay State. Our Massachusetts lineup is all about craft, potency, and pure",
+  "url": "https://capecodcannabis.com/event/stingers-pop-up-event-2/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2026-06-30T14:17:35-04:00"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438",
+  "tag": [
+   "blunts",
+   "cape cod cannabis",
+   "infused pre-rolls",
+   "pop-up",
+   "pop-up event",
+   "stingers",
+   "sweet stingers"
+  ]
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "Stingers Pop-Up Event | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "From Boston to the Berkshires, Stingers brings big flavor and serious fire to the Bay State. Our Massachusetts lineup is all about craft, potency, and pure",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/event/stingers-pop-up-event-2/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/events-calendar/",
+        "name": "Events"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "3",
+       "item": {
+        "@id": "https://capecodcannabis.com/event/stingers-pop-up-event-2/",
+        "name": "Stingers Pop-Up Event"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  },
+  [
+   {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "Stingers Pop-Up Event",
+    "description": "&lt;p&gt;Join us on Thursday July 9, 2026 from 1pm - 3pm and learn more about the Stingers brand and their products. &nbsp; From Boston to the Berkshires, Stingers brings big flavor [&hellip;]&lt;/p&gt;\\n",
+    "image": "https://capecodcannabis.com/wp-content/uploads/2026/06/stingers-sweets.png",
+    "url": "https://capecodcannabis.com/event/stingers-pop-up-event-2/",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "startDate": "2026-07-09T13:00:00-04:00",
+    "endDate": "2026-07-09T15:00:00-04:00",
+    "location": {
+     "@type": "Place",
+     "name": "Cape Cod Cannabis",
+     "description": "",
+     "url": "",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressLocality": "Wellfleet",
+      "addressRegion": "MA",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "telephone": "774-383-3133",
+     "sameAs": "https://www.capecodcannabis.com"
+    },
+    "performer": "Organization"
+   }
+  ]
+ ],
+ "h1": "Stingers Pop-Up Event",
+ "h1Source": {
+  "count": 1,
+  "visible": 1,
+  "hidden": 0
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Events",
+   "href": "/events-calendar/"
+  },
+  {
+   "label": "Stingers Pop-Up Event",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "jsonld",
+ "section": null,
+ "sections": [
+  {
+   "n": 0,
+   "id": "4d8f4efa",
+   "doc": "tec_event_single_dynamic#92071",
+   "blocks": [
+    {
+     "t": "event-field",
+     "field": "calendar_link",
+     "text": "« All Events",
+     "links": [
+      {
+       "label": "« All Events",
+       "href": "/events-calendar/"
+      }
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "status",
+     "text": "This event has passed."
+    },
+    {
+     "t": "event-field",
+     "field": "title",
+     "text": "Stingers Pop-Up Event",
+     "level": 1
+    },
+    {
+     "t": "event-field",
+     "field": "datetime",
+     "text": "July 9, 2026\n@ 1:00 pm\n- 3:00 pm"
+    },
+    {
+     "t": "image",
+     "ref": "assets/source/92dcc033-stingers-sweets.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/06/stingers-sweets.png?lossy=2&strip=0&webp=1",
+     "alt": "Sweets powered by Stingers at Cape Cod Cannabis in Wellfleet, MA",
+     "w": 317,
+     "h": 159,
+     "kind": "event-image"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Join us on Thursday July 9, 2026 from 1pm – 3pm and learn more about the Stingers brand and their products."
+    },
+    {
+     "t": "rich",
+     "html": "<p><img src=\"assets/source/7f28f936-MA-Sweets-Flavs-1080.png\" alt=\"MA-Sweets-Flavs-1080.png\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://static.wixstatic.com/media/82dd1b_483b5e9fec2143448aef4934a3d22263~mv2.png/v1/fill/w_447,h_418,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MA-Sweets-Flavs-1080.png\"></p><p>From Boston to the Berkshires, Stingers brings big flavor and serious fire to the Bay State. Our Massachusetts lineup is all about craft, potency, and pure satisfaction — featuring full-flower infused pre-rolls, slow-burning blunts, and our newest flavor-driven innovation, SWEETS by Stingers.</p><p>Each product is handcrafted using premium full flower, and high-grade cannabis extracts for smooth, flavorful, and reliable potency. Whether you’re rolling through Worcester or chilling on the Cape, Stingers delivers flavor you can taste and strength you can trust.</p><p><a href=\"/brands/stingers/\"><img src=\"assets/source/d151dbdc-Shop-Now-Button-200px.png\" alt=\"Shop Now at Cape Cod Cannabis in Wellfleet, MA\" width=\"200\" height=\"69\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/04/Shop-Now-Button-200px.png?lossy=2&amp;strip=0&amp;webp=1\"></a></p>"
+    },
+    {
+     "t": "event-field",
+     "field": "venue",
+     "text": "Cape Cod Cannabis\n1446 US-6\nWellfleet,MA02667United States\n+ Google Map\n774-383-3133\nView Venue Website",
+     "links": [
+      {
+       "label": "+ Google Map",
+       "href": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=1446+US-6+Wellfleet+MA+02667+United+States"
+      },
+      {
+       "label": "774-383-3133",
+       "href": "tel:774-383-3133"
+      },
+      {
+       "label": "View Venue Website",
+       "href": "/"
+      }
+     ],
+     "ariaLabels": [
+      "Venue location map"
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "categories",
+     "text": "Categories:\nPop-Ups",
+     "links": [
+      {
+       "label": "Pop-Ups",
+       "href": "/events-calendar/category/pop-ups/"
+      }
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "tags",
+     "text": "Tags:\nblunts,\ncape cod cannabis,\ninfused pre-rolls,\npop-up,\npop-up event,\nstingers,\nsweet stingers",
+     "links": [
+      {
+       "label": "blunts",
+       "href": "/tag/blunts/"
+      },
+      {
+       "label": "cape cod cannabis",
+       "href": "/tag/cape-cod-cannabis/"
+      },
+      {
+       "label": "infused pre-rolls",
+       "href": "/tag/infused-pre-rolls/"
+      },
+      {
+       "label": "pop-up",
+       "href": "/tag/pop-up/"
+      },
+      {
+       "label": "pop-up event",
+       "href": "/tag/pop-up-event/"
+      },
+      {
+       "label": "stingers",
+       "href": "/tag/stingers/"
+      },
+      {
+       "label": "sweet stingers",
+       "href": "/tag/sweet-stingers/"
+      }
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "export",
+     "text": "Add to calendar\nGoogle Calendar\niCalendar\nOutlook 365\nOutlook Live",
+     "links": [
+      {
+       "label": "Google Calendar",
+       "href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20260709T130000/20260709T150000&text=Stingers%20Pop-Up%20Event&details=%3Ch3%3E%3Cstrong%3EJoin+us+on+Thursday+July+9%2C+2026+from+1pm+-+3pm+and+learn+more+about+the+Stingers+brand+and+their+products.%3C%2Fstrong%3E%3C%2Fh3%3E%26nbsp%3B%3Cp+style%3D%22text-align%3A+center%3B%22%3E%3Cimg+src%3D%22https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F82dd1b_483b5e9fec2143448aef4934a3d22263%7Emv2.png%2Fv1%2Ffill%2Fw_447%2Ch_418%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto%2FMA-Sweets-Flavs-1080.png%22+alt%3D%22MA-Sweets-Flavs-1080.png%22+%2F%3E%3C%2Fp%3E+%3Cp+style%3D%22text-align%3A+left%3B%22%3EFrom+Boston+to+the+Berkshires%2C+Stingers%C2%A0brings+big+flavor+and+serious+fire+to+the+Bay+State.+Our+Massachusetts+lineup+is+all+about+craft%2C+potency%2C+and+pure+satisfaction+%E2%80%94+featuring+full-flower+infused+pre-rolls%2C+slow-burning+blunts%2C+and+our+newest+flavor-driven+innovation%2C%C2%A0SWEETS+by+Stingers.%3C%2Fp%3E+%26nbsp%3BEach+product+is+handcrafted+using+premium+full+flower%2C+and+high-grade+cannabis+extracts+for+smooth%2C+flavorful%2C+and+reliable+potency.+Whether+you%E2%80%99re+rolling+through+Worcester+or+chilling+on+the+Cape%2C+Stingers+delivers+flavor+you+can+taste+and+stren+%28View+Full+event+Description+Here%3A+https%3A%2F%2Fcapecodcannabis.com%2Fevent%2Fstingers-pop-up-event-2%2F%29&location=Cape%20Cod%20Cannabis,%201446%20US-6,%20Wellfleet,%20MA,%2002667,%20United%20States&trp=false&ctz=America/New_York&sprop=website:https://capecodcannabis.com"
+      },
+      {
+       "label": "iCalendar",
+       "href": "/event/stingers-pop-up-event-2/?ical=1"
+      },
+      {
+       "label": "Outlook 365",
+       "href": "https://outlook.office.com/owa/?path=/calendar/action/compose&rrv=addevent&startdt=2026-07-09T13%3A00%3A00-04%3A00&enddt=2026-07-09T15%3A00%3A00-04%3A00&location=Cape%20Cod%20Cannabis,%201446%20US-6,%20Wellfleet,%20MA,%2002667,%20United%20States&subject=Stingers%20Pop-Up%20Event&body=Join%20us%20on%20Thursday%20July%209%2C%202026%20from%201pm%20-%203pm%20and%20learn%20more%20about%20the%20Stingers%20brand%20and%20their%20products.%26nbsp%3B%3Cp%20style%3D%22text-align%3A%20center%3B%22%3E%3C%2Fp%3E%3Cp%20style%3D%22text-align%3A%20left%3B%22%3EFrom%20Boston%20to%20the%20Berkshires%2C%20Stingers%C2%A0brings%20big%20flavor%20and%20serious%20fire%20to%20the%20Bay%20State.%20Our%20Massachusetts%20lineup%20is%20all%20about%20craft%2C%20potency%2C%20and%20pure%20satisfaction%20%E2%80%94%20featuring%20full-flower%20infused%20pre-rolls%2C%20slow-burning%20blunts%2C%20and%20our%20newest%20flavor-driven%20innovation%2C%C2%A0SWEETS%20by%20Stingers.%3C%2Fp%3E%26nbsp%3BEach%20product%20is%20handcrafted%20using%20premium%20full%20flower%2C%20and%20high-grade%20cannabis%20extracts%20for%20smooth%2C%20flavorful%2C%20and%20reliable%20potency.%20Whether%20you%E2%80%99re%20rolling%20through%20Worcester%20or%20chilling%20on%20the%20Cape%2C%20Stingers%20delivers%20flavor%20you%20can%20taste%20and%20strength%20you%20can%20trust.%26nbsp%3B%3Cp%20style%3D%22text-align%3A%20center%3B%22%3E%3C%2Fp%3E%26nbsp%3B"
+      },
+      {
+       "label": "Outlook Live",
+       "href": "https://outlook.live.com/owa/?path=/calendar/action/compose&rrv=addevent&startdt=2026-07-09T13%3A00%3A00-04%3A00&enddt=2026-07-09T15%3A00%3A00-04%3A00&location=Cape%20Cod%20Cannabis,%201446%20US-6,%20Wellfleet,%20MA,%2002667,%20United%20States&subject=Stingers%20Pop-Up%20Event&body=Join%20us%20on%20Thursday%20July%209%2C%202026%20from%201pm%20-%203pm%20and%20learn%20more%20about%20the%20Stingers%20brand%20and%20their%20products.%26nbsp%3B%3Cp%20style%3D%22text-align%3A%20center%3B%22%3E%3C%2Fp%3E%3Cp%20style%3D%22text-align%3A%20left%3B%22%3EFrom%20Boston%20to%20the%20Berkshires%2C%20Stingers%C2%A0brings%20big%20flavor%20and%20serious%20fire%20to%20the%20Bay%20State.%20Our%20Massachusetts%20lineup%20is%20all%20about%20craft%2C%20potency%2C%20and%20pure%20satisfaction%20%E2%80%94%20featuring%20full-flower%20infused%20pre-rolls%2C%20slow-burning%20blunts%2C%20and%20our%20newest%20flavor-driven%20innovation%2C%C2%A0SWEETS%20by%20Stingers.%3C%2Fp%3E%26nbsp%3BEach%20product%20is%20handcrafted%20using%20premium%20full%20flower%2C%20and%20high-grade%20cannabis%20extracts%20for%20smooth%2C%20flavorful%2C%20and%20reliable%20potency.%20Whether%20you%E2%80%99re%20rolling%20through%20Worcester%20or%20chilling%20on%20the%20Cape%2C%20Stingers%20delivers%20flavor%20you%20can%20taste%20and%20strength%20you%20can%20trust.%26nbsp%3B%3Cp%20style%3D%22text-align%3A%20center%3B%22%3E%3C%2Fp%3E%26nbsp%3B"
+      }
+     ],
+     "ariaLabels": [
+      "View links to add events to your calendar"
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "navigation",
+     "text": "Eureka Vapor Pop-Up Event\nCoast Cannabis Co. Pop-Up Event",
+     "links": [
+      {
+       "label": "Eureka Vapor Pop-Up Event",
+       "href": "/event/eureka-vapor-pop-up-event/"
+      },
+      {
+       "label": "Coast Cannabis Co. Pop-Up Event",
+       "href": "/event/coast-cannabis-co-pop-up-event/"
+      }
+     ],
+     "ariaLabels": [
+      "Events"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "a7bb484",
+   "doc": "tec_event_single_dynamic#92071",
+   "hiddenAll": true,
+   "dev": [],
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/92dcc033-stingers-sweets.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/06/stingers-sweets.png?lossy=2&strip=0&webp=1",
+     "alt": "Sweets powered by Stingers at Cape Cod Cannabis in Wellfleet, MA",
+     "w": 317,
+     "h": 159,
+     "kind": "event-image",
+     "dev": [],
+     "hiddenAll": true
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "c7b579f",
+   "doc": "tec_event_single_dynamic#92071",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/c0c34846-CCC_Logo_650px-geo-tag-r9v1ohpw5zerbd7bkhgpgccbma2ezjddi6xfhghm0u.jpg",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/elementor/thumbs/CCC_Logo_650px-geo-tag-r9v1ohpw5zerbd7bkhgpgccbma2ezjddi6xfhghm0u.jpg?lossy=2&strip=0&webp=1",
+     "alt": "Cape Cod Cannabis Recreational Dispensary near me in Wellfleet, MA ... it's worth the trip!",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary near me in Wellfleet, MA … it’s worth the trip!"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": null,
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong><em>Cape Cod Cannabis…always worth the trip!</em></strong></p>"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "event-field": 9,
+  "heading": 1,
+  "image": 3,
+  "rich": 2
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "tec-loading-spinner",
+    "text": "Loading Events",
+    "reason": "The Events Calendar AJAX loading spinner (plugin runtime UI, origin wp-content gif); declared in removals.json"
+   },
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [],
+  "aliasesResolved": [
+   {
+    "from": "https://capecodcannabis.com/events-calendar/",
+    "to": "/events-calendar/"
+   },
+   {
+    "from": "/brands/stingers/",
+    "to": "/brands/stingers/"
+   },
+   {
+    "from": "https://capecodcannabis.com/event/stingers-pop-up-event-2/?ical=1",
+    "to": "/event/stingers-pop-up-event-2/?ical=1"
+   },
+   {
+    "from": "https://capecodcannabis.com/event/eureka-vapor-pop-up-event/",
+    "to": "/event/eureka-vapor-pop-up-event/"
+   },
+   {
+    "from": "https://capecodcannabis.com/event/coast-cannabis-co-pop-up-event/",
+    "to": "/event/coast-cannabis-co-pop-up-event/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

@@ -1,0 +1,1021 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/best-cbd-store-on-cape-cod/",
+ "sourceUrl": "https://capecodcannabis.com/best-cbd-store-on-cape-cod/",
+ "requestedUrl": "https://capecodcannabis.com/best-cbd-store-on-cape-cod",
+ "slug": "best-cbd-store-on-cape-cod",
+ "kind": "blog-post",
+ "wpTemplate": "post",
+ "derived": false,
+ "rawFile": "audit/raw/best-cbd-store-on-cape-cod.html",
+ "rawSha256": "4d16401dafe4c9b32c5efc78edbff20d8372685b5eae21872c428709cbfaa356",
+ "regionKind": "body-minus-chrome",
+ "title": "Best CBD Store on Cape Cod 2026: Thank You, Cape Cod!",
+ "metaDescription": "Cape Cod Cannabis was voted Best CBD Store on Cape Cod and Top 3 Best Cannabis Dispensary in the 2026 Cape Cod Choice Awards. Thank you, Cape Cod!",
+ "canonical": "https://capecodcannabis.com/best-cbd-store-on-cape-cod/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "Best CBD Store on Cape Cod 2026: Thank You, Cape Cod!",
+  "description": "Cape Cod Cannabis was voted Best CBD Store on Cape Cod and Top 3 Best Cannabis Dispensary in the 2026 Cape Cod Choice Awards. Thank you, Cape Cod!",
+  "url": "https://capecodcannabis.com/best-cbd-store-on-cape-cod/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2026-09-15T08:15:42-04:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2026/09/Choice-Awards-2026-Winner-Blog-Banner-1920x250-1.png",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/2026/09/Choice-Awards-2026-Winner-Blog-Banner-1920x250-1.png",
+  "image:width": "1920",
+  "image:height": "250",
+  "image:alt": "Cape Cod Cannabis was voted Best CBD Store on Cape Cod and voted top 3 for Best Dispensary on Cape Cod in the Community Choice Awards 2026!",
+  "image:type": "image/png"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438",
+  "tag": [
+   "voted best cbd store on cape cod 2026",
+   "voted top 3 best cannabis dispensary on cape cod"
+  ],
+  "section": "Cannabis 101",
+  "published_time": "2026-09-14T12:06:44-04:00",
+  "modified_time": "2026-09-15T08:15:42-04:00"
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "Best CBD Store on Cape Cod 2026: Thank You, Cape Cod!",
+  "description": "Cape Cod Cannabis was voted Best CBD Store on Cape Cod and Top 3 Best Cannabis Dispensary in the 2026 Cape Cod Choice Awards. Thank you, Cape Cod!",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2026/09/Choice-Awards-2026-Winner-Blog-Banner-1920x250-1.png",
+  "label1": "Written by",
+  "data1": "rrh_clientadmin",
+  "label2": "Time to read",
+  "data2": "6 minutes"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Place",
+     "@id": "https://capecodcannabis.com/#place",
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.916265712481554",
+      "longitude": "-69.98840341462632"
+     },
+     "hasMap": "https://www.google.com/maps/search/?api=1&amp;query=41.916265712481554,-69.98840341462632",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     }
+    },
+    {
+     "@type": [
+      "LocalBusiness",
+      "Organization"
+     ],
+     "@id": "https://capecodcannabis.com/#organization",
+     "name": "Cape Cod Cannabis in Wellfleet - Best dispensary on Cape Cod.",
+     "url": "https://capecodcannabis.com",
+     "sameAs": [
+      "https://www.facebook.com/profile.php?id=100077867156438",
+      "https://twitter.com/capecodcanna"
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "logo": {
+      "@type": "ImageObject",
+      "@id": "https://capecodcannabis.com/#logo",
+      "url": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "contentUrl": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "caption": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+      "inLanguage": "en-US",
+      "width": "700",
+      "height": "500"
+     },
+     "openingHours": [
+      "Mo,Tu,We,Th,Fr,Sa,Su 8:00 - 8:00"
+     ],
+     "description": "Welcome to Cape Cod Cannabis, recognized by many as the Best Dispensary on Cape Cod, located in Wellfleet. Conveniently situated in the Route 6 shopping plaza in South Wellfleet, we are a trusted destination for both locals and visitors traveling from Provincetown, Truro, Wellfleet, Eastham, Orleans, Brewster, Dennis, Harwich, Chatham, Yarmouth, Sandwich and across the Cape and beyond.\n\nCape Cod Cannabis, your go-to cannabis haven, offers a carefully curated selection of high quality products, including flower, pre-rolls, edibles, vaporizers, concentrates, tinctures, topicals, CBD, accessories, and more. With a focus on education, selection, and a welcoming experience, we make it easy to explore and find what works best for you whether you are visiting the Cape or live here year round.",
+     "location": {
+      "@id": "https://capecodcannabis.com/#place"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/#logo"
+     },
+     "telephone": "+1-774-383-3133"
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://capecodcannabis.com/#website",
+     "url": "https://capecodcannabis.com",
+     "name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+     "alternateName": "Cape Cod Cannabis | Wellfleet's Top Rated Cannabis Store on Cape Cod",
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "https://capecodcannabis.com/wp-content/uploads/2026/09/Choice-Awards-2026-Winner-Blog-Banner-1920x250-1.png",
+     "url": "https://capecodcannabis.com/wp-content/uploads/2026/09/Choice-Awards-2026-Winner-Blog-Banner-1920x250-1.png",
+     "width": "1920",
+     "height": "250",
+     "caption": "Cape Cod Cannabis was voted Best CBD Store on Cape Cod and voted top 3 for Best Dispensary on Cape Cod in the Community Choice Awards 2026!",
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/best-cbd-store-on-cape-cod/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/category/cannabis-101/",
+        "name": "Cannabis 101"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "3",
+       "item": {
+        "@id": "https://capecodcannabis.com/best-cbd-store-on-cape-cod/",
+        "name": "Best CBD Store on Cape Cod"
+       }
+      }
+     ]
+    },
+    {
+     "@type": "WebPage",
+     "@id": "https://capecodcannabis.com/best-cbd-store-on-cape-cod/#webpage",
+     "url": "https://capecodcannabis.com/best-cbd-store-on-cape-cod/",
+     "name": "Best CBD Store on Cape Cod 2026: Thank You, Cape Cod!",
+     "datePublished": "2026-09-14T12:06:44-04:00",
+     "dateModified": "2026-09-15T08:15:42-04:00",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2026/09/Choice-Awards-2026-Winner-Blog-Banner-1920x250-1.png"
+     },
+     "inLanguage": "en-US",
+     "breadcrumb": {
+      "@id": "https://capecodcannabis.com/best-cbd-store-on-cape-cod/#breadcrumb"
+     }
+    },
+    {
+     "@type": "Person",
+     "@id": "https://capecodcannabis.com/best-cbd-store-on-cape-cod/#author",
+     "name": "rrh_clientadmin",
+     "image": {
+      "@type": "ImageObject",
+      "@id": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "url": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "caption": "rrh_clientadmin",
+      "inLanguage": "en-US"
+     },
+     "worksFor": {
+      "@id": "https://capecodcannabis.com/#organization"
+     }
+    },
+    {
+     "@type": "Article",
+     "headline": "Best CBD Store on Cape Cod 2026: Thank You, Cape Cod! | Cape Cod's Best Recreational Dispensary |",
+     "keywords": "Best CBD Store on Cape Cod, best cannabis dispensary on cape cod, cape cod cannabis, Cape Cod Choice Awards 2026, wellfleet dispensary",
+     "datePublished": "2026-09-14T12:06:44-04:00",
+     "dateModified": "2026-09-15T08:15:42-04:00",
+     "articleSection": "Cannabis 101, Cannabis News, Cape Cod Lifestyle, Inside Cape Cod Cannabis, Start Here",
+     "author": {
+      "@id": "https://capecodcannabis.com/best-cbd-store-on-cape-cod/#author",
+      "name": "rrh_clientadmin"
+     },
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "description": "Cape Cod Cannabis was voted Best CBD Store on Cape Cod and Top 3 Best Cannabis Dispensary in the 2026 Cape Cod Choice Awards. Thank you, Cape Cod!",
+     "name": "Best CBD Store on Cape Cod 2026: Thank You, Cape Cod! | Cape Cod's Best Recreational Dispensary |",
+     "@id": "https://capecodcannabis.com/best-cbd-store-on-cape-cod/#richSnippet",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/best-cbd-store-on-cape-cod/#webpage"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2026/09/Choice-Awards-2026-Winner-Blog-Banner-1920x250-1.png"
+     },
+     "inLanguage": "en-US",
+     "mainEntityOfPage": {
+      "@id": "https://capecodcannabis.com/best-cbd-store-on-cape-cod/#webpage"
+     }
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "h1": "Best CBD Store on Cape Cod",
+ "h1Source": {
+  "count": 2,
+  "visible": 2,
+  "hidden": 0,
+  "note": "source has several visible h1s; the first is primary, the rest carry demote:true"
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Cannabis 101",
+   "href": "/category/cannabis-101/"
+  },
+  {
+   "label": "Best CBD Store on Cape Cod",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "visible",
+ "breadcrumbsSeparator": " / ",
+ "breadcrumbsLabel": "breadcrumbs",
+ "breadcrumbsInRegion": true,
+ "section": null,
+ "sections": [
+  {
+   "n": 0,
+   "id": "3f1093a4",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "Best CBD Store on Cape Cod"
+    },
+    {
+     "t": "meta",
+     "items": [
+      {
+       "text": "September 14, 2026",
+       "href": "/2026/09/14/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "1be748f",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "Thank You, Cape Cod! Cape Cod Cannabis Wins Best CBD Store in the 2026 Cape Cod Choice Awards",
+     "demote": true
+    },
+    {
+     "t": "rich",
+     "html": "<p>We have some exciting news to share, but more importantly, we have a very big <strong>thank you</strong> to give to Cape Cod.</p><p><strong>Cape Cod Cannabis has been voted the Best CBD Store on Cape Cod in the 2026 Cape Cod Choice Awards!</strong></p><p>We are also incredibly proud to have placed <strong>Top 3 for Best Cannabis Dispensary on Cape Cod for 2026</strong>.</p><p>These recognitions mean a great deal to our entire team because they came from you: our customers, neighbors, visitors, friends, and the Cape Cod community that has supported us since we opened our doors in Wellfleet.</p><p><strong>Thank you, Cape Cod. We are truly grateful.</strong></p><p><img src=\"assets/source/33abff6e-CC26_CapeCod_Winner-631x1024.jpg\" alt=\"Cape Cod Cannabis was voted Best CBD Store on Cape Cod in the Community Choice Awards 2026!\" width=\"288\" height=\"468\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/09/CC26_CapeCod_Winner-631x1024.jpg?lossy=2&amp;strip=0&amp;webp=1\" data-master=\"assets/source/da79ce17-CC26_CapeCod_Winner.jpg\"></p>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Voted Best CBD Store on Cape Cod"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Being named the <strong>Best CBD Store on Cape Cod</strong> is especially meaningful because education has always been an important part of what we do.</p><p>CBD can sometimes be confusing. Customers have questions about different product types, cannabinoids, formulations, serving sizes, labels, and how CBD differs from THC.</p><p>We believe those questions deserve clear, straightforward answers.</p><p>At Cape Cod Cannabis, customers can explore a wide variety of <a href=\"/categories/cbd/\"><strong>CBD products on Cape Cod</strong></a>, including tinctures, topicals, edibles, beverages, and other options, while having access to a knowledgeable team that can help explain the differences.</p><p>Our goal isn’t simply to put products on a shelf.</p><p>It’s to help customers better understand what they’re buying so they can make more informed choices.</p><p>Being voted <strong>Best CBD Store on Cape Cod for 2026</strong> tells us that approach matters, and we couldn’t be more appreciative.</p><p><img src=\"assets/source/0c4101bf-CC26_CapeCod_Finalist-185x300.jpg\" alt=\"Cape Cod Cannabis was voted a top 3 finalist for Best Dispensary on Cape Cod in the Community Choice Awards 2026!\" width=\"288\" height=\"468\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/09/CC26_CapeCod_Finalist-185x300.jpg?lossy=2&amp;strip=0&amp;webp=1\" data-master=\"assets/source/e1eefbbc-CC26_CapeCod_Finalist.jpg\"></p>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Top 3 Finalist for the Best Cannabis Dispensary on Cape Cod"
+    },
+    {
+     "t": "rich",
+     "html": "<p>We are equally honored that Cape Cod voters placed Cape Cod Cannabis among the <strong>Top 3 Finalist for the Best Cannabis Dispensaries on Cape Cod for 2026</strong>.</p><p>Since opening in Wellfleet, we’ve worked to create a recreational dispensary experience that feels approachable, welcoming, and distinctly Cape Cod.</p><p>Whether you’re a longtime customer, someone exploring cannabis for the first time, a Cape Cod resident, or a visitor spending a few days on the Outer Cape, we want you to feel comfortable walking through our doors.</p><p><em>No pressure. No need to already know everything about cannabis.</em></p><p>Come in, ask questions, explore, and let our team help.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "One of the Largest Cannabis Selections on Cape Cod"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Choice matters.</p><p>That’s why we’ve worked hard to offer the <em><strong>largest selection of quality cannabis products at the best prices on Cape Cod</strong>.</em></p><p>Our Wellfleet dispensary carries a broad selection that includes:</p><ul><li><a href=\"/categories/flower/\">Flower</a></li><li><a href=\"/categories/pre-rolls/\">Pre-rolls</a></li><li><a href=\"/categories/edibles/\">Edibles</a></li><li><a href=\"/categories/vaporizers/\">Vape products</a></li><li><a href=\"/categories/concentrates/\">Concentrates</a></li><li><a href=\"/categories/tinctures/\">Tinctures</a></li><li><a href=\"/categories/topicals/\">Topicals</a></li><li><a href=\"/categories/cbd/\">CBD products</a></li><li><a href=\"/categories/edibles/drinks/\">Beverages</a></li><li><a href=\"/categories/seeds/\">Seeds</a></li><li><a href=\"/categories/accessories/\">Accessories</a></li><li><a href=\"/categories/merch/\">Apparel</a></li></ul><p>We continually evaluate our selection to give customers access to established favorites, Massachusetts brands, new products, different price points, and plenty of choices.</p><p>But having a large selection is only useful when customers can understand it.</p><p>That’s where education comes in.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Cannabis Education Is Part of Who We Are"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Cannabis has changed considerably over the years, and today’s marketplace gives consumers more choices than ever before.</p><p>That can also make shopping confusing.</p><p>What’s the difference between THC and CBD? What are <a href=\"/terpene-cannabinoid-guide/\">terpenes</a>? How are edibles different from flower? What’s a tincture? What’s the difference between live resin and live rosin? How do Massachusetts cannabis purchase limits work?</p><p><strong>We want our customers to ask those questions.</strong></p><p>Our team takes an education first approach to helping customers navigate cannabis. We also continue building our online <a href=\"/intro-to-cannabis-101/\"><strong>Cannabis 101 educational resources</strong></a> so people can learn before they ever walk through our doors.</p><p>We believe an informed customer can make a more confident decision.</p><p><em><strong>That philosophy is at the heart of Cape Cod Cannabis.</strong></em></p>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "More Than a Dispensary in Wellfleet"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Being part of Cape Cod means being part of the community.</p><p>Cape Cod Cannabis is proud to support local events, organizations, charitable initiatives, chambers of commerce, artists, businesses, and community programs throughout the Cape.</p><p>You’ve seen us supporting events such as the <strong>Outer Cape Music Festival</strong>, participating in community programs, <a href=\"/intro-to-cannabis-101/\">creating free educational resources</a>, and looking for new ways to contribute to the place we call home.</p><p>For us, being a Cape Cod business means more than having a Cape Cod address.</p><p>It means participating.</p><p>It means supporting other local businesses and organizations.</p><p>And it means giving back to the community that supports us.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Trusted by Locals, Loved by Visitors"
+    },
+    {
+     "t": "rich",
+     "html": "<p>One of the things we’re most proud of is the community of customers we’ve built over the years.</p><p>Some have been visiting Cape Cod Cannabis since we first opened.</p><p>Others find us while vacationing in Wellfleet, Eastham, Truro, Provincetown, Orleans, or elsewhere on the Outer Cape.</p><p>Some know exactly what they’re looking for.</p><p>Others walk in with a lot of questions.</p><p>We welcome all of them.</p><p>It’s why we’ve worked to create a <strong>low stress, education focused dispensary experience</strong> centered around personalized service rather than simply completing a transaction.</p><p>And it’s why recognition from the Cape Cod Choice Awards means so much to us.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Looking for the Best CBD Store or a Cannabis Dispensary on Cape Cod?"
+    },
+    {
+     "t": "rich",
+     "html": "<p>If you’re searching for the <strong>Best CBD Store on Cape Cod</strong>, a <strong>cannabis dispensary in Wellfleet</strong>, or simply a <strong>dispensary near me</strong> while exploring the Outer Cape, we invite you to visit Cape Cod Cannabis.</p><p>You’ll <a href=\"/directions/\">find us on Route 6 in South Wellfleet</a>, conveniently located for residents and visitors traveling between Eastham, Wellfleet, Truro, Provincetown, Orleans, and beyond.</p><p>Come explore our selection, meet our team, ask questions, and discover what makes Cape Cod Cannabis different.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "This Award Belongs to Our Customers and Community"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Awards are wonderful.</p><p>But what matters most to us is <strong>who voted for them</strong>.</p><p>Every visit, recommendation, <a href=\"/customer-reviews/\">review</a>, conversation, vote, and kind word has helped Cape Cod Cannabis become what it is today.</p><p>To everyone who voted Cape Cod Cannabis the <strong>Best CBD Store on Cape Cod for 2026</strong> and helped place us among the <strong>Top 3 Best Cannabis Dispensaries on Cape Cod</strong>, thank you.</p><p><em><strong>To our loyal customers who have been with us year after year, thank you.</strong></em></p><p><em><strong>To the visitors who make Cape Cod Cannabis part of their Cape experience, thank you.</strong></em></p><p><em><strong>To our team for the work they put in every day, thank you.</strong></em></p><p>And to the Cape Cod community that continues to support us:</p><p><strong>We are grateful. We are proud to be part of this community. And we look forward to continuing to earn your trust every single day.</strong></p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Thank You, Cape Cod!"
+    },
+    {
+     "t": "rich",
+     "html": "<p>From all of us at Cape Cod Cannabis, <strong>thank you for your votes, your loyalty, and your continued support.</strong></p><p>We’ll continue doing what got us here: offering a huge selection of quality products, some of the best prices on Cape Cod, personalized service, straightforward cannabis education, and a welcoming experience for adults 21+.</p><p><strong>Cape Cod Cannabis Recreational Dispensary<br> 1446 US-6</strong><br> <strong>Wellfleet, MA 02667</strong></p><p><strong>Trusted by locals. Loved by visitors.</strong></p><p><img src=\"assets/source/8b17d636-CCC_Logo_320px-2-300x248.png\" alt=\"Cape Cod Cannabis in Wellfleet, MA...Always worth the trip!\" width=\"300\" height=\"248\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/12/CCC_Logo_320px-2-300x248.png?lossy=2&amp;strip=0&amp;webp=1\" data-master=\"assets/source/1c48453a-CCC_Logo_320px-2.png\"></p>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Always Worth the Trip!"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "329af6c",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "postnav",
+     "prev": {
+      "srLabel": "Prev",
+      "title": "Labor Day Weekend on Cape Cod 2026",
+      "href": "/labor-day-weekend-on-cape-cod-2026/"
+     },
+     "next": {
+      "title": "Cannabis Moonrocks: What on Earth Are These Things?",
+      "srLabel": "Next",
+      "href": "/what-is-a-cannabis-moonrock/"
+     },
+     "ariaLabels": [
+      "Post Navigation"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": "9ba89d6",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "comments",
+     "note": "WordPress comment form; no comment backend in a static rebuild"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "comments": 1,
+  "heading": 12,
+  "meta": 1,
+  "postnav": 1,
+  "rich": 10
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [],
+  "aliasesResolved": [
+   {
+    "from": "https://capecodcannabis.com/2026/09/14/",
+    "to": "/2026/09/14/"
+   },
+   {
+    "from": "/categories/cbd",
+    "to": "/categories/cbd/"
+   },
+   {
+    "from": "/categories/flower",
+    "to": "/categories/flower/"
+   },
+   {
+    "from": "/categories/pre-rolls",
+    "to": "/categories/pre-rolls/"
+   },
+   {
+    "from": "/categories/edibles",
+    "to": "/categories/edibles/"
+   },
+   {
+    "from": "/categories/vaporizers",
+    "to": "/categories/vaporizers/"
+   },
+   {
+    "from": "/categories/concentrates",
+    "to": "/categories/concentrates/"
+   },
+   {
+    "from": "/categories/tinctures",
+    "to": "/categories/tinctures/"
+   },
+   {
+    "from": "/categories/topicals",
+    "to": "/categories/topicals/"
+   },
+   {
+    "from": "/categories/edibles/drinks",
+    "to": "/categories/edibles/drinks/"
+   },
+   {
+    "from": "/categories/seeds",
+    "to": "/categories/seeds/"
+   },
+   {
+    "from": "/categories/accessories",
+    "to": "/categories/accessories/"
+   },
+   {
+    "from": "/categories/merch",
+    "to": "/categories/merch/"
+   },
+   {
+    "from": "https://capecodcannabis.com/terpene-cannabinoid-guide/",
+    "to": "/terpene-cannabinoid-guide/"
+   },
+   {
+    "from": "/intro-to-cannabis-101",
+    "to": "/intro-to-cannabis-101/"
+   },
+   {
+    "from": "/directions",
+    "to": "/directions/"
+   },
+   {
+    "from": "/customer-reviews",
+    "to": "/customer-reviews/"
+   },
+   {
+    "from": "https://capecodcannabis.com/labor-day-weekend-on-cape-cod-2026/",
+    "to": "/labor-day-weekend-on-cape-cod-2026/"
+   },
+   {
+    "from": "https://capecodcannabis.com/what-is-a-cannabis-moonrock/",
+    "to": "/what-is-a-cannabis-moonrock/"
+   },
+   {
+    "from": "https://capecodcannabis.com/category/cannabis-101/",
+    "to": "/category/cannabis-101/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

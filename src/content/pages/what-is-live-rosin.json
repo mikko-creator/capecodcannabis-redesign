@@ -1,0 +1,995 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/what-is-live-rosin/",
+ "sourceUrl": "https://capecodcannabis.com/what-is-live-rosin/",
+ "requestedUrl": "https://capecodcannabis.com/what-is-live-rosin",
+ "slug": "what-is-live-rosin",
+ "kind": "blog-post",
+ "wpTemplate": "post",
+ "derived": false,
+ "rawFile": "audit/raw/what-is-live-rosin.html",
+ "rawSha256": "f00fa4fcf9b287a5ebaf4509c8366257c2ff9d0b0ad0c3a829b60ddc5320b803",
+ "regionKind": "body-minus-chrome",
+ "title": "What is Live Rosin? | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+ "metaDescription": "Live Rosin is a high-quality cannabis concentrate made through a solventless extraction process that relies solely on flower, water, ice, heat, and pressure.",
+ "canonical": "https://capecodcannabis.com/what-is-live-rosin/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "What is Live Rosin? | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "Live Rosin is a high-quality cannabis concentrate made through a solventless extraction process that relies solely on flower, water, ice, heat, and pressure.",
+  "url": "https://capecodcannabis.com/what-is-live-rosin/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2025-05-26T16:38:58-04:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2024/08/live-rosin-1024x683.webp",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/2024/08/live-rosin-1024x683.webp",
+  "image:width": "800",
+  "image:height": "534",
+  "image:alt": "What is Live Rosin?",
+  "image:type": "image/webp"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438",
+  "tag": [
+   "cannabis concentrate",
+   "concentrate",
+   "live rosin"
+  ],
+  "section": "Cannabis 101",
+  "published_time": "2024-08-15T16:12:28-04:00",
+  "modified_time": "2025-05-26T16:38:58-04:00"
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "What is Live Rosin? | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "Live Rosin is a high-quality cannabis concentrate made through a solventless extraction process that relies solely on flower, water, ice, heat, and pressure.",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2024/08/live-rosin-1024x683.webp",
+  "label1": "Written by",
+  "data1": "rrh_clientadmin",
+  "label2": "Time to read",
+  "data2": "4 minutes"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Place",
+     "@id": "https://capecodcannabis.com/#place",
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.916265712481554",
+      "longitude": "-69.98840341462632"
+     },
+     "hasMap": "https://www.google.com/maps/search/?api=1&amp;query=41.916265712481554,-69.98840341462632",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     }
+    },
+    {
+     "@type": [
+      "LocalBusiness",
+      "Organization"
+     ],
+     "@id": "https://capecodcannabis.com/#organization",
+     "name": "Cape Cod Cannabis in Wellfleet - Best dispensary on Cape Cod.",
+     "url": "https://capecodcannabis.com",
+     "sameAs": [
+      "https://www.facebook.com/profile.php?id=100077867156438",
+      "https://twitter.com/capecodcanna"
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "logo": {
+      "@type": "ImageObject",
+      "@id": "https://capecodcannabis.com/#logo",
+      "url": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "contentUrl": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "caption": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+      "inLanguage": "en-US",
+      "width": "700",
+      "height": "500"
+     },
+     "openingHours": [
+      "Mo,Tu,We,Th,Fr,Sa,Su 8:00 - 8:00"
+     ],
+     "description": "Welcome to Cape Cod Cannabis, recognized by many as the Best Dispensary on Cape Cod, located in Wellfleet. Conveniently situated in the Route 6 shopping plaza in South Wellfleet, we are a trusted destination for both locals and visitors traveling from Provincetown, Truro, Wellfleet, Eastham, Orleans, Brewster, Dennis, Harwich, Chatham, Yarmouth, Sandwich and across the Cape and beyond.\n\nCape Cod Cannabis, your go-to cannabis haven, offers a carefully curated selection of high quality products, including flower, pre-rolls, edibles, vaporizers, concentrates, tinctures, topicals, CBD, accessories, and more. With a focus on education, selection, and a welcoming experience, we make it easy to explore and find what works best for you whether you are visiting the Cape or live here year round.",
+     "location": {
+      "@id": "https://capecodcannabis.com/#place"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/#logo"
+     },
+     "telephone": "+1-774-383-3133"
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://capecodcannabis.com/#website",
+     "url": "https://capecodcannabis.com",
+     "name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+     "alternateName": "Cape Cod Cannabis | Wellfleet's Top Rated Cannabis Store on Cape Cod",
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "https://capecodcannabis.com/wp-content/uploads/2024/08/live-rosin-scaled.webp",
+     "url": "https://capecodcannabis.com/wp-content/uploads/2024/08/live-rosin-scaled.webp",
+     "width": "2560",
+     "height": "1707",
+     "caption": "What is Live Rosin?",
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/what-is-live-rosin/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/category/cannabis-101/",
+        "name": "Cannabis 101"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "3",
+       "item": {
+        "@id": "https://capecodcannabis.com/what-is-live-rosin/",
+        "name": "What is Live Rosin?"
+       }
+      }
+     ]
+    },
+    {
+     "@type": "WebPage",
+     "@id": "https://capecodcannabis.com/what-is-live-rosin/#webpage",
+     "url": "https://capecodcannabis.com/what-is-live-rosin/",
+     "name": "What is Live Rosin? | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "datePublished": "2024-08-15T16:12:28-04:00",
+     "dateModified": "2025-05-26T16:38:58-04:00",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2024/08/live-rosin-scaled.webp"
+     },
+     "inLanguage": "en-US",
+     "breadcrumb": {
+      "@id": "https://capecodcannabis.com/what-is-live-rosin/#breadcrumb"
+     }
+    },
+    {
+     "@type": "Person",
+     "@id": "https://capecodcannabis.com/what-is-live-rosin/#author",
+     "name": "rrh_clientadmin",
+     "image": {
+      "@type": "ImageObject",
+      "@id": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "url": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "caption": "rrh_clientadmin",
+      "inLanguage": "en-US"
+     },
+     "worksFor": {
+      "@id": "https://capecodcannabis.com/#organization"
+     }
+    },
+    {
+     "@type": "Article",
+     "headline": "What is Live Rosin? | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA | Cape Cod's Best",
+     "keywords": "live rosin, concentrate",
+     "datePublished": "2024-08-15T16:12:28-04:00",
+     "dateModified": "2025-05-26T16:38:58-04:00",
+     "articleSection": "Cannabis 101",
+     "author": {
+      "@id": "https://capecodcannabis.com/what-is-live-rosin/#author",
+      "name": "rrh_clientadmin"
+     },
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "description": "Live Rosin is a high-quality cannabis concentrate made through a solventless extraction process that relies solely on flower, water, ice, heat, and pressure.",
+     "name": "What is Live Rosin? | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA | Cape Cod's Best",
+     "@id": "https://capecodcannabis.com/what-is-live-rosin/#richSnippet",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/what-is-live-rosin/#webpage"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2024/08/live-rosin-scaled.webp"
+     },
+     "inLanguage": "en-US",
+     "mainEntityOfPage": {
+      "@id": "https://capecodcannabis.com/what-is-live-rosin/#webpage"
+     }
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "h1": "What is Live Rosin?",
+ "h1Source": {
+  "count": 1,
+  "visible": 1,
+  "hidden": 0
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Cannabis 101",
+   "href": "/category/cannabis-101/"
+  },
+  {
+   "label": "What is Live Rosin?",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "visible",
+ "breadcrumbsSeparator": " / ",
+ "breadcrumbsLabel": "breadcrumbs",
+ "breadcrumbsInRegion": true,
+ "section": null,
+ "sections": [
+  {
+   "n": 0,
+   "id": "3f1093a4",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "What is Live Rosin?"
+    },
+    {
+     "t": "meta",
+     "items": [
+      {
+       "text": "August 15, 2024",
+       "href": "/2024/08/15/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "19c9b472",
+   "doc": "wp-post#103759",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "What is Live Rosin?",
+     "dev": [
+      "widescreen",
+      "mobile_extra"
+     ]
+    },
+    {
+     "t": "rich",
+     "html": "<p><a href=\"/categories/concentrates/rosin/\" data-link=\"dead\">Live Rosin</a> is a high-quality cannabis concentrate made through a solventless extraction process that relies solely on flower, water, ice, heat, and pressure.</p><p><strong>Step 1: Flash Freezing</strong></p><p>Once the plants are ready for harvest, the whole plants are carefully cut down, the buds are removed, and then are flash frozen. This quick freezing method helps preserve the plant’s terpenes and cannabinoids.</p><p><strong>Step 2: Hash Washing</strong></p><p>The frozen buds are then placed in a specialized hash washing machine, where trichomes—rich in terpenes and cannabinoids—are separated from the plant using only ice, water, and agitation. The resulting hash is filtered through various micron mesh screens.</p><p><strong>Step 3: Collection</strong></p><p>The product is selected from the 73-micron screen during the initial washes to produce the Live Rosin.</p><p><strong>Step 4: Freeze Drying</strong></p><p>After collection, the hash is freeze-dried to remove all moisture at sub-zero temperatures, ensuring that the terpenes and quality are well-preserved.</p><p><strong>Step 5: Pressing</strong></p><p>The dried hash is sifted and placed into 25-micron screen bags, then pressed between two temperature-controlled, heated plates. By using low heat and high pressure, the finest <a href=\"/categories/concentrates/rosin/\" data-link=\"dead\">Live Rosin</a> is created. At this point, the product can be cured and prepared for a variety of dabbing experiences.</p><p>** Example of how Live Rosin is made, extracted and pressed; may vary per cultivator</p>",
+     "dev": [
+      "widescreen",
+      "mobile_extra"
+     ]
+    },
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "How Live Rosin is Made: A Step-by-Step Guide to Solventless Cannabis Extraction"
+    },
+    {
+     "t": "rich",
+     "html": "<p><strong>Live Rosin</strong> is a premium cannabis concentrate, prized for its purity and potent effects. It’s produced using a <strong>solventless extraction process</strong> that relies on nothing more than <strong>flower, water, ice, heat</strong>, and <strong>pressure</strong>. This clean method preserves the natural <strong>terpenes</strong> and <strong>cannabinoids</strong>, making Live Rosin a favorite among cannabis connoisseurs.</p><p>Here’s a breakdown of the process:</p>"
+    },
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "Step 1: Flash Freezing the Cannabis Flower"
+    },
+    {
+     "t": "rich",
+     "html": "<p>To begin, the <strong>cannabis plants</strong> are harvested, and the buds are carefully cut off. Immediately after, the buds are <strong>flash frozen</strong> to lock in the plant’s <strong>terpenes</strong> and <strong>cannabinoid profile</strong>. This quick-freeze technique ensures the highest quality when making Live Rosin.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "Step 2: Hash Washing"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Once frozen, the buds are placed in a specialized <strong>hash washing machine</strong>. Here, trichomes—rich in <strong>terpenes</strong> and <strong>cannabinoids</strong>—are gently separated from the plant material using nothing but <strong>ice, water</strong>, and a bit of agitation. The result is a rich <strong>hash</strong>, which is then filtered through a series of micron mesh screens.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "Step 3: Collection of the Best Product"
+    },
+    {
+     "t": "rich",
+     "html": "<p>From the hash washing process, the finest material is collected from the <strong>73-micron screen</strong> during the initial washes, which will go on to create the high-quality Live Rosin.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "Step 4: Freeze-Drying"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Next, the collected hash undergoes <strong>freeze-drying</strong>, where all moisture is removed in a sub-zero environment. This ensures that the valuable<strong> terpenes</strong> and overall product quality remain intact throughout the process.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "Step 5: Pressing for Pure Live Rosin"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Once the hash is dry, it’s sifted and placed into <strong>25-micron screen bags</strong>. These are then carefully pressed between two heated, temperature-controlled plates. By applying <strong>low heat</strong> and <strong>high pressure</strong>, the purest Live Rosin is extracted, ready to be cured and prepared for various <strong>dabbing</strong> or consumption methods.</p><p>—</p>"
+    },
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "Conclusion: A Pure, Potent Experience"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Live Rosin is highly regarded for its <strong>solventless extraction</strong> method, delivering a cleaner, more flavorful cannabis experience. From flash freezing to pressing, the entire process is designed to maximize the purity and potency of the product. Though methods may vary slightly between cultivators, the steps above are key to crafting this superior concentrate.</p><p><strong>Discover premium Live Rosin products at Cape Cod Cannabis, your trusted source for high-quality cannabis concentrates.</strong></p><p>—</p><p>** Example of how Live Rosin is made, extracted and pressed; may vary per cultivator</p>"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "26baa7f",
+   "doc": "wp-post#103759",
+   "blocks": [
+    {
+     "t": "button",
+     "label": "Shop Rosin Products",
+     "href": "/categories/concentrates/rosin/",
+     "hrefStatus": "dead"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": "83ecf77",
+   "doc": "wp-post#103759",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong><u>Disclaimer</u>:</strong></p><p>Marijuana and Marijuana Products have not been analyzed or approved by the FDA, therefore there is limited information on side effects. There may be health risks associate with using marijuana or marijuana products. All marijuana and marijuana products should be kept away from children.</p><p>Under <a href=\"https://www.mass.gov/info-details/mass-general-laws-c90-ss-24\" target=\"_blank\" rel=\"noopener\">M.G.L. c90, §24</a> it is illegal to drive or operate machinery under the influence of marijuana.</p><p>We always recommend speaking with a physician regarding dosage. For consumers who are new to cannabis er recommend starting with smallest dosage according to package directions and allowing sufficient time to pass to allow effects to be felt, based on the method of consumption or application.</p><p>Tolerance, dependence and withdrawal have not been researched therefore please consume marijuana and marijuana products at your now risk.</p><p>If you or someone you know is exhibiting signs or symptoms of substance abuse please contact the Massachusetts Substance Abuse Helpline at 800 327 5050 for further assistance.</p><p>Consumer may not sell marijuana to any other individual, doing so may impose a fine and/or imprisonment; likewise registered qualifying patients may not distribute marijuana to any other individual, and that they must return unused, excess, or contaminated product to the RMD from which they purchased the product, for disposal.</p><p>For information regarding penalties for possession or distribution of marijuana in violation of Massachusetts law Please refer to <a href=\"https://www.mass.gov/info-details/mass-general-laws-c94g-ss-13\" target=\"_blank\" rel=\"noopener\">M.G.L. c94G, §13</a>.</p><p>For additional educational materials please refer to our webpage <a href=\"/intro-to-cannabis-101/\" title=\"Intro to Cannabis\">Intro to Cannabis.</a></p><p>Please consume cannabis products responsibly.</p><p>Cannabis is for use only by adults 21 years of age or older. All information contained herein and, on our website, www.capecodcannabis.com, is for educational purposes only. None of this information should be interpreted as medical or treatment advice for any person or condition. Always consult with a licensed physician in all matters regarding your health.</p>"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "id": "329af6c",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "postnav",
+     "prev": {
+      "srLabel": "Prev",
+      "title": "High Anxiety",
+      "href": "/high-anxiety/"
+     },
+     "next": {
+      "title": "Understanding Cannabis Concentrates: Types and Uses",
+      "srLabel": "Next",
+      "href": "/understanding-cannabis-concentrates-types-and-uses/"
+     },
+     "ariaLabels": [
+      "Post Navigation"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "id": "9ba89d6",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "comments",
+     "note": "WordPress comment form; no comment backend in a static rebuild"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "button": 1,
+  "comments": 1,
+  "heading": 9,
+  "meta": 1,
+  "postnav": 1,
+  "rich": 9
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [
+   {
+    "section": "19c9b472",
+    "t": "heading",
+    "dev": [
+     "widescreen",
+     "mobile_extra"
+    ],
+    "text": "what is live rosin?"
+   },
+   {
+    "section": "19c9b472",
+    "t": "rich",
+    "dev": [
+     "widescreen",
+     "mobile_extra"
+    ],
+    "text": "live rosin is a high-quality cannabis concentrate made through a solventless extraction process that relies solely on flower, water, ice, heat, and pressure. / step 1: flash freezing / once the plants are ready for harvest, the whole plants"
+   }
+  ],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [
+   {
+    "href": "/categories/concentrates/rosin/",
+    "from": "/categories/concentrates/rosin/",
+    "status": "dead"
+   }
+  ],
+  "aliasesResolved": [
+   {
+    "from": "https://capecodcannabis.com/2024/08/15/",
+    "to": "/2024/08/15/"
+   },
+   {
+    "from": "https://capecodcannabis.com/intro-to-cannabis/",
+    "to": "/intro-to-cannabis-101/"
+   },
+   {
+    "from": "https://capecodcannabis.com/high-anxiety/",
+    "to": "/high-anxiety/"
+   },
+   {
+    "from": "https://capecodcannabis.com/understanding-cannabis-concentrates-types-and-uses/",
+    "to": "/understanding-cannabis-concentrates-types-and-uses/"
+   },
+   {
+    "from": "https://capecodcannabis.com/category/cannabis-101/",
+    "to": "/category/cannabis-101/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

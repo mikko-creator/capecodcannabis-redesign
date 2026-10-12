@@ -1,0 +1,890 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/event/coast-cannabis-co-pop-up-2/",
+ "sourceUrl": "https://capecodcannabis.com/event/coast-cannabis-co-pop-up-2/",
+ "requestedUrl": "https://capecodcannabis.com/event/coast-cannabis-co-pop-up-2",
+ "slug": "event-coast-cannabis-co-pop-up-2",
+ "kind": "event",
+ "wpTemplate": "event",
+ "derived": false,
+ "rawFile": "audit/raw/event-coast-cannabis-co-pop-up-2.html",
+ "rawSha256": "fa0f97d97a7dad1298b5decaec4ad2a18b3bcb6f0fbc436922fa157c0c187357",
+ "regionKind": "body-minus-chrome",
+ "title": "Coast Cannabis Co. Pop-Up | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+ "metaDescription": "Learn more about Coast Cannabis Co. products (Gummies, Chocolates and Vaporizers) and enjoy some of their non-infused, delicious gummies and/or chocolates!",
+ "canonical": "https://capecodcannabis.com/event/coast-cannabis-co-pop-up-2/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "Coast Cannabis Co. Pop-Up | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "Learn more about Coast Cannabis Co. products (Gummies, Chocolates and Vaporizers) and enjoy some of their non-infused, delicious gummies and/or chocolates!",
+  "url": "https://capecodcannabis.com/event/coast-cannabis-co-pop-up-2/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2024-06-07T12:25:23-04:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2023/08/Coast_200px-2.png",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/2023/08/Coast_200px-2.png",
+  "image:width": "200",
+  "image:height": "219",
+  "image:alt": "Coast Cannabis Co.",
+  "image:type": "image/png"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438",
+  "tag": [
+   "chocolates",
+   "coast cannabis co",
+   "gummies",
+   "pop-up",
+   "pop-up event",
+   "vaporizers"
+  ]
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "Coast Cannabis Co. Pop-Up | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "Learn more about Coast Cannabis Co. products (Gummies, Chocolates and Vaporizers) and enjoy some of their non-infused, delicious gummies and/or chocolates!",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2023/08/Coast_200px-2.png"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/event/coast-cannabis-co-pop-up-2/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/events-calendar/",
+        "name": "Events"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "3",
+       "item": {
+        "@id": "https://capecodcannabis.com/event/coast-cannabis-co-pop-up-2/",
+        "name": "Coast Cannabis Co. Pop-Up"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  },
+  [
+   {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "Coast Cannabis Co. Pop-Up",
+    "description": "&lt;p&gt;Learn more about Coast Cannabis Co. products (Gummies, Chocolates and Vaporizers) and enjoy some of their non-infused, delicious gummies and/or chocolates! &nbsp; Coast Cannabis Co. is on a mission to [&hellip;]&lt;/p&gt;\\n",
+    "image": "https://capecodcannabis.com/wp-content/uploads/2023/08/Coast_200px-2.png",
+    "url": "https://capecodcannabis.com/event/coast-cannabis-co-pop-up-2/",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "startDate": "2024-06-15T15:00:00-04:00",
+    "endDate": "2024-06-15T17:00:00-04:00",
+    "location": {
+     "@type": "Place",
+     "name": "Cape Cod Cannabis",
+     "description": "",
+     "url": "",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressLocality": "Wellfleet",
+      "addressRegion": "MA",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "telephone": "774-383-3133",
+     "sameAs": "https://www.capecodcannabis.com"
+    },
+    "performer": "Organization"
+   }
+  ]
+ ],
+ "h1": "Coast Cannabis Co. Pop-Up",
+ "h1Source": {
+  "count": 1,
+  "visible": 1,
+  "hidden": 0
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Events",
+   "href": "/events-calendar/"
+  },
+  {
+   "label": "Coast Cannabis Co. Pop-Up",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "jsonld",
+ "section": null,
+ "sections": [
+  {
+   "n": 0,
+   "id": "4d8f4efa",
+   "doc": "tec_event_single_dynamic#92071",
+   "blocks": [
+    {
+     "t": "event-field",
+     "field": "calendar_link",
+     "text": "« All Events",
+     "links": [
+      {
+       "label": "« All Events",
+       "href": "/events-calendar/"
+      }
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "status",
+     "text": "This event has passed."
+    },
+    {
+     "t": "event-field",
+     "field": "title",
+     "text": "Coast Cannabis Co. Pop-Up",
+     "level": 1
+    },
+    {
+     "t": "event-field",
+     "field": "datetime",
+     "text": "June 15, 2024\n@ 3:00 pm\n- 5:00 pm"
+    },
+    {
+     "t": "image",
+     "ref": "assets/source/a513c8e9-Coast_200px-2.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2023/08/Coast_200px-2.png?lossy=2&strip=0&webp=1",
+     "alt": "Coast Cannabis Co.",
+     "w": 200,
+     "h": 219,
+     "kind": "event-image"
+    },
+    {
+     "t": "rich",
+     "html": "<p><strong>Learn more about Coast Cannabis Co. products <em>(Gummies, Chocolates and Vaporizers)</em> and enjoy some of their non-infused, delicious gummies and/or chocolates!</strong></p><p>Coast Cannabis Co. is on a mission to make feeling good feel good because, for us, cannabis is a wellness tool that should help you be your best self. But unfortunately, all the additives and junk that often come with it can make it anything but healthy. At Coast Cannabis Co., we craft quality products to give our customers the cannabis we wanted to see in the world.</p><p>They are making sure everything that goes into their products is something they’d be proud to put into their bodies. That means using only high-quality, natural, artisanal ingredients, with no artificial dyes or colorings. But beyond that, we’re also sourcing conscientiously: Choosing fair trade, ethically grown ingredients because they’re better for you and the world around you.</p><p><a href=\"/brands/coast-cannabis-co/\"><strong>Click here to shop Coast Cannabis Co. products!</strong></a></p>"
+    },
+    {
+     "t": "event-field",
+     "field": "venue",
+     "text": "Cape Cod Cannabis\n1446 US-6\nWellfleet,MA02667United States\n+ Google Map\n774-383-3133\nView Venue Website",
+     "links": [
+      {
+       "label": "+ Google Map",
+       "href": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=1446+US-6+Wellfleet+MA+02667+United+States"
+      },
+      {
+       "label": "774-383-3133",
+       "href": "tel:774-383-3133"
+      },
+      {
+       "label": "View Venue Website",
+       "href": "/"
+      }
+     ],
+     "ariaLabels": [
+      "Venue location map"
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "categories",
+     "text": "Categories:\nPop-Ups",
+     "links": [
+      {
+       "label": "Pop-Ups",
+       "href": "/events-calendar/category/pop-ups/"
+      }
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "tags",
+     "text": "Tags:\nchocolates,\ncoast cannabis co,\ngummies,\npop-up,\npop-up event,\nvaporizers",
+     "links": [
+      {
+       "label": "chocolates",
+       "href": "/tag/chocolates/"
+      },
+      {
+       "label": "coast cannabis co",
+       "href": "/tag/coast-cannabis-co/"
+      },
+      {
+       "label": "gummies",
+       "href": "/tag/gummies/"
+      },
+      {
+       "label": "pop-up",
+       "href": "/tag/pop-up/"
+      },
+      {
+       "label": "pop-up event",
+       "href": "/tag/pop-up-event/"
+      },
+      {
+       "label": "vaporizers",
+       "href": "/tag/vaporizers/"
+      }
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "export",
+     "text": "Add to calendar\nGoogle Calendar\niCalendar\nOutlook 365\nOutlook Live",
+     "links": [
+      {
+       "label": "Google Calendar",
+       "href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20240615T150000/20240615T170000&text=Coast%20Cannabis%20Co.%20Pop-Up&details=%3Cstrong%3ELearn+more+about+Coast+Cannabis+Co.+products+%3Cem%3E%28Gummies%2C+Chocolates+and+Vaporizers%29%3C%2Fem%3E+and+enjoy+some+of+their+non-infused%2C+delicious+gummies+and%2For+chocolates%21%3C%2Fstrong%3E%26nbsp%3BCoast+Cannabis+Co.+is+on+a+mission+to+make+feeling+good+feel+good+because%2C+for+us%2C+cannabis+is+a+wellness+tool+that+should+help+you+be+your+best+self.+But+unfortunately%2C+all+the+additives+and+junk+that+often+come+with+it+can+make+it+anything+but+healthy.+At+Coast+Cannabis+Co.%2C+we+craft+quality+products+to+give+our+customers+the+cannabis+we+wanted+to+see+in+the+world.%26nbsp%3BThey+are+making+sure+everything+that+goes+into+their+products+is+something+they%27d+be+proud+to+put+into+their+bodies.+That+means+using+only+high-quality%2C+natural%2C+artisanal+ingredients%2C+with+no+artificial+dyes+or+colorings.+But+beyond+that%2C+we%E2%80%99re+also+sourcing+conscientiously%3A+Choosing+fair+trade%2C+ethically+grown+ingredients+because+they%E2%80%99re+better+for+you+and+the+world+around+you.%26nbsp%3B%3Ca+href%3D%22%2Fbrands%2Fc+%28View+Full+event+Description+Here%3A+https%3A%2F%2Fcapecodcannabis.com%2Fevent%2Fcoast-cannabis-co-pop-up-2%2F%29&location=Cape%20Cod%20Cannabis,%201446%20US-6,%20Wellfleet,%20MA,%2002667,%20United%20States&trp=false&ctz=America/New_York&sprop=website:https://capecodcannabis.com"
+      },
+      {
+       "label": "iCalendar",
+       "href": "/event/coast-cannabis-co-pop-up-2/?ical=1"
+      },
+      {
+       "label": "Outlook 365",
+       "href": "https://outlook.office.com/owa/?path=/calendar/action/compose&rrv=addevent&startdt=2024-06-15T15%3A00%3A00-04%3A00&enddt=2024-06-15T17%3A00%3A00-04%3A00&location=Cape%20Cod%20Cannabis,%201446%20US-6,%20Wellfleet,%20MA,%2002667,%20United%20States&subject=Coast%20Cannabis%20Co.%20Pop-Up&body=Learn%20more%20about%20Coast%20Cannabis%20Co.%20products%20%28Gummies%2C%20Chocolates%20and%20Vaporizers%29%20and%20enjoy%20some%20of%20their%20non-infused%2C%20delicious%20gummies%20and%2For%20chocolates%21%26nbsp%3BCoast%20Cannabis%20Co.%20is%20on%20a%20mission%20to%20make%20feeling%20good%20feel%20good%20because%2C%20for%20us%2C%20cannabis%20is%20a%20wellness%20tool%20that%20should%20help%20you%20be%20your%20best%20self.%20But%20unfortunately%2C%20all%20the%20additives%20and%20junk%20that%20often%20come%20with%20it%20can%20make%20it%20anything%20but%20healthy.%20At%20Coast%20Cannabis%20Co.%2C%20we%20craft%20quality%20products%20to%20give%20our%20customers%20the%20cannabis%20we%20wanted%20to%20see%20in%20the%20world.%26nbsp%3BThey%20are%20making%20sure%20everything%20that%20goes%20into%20their%20products%20is%20something%20they%27d%20be%20proud%20to%20put%20into%20their%20bodies.%20That%20means%20using%20only%20high-quality%2C%20natural%2C%20artisanal%20ingredients%2C%20with%20no%20artificial%20dyes%20or%20colorings.%20But%20beyond%20that%2C%20we%E2%80%99re%20also%20sourcing%20conscientiously%3A%20Choosing%20fair%20trade%2C%20ethically%20grown%20ingredients%20because%20they%E2%80%99re%20be%20%28View%20Full%20Event%20Description%20Here%3A%20https%3A%2F%2Fcapecodcannabis.com%2Fevent%2Fcoast-cannabis-co-pop-up-2%2F%29"
+      },
+      {
+       "label": "Outlook Live",
+       "href": "https://outlook.live.com/owa/?path=/calendar/action/compose&rrv=addevent&startdt=2024-06-15T15%3A00%3A00-04%3A00&enddt=2024-06-15T17%3A00%3A00-04%3A00&location=Cape%20Cod%20Cannabis,%201446%20US-6,%20Wellfleet,%20MA,%2002667,%20United%20States&subject=Coast%20Cannabis%20Co.%20Pop-Up&body=Learn%20more%20about%20Coast%20Cannabis%20Co.%20products%20%28Gummies%2C%20Chocolates%20and%20Vaporizers%29%20and%20enjoy%20some%20of%20their%20non-infused%2C%20delicious%20gummies%20and%2For%20chocolates%21%26nbsp%3BCoast%20Cannabis%20Co.%20is%20on%20a%20mission%20to%20make%20feeling%20good%20feel%20good%20because%2C%20for%20us%2C%20cannabis%20is%20a%20wellness%20tool%20that%20should%20help%20you%20be%20your%20best%20self.%20But%20unfortunately%2C%20all%20the%20additives%20and%20junk%20that%20often%20come%20with%20it%20can%20make%20it%20anything%20but%20healthy.%20At%20Coast%20Cannabis%20Co.%2C%20we%20craft%20quality%20products%20to%20give%20our%20customers%20the%20cannabis%20we%20wanted%20to%20see%20in%20the%20world.%26nbsp%3BThey%20are%20making%20sure%20everything%20that%20goes%20into%20their%20products%20is%20something%20they%27d%20be%20proud%20to%20put%20into%20their%20bodies.%20That%20means%20using%20only%20high-quality%2C%20natural%2C%20artisanal%20ingredients%2C%20with%20no%20artificial%20dyes%20or%20colorings.%20But%20beyond%20that%2C%20we%E2%80%99re%20also%20sourcing%20conscientiously%3A%20Choosing%20fair%20trade%2C%20ethically%20grown%20ingredients%20because%20they%E2%80%99re%20be%20%28View%20Full%20Event%20Description%20Here%3A%20https%3A%2F%2Fcapecodcannabis.com%2Fevent%2Fcoast-cannabis-co-pop-up-2%2F%29"
+      }
+     ],
+     "ariaLabels": [
+      "View links to add events to your calendar"
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "navigation",
+     "text": "Nature's Heritage Pop-Up\nWana Pop-Up",
+     "links": [
+      {
+       "label": "Nature's Heritage Pop-Up",
+       "href": "/event/natures-heritage-pop-up/"
+      },
+      {
+       "label": "Wana Pop-Up",
+       "href": "/event/wana-pop-up-2/"
+      }
+     ],
+     "ariaLabels": [
+      "Events"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "a7bb484",
+   "doc": "tec_event_single_dynamic#92071",
+   "hiddenAll": true,
+   "dev": [],
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/a513c8e9-Coast_200px-2.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2023/08/Coast_200px-2.png?lossy=2&strip=0&webp=1",
+     "alt": "Coast Cannabis Co.",
+     "w": 200,
+     "h": 219,
+     "kind": "event-image",
+     "dev": [],
+     "hiddenAll": true
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "c7b579f",
+   "doc": "tec_event_single_dynamic#92071",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/c0c34846-CCC_Logo_650px-geo-tag-r9v1ohpw5zerbd7bkhgpgccbma2ezjddi6xfhghm0u.jpg",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/elementor/thumbs/CCC_Logo_650px-geo-tag-r9v1ohpw5zerbd7bkhgpgccbma2ezjddi6xfhghm0u.jpg?lossy=2&strip=0&webp=1",
+     "alt": "Cape Cod Cannabis Recreational Dispensary near me in Wellfleet, MA ... it's worth the trip!",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary near me in Wellfleet, MA … it’s worth the trip!"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": null,
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong><em>Cape Cod Cannabis…always worth the trip!</em></strong></p>"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "event-field": 9,
+  "image": 3,
+  "rich": 2
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "tec-loading-spinner",
+    "text": "Loading Events",
+    "reason": "The Events Calendar AJAX loading spinner (plugin runtime UI, origin wp-content gif); declared in removals.json"
+   },
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [],
+  "aliasesResolved": [
+   {
+    "from": "https://capecodcannabis.com/events-calendar/",
+    "to": "/events-calendar/"
+   },
+   {
+    "from": "/brands/coast-cannabis-co/",
+    "to": "/brands/coast-cannabis-co/"
+   },
+   {
+    "from": "https://capecodcannabis.com/event/coast-cannabis-co-pop-up-2/?ical=1",
+    "to": "/event/coast-cannabis-co-pop-up-2/?ical=1"
+   },
+   {
+    "from": "https://capecodcannabis.com/event/natures-heritage-pop-up/",
+    "to": "/event/natures-heritage-pop-up/"
+   },
+   {
+    "from": "https://capecodcannabis.com/event/wana-pop-up-2/",
+    "to": "/event/wana-pop-up-2/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

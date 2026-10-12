@@ -1,0 +1,980 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/the-ultimate-dabbing-temperature-guide/",
+ "sourceUrl": "https://capecodcannabis.com/the-ultimate-dabbing-temperature-guide/",
+ "requestedUrl": "https://capecodcannabis.com/the-ultimate-dabbing-temperature-guide",
+ "slug": "the-ultimate-dabbing-temperature-guide",
+ "kind": "blog-post",
+ "wpTemplate": "post",
+ "derived": false,
+ "rawFile": "audit/raw/the-ultimate-dabbing-temperature-guide.html",
+ "rawSha256": "13e241690db622bcddbc3288dba09fd855ebe729446a5ca17345c7c59071e66e",
+ "regionKind": "body-minus-chrome",
+ "title": "The Ultimate 420 Dabbing Temperature Guide for Concentrates and Terpenes | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+ "metaDescription": "At Cape Cod Cannabis in Wellfleet, we believe the key to a perfect dabbing experience lies in choosing the right temperature. Whether you're dabbing shatter,",
+ "canonical": "https://capecodcannabis.com/the-ultimate-dabbing-temperature-guide/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "The Ultimate 420 Dabbing Temperature Guide for Concentrates and Terpenes | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "At Cape Cod Cannabis in Wellfleet, we believe the key to a perfect dabbing experience lies in choosing the right temperature. Whether you're dabbing shatter,",
+  "url": "https://capecodcannabis.com/the-ultimate-dabbing-temperature-guide/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2026-08-17T14:09:40-04:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2024/10/Dab-Banner.png",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/2024/10/Dab-Banner.png",
+  "image:width": "1200",
+  "image:height": "600",
+  "image:alt": "Dabbing Temperature Guide - Cape Cod Cannabis in Wellfleet!",
+  "image:type": "image/png"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438",
+  "tag": [
+   "concentrates",
+   "dabbing",
+   "dabbing temperature guide",
+   "terpenes"
+  ],
+  "section": "Cannabis 101",
+  "published_time": "2024-10-16T15:18:55-04:00",
+  "modified_time": "2026-08-17T14:09:40-04:00"
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "The Ultimate 420 Dabbing Temperature Guide for Concentrates and Terpenes | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "At Cape Cod Cannabis in Wellfleet, we believe the key to a perfect dabbing experience lies in choosing the right temperature. Whether you're dabbing shatter,",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2024/10/Dab-Banner.png",
+  "label1": "Written by",
+  "data1": "rrh_clientadmin",
+  "label2": "Time to read",
+  "data2": "3 minutes"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Place",
+     "@id": "https://capecodcannabis.com/#place",
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.916265712481554",
+      "longitude": "-69.98840341462632"
+     },
+     "hasMap": "https://www.google.com/maps/search/?api=1&amp;query=41.916265712481554,-69.98840341462632",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     }
+    },
+    {
+     "@type": [
+      "LocalBusiness",
+      "Organization"
+     ],
+     "@id": "https://capecodcannabis.com/#organization",
+     "name": "Cape Cod Cannabis in Wellfleet - Best dispensary on Cape Cod.",
+     "url": "https://capecodcannabis.com",
+     "sameAs": [
+      "https://www.facebook.com/profile.php?id=100077867156438",
+      "https://twitter.com/capecodcanna"
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "logo": {
+      "@type": "ImageObject",
+      "@id": "https://capecodcannabis.com/#logo",
+      "url": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "contentUrl": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "caption": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+      "inLanguage": "en-US",
+      "width": "700",
+      "height": "500"
+     },
+     "openingHours": [
+      "Mo,Tu,We,Th,Fr,Sa,Su 8:00 - 8:00"
+     ],
+     "description": "Welcome to Cape Cod Cannabis, recognized by many as the Best Dispensary on Cape Cod, located in Wellfleet. Conveniently situated in the Route 6 shopping plaza in South Wellfleet, we are a trusted destination for both locals and visitors traveling from Provincetown, Truro, Wellfleet, Eastham, Orleans, Brewster, Dennis, Harwich, Chatham, Yarmouth, Sandwich and across the Cape and beyond.\n\nCape Cod Cannabis, your go-to cannabis haven, offers a carefully curated selection of high quality products, including flower, pre-rolls, edibles, vaporizers, concentrates, tinctures, topicals, CBD, accessories, and more. With a focus on education, selection, and a welcoming experience, we make it easy to explore and find what works best for you whether you are visiting the Cape or live here year round.",
+     "location": {
+      "@id": "https://capecodcannabis.com/#place"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/#logo"
+     },
+     "telephone": "+1-774-383-3133"
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://capecodcannabis.com/#website",
+     "url": "https://capecodcannabis.com",
+     "name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+     "alternateName": "Cape Cod Cannabis | Wellfleet's Top Rated Cannabis Store on Cape Cod",
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "https://capecodcannabis.com/wp-content/uploads/2024/10/Dab-Banner.png",
+     "url": "https://capecodcannabis.com/wp-content/uploads/2024/10/Dab-Banner.png",
+     "width": "1200",
+     "height": "600",
+     "caption": "Dabbing Temperature Guide - Cape Cod Cannabis in Wellfleet!",
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/the-ultimate-dabbing-temperature-guide/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/category/cannabis-101/",
+        "name": "Cannabis 101"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "3",
+       "item": {
+        "@id": "https://capecodcannabis.com/the-ultimate-dabbing-temperature-guide/",
+        "name": "The Ultimate 420 Dabbing Temperature Guide for Concentrates and Terpenes"
+       }
+      }
+     ]
+    },
+    {
+     "@type": "WebPage",
+     "@id": "https://capecodcannabis.com/the-ultimate-dabbing-temperature-guide/#webpage",
+     "url": "https://capecodcannabis.com/the-ultimate-dabbing-temperature-guide/",
+     "name": "The Ultimate 420 Dabbing Temperature Guide for Concentrates and Terpenes | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "datePublished": "2024-10-16T15:18:55-04:00",
+     "dateModified": "2026-08-17T14:09:40-04:00",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2024/10/Dab-Banner.png"
+     },
+     "inLanguage": "en-US",
+     "breadcrumb": {
+      "@id": "https://capecodcannabis.com/the-ultimate-dabbing-temperature-guide/#breadcrumb"
+     }
+    },
+    {
+     "@type": "Person",
+     "@id": "https://capecodcannabis.com/the-ultimate-dabbing-temperature-guide/#author",
+     "name": "rrh_clientadmin",
+     "image": {
+      "@type": "ImageObject",
+      "@id": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "url": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "caption": "rrh_clientadmin",
+      "inLanguage": "en-US"
+     },
+     "worksFor": {
+      "@id": "https://capecodcannabis.com/#organization"
+     }
+    },
+    {
+     "@type": "Article",
+     "headline": "The Ultimate 420 Dabbing Temperature Guide for Concentrates and Terpenes | Cape Cod Cannabis Recreational",
+     "keywords": "dabbing",
+     "datePublished": "2024-10-16T15:18:55-04:00",
+     "dateModified": "2026-08-17T14:09:40-04:00",
+     "articleSection": "Cannabis 101, Start Here",
+     "author": {
+      "@id": "https://capecodcannabis.com/the-ultimate-dabbing-temperature-guide/#author",
+      "name": "rrh_clientadmin"
+     },
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "description": "At Cape Cod Cannabis in Wellfleet, we believe the key to a perfect dabbing experience lies in choosing the right temperature. Whether you&#039;re dabbing shatter,",
+     "name": "The Ultimate 420 Dabbing Temperature Guide for Concentrates and Terpenes | Cape Cod Cannabis Recreational",
+     "@id": "https://capecodcannabis.com/the-ultimate-dabbing-temperature-guide/#richSnippet",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/the-ultimate-dabbing-temperature-guide/#webpage"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2024/10/Dab-Banner.png"
+     },
+     "inLanguage": "en-US",
+     "mainEntityOfPage": {
+      "@id": "https://capecodcannabis.com/the-ultimate-dabbing-temperature-guide/#webpage"
+     }
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "h1": "The Ultimate 420 Dabbing Temperature Guide for Concentrates and Terpenes",
+ "h1Source": {
+  "count": 1,
+  "visible": 1,
+  "hidden": 0
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Cannabis 101",
+   "href": "/category/cannabis-101/"
+  },
+  {
+   "label": "The Ultimate 420 Dabbing Temperature Guide for Concentrates and Terpenes",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "visible",
+ "breadcrumbsSeparator": " / ",
+ "breadcrumbsLabel": "breadcrumbs",
+ "breadcrumbsInRegion": true,
+ "section": null,
+ "sections": [
+  {
+   "n": 0,
+   "id": "3f1093a4",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "The Ultimate 420 Dabbing Temperature Guide for Concentrates and Terpenes"
+    },
+    {
+     "t": "meta",
+     "items": [
+      {
+       "text": "October 16, 2024",
+       "href": "/2024/10/16/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "77a6693",
+   "doc": "wp-post#109791",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "The Ultimate Dabbing Temperature Guide for Concentrates and Terpenes: A Cape Cod Cannabis Guide"
+    },
+    {
+     "t": "rich",
+     "html": "<p>At <strong>Cape Cod Cannabis in Wellfleet</strong>, we believe the key to a perfect dabbing experience lies in choosing the right temperature. Whether you’re dabbing <a href=\"/categories/concentrates/shatter-2/\">shatter</a>, <a href=\"/categories/concentrates/wax/\">wax</a>, <a href=\"/categories/concentrates/live-resin/\">live resin</a>, or <a href=\"/categories/concentrates/rosin/\" data-link=\"dead\">rosin</a>, your temperature can unlock or suppress the flavor and potency of your concentrates. Our guide will help you find the optimal temperature for your needs, from preserving terpenes to achieving the most potent hit.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Why Dabbing Temperature Matters"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Dabbing involves heating cannabis concentrates to vaporize cannabinoids and <a href=\"/terpene-guide/\" data-link=\"dead\">terpenes</a> without burning them. The temperature you use affects both the taste and the effect, offering a range of experiences from smooth and flavorful to intense and powerful.</p><p>Take a look at the image below, which breaks down optimal temperature ranges for different types of dabs, and highlights when specific terpenes and cannabinoids vaporize:</p><p><img src=\"assets/source/be9c6e33-Dabbing-Temp-Guide-1080x1080-1-1024x1024.jpg\" alt=\"Dabbing Temperature Guide from Cape Cod Cannabis in Wellfleet. It's worth the trip!\" width=\"800\" height=\"800\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2024/10/Dabbing-Temp-Guide-1080x1080-1-1024x1024.jpg?lossy=2&amp;strip=0&amp;webp=1\" data-master=\"assets/source/8c4e4d69-Dabbing-Temp-Guide-1080x1080-1.jpg\"></p><p>This chart gives you a visual reference for understanding how different temperatures impact the flavor and potency of your concentrates.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Low-Temperature Dabbing"
+    },
+    {
+     "t": "rich",
+     "html": "<p><strong>Low-temp dabs</strong> (as shown in the image, between 400°F and 500°F) are perfect for those who prioritize flavor. Many delicate terpenes vaporize at this range, such as<strong> Limonene</strong> (349°F / 176°C) and <strong>Myrcene</strong> (334°F / 168°C), which provide citrusy and earthy flavors, respectively. This range delivers a smooth hit with more nuanced flavors but lower vapor production and potency.</p><p><strong>Best for:</strong></p><ul><li><a href=\"/categories/concentrates/\">Concentrates</a> high in terpenes like live resin and sauce</li><li>Flavor-focused users</li></ul><p><strong>Key Terpenes Activated at Low Temps:</strong></p><ul><li><strong>Limonene:</strong> 349°F / 176°C</li><li><strong>Myrcene:</strong> 334°F / 168°C</li><li><strong>Linalool:</strong> 388°F / 198°C</li></ul><p><strong>Pros:</strong></p><ul><li>Maximum flavor preservation</li><li>Smooth on the throat and lungs</li></ul><p><strong>Cons:</strong></p><ul><li>Less vapor production</li><li>Less intense effects</li></ul>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Medium-Temperature Dabbing"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Mid-range dabs (500°F – 545°F) offer a balance between flavor and vapor production. In this range, both terpenes and cannabinoids are more fully activated, leading to a richer experience in terms of effects and taste. Cannabinoids like <strong>CBD</strong> and <strong>THC</strong> begin to fully vaporize in this range, maximizing potency while still offering a decent flavor profile.</p><p><strong>Best for:</strong></p><ul><li>Those who want a balanced experience of flavor and potency</li><li>Shatter, wax, and budder</li></ul><p><strong>Key Cannabinoids and Terpenes Activated at Medium Temps:</strong></p><ul><li><strong>THC:</strong> 315°F / 157°C</li><li><strong>CBD:</strong> 356°F / 180°C</li><li><strong>Pinene:</strong> 311°F / 155°C</li></ul><p><strong>Pros:</strong></p><ul><li>Good balance of flavor and potency</li><li>Suitable for a wide range of concentrates</li></ul><p><strong>Cons:</strong></p><ul><li>Some loss of terpene flavor compared to lower temps</li><li>Vapor is warmer and may be harsher</li></ul>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "High-Temperature Dabbing"
+    },
+    {
+     "t": "rich",
+     "html": "<p>For those seeking intense effects, <strong>high-temp dabs</strong> (570°F – 600°F) are ideal. At these temperatures, cannabinoids like <strong>THC</strong> and<strong> CBD</strong> fully vaporize, offering potent hits and thick vapor clouds. However, many terpenes are burned off, resulting in less flavor. If you’re prioritizing potency over flavor, this range is for you.</p><p><strong>Best for:</strong></p><ul><li>Users seeking immediate, intense effects</li><li>Heavy-duty concentrates like diamonds and distillates</li></ul><p><strong>Key Terpenes Activated at High Temps:</strong></p><ul><li><strong>Humulene:</strong> 388°F / 198°C</li><li><strong>Caryophyllene:</strong> 266°F / 130°C</li></ul><p><strong>Pros:</strong></p><ul><li>Maximum potency and vapor production</li><li>Great for heavy concentrates</li></ul><p><strong>Cons:</strong><br>– Loss of terpene flavor<br>– Harsh on the throat and lungs</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Recap of Temperature Ranges"
+    },
+    {
+     "t": "rich",
+     "html": "<p>To make things easier, here’s a quick summary of temperature ranges based on your goals:</p><ul><li><strong>Low-temp dabs (400°F – 500°F):</strong> Best for maximizing flavor and terpenes like Linalool, Limonene, and Myrcene.</li><li><strong>Mid-range dabs (500°F – 545°F):</strong> Great for a balanced hit with good flavor and potency.</li><li><strong>High-temp dabs (570°F – 600°F):</strong> Ideal for users looking for intense effects and heavy vapor production, though flavor is reduced.</li></ul>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Tips for Dabbing Success"
+    },
+    {
+     "t": "rich",
+     "html": "<ul><li><strong><a href=\"/?s=carb+cap\">Use a Carb Cap</a>:</strong> Helps maintain even heat and vaporization, improving the overall experience.</li><li><strong>Clean Your Rig Regularly:</strong> Residue affects flavor, so clean your rig to preserve the taste of your dabs.</li><li><strong><a href=\"/categories/accessories/dab-tools/\">Invest in Quality Tools</a>:</strong> Tools like a good e-nail or thermometer help maintain consistent temperatures and avoid burning your concentrates.</li></ul><p>At<strong> Cape Cod Cannabis</strong>, we offer a wide range of concentrates that suit every preference. Whether you’re after flavorful live resin or potent diamonds, our team can guide you toward the best products for your dabbing setup. Visit us in Wellfleet, in the Rt. 6 Shopping Plaza, to discover high-quality concentrates and the perfect tools to enhance your dabbing experience!</p>"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "08d4df7",
+   "doc": "wp-post#109791",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>—</p><p>#DabbingGuide #BestDabTemp #CannabisConcentrates #CapeCodCannabis #DabSmart </p>"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": "a1dd36b",
+   "doc": "wp-post#109791",
+   "blocks": [
+    {
+     "t": "button",
+     "label": "Shop Concentrates",
+     "href": "/categories/concentrates/"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "id": "329af6c",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "postnav",
+     "prev": {
+      "srLabel": "Prev",
+      "title": "The Myth of High THC Potency: Why It’s Not the Only Factor in Choosing the Best Cannabis Flower",
+      "href": "/the-myth-of-high-thc-potency/"
+     },
+     "next": {
+      "title": "Understanding the Daily Purchase Limit for Recreational Cannabis Products in Massachusetts",
+      "srLabel": "Next",
+      "href": "/understanding-the-daily-purchase-limit-for-recreational-cannabis-products-in-massachusetts/"
+     },
+     "ariaLabels": [
+      "Post Navigation"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "id": "9ba89d6",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "comments",
+     "note": "WordPress comment form; no comment backend in a static rebuild"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "button": 1,
+  "comments": 1,
+  "heading": 8,
+  "meta": 1,
+  "postnav": 1,
+  "rich": 8
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [
+   {
+    "href": "/categories/concentrates/rosin/",
+    "from": "/categories/concentrates/rosin/",
+    "status": "dead"
+   },
+   {
+    "href": "/terpene-guide/",
+    "from": "/terpene-guide/",
+    "status": "dead"
+   }
+  ],
+  "aliasesResolved": [
+   {
+    "from": "https://capecodcannabis.com/2024/10/16/",
+    "to": "/2024/10/16/"
+   },
+   {
+    "from": "/categories/concentrates/shatter/",
+    "to": "/categories/concentrates/shatter-2/"
+   },
+   {
+    "from": "/categories/concentrates/wax/",
+    "to": "/categories/concentrates/wax/"
+   },
+   {
+    "from": "/categories/concentrates/live-resin/",
+    "to": "/categories/concentrates/live-resin/"
+   },
+   {
+    "from": "/categories/concentrates/",
+    "to": "/categories/concentrates/"
+   },
+   {
+    "from": "/categories/accessories/dab-tools/",
+    "to": "/categories/accessories/dab-tools/"
+   },
+   {
+    "from": "https://capecodcannabis.com/the-myth-of-high-thc-potency/",
+    "to": "/the-myth-of-high-thc-potency/"
+   },
+   {
+    "from": "https://capecodcannabis.com/understanding-the-daily-purchase-limit-for-recreational-cannabis-products-in-massachusetts/",
+    "to": "/understanding-the-daily-purchase-limit-for-recreational-cannabis-products-in-massachusetts/"
+   },
+   {
+    "from": "https://capecodcannabis.com/category/cannabis-101/",
+    "to": "/category/cannabis-101/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

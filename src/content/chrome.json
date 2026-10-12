@@ -1,0 +1,841 @@
+{
+ "schema": "ccc-reforge/chrome@1",
+ "source": {
+  "file": "audit/raw/index.html",
+  "header": "header#18695",
+  "footer": "footer#1996",
+  "chromeTextGroups": [
+   {
+    "pages": 735,
+    "sample": [
+     "/",
+     "/2021/11/07/",
+     "/2021/11/14/"
+    ],
+    "hasHeader": true,
+    "hasFooter": true
+   },
+   {
+    "pages": 2,
+    "sample": [
+     "/free-bar-coasters/",
+     "/links/"
+    ],
+    "hasHeader": false,
+    "hasFooter": false
+   }
+  ]
+ },
+ "skipLink": {
+  "label": "Skip to main content",
+  "href": "#content",
+  "from": "a.skip-link (theme)"
+ },
+ "announcement": {
+  "text": "Boards in the Stores is back for 2026 and bidding is now open! Click here to bid or learn more!",
+  "href": "/boards-in-the-stores-2026-returns-to-cape-cod/",
+  "sourceHref": "https://capecodcannabis.com/boards-in-the-stores-2026-returns-to-cape-cod/",
+  "hiddenAll": true,
+  "from": "header html widget 348373c in container 5664df5 (elementor-hidden-* on every enabled breakpoint: not rendered visibly, BUILD-CONTRACT 4.5)"
+ },
+ "logo": {
+  "ref": "assets/source/84e934d9-CCC-Logo-pr1hbosryw7qhdibj7baymy1z2tyhsipa5ll50lqgg.webp",
+  "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/elementor/thumbs/CCC-Logo-pr1hbosryw7qhdibj7baymy1z2tyhsipa5ll50lqgg.webp?lossy=2&strip=0&webp=1",
+  "alt": "Dispensary near me | Cape Cod Cannabis Dispensary in Wellfleet, MA",
+  "titleAttr": "Dispensary near me | Cape Cod Cannabis Dispensary in Wellfleet, MA",
+  "href": "/",
+  "sourceHref": "https://capecodcannabis.com",
+  "kind": "logo",
+  "from": "header theme-site-logo 716f931"
+ },
+ "nav": {
+  "items": [
+   {
+    "label": "Home",
+    "href": "/",
+    "sourceHref": "https://capecodcannabis.com/"
+   },
+   {
+    "label": "Shop Menu",
+    "href": "/menu/",
+    "sourceHref": "/menu",
+    "children": [
+     {
+      "label": "Shop All",
+      "href": "/menu/",
+      "sourceHref": "/menu"
+     },
+     {
+      "label": "Offers",
+      "href": "/specials/",
+      "sourceHref": "/specials"
+     },
+     {
+      "label": "Flower",
+      "href": "/categories/flower/",
+      "sourceHref": "https://capecodcannabis.com/categories/flower/"
+     },
+     {
+      "label": "Pre-Rolls",
+      "href": "/categories/pre-rolls/",
+      "sourceHref": "/categories/pre-rolls"
+     },
+     {
+      "label": "Edibles",
+      "href": "/categories/edibles/",
+      "sourceHref": "/categories/edibles"
+     },
+     {
+      "label": "Vaporizers",
+      "href": "/categories/vaporizers/",
+      "sourceHref": "/categories/vaporizers"
+     },
+     {
+      "label": "Tinctures",
+      "href": "/categories/tinctures/",
+      "sourceHref": "/categories/tinctures"
+     },
+     {
+      "label": "Concentrates",
+      "href": "/categories/concentrates/",
+      "sourceHref": "/categories/concentrates"
+     },
+     {
+      "label": "Topicals",
+      "href": "/categories/topicals/",
+      "sourceHref": "/categories/topicals"
+     },
+     {
+      "label": "Seeds",
+      "href": "/categories/seeds/",
+      "sourceHref": "/categories/seeds"
+     },
+     {
+      "label": "CBD",
+      "href": "/categories/cbd/",
+      "sourceHref": "/categories/cbd"
+     },
+     {
+      "label": "Accessories",
+      "href": "/categories/accessories/",
+      "sourceHref": "/categories/accessories"
+     },
+     {
+      "label": "Apparel",
+      "href": "/categories/merch/",
+      "children": [
+       {
+        "label": "Custom 420 Baseball Jersey",
+        "href": "/420-jersey/",
+        "sourceHref": "https://capecodcannabis.com/420-jersey/"
+       },
+       {
+        "label": "Size: Small",
+        "href": "/brands/small/",
+        "sourceHref": "/brands/small"
+       },
+       {
+        "label": "Size: Medium",
+        "href": "/brands/medium/",
+        "sourceHref": "/brands/medium"
+       },
+       {
+        "label": "Size: Large",
+        "href": "/brands/large/",
+        "sourceHref": "/brands/large"
+       },
+       {
+        "label": "Size: X-Large",
+        "href": "/brands/xl/",
+        "sourceHref": "/brands/xl"
+       },
+       {
+        "label": "Size: XX-Large",
+        "href": "/brands/xxl/",
+        "sourceHref": "/brands/xxl"
+       },
+       {
+        "label": "Hats",
+        "href": "/brands/one-size/"
+       }
+      ]
+     },
+     {
+      "label": "Shop Gift Cards",
+      "href": "/?s=gift-card"
+     }
+    ]
+   },
+   {
+    "label": "Cannabis 101",
+    "href": "/intro-to-cannabis-101/",
+    "sourceHref": "/intro-to-cannabis",
+    "children": [
+     {
+      "label": "Intro to Cannabis 101",
+      "href": "/intro-to-cannabis-101/",
+      "sourceHref": "https://capecodcannabis.com/intro-to-cannabis-101/"
+     },
+     {
+      "label": "Events & Pop-Ups",
+      "href": "/events-calendar/",
+      "sourceHref": "https://capecodcannabis.com/events-calendar/"
+     },
+     {
+      "label": "FAQs",
+      "href": "/faqs-420/",
+      "sourceHref": "https://capecodcannabis.com/faqs-420/"
+     },
+     {
+      "label": "FREE Rack Card Program",
+      "href": "/free-rack-cards/",
+      "sourceHref": "https://capecodcannabis.com/free-rack-cards/"
+     },
+     {
+      "label": "Our Blog",
+      "href": "/our-blog/",
+      "sourceHref": "https://capecodcannabis.com/our-blog/"
+     },
+     {
+      "label": "Terpene & Cannabinoid Guide",
+      "href": "/terpene-cannabinoid-guide/",
+      "sourceHref": "https://capecodcannabis.com/terpene-cannabinoid-guide/"
+     },
+     {
+      "label": "Understanding the Daily Purchase Limit",
+      "href": "/daily-purchase-limit-in-ma/",
+      "sourceHref": "https://capecodcannabis.com/daily-purchase-limit-in-ma/"
+     }
+    ]
+   },
+   {
+    "label": "Ship My Apparel",
+    "href": "https://bluetail.cc",
+    "target": "_blank",
+    "children": [
+     {
+      "label": "Shop All",
+      "href": "https://bluetail.cc/shop-our-merch/",
+      "target": "_blank"
+     },
+     {
+      "label": "CCC 420 Baseball Jersey",
+      "href": "/420-jersey/",
+      "sourceHref": "https://capecodcannabis.com/420-jersey/"
+     },
+     {
+      "label": "Accessories",
+      "href": "https://www.bluetail.cc/product-category/accessories",
+      "target": "_blank"
+     },
+     {
+      "label": "Hats",
+      "href": "https://www.bluetail.cc/product-category/dispensary-hats",
+      "target": "_blank"
+     },
+     {
+      "label": "Sweatshirts",
+      "href": "https://www.bluetail.cc/product-category/dispensary-sweatshirts",
+      "target": "_blank"
+     },
+     {
+      "label": "T-Shirts",
+      "href": "https://www.bluetail.cc/product-category/dispensary-t-shirts",
+      "target": "_blank"
+     }
+    ]
+   },
+   {
+    "label": "Shop Your Loyalty Points",
+    "href": "/shop-your-loyalty-points/",
+    "sourceHref": "https://capecodcannabis.com/shop-your-loyalty-points/"
+   },
+   {
+    "label": "About",
+    "href": "/about-cape-cod-cannabis/",
+    "sourceHref": "https://capecodcannabis.com/about-cape-cod-cannabis/",
+    "children": [
+     {
+      "label": "About",
+      "href": "/about-cape-cod-cannabis/",
+      "sourceHref": "https://capecodcannabis.com/about-cape-cod-cannabis/"
+     },
+     {
+      "label": "Contact",
+      "href": "/contact-cape-cod-cannabis/",
+      "sourceHref": "https://capecodcannabis.com/contact-cape-cod-cannabis/"
+     },
+     {
+      "label": "Discover Wellfleet",
+      "href": "/things-to-do-near-cape-cod-cannabis-in-wellfleet-ma/",
+      "sourceHref": "https://capecodcannabis.com/things-to-do-near-cape-cod-cannabis-in-wellfleet-ma/"
+     },
+     {
+      "label": "FAQs",
+      "href": "/faqs-420/",
+      "sourceHref": "https://capecodcannabis.com/faqs-420/"
+     },
+     {
+      "label": "Hours of Operation",
+      "href": "#hours",
+      "hrefStatus": "dead-anchor"
+     },
+     {
+      "label": "Join Our Team",
+      "href": "/join-our-team-cape-cod-cannabis/",
+      "sourceHref": "https://capecodcannabis.com/join-our-team-cape-cod-cannabis/"
+     },
+     {
+      "label": "Leave Your Review!",
+      "href": "/leave-your-review/"
+     },
+     {
+      "label": "Loyalty VIP Program",
+      "href": "/loyalty-sign-up/",
+      "sourceHref": "https://capecodcannabis.com/loyalty-sign-up/"
+     },
+     {
+      "label": "Return Policy",
+      "href": "/return-policy/",
+      "sourceHref": "https://capecodcannabis.com/return-policy/"
+     },
+     {
+      "label": "Stay Connected",
+      "href": "/join-our-newsletter/"
+     }
+    ]
+   },
+   {
+    "label": "Directions",
+    "href": "/directions/",
+    "sourceHref": "https://capecodcannabis.com/directions/",
+    "children": [
+     {
+      "label": "Directions",
+      "href": "/directions/",
+      "sourceHref": "https://capecodcannabis.com/directions/"
+     },
+     {
+      "label": "Discover Wellfleet",
+      "href": "/things-to-do-near-cape-cod-cannabis-in-wellfleet-ma/",
+      "sourceHref": "https://capecodcannabis.com/things-to-do-near-cape-cod-cannabis-in-wellfleet-ma/"
+     }
+    ]
+   }
+  ],
+  "toggleLabel": "Menu Toggle",
+  "from": "header nav-menu 8d9c881 (elementor-nav-menu--main)"
+ },
+ "mobileMenu": {
+  "sameAsNav": true,
+  "from": "the same nav-menu 8d9c881 printed a second time as elementor-nav-menu--dropdown (aria-hidden, shown behind the burger at <=1025px)"
+ },
+ "mega": [
+  {
+   "id": "ff8edfc",
+   "items": [
+    {
+     "label": "⭐ Daily Offers ⭐",
+     "href": "/specials/",
+     "sourceHref": "/specials",
+     "title": "Shop Daily Offers"
+    },
+    {
+     "label": "Flower",
+     "href": "/categories/flower/",
+     "title": "Shop Cannabis Flower"
+    },
+    {
+     "label": "Pre-Rolls",
+     "href": "/categories/pre-rolls/",
+     "title": "Shop Pre-Rolls"
+    },
+    {
+     "label": "Edibles",
+     "href": "/categories/edibles/",
+     "title": "Shop Edibles"
+    },
+    {
+     "label": "Vaporizers",
+     "href": "/categories/vaporizers/",
+     "title": "Shop Vaporizers"
+    },
+    {
+     "label": "Tinctures",
+     "href": "/categories/tinctures/",
+     "title": "Shop Tinctures"
+    },
+    {
+     "label": "Concentrates",
+     "href": "/categories/concentrates/",
+     "title": "Shop Concentrates"
+    },
+    {
+     "label": "Topicals",
+     "href": "/categories/topicals/",
+     "title": "Shop Topicals"
+    },
+    {
+     "label": "Seeds",
+     "href": "/categories/seeds/",
+     "title": "Shop Cannabis Seeds"
+    },
+    {
+     "label": "CBD",
+     "href": "/categories/cbd/",
+     "title": "Shop CBD"
+    },
+    {
+     "label": "Accessories",
+     "href": "/categories/accessories/",
+     "title": "Shop Cannabis Accessories"
+    },
+    {
+     "label": "Apparel",
+     "href": "/categories/merch/",
+     "title": "Shop Cape Cod Cannabis Apparel"
+    }
+   ],
+   "ariaLabels": [
+    "Categories",
+    "Menu Toggle"
+   ],
+   "from": "header mega-menu (n-menu) ff8edfc: a flat link strip, no dropdown content"
+  },
+  {
+   "id": "82ce976",
+   "items": [
+    {
+     "label": "Effects",
+     "href": "/effects/",
+     "sourceHref": "/effects",
+     "title": "Shop by Effects"
+    },
+    {
+     "label": "Strains",
+     "href": "/strains/",
+     "sourceHref": "/strains",
+     "title": "Shop by Strains"
+    },
+    {
+     "label": "Terpenes",
+     "href": "/terpenes/",
+     "sourceHref": "/terpenes",
+     "title": "Shop by Terpenes"
+    },
+    {
+     "label": "Cannabinoids",
+     "href": "/cannabinoids/",
+     "sourceHref": "/cannabinoids",
+     "title": "Shop by Cannabinoids"
+    }
+   ],
+   "ariaLabels": [
+    "Categories",
+    "Menu Toggle"
+   ],
+   "from": "header mega-menu (n-menu) 82ce976: a flat link strip, no dropdown content"
+  }
+ ],
+ "megaHint": {
+  "text": "Scroll left-right to view categories",
+  "dev": [
+   "tablet",
+   "mobile_extra",
+   "mobile"
+  ],
+  "from": "header text-editor.default 6b86fcc"
+ },
+ "search": {
+  "kind": "search-form",
+  "action": "/",
+  "method": "get",
+  "field": "s",
+  "placeholder": "Search Cape Cod Cannabis...",
+  "label": "Search",
+  "button": "Search",
+  "clientRendered": false,
+  "from": "header search-form c275c97"
+ },
+ "ajaxSearch": {
+  "hiddenAll": true,
+  "kind": "jet-ajax-search",
+  "categories": [
+   "All Categories",
+   "Cannabis 101",
+   "Cannabis News",
+   "Cape Cod Lifestyle",
+   "Inside Cape Cod Cannabis",
+   "Start Here"
+  ],
+  "action": "/",
+  "method": "get",
+  "field": "s",
+  "placeholder": "Search ...",
+  "label": "Search ...",
+  "button": "Search submit",
+  "clientRendered": true,
+  "ariaLabels": [
+   "View all results"
+  ],
+  "from": "header jet-ajax-search 348550e (client-rendered results)"
+ },
+ "translate": {
+  "removed": true,
+  "reason": "GTranslate third-party runtime (BUILD-CONTRACT 4.8; listed in docs/OPEN-DECISIONS.md)",
+  "from": "header shortcode #gt-wrapper-80446200"
+ },
+ "footer": {
+  "sections": [
+   {
+    "n": 0,
+    "id": "27b81eb",
+    "blocks": [
+     {
+      "t": "heading",
+      "level": 4,
+      "text": "Stay connected with Cape Cod Cannabis"
+     },
+     {
+      "t": "heading",
+      "level": null,
+      "text": "Sign up for our free Loyalty VIP Program in-store and receive exclusive info on new product drops, new arrivals, offers, events, and earn loyalty points with every purchase that you can redeem for Accessories, Apparel or CBD.",
+      "href": "/shop-your-loyalty-points/",
+      "as": "p",
+      "dev": [],
+      "hiddenAll": true
+     },
+     {
+      "t": "rich",
+      "html": "<p>Join our Newsletter below and stay connected with new arrivals, offers, events and other related Cape Cod Cannabis news<strong>.</strong></p>"
+     },
+     {
+      "t": "button",
+      "label": "JOIN OUR NEWSLETTER",
+      "href": "/join-our-newsletter/"
+     }
+    ]
+   },
+   {
+    "n": 1,
+    "id": "660970ec",
+    "blocks": [
+     {
+      "t": "image",
+      "ref": "assets/source/e4ae712e-CCC-Logo-Footer.webp",
+      "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2021/08/CCC-Logo-Footer.webp?lossy=2&strip=0&webp=1",
+      "alt": "Dispensary near me | Cape Cod Cannabis Dispensary in Wellfleet, MA",
+      "w": 700,
+      "h": 568,
+      "href": "/",
+      "sourceHref": "https://capecodcannabis.com"
+     },
+     {
+      "t": "rich",
+      "html": "<p><em>Always worth the trip!</em></p>"
+     },
+     {
+      "t": "social",
+      "items": [
+       {
+        "label": "Facebook",
+        "href": "https://www.facebook.com/Cape-Cod-Cannabis-112536844674702/",
+        "target": "_blank"
+       },
+       {
+        "label": "Linkedin",
+        "href": "https://www.linkedin.com/company/cape-cod-cannabis/",
+        "target": "_blank"
+       },
+       {
+        "label": "Twitter",
+        "href": "https://twitter.com/capecodcanna",
+        "target": "_blank"
+       },
+       {
+        "label": "Instagram",
+        "href": "https://www.instagram.com/thecccstore.ma",
+        "target": "_blank"
+       }
+      ]
+     },
+     {
+      "t": "heading",
+      "level": 2,
+      "text": "Hours"
+     },
+     {
+      "t": "hours",
+      "source": "joint",
+      "rows": [
+       {
+        "day": "Sunday",
+        "time": "8:00am – 8:00pm"
+       },
+       {
+        "day": "Monday",
+        "time": "8:00am – 8:00pm"
+       },
+       {
+        "day": "Tuesday",
+        "time": "8:00am – 8:00pm"
+       },
+       {
+        "day": "Wednesday",
+        "time": "8:00am – 8:00pm"
+       },
+       {
+        "day": "Thursday",
+        "time": "8:00am – 8:00pm"
+       },
+       {
+        "day": "Friday",
+        "time": "8:00am – 8:00pm"
+       },
+       {
+        "day": "Saturday",
+        "time": "8:00am – 8:00pm"
+       }
+      ],
+      "dev": [],
+      "hiddenAll": true
+     },
+     {
+      "t": "rich",
+      "html": "<p>Monday 8am – 8pm<br>Tuesday 8am – 8pm<br>Wednesday 8am – 8pm<br>Thursday 8am – 8pm<br>Friday 8am – 8pm<br>Saturday 8am – 8pm<br>Sunday 8am – 8pm</p>"
+     },
+     {
+      "t": "heading",
+      "level": 2,
+      "text": "Contact"
+     },
+     {
+      "t": "rich",
+      "html": "<p>Cape Cod Cannabis<br>Recreational Dispensary<br>1446 US-6<br>Wellfleet, MA 02667</p><p><a href=\"tel:(774) 383-3133\" title=\"Call Us\">(774) 383-3133</a></p><p><a href=\"/contact-cape-cod-cannabis/\">Contact Us</a><br><a href=\"/directions/\">Directions</a></p>"
+     },
+     {
+      "t": "heading",
+      "level": 2,
+      "text": "Menu"
+     },
+     {
+      "t": "rich",
+      "html": "<p><a href=\"/menu/\" title=\"Shop All\">Shop All</a></p>"
+     },
+     {
+      "t": "rich",
+      "html": "<p><a href=\"/specials/\" title=\"Shop Offers\">Shop Offers</a></p>"
+     },
+     {
+      "t": "rich",
+      "html": "<p><a href=\"/cannabinoids/\" title=\"Shop by Cannabinoids\">Shop by Cannabinoids</a></p>"
+     },
+     {
+      "t": "rich",
+      "html": "<p><a href=\"/terpenes/\" title=\"Shop by Terpenes\">Shop by Terpenes</a></p>"
+     },
+     {
+      "t": "rich",
+      "html": "<p><a href=\"/effects/\" title=\"Shop by Effects\">Shop by Effects</a></p>"
+     },
+     {
+      "t": "heading",
+      "level": 2,
+      "text": "Learn"
+     },
+     {
+      "t": "rich",
+      "html": "<p><a href=\"/intro-to-cannabis-101/\" title=\"Intro to Cannabis\">Intro to Cannabis</a></p>"
+     },
+     {
+      "t": "rich",
+      "html": "<p><a href=\"/customer-reviews/\">Customer Reviews</a></p>"
+     },
+     {
+      "t": "rich",
+      "html": "<p><a href=\"/our-blog/\" title=\"Our Blog\">Our Blog</a></p>"
+     },
+     {
+      "t": "rich",
+      "html": "<p><a href=\"/about-cape-cod-cannabis/\" title=\"About\">About</a></p>"
+     },
+     {
+      "t": "rich",
+      "html": "<p><a href=\"/faqs-420/\" title=\"FAQs\">FAQs</a></p>"
+     },
+     {
+      "t": "divider"
+     },
+     {
+      "t": "heading",
+      "level": null,
+      "text": "Copyright © 2026 Cape Cod Cannabis Recreational Dispensary. All Rights Reserved.",
+      "as": "p"
+     },
+     {
+      "t": "rich",
+      "html": "<p><a href=\"/privacy-policy/\" title=\"Privacy Policy\">Privacy Policy</a> | <a href=\"/terms-of-use/\" title=\"Terms Of Use\">Terms Of Use</a> | <a href=\"/return-policy/\" title=\"Return Policy\">Return Policy</a> | <a href=\"/disclaimer/\" title=\"Disclaimer\">Disclaimer</a> | #MR282685</p>"
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "id": "00e6959",
+    "blocks": [
+     {
+      "t": "rich",
+      "html": "<p><strong>Cape Cod Cannabis Recreational Dispensary is an adult-use cannabis dispensary located on Route 6 in South Wellfleet, proudly serving residents and visitors throughout Cape Cod, including:</strong></p><p><a href=\"/recreational-dispensary-near-me-in-barnstable/\">Barnstable</a> • <a href=\"/recreational-dispensary-near-bourne-02532/\">Bourne</a> • <a href=\"/recreational-dispensary-near-me-in-brewster/\">Brewster</a> • <a href=\"/recreational-dispensary-near-chatham-02633/\">Chatham</a> • <a href=\"/recreational-dispensary-near-me-in-dennis/\">Dennis</a> • <a href=\"/recreational-dispensary-near-eastham-02642/\">Eastham</a> • <a href=\"/recreational-dispensary-near-falmouth/\">Falmouth</a> • <a href=\"/recreational-dispensary-near-me-in-harwich/\">Harwich</a> • <a href=\"/dispensary-near-me-in-hyannis-02601/\">Hyannis</a> • <a href=\"/recreational-dispensary-near-me-in-mashpee/\">Mashpee</a> • <a href=\"/recreational-dispensary-near-me-in-orleans/\">Orleans</a> • <a href=\"/dispensary-near-provincetown/\">Provincetown</a> • <a href=\"/recreational-dispensary-near-sandwich/\">Sandwich</a> • <a href=\"/recreational-dispensary-near-truro/\">Truro</a> • <a href=\"/dispensary-near-me-in-wellfleet-02667/\">Wellfleet</a> • <a href=\"/recreational-dispensary-near-me-in-yarmouth/\">Yarmouth</a></p>"
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "id": "dcfb4ac",
+    "blocks": [
+     {
+      "t": "rich",
+      "html": "<p><strong>Cape Cod Cannabis Recreational Dispensary is a proud member of the following Chambers on Cape Cod:</strong></p><p><a href=\"https://www.wellfleetchamber.com/dispensaries/#!biz/id/602aa186f7e72e4794391b46\" target=\"_blank\" rel=\"noopener\">Wellfleet Chamber of Commerce</a> • <a href=\"https://members.easthamchamber.com/list/member/cape-cod-cannabis-recreational-dispensary-2809\" target=\"_blank\" rel=\"noopener\">Eastham Chamber of Commerce</a> • <a href=\"https://business.yarmouthcapecod.com/list/member/cape-cod-cannabis-recreational-dispensary-12848\" target=\"_blank\" rel=\"noopener\">Yarmouth Chamber of Commerce</a></p>"
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "id": "7f1463d",
+    "dev": [],
+    "hiddenAll": true,
+    "blocks": [
+     {
+      "t": "rich",
+      "html": "<p><a href=\"/receive-web-ios-push-notifications/\">What are push notifications?</a></p>",
+      "dev": [],
+      "hiddenAll": true
+     }
+    ]
+   },
+   {
+    "n": 5,
+    "id": "0b7db7d",
+    "blocks": [
+     {
+      "t": "chrome-ref",
+      "what": "gtranslate",
+      "removed": true,
+      "reason": "GTranslate third-party runtime (BUILD-CONTRACT 4.8)"
+     }
+    ]
+   },
+   {
+    "n": 6,
+    "id": "0822a37",
+    "blocks": [
+     {
+      "t": "button",
+      "label": "",
+      "href": "#topBar"
+     },
+     {
+      "t": "chrome-ref",
+      "what": "cart",
+      "config": {
+       "post_id": 117740,
+       "color": "default",
+       "variant": "fixed",
+       "icon": "store",
+       "size": "small"
+      }
+     }
+    ]
+   }
+  ],
+  "from": "footer#1996 walked with the page block walker; hiddenAll marks elementor-hidden-* on every enabled breakpoint"
+ },
+ "agencyCredit": {
+  "removed": true,
+  "reason": "Previous agency footer credit (BUILD-CONTRACT 4.8: removed with reason, recorded in the change ledger)",
+  "text": null,
+  "links": [
+   {
+    "href": "https://www.rankreallyhigh.com/",
+    "rel": "nofollow"
+   }
+  ],
+  "image": {
+   "alt": "Cape Cod Cannabis.com support by Rank Really High",
+   "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2021/08/RRH-Logo-White-300x61.webp?lossy=2&strip=0&webp=1"
+  },
+  "elementId": "64cc3d0"
+ },
+ "backToTop": {
+  "href": "#topBar",
+  "label": null,
+  "from": "#topButton (fixed)"
+ },
+ "cart": {
+  "config": {
+   "post_id": 117740,
+   "color": "default",
+   "variant": "fixed",
+   "icon": "store",
+   "size": "small"
+  },
+  "from": "joint_cart widget 6c41abe (client runtime; BUILD-CONTRACT 4.5 Commerce)"
+ },
+ "ageGate": {
+  "headline": "Welcome!",
+  "challenge": "Are you over 21 years of age?",
+  "yes": "Yes",
+  "no": "No",
+  "notes": [
+   "*Must be 21+ with a VALID ID.",
+   "Always worth the trip!"
+  ],
+  "matchesContractCopy": true,
+  "ariaLabel": "Verify you are over %s years of age?",
+  "ariaLabelNote": "the plugin never fills %s; the rebuild says 21 (docs/CONTENT-MODEL.md section 2)",
+  "logo": {
+   "alt": "Cape Cod Cannabis in Wellfleet, MA...Always worth the trip!",
+   "ref": "assets/source/1c48453a-CCC_Logo_320px-2.png",
+   "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/12/CCC_Logo_320px-2.png?lossy=2&strip=0&webp=1"
+  },
+  "fields": [
+   {
+    "name": "age_gate[age]",
+    "type": "hidden",
+    "value": "HFwF0WxzrtxTHKNqmsTzFA=="
+   },
+   {
+    "name": "age_gate[lang]",
+    "type": "hidden",
+    "value": "en"
+   },
+   {
+    "name": "age_gate[confirm]",
+    "type": "hidden"
+   }
+  ],
+  "from": "<template id=\"tmpl-age-gate\"> after the footer (Age Gate plugin; cookie age_gate): h2.age-gate-headline, p.age-gate-challenge, button.age-gate-submit-yes/-no, .age-gate-additional-information"
+ },
+ "removed": [
+  {
+   "what": "wp-defender-honeypot",
+   "text": "Secret Link",
+   "href": "https://capecodcannabis.com/7b62afab7960ee01",
+   "reason": "WP Defender bot trap inside display:none (docs/SITE-ARCHITECTURE.md 1.7): never rendered, never followed"
+  },
+  {
+   "what": "agency-credit",
+   "text": null,
+   "reason": "Previous agency footer credit (BUILD-CONTRACT 4.8: removed with reason, recorded in the change ledger)"
+  },
+  {
+   "what": "gtranslate",
+   "reason": "third-party runtime (BUILD-CONTRACT 4.8)"
+  }
+ ],
+ "ledger": {
+  "unknown": [],
+  "widgetLoss": [],
+  "links": [],
+  "imagesMissing": []
+ }
+}

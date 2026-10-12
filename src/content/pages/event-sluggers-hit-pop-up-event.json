@@ -1,0 +1,893 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/event/sluggers-hit-pop-up-event/",
+ "sourceUrl": "https://capecodcannabis.com/event/sluggers-hit-pop-up-event/",
+ "requestedUrl": "https://capecodcannabis.com/event/sluggers-hit-pop-up-event",
+ "slug": "event-sluggers-hit-pop-up-event",
+ "kind": "event",
+ "wpTemplate": "event",
+ "derived": false,
+ "rawFile": "audit/raw/event-sluggers-hit-pop-up-event.html",
+ "rawSha256": "b70acfa2d7173b07c9311b94b1505afdb5f83f101c98a93177ed1470a463d6dc",
+ "regionKind": "body-minus-chrome",
+ "title": "Sluggers Hit Pop-Up Event | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+ "metaDescription": "Learn more about the Sluggers Hit brand and their great products on January 23, 2026 from 12pm - 2pm at Cape Cod Cannabis in Wellfleet, MA.",
+ "canonical": "https://capecodcannabis.com/event/sluggers-hit-pop-up-event/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "Sluggers Hit Pop-Up Event | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "Learn more about the Sluggers Hit brand and their great products on January 23, 2026 from 12pm - 2pm at Cape Cod Cannabis in Wellfleet, MA.",
+  "url": "https://capecodcannabis.com/event/sluggers-hit-pop-up-event/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2026-01-21T08:34:59-05:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2026/01/Sluggers_Logo-1024x298.webp",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/2026/01/Sluggers_Logo-1024x298.webp",
+  "image:width": "800",
+  "image:height": "233",
+  "image:alt": "sluggers hit pop-up event",
+  "image:type": "image/webp"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438",
+  "tag": [
+   "cannabis",
+   "cape cod cannabis",
+   "infused pre-rolls",
+   "sluggers hit",
+   "wellfleet cannabis"
+  ]
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "Sluggers Hit Pop-Up Event | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "Learn more about the Sluggers Hit brand and their great products on January 23, 2026 from 12pm - 2pm at Cape Cod Cannabis in Wellfleet, MA.",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2026/01/Sluggers_Logo-1024x298.webp"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/event/sluggers-hit-pop-up-event/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/events-calendar/",
+        "name": "Events"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "3",
+       "item": {
+        "@id": "https://capecodcannabis.com/event/sluggers-hit-pop-up-event/",
+        "name": "Sluggers Hit Pop-Up Event"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  },
+  [
+   {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "Sluggers Hit Pop-Up Event",
+    "description": "&lt;p&gt;Learn more about the Sluggers Hit brand and their great products! &nbsp; Their Mission is to blend tradition and innovation, push the boundaries of cannabis cultivation, celebrate cannabis culture, and [&hellip;]&lt;/p&gt;\\n",
+    "image": "https://capecodcannabis.com/wp-content/uploads/2026/01/Sluggers_Logo-scaled.webp",
+    "url": "https://capecodcannabis.com/event/sluggers-hit-pop-up-event/",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "startDate": "2026-01-23T12:00:00-05:00",
+    "endDate": "2026-01-23T14:00:00-05:00",
+    "location": {
+     "@type": "Place",
+     "name": "Cape Cod Cannabis",
+     "description": "",
+     "url": "",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressLocality": "Wellfleet",
+      "addressRegion": "MA",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "telephone": "774-383-3133",
+     "sameAs": "https://www.capecodcannabis.com"
+    },
+    "performer": "Organization"
+   }
+  ]
+ ],
+ "h1": "Sluggers Hit Pop-Up Event",
+ "h1Source": {
+  "count": 1,
+  "visible": 1,
+  "hidden": 0
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Events",
+   "href": "/events-calendar/"
+  },
+  {
+   "label": "Sluggers Hit Pop-Up Event",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "jsonld",
+ "section": null,
+ "sections": [
+  {
+   "n": 0,
+   "id": "4d8f4efa",
+   "doc": "tec_event_single_dynamic#92071",
+   "blocks": [
+    {
+     "t": "event-field",
+     "field": "calendar_link",
+     "text": "« All Events",
+     "links": [
+      {
+       "label": "« All Events",
+       "href": "/events-calendar/"
+      }
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "status",
+     "text": "This event has passed."
+    },
+    {
+     "t": "event-field",
+     "field": "title",
+     "text": "Sluggers Hit Pop-Up Event",
+     "level": 1
+    },
+    {
+     "t": "event-field",
+     "field": "datetime",
+     "text": "January 23, 2026\n@ 12:00 pm\n- 2:00 pm"
+    },
+    {
+     "t": "image",
+     "ref": "assets/source/3652f846-Sluggers_Logo-768x224.webp",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/01/Sluggers_Logo-768x224.webp?lossy=2&strip=0&webp=1",
+     "master": "assets/source/4758eb6c-Sluggers_Logo-2048x597.webp",
+     "alt": "",
+     "w": 768,
+     "h": 224,
+     "kind": "event-image"
+    },
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "Learn more about the Sluggers Hit brand and their great products!"
+    },
+    {
+     "t": "rich",
+     "html": "<p><em><strong>Their Mission</strong> is to blend tradition and innovation, push the boundaries of cannabis cultivation, celebrate cannabis culture, and deliver high-quality, consistent experiences while honoring the legacy of the cannabis community. Every product is crafted with unmatched dedication, delivering a premium experience that honors the past while shaping the future. Whether you’re here for the quality, the story, or the culture, SLUGGERS is your gateway to the best cannabis has to offer.</em></p><p><a href=\"/brands/sluggers/\"><b>Click here to shop Sluggers products!</b></a></p>"
+    },
+    {
+     "t": "event-field",
+     "field": "venue",
+     "text": "Cape Cod Cannabis\n1446 US-6\nWellfleet,MA02667United States\n+ Google Map\n774-383-3133\nView Venue Website",
+     "links": [
+      {
+       "label": "+ Google Map",
+       "href": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=1446+US-6+Wellfleet+MA+02667+United+States"
+      },
+      {
+       "label": "774-383-3133",
+       "href": "tel:774-383-3133"
+      },
+      {
+       "label": "View Venue Website",
+       "href": "/"
+      }
+     ],
+     "ariaLabels": [
+      "Venue location map"
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "categories",
+     "text": "Categories:\nPop-Ups",
+     "links": [
+      {
+       "label": "Pop-Ups",
+       "href": "/events-calendar/category/pop-ups/"
+      }
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "tags",
+     "text": "Tags:\ncannabis,\ncape cod cannabis,\ninfused pre-rolls,\nsluggers hit,\nwellfleet cannabis",
+     "links": [
+      {
+       "label": "cannabis",
+       "href": "/tag/cannabis/"
+      },
+      {
+       "label": "cape cod cannabis",
+       "href": "/tag/cape-cod-cannabis/"
+      },
+      {
+       "label": "infused pre-rolls",
+       "href": "/tag/infused-pre-rolls/"
+      },
+      {
+       "label": "sluggers hit",
+       "href": "/tag/sluggers-hit/"
+      },
+      {
+       "label": "wellfleet cannabis",
+       "href": "/tag/wellfleet-cannabis/"
+      }
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "export",
+     "text": "Add to calendar\nGoogle Calendar\niCalendar\nOutlook 365\nOutlook Live",
+     "links": [
+      {
+       "label": "Google Calendar",
+       "href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20260123T120000/20260123T140000&text=Sluggers%20Hit%20Pop-Up%20Event&details=%3Ch4%3E%3Cstrong%3ELearn+more+about+the+Sluggers+Hit+brand+and+their+great+products%21%3C%2Fstrong%3E%3C%2Fh4%3E%3Ch4%3E%3C%2Fh4%3E%26nbsp%3B%3Cem%3E%3Cstrong%3ETheir+Mission%3C%2Fstrong%3E+is+to+blend+tradition+and+innovation%2C+push+the+boundaries+of+cannabis+cultivation%2C+celebrate+cannabis+culture%2C+and+deliver+high-quality%2C+consistent+experiences+while+honoring+the+legacy+of+the+cannabis+community.+Every+product+is+crafted+with+unmatched+dedication%2C+delivering+a+premium+experience+that+honors+the+past+while+shaping+the+future.+Whether+you%E2%80%99re+here+for+the+quality%2C+the+story%2C+or+the+culture%2C+SLUGGERS+is+your+gateway+to+the+best+cannabis+has+to+offer.%3C%2Fem%3E%26nbsp%3B%26nbsp%3B%3Ca+href%3D%22https%3A%2F%2Fcapecodcannabis.com%2Fbrands%2Fsluggers%2F%22%3E%3Cb%3EClick+here+to+shop+Sluggers+products%21%3C%2Fb%3E%3C%2Fa%3E%26nbsp%3B%26nbsp%3B&location=Cape%20Cod%20Cannabis,%201446%20US-6,%20Wellfleet,%20MA,%2002667,%20United%20States&trp=false&ctz=America/New_York&sprop=website:https://capecodcannabis.com"
+      },
+      {
+       "label": "iCalendar",
+       "href": "/event/sluggers-hit-pop-up-event/?ical=1"
+      },
+      {
+       "label": "Outlook 365",
+       "href": "https://outlook.office.com/owa/?path=/calendar/action/compose&rrv=addevent&startdt=2026-01-23T12%3A00%3A00-05%3A00&enddt=2026-01-23T14%3A00%3A00-05%3A00&location=Cape%20Cod%20Cannabis,%201446%20US-6,%20Wellfleet,%20MA,%2002667,%20United%20States&subject=Sluggers%20Hit%20Pop-Up%20Event&body=Learn%20more%20about%20the%20Sluggers%20Hit%20brand%20and%20their%20great%20products%21%26nbsp%3BTheir%20Mission%20is%20to%20blend%20tradition%20and%20innovation%2C%20push%20the%20boundaries%20of%20cannabis%20cultivation%2C%20celebrate%20cannabis%20culture%2C%20and%20deliver%20high-quality%2C%20consistent%20experiences%20while%20honoring%20the%20legacy%20of%20the%20cannabis%20community.%20Every%20product%20is%20crafted%20with%20unmatched%20dedication%2C%20delivering%20a%20premium%20experience%20that%20honors%20the%20past%20while%20shaping%20the%20future.%20Whether%20you%E2%80%99re%20here%20for%20the%20quality%2C%20the%20story%2C%20or%20the%20culture%2C%20SLUGGERS%20is%20your%20gateway%20to%20the%20best%20cannabis%20has%20to%20offer.%26nbsp%3B%26nbsp%3BClick%20here%20to%20shop%20Sluggers%20products%21%26nbsp%3B%26nbsp%3B"
+      },
+      {
+       "label": "Outlook Live",
+       "href": "https://outlook.live.com/owa/?path=/calendar/action/compose&rrv=addevent&startdt=2026-01-23T12%3A00%3A00-05%3A00&enddt=2026-01-23T14%3A00%3A00-05%3A00&location=Cape%20Cod%20Cannabis,%201446%20US-6,%20Wellfleet,%20MA,%2002667,%20United%20States&subject=Sluggers%20Hit%20Pop-Up%20Event&body=Learn%20more%20about%20the%20Sluggers%20Hit%20brand%20and%20their%20great%20products%21%26nbsp%3BTheir%20Mission%20is%20to%20blend%20tradition%20and%20innovation%2C%20push%20the%20boundaries%20of%20cannabis%20cultivation%2C%20celebrate%20cannabis%20culture%2C%20and%20deliver%20high-quality%2C%20consistent%20experiences%20while%20honoring%20the%20legacy%20of%20the%20cannabis%20community.%20Every%20product%20is%20crafted%20with%20unmatched%20dedication%2C%20delivering%20a%20premium%20experience%20that%20honors%20the%20past%20while%20shaping%20the%20future.%20Whether%20you%E2%80%99re%20here%20for%20the%20quality%2C%20the%20story%2C%20or%20the%20culture%2C%20SLUGGERS%20is%20your%20gateway%20to%20the%20best%20cannabis%20has%20to%20offer.%26nbsp%3B%26nbsp%3BClick%20here%20to%20shop%20Sluggers%20products%21%26nbsp%3B%26nbsp%3B"
+      }
+     ],
+     "ariaLabels": [
+      "View links to add events to your calendar"
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "navigation",
+     "text": "Boutiq \"Spooky\" Pop-Up Event\nCali-Blaze Pop-Up Event",
+     "links": [
+      {
+       "label": "Boutiq \"Spooky\" Pop-Up Event",
+       "href": "/event/boutiq-spooky-pop-up-event/"
+      },
+      {
+       "label": "Cali-Blaze Pop-Up Event",
+       "href": "/event/cali-blaze-pop-up-event/"
+      }
+     ],
+     "ariaLabels": [
+      "Events"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "a7bb484",
+   "doc": "tec_event_single_dynamic#92071",
+   "hiddenAll": true,
+   "dev": [],
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/b63c6b1b-Sluggers_Logo-scaled.webp",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/01/Sluggers_Logo-scaled.webp?lossy=2&strip=0&webp=1",
+     "master": "assets/source/121c505f-Sluggers_Logo.webp",
+     "alt": "",
+     "w": 2560,
+     "h": 746,
+     "kind": "event-image",
+     "dev": [],
+     "hiddenAll": true
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "c7b579f",
+   "doc": "tec_event_single_dynamic#92071",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/c0c34846-CCC_Logo_650px-geo-tag-r9v1ohpw5zerbd7bkhgpgccbma2ezjddi6xfhghm0u.jpg",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/elementor/thumbs/CCC_Logo_650px-geo-tag-r9v1ohpw5zerbd7bkhgpgccbma2ezjddi6xfhghm0u.jpg?lossy=2&strip=0&webp=1",
+     "alt": "Cape Cod Cannabis Recreational Dispensary near me in Wellfleet, MA ... it's worth the trip!",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary near me in Wellfleet, MA … it’s worth the trip!"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": null,
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong><em>Cape Cod Cannabis…always worth the trip!</em></strong></p>"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "event-field": 9,
+  "heading": 1,
+  "image": 3,
+  "rich": 2
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "tec-loading-spinner",
+    "text": "Loading Events",
+    "reason": "The Events Calendar AJAX loading spinner (plugin runtime UI, origin wp-content gif); declared in removals.json"
+   },
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [],
+  "aliasesResolved": [
+   {
+    "from": "https://capecodcannabis.com/events-calendar/",
+    "to": "/events-calendar/"
+   },
+   {
+    "from": "https://capecodcannabis.com/brands/sluggers/",
+    "to": "/brands/sluggers/"
+   },
+   {
+    "from": "https://capecodcannabis.com/event/sluggers-hit-pop-up-event/?ical=1",
+    "to": "/event/sluggers-hit-pop-up-event/?ical=1"
+   },
+   {
+    "from": "https://capecodcannabis.com/event/boutiq-spooky-pop-up-event/",
+    "to": "/event/boutiq-spooky-pop-up-event/"
+   },
+   {
+    "from": "https://capecodcannabis.com/event/cali-blaze-pop-up-event/",
+    "to": "/event/cali-blaze-pop-up-event/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

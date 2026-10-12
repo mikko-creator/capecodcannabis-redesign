@@ -1,0 +1,25 @@
+{
+ "generated": "2026-10-12",
+ "rules": "Plan B (BUILD-CONTRACT 4.5): no invented prices, images, offers or Product JSON-LD; size and strain-type chips carry from (title | slug) and a caption that follows it (BUILD-CONTRACT 4.16.7); brand by title prefix (else slug start, flagged); brand pages list both kinds of match; only t1 has full data.",
+ "schema": "ccc/catalog@1",
+ "snapshot": "2026-10-12",
+ "specials": [
+  {"name":"Affordable Ounces & Half Ounces","path":"/specials/affordable-ounces-1-2-ounces/","specialId":"97d6ae59-267b-43d8-a29a-ec7cff4819ce"},
+  {"name":"1g Cartridges | 2 for $36","path":"/specials/cartridges-crude-boys-hellavated-2-for-36/","specialId":"bb742102-1817-43ae-9ae6-508cdc4f3893"},
+  {"name":"Chill Medicated | 500mg Syrups | 2 for $65","path":"/specials/chill-medicated-500mg-syrups-2-for-65/","specialId":"5acc893e-f70b-413b-ab23-093e14fc1346"},
+  {"name":"Cultivators Classic | 1g Concentrates | 5 for $90 | 10 for $160","path":"/specials/cultivators-classic-1g-concentrates-5-for-90-10-for-160/","specialId":"ff61ee33-80b0-4c4e-aba1-6775ec96919b"},
+  {"name":"Disposables | 2 for 10% Off","path":"/specials/disposables-1g-2g-2-for-10-off-4-for-20-off/","specialId":"9319f071-f738-4fcf-af5a-5616615aec70"},
+  {"name":"Eureka | 1g Disposables | 2 for $40","path":"/specials/eureka-1g-disposables-2-for-40/","specialId":"8fb8d287-f712-4dfc-ab35-459484b1651b"},
+  {"name":"Glorious | 3.5g Moonrocks | 2 for $70 | 5 for $160","path":"/specials/glorious-3-5g-moonrocks-2-for-70-5-for-160/","specialId":"54b4e62c-874a-40d6-a865-0609c1be46b8"},
+  {"name":"Zzzonked & Hashables | Gummies | 2 for $35","path":"/specials/gummies-zzzonked-2-for-35/","specialId":"235b3ca2-953d-4879-8820-4610b875e490"},
+  {"name":"Happy Valley | Pre-Roll 7pks | 2 for $75","path":"/specials/happy-valley-pre-roll-7pks-2-for-75/","specialId":"0f44be37-0865-4eb1-a121-686a6a85fa2d"},
+  {"name":"Infused Pre-Roll 5pk | Jeeter | 2 for $95 | 4 for $180 | 6 for $255 | 10 for $380","path":"/specials/infused-pre-roll-5pk-jeeter-2-for-95-4-for-180-6-for-255-10-for-380/","specialId":"92e789b3-70b1-4ba1-b33e-b668bf82a8a1"},
+  {"name":"Infused Pre-Rolls | 2 for $20","path":"/specials/infused-pre-rolls-2-for-20/","specialId":"010432db-18a3-4d73-adbf-25d915ff81d6"},
+  {"name":"Kiva | Chocolate Bars | 2 for $32.50","path":"/specials/kiva-chocolate-bars-2-for-32-50/","specialId":"48a233eb-06a1-4915-b049-ca925d99f579"},
+  {"name":"Mindy’s | Gummies | 8 for $100","path":"/specials/mindys-gummies-8-for-100/","specialId":"37b4ed3b-7bad-4ddf-a4f9-1c2dd576a7af"},
+  {"name":"1g Concentrates | 2 for 10% OFF | 5 for 15% OFF | 10 for 25% OFF","path":"/specials/mix-n-match-concentrates/","specialId":"ca5abf97-c420-4abd-91b5-33c5eb35c91d"},
+  {"name":"Premium 3.5g Flower | 2 for 10% Off | 4 for 15% Off | 8 for 20% Off","path":"/specials/premium-3-5g-flower-2-for-10-off-4-for-15-off-8-for-20-off/","specialId":"58d53d45-da62-4fb4-9a01-ef936909c5d7"},
+  {"name":"Wana Gummies | 2 for $55","path":"/specials/wana-gummies-2-for-55/","specialId":"0a3fc85a-c45f-421f-9dd8-58710eb9c626"},
+  {"name":"Wavez | 1g Infused Pre-Rolls | 10 for $75 | 20 for $135 | 30 for $180","path":"/specials/wavez-1g-infused-pre-rolls-10-for-75-20-for-135-30-for-180/","specialId":"c475bc33-e022-42f3-81e8-f7e0fb9dd5be"}
+ ]
+}

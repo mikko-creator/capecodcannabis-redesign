@@ -1,0 +1,1180 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/cannabinoids/",
+ "sourceUrl": "https://capecodcannabis.com/cannabinoids/",
+ "requestedUrl": "https://capecodcannabis.com/cannabinoids",
+ "slug": "cannabinoids",
+ "kind": "taxonomy-index",
+ "wpTemplate": "archive-cannabinoids",
+ "derived": false,
+ "rawFile": "audit/raw/cannabinoids.html",
+ "rawSha256": "bb58728877e4a53e25d9b23f31069ef1936c3e3b28107922df4985aa4424a396",
+ "regionKind": "body-minus-chrome",
+ "title": "Shop Cannabinoids at Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA on Cape Cod",
+ "metaDescription": "Cannabinoids Archive | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+ "canonical": "https://capecodcannabis.com/cannabinoids/",
+ "robots": "follow, index",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "Shop Cannabinoids at Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA on Cape Cod",
+  "description": "Cannabinoids Archive | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "url": "https://capecodcannabis.com/cannabinoids/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438"
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "Shop Cannabinoids at Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA on Cape Cod",
+  "description": "Cannabinoids Archive | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "site": "@capecodcanna"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Place",
+     "@id": "https://capecodcannabis.com/#place",
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.916265712481554",
+      "longitude": "-69.98840341462632"
+     },
+     "hasMap": "https://www.google.com/maps/search/?api=1&amp;query=41.916265712481554,-69.98840341462632",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     }
+    },
+    {
+     "@type": "LocalBusiness",
+     "@id": "https://capecodcannabis.com/#organization",
+     "name": "Cape Cod Cannabis in Wellfleet - Best dispensary on Cape Cod.",
+     "url": "https://capecodcannabis.com",
+     "sameAs": [
+      "https://www.facebook.com/profile.php?id=100077867156438",
+      "https://twitter.com/capecodcanna"
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "logo": {
+      "@type": "ImageObject",
+      "@id": "https://capecodcannabis.com/#logo",
+      "url": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "contentUrl": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "caption": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+      "inLanguage": "en-US",
+      "width": "700",
+      "height": "500"
+     },
+     "openingHours": [
+      "Mo,Tu,We,Th,Fr,Sa,Su 8:00 - 8:00"
+     ],
+     "description": "Welcome to Cape Cod Cannabis, recognized by many as the Best Dispensary on Cape Cod, located in Wellfleet. Conveniently situated in the Route 6 shopping plaza in South Wellfleet, we are a trusted destination for both locals and visitors traveling from Provincetown, Truro, Wellfleet, Eastham, Orleans, Brewster, Dennis, Harwich, Chatham, Yarmouth, Sandwich and across the Cape and beyond.\n\nCape Cod Cannabis, your go-to cannabis haven, offers a carefully curated selection of high quality products, including flower, pre-rolls, edibles, vaporizers, concentrates, tinctures, topicals, CBD, accessories, and more. With a focus on education, selection, and a welcoming experience, we make it easy to explore and find what works best for you whether you are visiting the Cape or live here year round.",
+     "location": {
+      "@id": "https://capecodcannabis.com/#place"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/#logo"
+     },
+     "telephone": "+1-774-383-3133"
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://capecodcannabis.com/#website",
+     "url": "https://capecodcannabis.com",
+     "name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+     "alternateName": "Cape Cod Cannabis | Wellfleet's Top Rated Cannabis Store on Cape Cod",
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/cannabinoids/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/cannabinoids/",
+        "name": "Cannabinoids"
+       }
+      }
+     ]
+    },
+    {
+     "@type": "CollectionPage",
+     "@id": "https://capecodcannabis.com/cannabinoids/#webpage",
+     "url": "https://capecodcannabis.com/cannabinoids/",
+     "name": "Shop Cannabinoids at Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA on Cape Cod",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/#website"
+     },
+     "inLanguage": "en-US",
+     "breadcrumb": {
+      "@id": "https://capecodcannabis.com/cannabinoids/#breadcrumb"
+     }
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "h1": "Shop Cannabis Cannabinoids For Sale in Wellfleet, MA",
+ "h1Source": {
+  "count": 1,
+  "visible": 1,
+  "hidden": 0
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Cannabinoids",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "visible",
+ "breadcrumbsSeparator": " / ",
+ "breadcrumbsLabel": "breadcrumbs",
+ "breadcrumbsInRegion": true,
+ "section": "Shop Menu",
+ "sections": [
+  {
+   "n": 0,
+   "id": "320be6a8",
+   "doc": "section#11803",
+   "cont": true,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "Shop Cannabis Cannabinoids For Sale in Wellfleet, MA"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "f330f17",
+   "doc": "archive#134837",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><em><strong>Explore the world of cannabinoids at Cape Cod Cannabis in Wellfleet, MA.</strong></em> Our dispensary offers a diverse selection of cannabis products rich in cannabinoids like THC, CBD, CBG, CBC, and CBN, each interacting with your body’s endocannabinoid system to support functions such as mood, sleep, and pain management. Whether you’re seeking relaxation, relief, or rejuvenation, our knowledgeable team is here to guide you to the right product. Visit us to experience the benefits of cannabinoids and discover why Cape Cod Cannabis is a trusted destination for cannabis enthusiasts.</p>",
+     "dev": [
+      "widescreen",
+      "desktop",
+      "tablet"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "3de1b05",
+   "doc": "archive#134837",
+   "blocks": [
+    {
+     "t": "faq",
+     "kind": "nested-accordion",
+     "items": [
+      {
+       "q": "WHAT ARE CANNABINOIDS?",
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><b>Cannabinoids</b> are naturally occurring chemical compounds found in the <b>cannabis plant</b> that interact with the body’s <b>endocannabinoid system (ECS)</b>—a network of receptors involved in regulating many physiological functions like mood, pain, appetite, sleep, and immune response.</p><p>There are three main types of cannabinoids:</p><p><b>1. </b><b>Phytocannabinoids </b><b>(from cannabis)</b></p><p>These are the cannabinoids found in cannabis plants. Some of the most well-known include:</p><ul><li><p><b>THC (tetrahydrocannabinol)</b> – The primary psychoactive compound responsible for the “high.”</p></li><li><p><b>CBD (cannabidiol)</b> – Non-psychoactive; known for potential benefits like reducing anxiety, inflammation, and seizures.</p></li><li><p><b>CBG (cannabigerol)</b> – A precursor to other cannabinoids; studied for mood, pain, and antibacterial properties.</p></li><li><p><b>CBC (cannabichromene)</b> – Non-intoxicating; may support pain relief and neurogenesis.</p></li><li><p><b>CBN (cannabinol)</b> – Formed as THC degrades; mildly psychoactive with potential sedative effects.</p></li></ul><p><b>2. </b><b>Endocannabinoids </b><b>(from the body)</b></p><p>These are produced naturally by the human body and include:</p><ul><li><p><b>Anandamide</b> – Sometimes called the “bliss molecule”; binds to cannabinoid receptors and helps regulate mood and appetite.</p></li><li><p><b>2-AG (2-arachidonoylglycerol)</b> – Involved in regulating immune function and inflammation.</p></li></ul><p><b>3. </b><b>Synthetic Cannabinoids</b></p><p>Man-made compounds designed to mimic natural cannabinoids. Some are used medically (e.g., <b>dronabinol</b>) while others (e.g., <b>Spice</b>, <b>K2</b>) are illegal and often dangerous.</p><p><b>What Do Cannabinoids Do?</b></p><p>Cannabinoids bind to <b>CB1</b> and <b>CB2</b> receptors in the body:</p><ul><li><p><b>CB1 receptors</b> are mainly in the brain and central nervous system—linked to mood, memory, and pain perception.</p></li><li><p><b>CB2 receptors</b> are found in the immune system—linked to inflammation and pain relief.</p></li></ul><p>Together with <b>terpenes</b>, cannabinoids contribute to the <b>entourage effect</b>, where compounds work together to enhance each other’s therapeutic potential.</p>"
+        }
+       ]
+      }
+     ],
+     "ariaLabels": [
+      "Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": "2064b5c",
+   "doc": "archive#134837",
+   "blocks": [
+    {
+     "t": "faq",
+     "kind": "nested-accordion",
+     "items": [
+      {
+       "q": "TOP 9 CANNABINOIDS",
+       "blocks": [
+        {
+         "t": "image",
+         "ref": "assets/source/e804dafc-THCA-765x330-9b-1.png",
+         "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/04/THCA-765x330-9b-1.png?lossy=2&strip=0&webp=1",
+         "alt": "",
+         "w": 765,
+         "h": 330,
+         "href": "/cannabinoids/thca-%ce%b49-tetrahydrocannabinolic-acid/"
+        },
+        {
+         "t": "image",
+         "ref": "assets/source/48566b12-THC-Delta-9-765x330-1c.png",
+         "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/04/THC-Delta-9-765x330-1c.png?lossy=2&strip=0&webp=1",
+         "alt": "",
+         "w": 765,
+         "h": 330,
+         "href": "/cannabinoids/thc-d9-delta-9-tetrahydrocannabinol/"
+        },
+        {
+         "t": "image",
+         "ref": "assets/source/3447f272-CBD-765x330-2b.png",
+         "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/04/CBD-765x330-2b.png?lossy=2&strip=0&webp=1",
+         "alt": "Shop CBD Cannabinoids at Cape Cod Cannabis in Wellfleet, MA",
+         "w": 765,
+         "h": 330,
+         "href": "/categories/cbd/"
+        },
+        {
+         "t": "image",
+         "ref": "assets/source/222903a1-CBN-765x330-4b.png",
+         "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/04/CBN-765x330-4b.png?lossy=2&strip=0&webp=1",
+         "alt": "Shop CBN Cannabinoids at Cape Cod Cannabis in Wellfleet, MA",
+         "w": 765,
+         "h": 330,
+         "href": "/cannabinoids/cbn-cannabinol/"
+        },
+        {
+         "t": "image",
+         "ref": "assets/source/5b3f0718-CBG-765x330-3b.png",
+         "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/04/CBG-765x330-3b.png?lossy=2&strip=0&webp=1",
+         "alt": "Shop CBG Cannabinoids at Cape Cod Cannabis in Wellfleet, MA",
+         "w": 765,
+         "h": 330,
+         "href": "/cannabinoids/cbg-cannabigerol/"
+        },
+        {
+         "t": "image",
+         "ref": "assets/source/d37e4f11-CBDV-765x330-7b.png",
+         "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/04/CBDV-765x330-7b.png?lossy=2&strip=0&webp=1",
+         "alt": "Shop CBDV Cannabinoids at Cape Cod Cannabis in Wellfleet, MA",
+         "w": 765,
+         "h": 330,
+         "href": "/cannabinoids/cbdv-cannabidivarin/"
+        },
+        {
+         "t": "image",
+         "ref": "assets/source/9489d6b8-THCV-765x330-6b.png",
+         "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/04/THCV-765x330-6b.png?lossy=2&strip=0&webp=1",
+         "alt": "Shop THCV Cannabinoids at Cape Cod Cannabis in Wellfleet, MA",
+         "w": 765,
+         "h": 330,
+         "href": "/cannabinoids/thcv-tetrahydrocannabivarin/"
+        },
+        {
+         "t": "image",
+         "ref": "assets/source/b80edb82-CBC-765x330-4b.png",
+         "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/05/CBC-765x330-4b.png?lossy=2&strip=0&webp=1",
+         "alt": "Shop CBC Cannabinoids at Cape Cod Cannabis in Wellfleet, MA",
+         "w": 765,
+         "h": 330,
+         "href": "/cannabinoids/cbc-cannabichromene/"
+        },
+        {
+         "t": "image",
+         "ref": "assets/source/1dcd7a64-CBDA-765x330-8b.png",
+         "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/04/CBDA-765x330-8b.png?lossy=2&strip=0&webp=1",
+         "alt": "Shop CBDA Cannabinoids at Cape Cod Cannabis in Wellfleet, MA",
+         "w": 765,
+         "h": 330,
+         "href": "/cannabinoids/cbda-cannabidiolic-acid/"
+        }
+       ]
+      }
+     ],
+     "ariaLabels": [
+      "Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "id": "020049c",
+   "doc": "archive#134837",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Shop All Cannabinoids"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "id": "2e65b645",
+   "doc": "archive#134837",
+   "blocks": [
+    {
+     "t": "posts",
+     "kind": "archive-posts.archive_cards",
+     "items": [
+      {
+       "title": "“TAC” – Total Active Cannabinoids",
+       "href": "/cannabinoids/tac-total-active-cannabinoids/",
+       "excerpt": "TAC, or Total Active Cannabinoids, refers to the combined percentage of all active cannabinoids in a cannabis product, including THC. It’s more than just THC; it encompasses other cannabinoids like CBD, CBN, and CBG, providing a broader picture of the product’s overall potency and potential effects.",
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "CBCV (Cannabichromevarin)",
+       "href": "/cannabinoids/cbcv-cannabichromevarin/",
+       "excerpt": "CBCV (Cannabichromevarin) is a minor cannabinoid found in cannabis, structurally related to CBC (Cannabichromene), but with a slight variation in its chemical structure. Like other varin-type cannabinoids, CBCV has a propyl side chain rather than the more common pentyl side chain found in CBC and other cannabinoids like THC and CBD.",
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "CBDV (Cannabidivarin)",
+       "href": "/cannabinoids/cbdv-cannabidivarin/",
+       "excerpt": "CBDV (Cannabidivarin) is a non-psychoactive cannabinoid found in cannabis and hemp, closely related to CBD (Cannabidiol) in structure and effects. It’s a member of the “varin” family of cannabinoids, which are known for having a shorter side chain than their more common counterparts.",
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "CBL (Cannabicyclol)",
+       "href": "/cannabinoids/cbl-cannabicyclol/",
+       "excerpt": "CBL (Cannabicyclol) is a lesser-known, non-psychoactive cannabinoid found in the cannabis plant. It’s considered a degradation product, meaning it forms when other cannabinoids—mainly CBC (Cannabichromene)—break down over time due to light, heat, or air exposure.",
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "CBNA (Cannabinolic Acid)",
+       "href": "/cannabinoids/cbna-cannabinolic-acid/",
+       "excerpt": "CBNA (Cannabinolic Acid) is the acidic precursor to CBN (Cannabinol) and is found in raw, unheated cannabis. It forms when THCA (tetrahydrocannabinolic acid) is exposed to oxygen over time, undergoing a natural process called oxidation.",
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "CBDA (Cannabidiolic acid)",
+       "href": "/cannabinoids/cbda-cannabidiolic-acid/",
+       "excerpt": "Cannabidiolic acid, is a cannabinoid produced in cannabis plants. It is the precursor to cannabidiol. It is most abundant in the glandular trichomes on the female seedless flowers or more accurately infructescence often colloquially referred to as buds or flowers.",
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "CBC (Cannabichromene)",
+       "href": "/cannabinoids/cbc-cannabichromene/",
+       "excerpt": "Cannabichromene (CBC) is a non-psychoactive cannabinoid found in cannabis, meaning it doesn’t produce a “high” like THC. It’s considered one of the “big six” cannabinoids and is being studied for its potential therapeutic effects, including anti-inflammatory, anti-nociceptive, and anti-cancer properties.",
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "THCV (Tetrahydrocannabivarin)",
+       "href": "/cannabinoids/thcv-tetrahydrocannabivarin/",
+       "excerpt": "THCV (Tetrahydrocannabivarin) is a psychoactive cannabinoid found in cannabis, known for its distinct effects compared to Delta-9 THC. It shares a similar chemical structure with THC but tends to produce different effects on the body and mind.",
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "CBCA (Cannabichromenenic acid)",
+       "href": "/cannabinoids/cbca-cannabichromenenic-acid/",
+       "excerpt": "CBCA (Cannabichromenic Acid) is the acidic precursor to CBC (Cannabichromene), one of the lesser-known, non-psychoactive cannabinoids found in cannabis. Like other cannabinoid acids, CBCA exists in raw, unheated cannabis and decays into CBC when exposed to heat (through decarboxylation).",
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "CBN (Cannabinol)",
+       "href": "/cannabinoids/cbn-cannabinol/",
+       "excerpt": "CBN (Cannabinol) is a mildly psychoactive cannabinoid found in cannabis, best known as a byproduct of THC degradation. When THC ages—due to exposure to heat, light, or oxygen—it breaks down into CBN. That’s why older cannabis often has higher levels of CBN.",
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "CBDVA (Cannabidivarinic acid)",
+       "href": "/cannabinoids/cbdva-cannabidivarinic-acid/",
+       "excerpt": "Cannabidivarinic acid (CBDVA) is the carboxylic acid precursor of cannabidivarin (CBDV), a close chemical relative to cannabidiol (CBD). All of these substances originate in Cannabis sativa, and CBDVA, CBDV, and CBD share more similarities than differences.",
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "CBLA (Cannabicyclolic Acid)",
+       "href": "/cannabinoids/cbla-cannabicyclolic-acid/",
+       "excerpt": "CBLA (Cannabicyclolic Acid) is the acidic precursor to CBL (Cannabicyclol) — a rare and non-psychoactive cannabinoid. Like many other cannabinoid acids, CBLA exists naturally in raw, unheated cannabis, and it degrades from CBCA (Cannabichromenic Acid) over time, especially when exposed to light or heat.",
+       "more": "Shop Now ⭢"
+      }
+     ],
+     "pagination": {
+      "text": "Page1 Page2",
+      "links": [
+       {
+        "label": "Page2",
+        "href": "/cannabinoids/page/2/"
+       }
+      ]
+     },
+     "loadMore": {
+      "maxPage": 2
+     },
+     "ariaLabels": [
+      "Read more about “TAC” – Total Active Cannabinoids",
+      "Read more about CBCV (Cannabichromevarin)",
+      "Read more about CBDV (Cannabidivarin)",
+      "Read more about CBL (Cannabicyclol)",
+      "Read more about CBNA (Cannabinolic Acid)",
+      "Read more about CBDA (Cannabidiolic acid)",
+      "Read more about CBC (Cannabichromene)",
+      "Read more about THCV (Tetrahydrocannabivarin)",
+      "Read more about CBCA (Cannabichromenenic acid)",
+      "Read more about CBN (Cannabinol)",
+      "Read more about CBDVA (Cannabidivarinic acid)",
+      "Read more about CBLA (Cannabicyclolic Acid)",
+      "Pagination"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "id": "54a8ead",
+   "doc": "archive#134837",
+   "blocks": [
+    {
+     "t": "button",
+     "label": "Click Here to Learn More About Cannabinoids",
+     "href": "/terpene-cannabinoid-guide/"
+    },
+    {
+     "t": "products",
+     "source": "joint",
+     "widget": "menu",
+     "via": "widget",
+     "params": {
+      "cannabinoids": "CBC (Cannabichromene),CBCA (Cannabichromenenic acid),CBD (Cannabidiol),CBDA (Cannabidiolic acid),CBDV (Cannabidivarin),CBDVA (Cannabidivarinic acid),CBG (Cannabigerol),CBGA (Cannabigerolic acid),CBL (Cannabicyclol),CBLA (Cannabicyclolic Acid),CBN (Cannabinol),CBNA (Cannabinolic Acid),CBT (Cannabicitranis),THC-D8 (Delta 8-tetrahydrocannabinol),THC-D9 (Delta 9–tetrahydrocannabinol),THCA (Δ9-tetrahydrocannabinolic acid),THCV (Tetrahydrocannabivarin),THCVA (Tetrahydrocanabivarinic acid)",
+      "limit": 20
+     },
+     "filters": [
+      {
+       "field": "cannabinoids.name",
+       "values": [
+        "CBC (Cannabichromene)",
+        "CBCA (Cannabichromenenic acid)",
+        "CBD (Cannabidiol)",
+        "CBDA (Cannabidiolic acid)",
+        "CBDV (Cannabidivarin)",
+        "CBDVA (Cannabidivarinic acid)",
+        "CBG (Cannabigerol)",
+        "CBGA (Cannabigerolic acid)",
+        "CBL (Cannabicyclol)",
+        "CBLA (Cannabicyclolic Acid)",
+        "CBN (Cannabinol)",
+        "CBNA (Cannabinolic Acid)",
+        "CBT (Cannabicitranis)",
+        "THC-D8 (Delta 8-tetrahydrocannabinol)",
+        "THC-D9 (Delta 9–tetrahydrocannabinol)",
+        "THCA (Δ9-tetrahydrocannabinolic acid)",
+        "THCV (Tetrahydrocannabivarin)",
+        "THCVA (Tetrahydrocanabivarinic acid)"
+       ],
+       "type": "any"
+      }
+     ],
+     "sort": null,
+     "limit": 20,
+     "label": null,
+     "clientRendered": true
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "id": "765acd74",
+   "doc": "archive#134837",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>*Cannabis is for use only by adults 21 years of age or older. All information contained herein is for educational purposes only. None of this information should be interpreted as medical or treatment advice for any person or condition. Always consult with a licensed physician in all matters regarding your health. <a href=\"/disclaimer/\">View our Disclaimer</a>.</p>"
+    }
+   ]
+  }
+ ],
+ "catalog": [
+  {
+   "section": "54a8ead",
+   "widget": "menu",
+   "label": null,
+   "filters": [
+    {
+     "field": "cannabinoids.name",
+     "values": [
+      "CBC (Cannabichromene)",
+      "CBCA (Cannabichromenenic acid)",
+      "CBD (Cannabidiol)",
+      "CBDA (Cannabidiolic acid)",
+      "CBDV (Cannabidivarin)",
+      "CBDVA (Cannabidivarinic acid)",
+      "CBG (Cannabigerol)",
+      "CBGA (Cannabigerolic acid)",
+      "CBL (Cannabicyclol)",
+      "CBLA (Cannabicyclolic Acid)",
+      "CBN (Cannabinol)",
+      "CBNA (Cannabinolic Acid)",
+      "CBT (Cannabicitranis)",
+      "THC-D8 (Delta 8-tetrahydrocannabinol)",
+      "THC-D9 (Delta 9–tetrahydrocannabinol)",
+      "THCA (Δ9-tetrahydrocannabinolic acid)",
+      "THCV (Tetrahydrocannabivarin)",
+      "THCVA (Tetrahydrocanabivarinic acid)"
+     ],
+     "type": "any"
+    }
+   ],
+   "sort": null,
+   "limit": 20,
+   "params": {
+    "cannabinoids": "CBC (Cannabichromene),CBCA (Cannabichromenenic acid),CBD (Cannabidiol),CBDA (Cannabidiolic acid),CBDV (Cannabidivarin),CBDVA (Cannabidivarinic acid),CBG (Cannabigerol),CBGA (Cannabigerolic acid),CBL (Cannabicyclol),CBLA (Cannabicyclolic Acid),CBN (Cannabinol),CBNA (Cannabinolic Acid),CBT (Cannabicitranis),THC-D8 (Delta 8-tetrahydrocannabinol),THC-D9 (Delta 9–tetrahydrocannabinol),THCA (Δ9-tetrahydrocannabinolic acid),THCV (Tetrahydrocannabivarin),THCVA (Tetrahydrocanabivarinic acid)",
+    "limit": 20
+   }
+  }
+ ],
+ "blockCounts": {
+  "button": 1,
+  "faq": 2,
+  "heading": 2,
+  "image": 9,
+  "posts": 1,
+  "products": 1,
+  "rich": 3
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [
+   {
+    "section": "f330f17",
+    "t": "rich",
+    "dev": [
+     "widescreen",
+     "desktop",
+     "tablet"
+    ],
+    "text": "explore the world of cannabinoids at cape cod cannabis in wellfleet, ma. our dispensary offers a diverse selection of cannabis products rich in cannabinoids like thc, cbd, cbg, cbc, and cbn, each interacting with your body's endocannabinoid"
+   }
+  ],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [],
+  "aliasesResolved": [
+   {
+    "from": "/cannabinoids/thca-%ce%b49-tetrahydrocannabinolic-acid/",
+    "to": "/cannabinoids/thca-%ce%b49-tetrahydrocannabinolic-acid/"
+   },
+   {
+    "from": "/cannabinoids/thc-d9-delta-9-tetrahydrocannabinol/",
+    "to": "/cannabinoids/thc-d9-delta-9-tetrahydrocannabinol/"
+   },
+   {
+    "from": "/categories/cbd/",
+    "to": "/categories/cbd/"
+   },
+   {
+    "from": "/cannabinoids/cbn-cannabinol/",
+    "to": "/cannabinoids/cbn-cannabinol/"
+   },
+   {
+    "from": "/cannabinoids/cbg-cannabigerol/",
+    "to": "/cannabinoids/cbg-cannabigerol/"
+   },
+   {
+    "from": "/cannabinoids/cbdv-cannabidivarin/",
+    "to": "/cannabinoids/cbdv-cannabidivarin/"
+   },
+   {
+    "from": "/cannabinoids/thcv-tetrahydrocannabivarin/",
+    "to": "/cannabinoids/thcv-tetrahydrocannabivarin/"
+   },
+   {
+    "from": "/cannabinoids/cbc-cannabichromene/",
+    "to": "/cannabinoids/cbc-cannabichromene/"
+   },
+   {
+    "from": "/cannabinoids/cbda-cannabidiolic-acid/",
+    "to": "/cannabinoids/cbda-cannabidiolic-acid/"
+   },
+   {
+    "from": "https://capecodcannabis.com/cannabinoids/tac-total-active-cannabinoids/",
+    "to": "/cannabinoids/tac-total-active-cannabinoids/"
+   },
+   {
+    "from": "https://capecodcannabis.com/cannabinoids/cbcv-cannabichromevarin/",
+    "to": "/cannabinoids/cbcv-cannabichromevarin/"
+   },
+   {
+    "from": "https://capecodcannabis.com/cannabinoids/cbdv-cannabidivarin/",
+    "to": "/cannabinoids/cbdv-cannabidivarin/"
+   },
+   {
+    "from": "https://capecodcannabis.com/cannabinoids/cbl-cannabicyclol/",
+    "to": "/cannabinoids/cbl-cannabicyclol/"
+   },
+   {
+    "from": "https://capecodcannabis.com/cannabinoids/cbna-cannabinolic-acid/",
+    "to": "/cannabinoids/cbna-cannabinolic-acid/"
+   },
+   {
+    "from": "https://capecodcannabis.com/cannabinoids/cbda-cannabidiolic-acid/",
+    "to": "/cannabinoids/cbda-cannabidiolic-acid/"
+   },
+   {
+    "from": "https://capecodcannabis.com/cannabinoids/cbc-cannabichromene/",
+    "to": "/cannabinoids/cbc-cannabichromene/"
+   },
+   {
+    "from": "https://capecodcannabis.com/cannabinoids/thcv-tetrahydrocannabivarin/",
+    "to": "/cannabinoids/thcv-tetrahydrocannabivarin/"
+   },
+   {
+    "from": "https://capecodcannabis.com/cannabinoids/cbca-cannabichromenenic-acid/",
+    "to": "/cannabinoids/cbca-cannabichromenenic-acid/"
+   },
+   {
+    "from": "https://capecodcannabis.com/cannabinoids/cbn-cannabinol/",
+    "to": "/cannabinoids/cbn-cannabinol/"
+   },
+   {
+    "from": "https://capecodcannabis.com/cannabinoids/cbdva-cannabidivarinic-acid/",
+    "to": "/cannabinoids/cbdva-cannabidivarinic-acid/"
+   },
+   {
+    "from": "https://capecodcannabis.com/cannabinoids/cbla-cannabicyclolic-acid/",
+    "to": "/cannabinoids/cbla-cannabicyclolic-acid/"
+   },
+   {
+    "from": "https://capecodcannabis.com/cannabinoids/page/2/",
+    "to": "/cannabinoids/page/2/"
+   },
+   {
+    "from": "/terpene-cannabinoid-guide/",
+    "to": "/terpene-cannabinoid-guide/"
+   },
+   {
+    "from": "/disclaimer",
+    "to": "/disclaimer/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

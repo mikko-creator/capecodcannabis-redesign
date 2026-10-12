@@ -1,0 +1,1159 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/boards-in-the-stores-2026-returns-to-cape-cod/",
+ "sourceUrl": "https://capecodcannabis.com/boards-in-the-stores-2026-returns-to-cape-cod/",
+ "requestedUrl": "https://capecodcannabis.com/boards-in-the-stores-2026-returns-to-cape-cod",
+ "slug": "boards-in-the-stores-2026-returns-to-cape-cod",
+ "kind": "blog-post",
+ "wpTemplate": "post",
+ "derived": false,
+ "rawFile": "audit/raw/boards-in-the-stores-2026-returns-to-cape-cod.html",
+ "rawSha256": "34c92f9bc65e06348376e45983e736593cf630e15b940ce86f2f31ee687840ed",
+ "regionKind": "body-minus-chrome",
+ "title": "Boards in the Stores 2026 Cape Cod Auction | Cape Cod Cannabis",
+ "metaDescription": "Cape Cod Cannabis proudly sponsors Boards in the Stores 2026, supporting Cape Cod artists, the Orleans Chamber of Commerce, and local community fundraising.",
+ "canonical": "https://capecodcannabis.com/boards-in-the-stores-2026-returns-to-cape-cod/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "Boards in the Stores 2026 Cape Cod Auction | Cape Cod Cannabis",
+  "description": "Cape Cod Cannabis proudly sponsors Boards in the Stores 2026, supporting Cape Cod artists, the Orleans Chamber of Commerce, and local community fundraising.",
+  "url": "https://capecodcannabis.com/boards-in-the-stores-2026-returns-to-cape-cod/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2026-09-07T12:08:03-04:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-1-2026-05_27_27-PM.png",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-1-2026-05_27_27-PM.png",
+  "image:width": "1774",
+  "image:height": "887",
+  "image:alt": "Boards in the Stores 2026 is back! Online auction starts June 5th - August 2026. Cape Cod Cannabis in Wellfleet is a proud sponsor!",
+  "image:type": "image/png",
+  "video": "https://capecodcannabis.com/wp-content/uploads/2026/06/So-Cool-400x600-1-2.mp4"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438",
+  "section": "Cape Cod Lifestyle",
+  "published_time": "2026-06-01T17:13:06-04:00",
+  "modified_time": "2026-09-07T12:08:03-04:00"
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "Boards in the Stores 2026 Cape Cod Auction | Cape Cod Cannabis",
+  "description": "Cape Cod Cannabis proudly sponsors Boards in the Stores 2026, supporting Cape Cod artists, the Orleans Chamber of Commerce, and local community fundraising.",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-1-2026-05_27_27-PM.png",
+  "label1": "Written by",
+  "data1": "rrh_clientadmin",
+  "label2": "Time to read",
+  "data2": "6 minutes"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Place",
+     "@id": "https://capecodcannabis.com/#place",
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.916265712481554",
+      "longitude": "-69.98840341462632"
+     },
+     "hasMap": "https://www.google.com/maps/search/?api=1&amp;query=41.916265712481554,-69.98840341462632",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     }
+    },
+    {
+     "@type": [
+      "LocalBusiness",
+      "Organization"
+     ],
+     "@id": "https://capecodcannabis.com/#organization",
+     "name": "Cape Cod Cannabis in Wellfleet - Best dispensary on Cape Cod.",
+     "url": "https://capecodcannabis.com",
+     "sameAs": [
+      "https://www.facebook.com/profile.php?id=100077867156438",
+      "https://twitter.com/capecodcanna"
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "logo": {
+      "@type": "ImageObject",
+      "@id": "https://capecodcannabis.com/#logo",
+      "url": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "contentUrl": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "caption": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+      "inLanguage": "en-US",
+      "width": "700",
+      "height": "500"
+     },
+     "openingHours": [
+      "Mo,Tu,We,Th,Fr,Sa,Su 8:00 - 8:00"
+     ],
+     "description": "Welcome to Cape Cod Cannabis, recognized by many as the Best Dispensary on Cape Cod, located in Wellfleet. Conveniently situated in the Route 6 shopping plaza in South Wellfleet, we are a trusted destination for both locals and visitors traveling from Provincetown, Truro, Wellfleet, Eastham, Orleans, Brewster, Dennis, Harwich, Chatham, Yarmouth, Sandwich and across the Cape and beyond.\n\nCape Cod Cannabis, your go-to cannabis haven, offers a carefully curated selection of high quality products, including flower, pre-rolls, edibles, vaporizers, concentrates, tinctures, topicals, CBD, accessories, and more. With a focus on education, selection, and a welcoming experience, we make it easy to explore and find what works best for you whether you are visiting the Cape or live here year round.",
+     "location": {
+      "@id": "https://capecodcannabis.com/#place"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/#logo"
+     },
+     "telephone": "+1-774-383-3133"
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://capecodcannabis.com/#website",
+     "url": "https://capecodcannabis.com",
+     "name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+     "alternateName": "Cape Cod Cannabis | Wellfleet's Top Rated Cannabis Store on Cape Cod",
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "https://capecodcannabis.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-1-2026-05_27_27-PM.png",
+     "url": "https://capecodcannabis.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-1-2026-05_27_27-PM.png",
+     "width": "1774",
+     "height": "887",
+     "caption": "Boards in the Stores 2026 is back! Online auction starts June 5th - August 2026. Cape Cod Cannabis in Wellfleet is a proud sponsor!",
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/boards-in-the-stores-2026-returns-to-cape-cod/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/category/cape-cod-lifestyle/",
+        "name": "Cape Cod Lifestyle"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "3",
+       "item": {
+        "@id": "https://capecodcannabis.com/boards-in-the-stores-2026-returns-to-cape-cod/",
+        "name": "Boards in the Stores 2026 Returns to Cape Cod"
+       }
+      }
+     ]
+    },
+    {
+     "@type": "WebPage",
+     "@id": "https://capecodcannabis.com/boards-in-the-stores-2026-returns-to-cape-cod/#webpage",
+     "url": "https://capecodcannabis.com/boards-in-the-stores-2026-returns-to-cape-cod/",
+     "name": "Boards in the Stores 2026 Cape Cod Auction | Cape Cod Cannabis",
+     "datePublished": "2026-06-01T17:13:06-04:00",
+     "dateModified": "2026-09-07T12:08:03-04:00",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-1-2026-05_27_27-PM.png"
+     },
+     "inLanguage": "en-US",
+     "breadcrumb": {
+      "@id": "https://capecodcannabis.com/boards-in-the-stores-2026-returns-to-cape-cod/#breadcrumb"
+     }
+    },
+    {
+     "@type": "Person",
+     "@id": "https://capecodcannabis.com/boards-in-the-stores-2026-returns-to-cape-cod/#author",
+     "name": "rrh_clientadmin",
+     "image": {
+      "@type": "ImageObject",
+      "@id": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "url": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "caption": "rrh_clientadmin",
+      "inLanguage": "en-US"
+     },
+     "worksFor": {
+      "@id": "https://capecodcannabis.com/#organization"
+     }
+    },
+    {
+     "headline": "Boards in the Stores 2026 Cape Cod Auction | Cape Cod Cannabis | Cape Cod's Best Recreational Dispensary | ",
+     "description": "Cape Cod Cannabis proudly sponsors Boards in the Stores 2026, supporting Cape Cod artists, the Orleans Chamber of Commerce, and local community fundraising.",
+     "datePublished": "2026-06-01T17:13:06-04:00",
+     "dateModified": "2026-09-07T12:08:03-04:00",
+     "keywords": "Boards in the Stores 2026, Orleans Chamber of Commerce, Cape Cod Artists, Cape Cod Cannabis, local community",
+     "image": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-1-2026-05_27_27-PM.png"
+     },
+     "author": {
+      "@id": "https://capecodcannabis.com/boards-in-the-stores-2026-returns-to-cape-cod/#author",
+      "name": "rrh_clientadmin"
+     },
+     "@type": "Article",
+     "name": "Boards in the Stores 2026 Cape Cod Auction | Cape Cod Cannabis | Cape Cod's Best Recreational Dispensary | ",
+     "articleSection": "Cape Cod Lifestyle, Inside Cape Cod Cannabis",
+     "@id": "https://capecodcannabis.com/boards-in-the-stores-2026-returns-to-cape-cod/#schema-1772313",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/boards-in-the-stores-2026-returns-to-cape-cod/#webpage"
+     },
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "inLanguage": "en-US",
+     "mainEntityOfPage": {
+      "@id": "https://capecodcannabis.com/boards-in-the-stores-2026-returns-to-cape-cod/#webpage"
+     }
+    },
+    {
+     "@type": "VideoObject",
+     "name": "Boards in the Stores 2026 Cape Cod Auction | Cape Cod Cannabis",
+     "description": "Cape Cod Cannabis proudly sponsors Boards in the Stores 2026, supporting Cape Cod artists, the Orleans Chamber of Commerce, and local community fundraising.",
+     "uploadDate": "2026-06-01T17:13:06-04:00",
+     "thumbnailUrl": "https://capecodcannabis.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-1-2026-05_27_27-PM.png",
+     "contentUrl": "https://capecodcannabis.com/wp-content/uploads/2026/06/So-Cool-400x600-1-2.mp4",
+     "width": "400",
+     "height": "600",
+     "isFamilyFriendly": "True",
+     "@id": "https://capecodcannabis.com/boards-in-the-stores-2026-returns-to-cape-cod/#schema-1772504",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/boards-in-the-stores-2026-returns-to-cape-cod/#webpage"
+     },
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "inLanguage": "en-US"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "h1": "Boards in the Stores 2026 Returns to Cape Cod",
+ "h1Source": {
+  "count": 2,
+  "visible": 2,
+  "hidden": 0,
+  "note": "source has several visible h1s; the first is primary, the rest carry demote:true"
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Cape Cod Lifestyle",
+   "href": "/category/cape-cod-lifestyle/"
+  },
+  {
+   "label": "Boards in the Stores 2026 Returns to Cape Cod",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "visible",
+ "breadcrumbsSeparator": " / ",
+ "breadcrumbsLabel": "breadcrumbs",
+ "breadcrumbsInRegion": true,
+ "section": null,
+ "sections": [
+  {
+   "n": 0,
+   "id": "3f1093a4",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "Boards in the Stores 2026 Returns to Cape Cod"
+    },
+    {
+     "t": "meta",
+     "items": [
+      {
+       "text": "June 1, 2026",
+       "href": "/2026/06/01/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "6c25b79",
+   "doc": "wp-post#175719",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "Boards in the Stores 2026 Returns to Cape Cod: Support Local Artists, Local Business, and the Orleans Chamber of Commerce",
+     "demote": true
+    },
+    {
+     "t": "rich",
+     "html": "<p>Summer on Cape Cod is about more than beaches, sunsets, and oysters. It is also a time to celebrate the creativity, community, and local businesses that make the Cape such a special place to live and visit. One of the most anticipated community events each summer is the <a href=\"https://www.zeffy.com/en-US/ticketing/boards-in-the-stores--2026\" target=\"_blank\" rel=\"noopener\"><strong>Boards in the Stores 2026 Online Auction</strong></a>, hosted annually by the <strong>Orleans Chamber of Commerce</strong>.</p><p>Beginning <strong>June 5, 2026</strong>, and running through <strong>August 2026</strong>, this unique fundraising event brings together local artists and local businesses to create one of the most exciting online auctions on Cape Cod. This year, <strong>Cape Cod Cannabis</strong> is proud to once again participate as a sponsor.</p>"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "bb63705",
+   "doc": "wp-post#175719",
+   "blocks": [
+    {
+     "t": "embed",
+     "kind": "video",
+     "src": "https://capecodcannabis.com/wp-content/uploads/2026/06/So-Cool-400x600-1-2.mp4",
+     "settings": {
+      "video_type": "hosted",
+      "autoplay": "yes",
+      "loop": "yes",
+      "controls": "yes"
+     }
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": "7d3e382",
+   "doc": "wp-post#175719",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><em>(Wait a few seconds to see…)</em></p>"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "id": "72db18a",
+   "doc": "wp-post#175719",
+   "blocks": [
+    {
+     "t": "button",
+     "label": "CLOSED BIDDING. Check results.",
+     "href": "https://www.zeffy.com/en-US/ticketing/boards-in-the-stores--2026",
+     "target": "_blank"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "id": "5d76b93",
+   "doc": "wp-post#175719",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "What Is Boards in the Stores?"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Boards in the Stores is a Cape Cod tradition that combines art, community, and philanthropy.</p><p>The concept is simple. Local businesses sponsor a surfboard shaped art board and partner with a local artist who transforms it into a one of a kind work of art. Each board is then featured in the online auction where community members, visitors, collectors, and supporters can place bids throughout the summer.</p><p>Every board tells a story and showcases the incredible talent found throughout Cape Cod. The result is a gallery of creative pieces inspired by the Cape’s natural beauty, culture, wildlife, and coastal lifestyle.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Supporting the Orleans Chamber and Local Artists"
+    },
+    {
+     "t": "rich",
+     "html": "<p>One of the reasons Boards in the Stores has become such a beloved event is that it directly benefits both the community and the artists involved.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "50 Percent of Proceeds Support the Orleans Chamber of Commerce"
+    },
+    {
+     "t": "rich",
+     "html": "<p>The Orleans Chamber of Commerce works year round to promote local businesses, support economic development, and strengthen the communities of the Lower and Outer Cape. Funds raised through the auction help support programs, events, and initiatives that benefit residents, visitors, and businesses alike.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "50 Percent of Proceeds Go Directly to the Artist"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Artists are the heart of this event. Each board represents countless hours of creativity, craftsmanship, and passion. By participating in the auction, bidders are directly supporting local Cape Cod artists while also investing in a unique piece of coastal art.<em><strong> It is truly a win for everyone involved.</strong></em></p><hr>"
+    },
+    {
+     "t": "image",
+     "ref": "assets/source/1646731e-2-1024x435.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/06/2-1024x435.png?lossy=2&strip=0&webp=1",
+     "master": "assets/source/0f48be3a-2.png",
+     "alt": "Boards in the Stores 2026 is back! Online auction starts June 5th - August 2026. Cape Cod Cannabis in Wellfleet is a proud sponsor!",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 800,
+     "h": 340,
+     "href": "https://www.zeffy.com/en-US/ticketing/boards-in-the-stores--2026",
+     "target": "_blank",
+     "inHeading": true
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Cape Cod Cannabis’ 2026 Sponsored Board"
+    },
+    {
+     "t": "rich",
+     "html": "<p>For the 2026 auction, Cape Cod Cannabis partnered with <a href=\"https://www.instagram.com/capecodlandshark\" target=\"_blank\" rel=\"noopener\"><strong>local artist Cape Cod Land Shark</strong></a>, known for creating handcrafted whimsical wood art inspired by life on Cape Cod. Our sponsored board captures the spirit of the Cape with a vibrant coastal scene featuring ocean waves, a rising sun, seabirds, whales and a heart inspired by community and connection.</p><p>What makes this board even more unique is that it features <strong>LED lighting</strong>, allowing the artwork to come alive both day and night.</p><p>The board reflects everything we love about Cape Cod:</p><ul><li>Natural beauty</li><li>Creativity</li><li>Community spirit</li><li>Coastal adventure</li><li>Local collaboration</li></ul><p>We are incredibly proud of the finished piece and excited to share it with the public during the auction.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Why Local Partnerships Matter"
+    },
+    {
+     "t": "rich",
+     "html": "<p>At Cape Cod Cannabis, supporting local artists and organizations is part of who we are. As a locally owned business in Wellfleet, we believe that strong communities are built when local businesses invest in local talent and community organizations.</p><p>Events like Boards in the Stores showcase the best of Cape Cod by bringing together:</p><ul><li>Artists</li><li>Small businesses</li><li>Community organizations</li><li>Residents</li><li>Visitors</li></ul><p>These partnerships help preserve the unique character that makes Cape Cod unlike anywhere else.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "How to Participate in the Auction"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Participating is easy. Beginning June 5 through August 19, 2026, visitors can browse the collection of sponsored boards online and place bids on their favorite pieces. <a href=\"https://www.zeffy.com/en-US/ticketing/boards-in-the-stores--2026\" target=\"_blank\" rel=\"noopener\"><b>Click here to bid!</b></a></p><p>Whether you are a collector, an art enthusiast, or simply someone who loves supporting local causes, Boards in the Stores offers an opportunity to own a truly one of a kind piece of Cape Cod artwork while supporting meaningful community initiatives. Keep an eye on the Orleans Chamber of Commerce website and social media channels for auction details, bidding information, and featured boards.</p>"
+    },
+    {
+     "t": "button",
+     "label": "CLOSED BIDDING. Check results.",
+     "href": "https://www.zeffy.com/en-US/ticketing/boards-in-the-stores--2026",
+     "target": "_blank"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Boards in the Stores Scavenger Hunt 2026"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Surf through Orleans (our board is in <a href=\"/directions/\">Cape Cod Cannabis in Wellfleet</a>) and earn points for finding our Boards in the Stores on each mission!</p><p><strong>HOW TO PLAY:</strong></p><ul><li>Download the Goosechase App for iOS or Android</li><li>Enter Join Code / Experience Name: <strong>PBCT3F</strong></li><li>or scan the QR code below to get started.</li></ul><p><img src=\"assets/source/ae0842cf-Scavenger_QR_Code.png\" alt=\"Scan for the Boards in the Stores Scavenger Hunt 2026\" width=\"188\" height=\"182\" title=\"Scan for the Boards in the Stores Scavenger Hunt 2026\" data-source-url=\"https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/06/Scavenger_QR_Code.png?lossy=2&amp;strip=0&amp;webp=1\"></p>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Our Winning Board 2025"
+    },
+    {
+     "t": "rich",
+     "html": "<p><img src=\"assets/source/b13c9167-Boards-in-the-Stores-2025-First-Place-300x300.png\" alt=\"Our 2025 Boards in the Stores winning entry from Cape Cod Landshark sponsored by Cape Cod Cannabis in Wellfleet, MA!\" width=\"500\" height=\"500\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/06/Boards-in-the-Stores-2025-First-Place-300x300.png?lossy=2&amp;strip=0&amp;webp=1\" data-master=\"assets/source/353ddd16-Boards-in-the-Stores-2025-First-Place.png\"></p>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Visit Cape Cod Cannabis This Summer"
+    },
+    {
+     "t": "rich",
+     "html": "<p>As the unofficial start of the summer season arrives, we invite visitors and locals alike to stop by <strong>Cape Cod Cannabis in Wellfleet</strong>.</p><p>Whether you are exploring Cape Cod for the weekend, visiting the National Seashore, or enjoying a summer getaway, our team is here to provide a welcoming experience and help you discover quality cannabis products from trusted Massachusetts cultivators and manufacturers.</p><p>When you support local businesses, local artists, and community organizations, everyone benefits.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Celebrate Cape Cod Creativity in 2026"
+    },
+    {
+     "t": "rich",
+     "html": "<p>The Boards in the Stores Online Auction is more than an art event. It is a celebration of the creativity, collaboration, and community spirit that define Cape Cod. <strong>Cape Cod Cannabis</strong> is honored to be part of this tradition and proud to support both the Orleans Chamber of Commerce and <a href=\"https://www.instagram.com/capecodlandshark\" target=\"_blank\" rel=\"noopener\"><strong>talented local artists like Cape Cod Land Shark</strong></a>.</p><p>Mark your calendar for <strong>June 5, 2026 – August 19, 2026</strong>, and be sure to <a href=\"https://www.zeffy.com/en-US/ticketing/boards-in-the-stores--2026\" target=\"_blank\" rel=\"noopener\">place your bid on our sponsored board</a>.</p><p>You will not only be taking home an incredible piece of Cape Cod art, you will also be helping support the organizations and artists that make our community thrive.</p>"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "id": "961802f",
+   "doc": "wp-post#175719",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>Visitors attending Boards in the Stores can also explore <a href=\"/things-to-do-near-cape-cod-cannabis-in-wellfleet-ma/\">our guide to Wellfleet Restaurants, Attractions, Beaches, Events &amp; Places to Stay</a>.</p>"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "id": "0de7180",
+   "doc": "wp-post#175719",
+   "blocks": [
+    {
+     "t": "button",
+     "label": "CLOSED BIDDING. Check results.",
+     "href": "https://www.zeffy.com/en-US/ticketing/boards-in-the-stores--2026",
+     "target": "_blank"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "id": "feea545",
+   "doc": "wp-post#175719",
+   "blocks": [
+    {
+     "t": "button",
+     "label": "Shop Menu",
+     "href": "/menu/"
+    },
+    {
+     "t": "button",
+     "label": "Shop Bundles",
+     "href": "/specials/"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "id": "7d077bd",
+   "doc": "wp-post#175719",
+   "blocks": [
+    {
+     "t": "faq",
+     "kind": "nested-accordion",
+     "items": [
+      {
+       "q": "What is Boards in the Stores 2026?",
+       "open": true,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><a href=\"https://www.zeffy.com/en-US/ticketing/boards-in-the-stores--2026\" target=\"_blank\" rel=\"noopener\">Boards in the Stores 2026 is a Cape Cod online auction</a> where local businesses sponsor surfboard shaped art boards created by local artists. The public can bid on each surfboard from <strong>June 5 – August 19, 2026</strong> and the proceeds goes to The Orleans Chamber of Commerce (50%) and to the artist (50%).</p>"
+        }
+       ]
+      },
+      {
+       "q": "When does the Boards in the Stores 2026 auction begin?",
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>The online auction begins June 5, 2026 and runs through August 19, 2026 and the boards can be physically seen at The Orleans Gallery, 44 Main Street, Orleans, MA or within local businesses that sponsor their board. <a href=\"https://www.zeffy.com/en-US/ticketing/boards-in-the-stores--2026\" target=\"_blank\" rel=\"noopener\">Closed bidding but you can check the results here.</a></p>"
+        }
+       ]
+      },
+      {
+       "q": "How does Cape Cod Cannabis support Boards in the Stores?",
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Cape Cod Cannabis in Wellfleet, MA, participates as a sponsor, helping support local artists, Cape Cod small businesses, and the Orleans Chamber of Commerce. <a href=\"https://www.zeffy.com/en-US/ticketing/boards-in-the-stores--2026\" target=\"_blank\" rel=\"noopener\">Closed bidding but you can check results here.</a></p>"
+        }
+       ]
+      }
+     ],
+     "ariaLabels": [
+      "Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "id": "329af6c",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "postnav",
+     "prev": {
+      "srLabel": "Prev",
+      "title": "Cannabis Seeds vs Clones",
+      "href": "/cannabis-seeds-vs-clones/"
+     },
+     "next": {
+      "title": "Cape Cod Cannabis in Wellfleet: A Local Dispensary Focused on Education, Selection, and Community",
+      "srLabel": "Next",
+      "href": "/cape-cod-cannabis-in-wellfleet-a-local-dispensary-focused-on-education-selection-and-community/"
+     },
+     "ariaLabels": [
+      "Post Navigation"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "id": "9ba89d6",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "comments",
+     "note": "WordPress comment form; no comment backend in a static rebuild"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "button": 5,
+  "comments": 1,
+  "embed": 1,
+  "faq": 1,
+  "heading": 13,
+  "image": 1,
+  "meta": 1,
+  "postnav": 1,
+  "rich": 17
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [],
+  "aliasesResolved": [
+   {
+    "from": "https://capecodcannabis.com/2026/06/01/",
+    "to": "/2026/06/01/"
+   },
+   {
+    "from": "/directions",
+    "to": "/directions/"
+   },
+   {
+    "from": "https://capecodcannabis.com/things-to-do-near-cape-cod-cannabis-in-wellfleet-ma/",
+    "to": "/things-to-do-near-cape-cod-cannabis-in-wellfleet-ma/"
+   },
+   {
+    "from": "/menu",
+    "to": "/menu/"
+   },
+   {
+    "from": "/specials",
+    "to": "/specials/"
+   },
+   {
+    "from": "https://capecodcannabis.com/cannabis-seeds-vs-clones/",
+    "to": "/cannabis-seeds-vs-clones/"
+   },
+   {
+    "from": "https://capecodcannabis.com/cape-cod-cannabis-in-wellfleet-a-local-dispensary-focused-on-education-selection-and-community/",
+    "to": "/cape-cod-cannabis-in-wellfleet-a-local-dispensary-focused-on-education-selection-and-community/"
+   },
+   {
+    "from": "https://capecodcannabis.com/category/cape-cod-lifestyle/",
+    "to": "/category/cape-cod-lifestyle/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

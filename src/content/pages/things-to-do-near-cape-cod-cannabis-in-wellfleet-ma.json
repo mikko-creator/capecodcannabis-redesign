@@ -1,0 +1,1890 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/things-to-do-near-cape-cod-cannabis-in-wellfleet-ma/",
+ "sourceUrl": "https://capecodcannabis.com/things-to-do-near-cape-cod-cannabis-in-wellfleet-ma/",
+ "requestedUrl": "https://capecodcannabis.com/things-to-do-near-cape-cod-cannabis-in-wellfleet-ma",
+ "slug": "things-to-do-near-cape-cod-cannabis-in-wellfleet-ma",
+ "kind": "standard-page",
+ "wpTemplate": "page",
+ "derived": false,
+ "rawFile": "audit/raw/things-to-do-near-cape-cod-cannabis-in-wellfleet-ma.html",
+ "rawSha256": "2a0382b9134c338e8d6b0c30995ae5591c946d83fd8427569e1c50e3bf10f000",
+ "regionKind": "main",
+ "title": "Things To Do Near Cape Cod Cannabis in Wellfleet | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA |",
+ "metaDescription": "Things To Do near Cape Cod Cannabis in Wellfleet, nestled between Cape Cod Bay and the Atlantic Ocean, is a charming seaside town known for its stunning beaches",
+ "canonical": "https://capecodcannabis.com/things-to-do-near-cape-cod-cannabis-in-wellfleet-ma/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "Things To Do Near Cape Cod Cannabis in Wellfleet | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA |",
+  "description": "Things To Do near Cape Cod Cannabis in Wellfleet, nestled between Cape Cod Bay and the Atlantic Ocean, is a charming seaside town known for its stunning beaches",
+  "url": "https://capecodcannabis.com/things-to-do-near-cape-cod-cannabis-in-wellfleet-ma/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2026-10-06T11:17:39-04:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2026/05/Things-To-Do-765x300-1.png",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/2026/05/Things-To-Do-765x300-1.png",
+  "image:width": "765",
+  "image:height": "330",
+  "image:alt": "Things To Do near Cape Cod Cannabis in Wellfleet, MA",
+  "image:type": "image/png"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438"
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "Things To Do Near Cape Cod Cannabis in Wellfleet | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA |",
+  "description": "Things To Do near Cape Cod Cannabis in Wellfleet, nestled between Cape Cod Bay and the Atlantic Ocean, is a charming seaside town known for its stunning beaches",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2026/05/Things-To-Do-765x300-1.png",
+  "label1": "Time to read",
+  "data1": "18 minutes"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/things-to-do-near-cape-cod-cannabis-in-wellfleet-ma/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/things-to-do-near-cape-cod-cannabis-in-wellfleet-ma/",
+        "name": "Things To Do Near Cape Cod Cannabis in Wellfleet"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "h1": "Things To Do near Cape Cod Cannabis in Wellfleet, MA",
+ "h1Source": {
+  "count": 1,
+  "visible": 1,
+  "hidden": 0
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Things To Do Near Cape Cod Cannabis in Wellfleet",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "visible",
+ "breadcrumbsSeparator": " / ",
+ "breadcrumbsLabel": "breadcrumbs",
+ "breadcrumbsInRegion": true,
+ "section": "About",
+ "sections": [
+  {
+   "n": 0,
+   "id": "76cf1c79",
+   "doc": "section#11803",
+   "cont": true,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "Things To Do near Cape Cod Cannabis in Wellfleet, MA"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "e84ad76",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/91e7e09d-CC26_CapeCod_Winner_lo-rez-rtfyiebbijy0d2mvodkj6j0541bu2mz1m1qnp9znr4.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/elementor/thumbs/CC26_CapeCod_Winner_lo-rez-rtfyiebbijy0d2mvodkj6j0541bu2mz1m1qnp9znr4.png?lossy=2&strip=0&webp=1",
+     "alt": "Cape Cod Cannabis was voted Best CBD Store on Cape Cod and Top 3 Best Dispensaries on Cape Cod in the Community Choice Awards 2026!",
+     "titleAttr": "Cape Cod Cannabis was voted Best CBD Store on Cape Cod and Top 3 Best Dispensaries on Cape Cod in the Community Choice Awards 2026!"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "6d1cbb5",
+   "doc": "wp-page#136311",
+   "hiddenAll": true,
+   "dev": [],
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Things to Do in Wellfleet, MA",
+     "dev": [],
+     "hiddenAll": true
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": "0ce6878",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong>Discover attractions, things to do and places to stay near Cape Cod Cannabis</strong> <strong>in Wellfleet, MA</strong>, nestled between Cape Cod Bay and the Atlantic Ocean, is a charming seaside town known for its fresh seafood, stunning beaches, and vibrant arts scene. Food lovers can savor local oysters and clams at waterfront favorites like <i><strong>Mac’s Shack</strong>, <strong>Pearl Restaurant &amp; Bar</strong></i> or enjoy classic New England fare at <i><strong>The Bookstore &amp; Restaurant</strong></i>. For things to do, stroll the galleries along Main Street, catch a film at the historic <strong><i>Wellfleet Drive-In Theater</i></strong>, or explore the tidal flats and trails of the <strong><i>Wellfleet Bay Wildlife Sanctuary</i></strong>. Whether you’re craving adventure or relaxation, Wellfleet offers a perfect Cape escape, as well as, <em><strong>Cape Cod Cannabis Dispensary offers the largest selection and the best prices on Cape Cod.</strong></em></p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Always worth the trip!"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "id": "f8e64e9",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>(Click images and links to view)</p>"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "id": "cba7f47",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/20e97693-Restaurants-765x300-1.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/05/Restaurants-765x300-1.png?lossy=2&strip=0&webp=1",
+     "alt": "Local Wellfleet, MA Restaurants - Cape Cod Cannabis in Wellfleet, MA",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 765,
+     "h": 330,
+     "href": "#restaurants",
+     "hrefStatus": "dead-anchor"
+    },
+    {
+     "t": "image",
+     "ref": "assets/source/2191e6f5-Attractions-765x300-2b.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/05/Attractions-765x300-2b.png?lossy=2&strip=0&webp=1",
+     "alt": "Local Wellfleet, MA Attractions and Beaches near Cape Cod Cannabis in Wellfleet, MA",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 765,
+     "h": 330,
+     "href": "#attractions",
+     "hrefStatus": "dead-anchor"
+    },
+    {
+     "t": "image",
+     "ref": "assets/source/75974c81-Art-Galleries-765x300-3c.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/05/Art-Galleries-765x300-3c.png?lossy=2&strip=0&webp=1",
+     "alt": "Local Wellfleet, MA Art Galleries, Culture and Local Events near Cape Cod Cannabis in Wellfleet, MA",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 765,
+     "h": 330,
+     "href": "#galleries",
+     "hrefStatus": "dead-anchor"
+    },
+    {
+     "t": "image",
+     "ref": "assets/source/777d8c0e-Shopping-765x300-4b.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/05/Shopping-765x300-4b.png?lossy=2&strip=0&webp=1",
+     "alt": "Local Wellfleet, MA Shops and Boutiques near Cape Cod Cannabis in Wellfleet, MA",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 765,
+     "h": 330,
+     "href": "#shopping",
+     "hrefStatus": "dead-anchor"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "id": "c06758e",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/1e6ad691-Accomodations-765x300-1-rn484jzy2qmtr1dwcemrw6ll3zzb38a56m782kyznc.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/elementor/thumbs/Accomodations-765x300-1-rn484jzy2qmtr1dwcemrw6ll3zzb38a56m782kyznc.png?lossy=2&strip=0&webp=1",
+     "alt": "Local Wellfleet, MA Accommodations near Cape Cod Cannabis in Wellfleet, MA",
+     "titleAttr": "Local Wellfleet, MA Accommodations near Cape Cod Cannabis in Wellfleet, MA",
+     "href": "#accommodations",
+     "hrefStatus": "dead-anchor"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "id": "8f1900c",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/9d3e8d18-canva-compass-icon-rncvph8v989umwbvdghhjvii077vrmhv8clerfwadg.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/elementor/thumbs/canva-compass-icon-rncvph8v989umwbvdghhjvii077vrmhv8clerfwadg.png?lossy=2&strip=0&webp=1",
+     "alt": "Click for Wellfleet Map courtesy of The Wellfleet Chamber",
+     "titleAttr": "Click for Wellfleet Map courtesy of The Wellfleet Chamber",
+     "href": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/05/wellfleet-map-CCC.png?lossy=2&strip=0&webp=1"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "id": "2689541",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>Click to view Wellfleet area map</p>"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "id": "f41981b",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "divider"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "id": "4b227f7",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Wellfleet Restaurants"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "id": "9c105ce",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong>Looking for great restaurants near Cape Cod Cannabis in Wellfleet, MA</strong>? Just minutes away, you’ll find top-rated local favorites—perfect spots to grab a bite after your dispensary visit. <strong>Local Wellfleet <em>(and 420-friendly)</em> businesses please <a href=\"/contact-cape-cod-cannabis/\">contact us</a> if you’d like to exchange links. We’d love to connect.</strong></p><p><em>(Click the links below to visit the website)</em></p>"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "id": "053a87f",
+   "doc": "wp-page#136311",
+   "dev": [
+    "widescreen",
+    "desktop"
+   ],
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/7291ed69-Free-Bar-Coaster-1774x887-2-768x384.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/09/Free-Bar-Coaster-1774x887-2-768x384.png?lossy=2&strip=0&webp=1",
+     "master": "assets/source/273e1c95-Free-Bar-Coaster-1774x887-2.png",
+     "alt": "FREE Bar Coasters for Cape Cod Restaurants & Bars provided by Cape Cod Cannabis in Wellfleet!",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 768,
+     "h": 384,
+     "href": "/free-bar-coasters/",
+     "dev": [
+      "widescreen",
+      "desktop"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "id": "c74a1d4",
+   "doc": "wp-page#136311",
+   "hiddenAll": true,
+   "dev": [],
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p> <strong>17th Annual Wellfleet Restaurant Week 2026</strong><br><a href=\"https://wellfleetrestaurantweek.com/?utm_source=capecodcannabis.com\" target=\"_blank\" rel=\"noopener\"><strong>Click for more information</strong></a></p>",
+     "dev": [],
+     "hiddenAll": true
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "id": "0454538",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Mac’s Shack",
+     "href": "https://macsseafood.com/restaurant/macs-shack-wellfleet/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Mac’s Shack is a Wellfleet favorite known for fresh local seafood, oysters, sushi, sashimi, poke bowls, and Cape Cod flavor. It is a great choice for lunch, dinner, or a casual night out near Wellfleet Harbor.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "The Wicked Oyster",
+     "href": "https://thewickedo.com/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Located on Main Street, The Wicked Oyster offers a warm, welcoming dining experience with seafood, drinks, hospitality, live music events, and seasonal specials. It is a popular stop for visitors exploring downtown Wellfleet.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Wellfleet Bookstore & Restaurant",
+     "href": "https://wellfleetoyster.com/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>A longtime Wellfleet staple, the Wellfleet Bookstore &amp; Restaurant has served generations of visitors with classic seafood, harbor views, and family friendly Cape Cod dining since 1964.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "The Pearl Restaurant & Bar",
+     "href": "https://wellfleetpearl.com/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Located in Wellfleet, The Pearl Restaurant &amp; Bar offers a coastal dining experience featuring fresh seafood, craft cocktails, oysters, seasonal dishes, and a welcoming atmosphere inspired by the Outer Cape. Known for its thoughtful menu and relaxed yet elevated setting, The Pearl is a popular stop for both Cape Cod locals and visitors exploring Wellfleet and the surrounding area.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "CShore Kitchen & Bar",
+     "href": "https://www.cshorewellfleet.com/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>CShore Kitchen &amp; Bar in Wellfleet offers a relaxed coastal dining experience with fresh seafood, creative seasonal dishes, craft cocktails, and outdoor seating just minutes from the Cape Cod National Seashore. Known for its welcoming atmosphere and locally inspired menu, CShore is a favorite stop for both visitors and year round Cape Cod residents exploring the Outer Cape.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "The Block & Tackle Smokehouse & Tavern",
+     "href": "https://www.theblockandtackle.com/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>The Block &amp; Tackle Smokehouse &amp; Tavern in Wellfleet is a popular Outer Cape destination known for smoked meats, fresh seafood, creative comfort food, craft cocktails, and a relaxed Cape Cod atmosphere. Featuring indoor and outdoor dining, live music, and a welcoming neighborhood feel, The Block &amp; Tackle is a favorite stop for both locals and visitors exploring Wellfleet and the surrounding Cape Cod beaches and attractions.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Winslow’s Tavern",
+     "href": "https://winslowstavern.com/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Located in the heart of Wellfleet, Winslow’s Tavern is a longtime Cape Cod favorite offering elevated comfort food, fresh seafood, craft cocktails, and a warm, historic atmosphere. Known for its welcoming dining experience and seasonal outdoor patio, Winslow’s is a popular destination for both locals and visitors exploring downtown Wellfleet and the Outer Cape.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Sea Bird Cantina",
+     "href": "https://seabirdcantina.com/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Sea Bird Cantina in Wellfleet brings vibrant coastal flavors to the Outer Cape with tacos, fresh seafood, margaritas, craft cocktails, and a laid back atmosphere perfect for lunch, dinner, or drinks with friends. Located along Route 6, Sea Bird Cantina is a popular stop for Cape Cod locals and visitors looking for casual dining and fresh seasonal flavors.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Paesan’s Pizzeria",
+     "href": "https://www.paesanspizzeria.com/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Paesan’s Pizzeria is a Wellfleet favorite serving handcrafted pizza, Italian specialties, sandwiches, salads, and comfort food in a casual, family friendly setting. Conveniently located on Route 6, Paesan’s is a go to spot for visitors and locals looking for classic pizza and relaxed Cape Cod dining after a beach day or exploring the Outer Cape.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Bob’s Sub and Cone",
+     "href": "https://www.bobssubandcone.com/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Bob’s Sub and Cone is a longtime Wellfleet family favorite serving classic Cape Cod comfort food, including hot and cold subs, burgers, seafood, ice cream, and casual outdoor dining. Conveniently located on Route 6 in South Wellfleet, Bob’s is a popular stop for locals and visitors looking for a relaxed meal, quick bite, or sweet treat while exploring the Outer Cape.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "The Beachcomber",
+     "href": "https://thebeachcomber.com/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Perched atop the dunes of Cahoon Hollow Beach in Wellfleet, The Beachcomber is one of Cape Cod’s most iconic waterfront restaurants and bars. Known for its ocean views, fresh seafood, live music, cocktails, and lively beach atmosphere, The Beachcomber is a must visit destination for both locals and visitors enjoying the Outer Cape and Cape Cod National Seashore.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Moby Dick’s Restaurant",
+     "href": "https://mobys.com/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p><em>Since 1983 Moby Dick’s has been THE Cape Cod seafood restaurant serving fresh seafood and delicious entrees to friends and family. </em>We take the New England clam shack to a new level, offering you and your family a great experience, and the freshest seafood on Cape Cod. Come experience Moby’s for great food and a great time. <strong>Bring Your Own Beer and Wine!</strong> We invite you to grab your favorite beer or wine and head right over. No charge and we’ll provide you ice buckets, cups, and openers.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Chez Chloe Bistro (formerly PB Boulangerie Bistro)",
+     "href": "https://www.instagram.com/chezchloebistro_wellfleet/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Chez Chloe Bistro <em>(formerly PB Boulangerie Bistro – same owner; named after his daughter)</em> in Wellfleet is a nationally recognized bistro known for its elevated French inspired dining on Cape Cod. Popular with both locals and visitors, Chez Chloe Bistro offers a warm atmosphere, seasonal ingredients, and one of the most unique culinary experiences on the Outer Cape.</p>"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "id": "7c1f946",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "divider"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "id": "c43d1cc",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Wellfleet Attractions & Beaches"
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "id": "242e963",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong>Discover top attractions near Cape Cod Cannabis in Wellfleet, MA!</strong> From scenic beaches and golf courses to wildlife sanctuaries and drive-ins, there’s no shortage of adventures just minutes from the dispensary. <strong>Local Wellfleet <em>(and 420-friendly)</em> businesses please <a href=\"/contact-cape-cod-cannabis/\">contact us</a> if you’d like to exchange links. We’d love to connect.</strong></p><p><em>(Click the links below to visit the website)</em></p>"
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "id": "f0c8fae",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Cape Cod National Seashore",
+     "href": "https://www.nps.gov/caco/index.htm/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Wellfleet is home to some of the most scenic coastline on Cape Cod, including beaches, dunes, walking trails, and Atlantic Ocean views. The Cape Cod National Seashore is a must visit for beachgoers, photographers, hikers, and anyone looking to experience the natural beauty of the Outer Cape.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Wellfleet Beaches, Stickers & Wellfleet Information",
+     "href": "https://www.wellfleet-ma.gov/beaches/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Wellfleet is home to some of Cape Cod’s most beautiful beaches, from the Atlantic Ocean shores of Marconi Beach and Cahoon Hollow Beach to the calm waters of Cape Cod Bay and Wellfleet Harbor. Visitors can enjoy swimming, surfing, sunbathing, beachcombing, and stunning coastal views throughout the Outer Cape. In addition to its ocean and bayside beaches, Wellfleet is known for its freshwater kettle ponds, offering peaceful spots for swimming, kayaking, paddleboarding, and relaxing in nature. Whether you’re seeking adventure or a quiet day by the water, Wellfleet’s beaches and ponds offer something for everyone.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Marconi Beach",
+     "href": "https://www.nps.gov/caco/planyourvisit/marconi-beach.htm/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>One of Wellfleet’s most iconic beaches, Marconi Beach offers dramatic dunes, wide sandy shoreline, and sweeping ocean views. It is a favorite stop for visitors looking to spend the day by the water.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Wellfleet Bay Wildlife Sanctuary",
+     "href": "https://www.massaudubon.org/places-to-explore/wildlife-sanctuaries/wellfleet-bay/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Operated by Mass Audubon, Wellfleet Bay Wildlife Sanctuary features extensive trails through salt marsh, pine woodlands, beach habitat, and scenic overlooks near Wellfleet Harbor. It is a peaceful stop for birdwatching, nature walks, and family friendly outdoor exploring.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Wellfleet Drive-In Theatre",
+     "href": "https://www.wellfleetcinemas.com/drive-in-theatre/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>A true Cape Cod classic, the Wellfleet Drive-In offers seasonal movies under the stars along Route 6. The property also includes indoor cinemas, mini golf, and flea market events, making it a fun stop for visitors of all ages.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Wellfleet Cinemas",
+     "href": "https://www.wellfleetcinemas.com/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>In addition to the famous drive in theater, Wellfleet Cinemas offers indoor movie screenings, mini golf, and family entertainment throughout the year, making it a favorite stop for visitors and locals alike.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "The Wellfleet Flea Market",
+     "href": "https://www.wellfleetcinemas.com/flea-market/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Held seasonally at the Wellfleet Drive In, the Wellfleet Flea Market is a longtime Cape Cod tradition featuring antiques, vintage finds, clothing, art, collectibles, handmade goods, and local vendors. It is a fun stop for treasure hunters and visitors exploring Route 6.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Wellfleet Harbor",
+     "href": "https://www.wellfleet-ma.gov/harbormaster-marina/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Wellfleet Harbor is a scenic destination known for boating, kayaking, shellfishing, waterfront views, and classic Cape Cod charm. Visitors can explore the marina area, enjoy fresh local oysters, or take in sunsets along the harbor while experiencing the relaxed atmosphere of the Outer Cape.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Great Island Trail",
+     "href": "https://www.nps.gov/places/great-island-trail.htm/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>The Great Island Trail in Wellfleet offers one of the most scenic hiking experiences on Cape Cod, featuring dunes, salt marshes, wooded trails, and panoramic views of Cape Cod Bay. Popular with hikers, birdwatchers, and photographers, the trail showcases the natural beauty of the Cape Cod National Seashore.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Mayo Beach",
+     "href": "https://maps.app.goo.gl/6P5JHRwpez561tS47/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Located along Wellfleet Harbor, Mayo Beach is a calm, family friendly beach popular for swimming, kayaking, paddleboarding, and relaxing by the water. Its central location near downtown Wellfleet makes it an easy stop for visitors exploring the area.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Cahoon Hollow Beach",
+     "href": "https://maps.app.goo.gl/FqaFCnWEnZwvCK2u9/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Cahoon Hollow Beach is one of Wellfleet’s most well known ocean beaches, offering dramatic dunes, Atlantic Ocean surf, and access to The Beachcomber restaurant. It is a favorite destination for beachgoers looking to enjoy the classic Outer Cape beach experience.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Wellfleet Preservation Hall",
+     "href": "https://www.wellfleetpreservationhall.org/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Wellfleet Preservation Hall is a year round cultural center hosting concerts, art exhibits, community events, film screenings, lectures, and performances in the heart of Wellfleet. The beautifully restored historic building is a hub for arts and culture on the Outer Cape.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Cape Cod Rail Trail",
+     "href": "https://www.capecodbikeguide.com/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Accessible from nearby areas, the Cape Cod Rail Trail offers miles of scenic biking and walking paths through forests, ponds, marshes, and coastal towns. It is a popular activity for visitors looking to experience Cape Cod outdoors.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Uncle Tim’s Bridge",
+     "href": "https://maps.app.goo.gl/bvUZbiUxRznMiyUr9/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Uncle Tim’s Bridge is a picturesque wooden bridge and walking trail extending through Wellfleet marshland with beautiful views of the harbor and surrounding wildlife. It is a peaceful spot for walking, photography, and sunset views.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Chequessett Yacht & Country Club",
+     "href": "https://chequessettclub.com/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Discover the charm of Chequessett Club, your destination for recreation and leisure nestled atop the bluffs of Wellfleet Harbor in the scenic area of Cape Cod, Massachusetts! At Chequessett, you’re invited to experience an array of activities including Golf, Tennis, Pickleball, and Sailing. Our welcoming staff ensures a comfortable experience for our guests within this tranquil setting. </p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Outermost Performing Art Center",
+     "href": "https://outermostpac.org/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Since 2007, The Julie Harris Stage on Route 6 in Wellfleet has served as the creative home of <a href=\"https://what.org/\" target=\"_blank\" rel=\"noopener\">Wellfleet Harbor Actors Theater</a>. Now, after twenty years, the ‘Julie’ is embracing a renewed vision to serve as a hub for the performing arts on the Outer Cape. While live theater will always be our beating heart, and WHAT’s productions will always have a home on our stage, we now celebrate the broad expanse of creative expression through the performing arts across genres. Wellfleet Harbor Actors Theater is not going away. We believe that WHAT is made stronger through collaboration and working in concert with artists from multiple disciplines.</p><p>Our mission is to create meaningful connections with, and through, the performing arts for our Outer Cape community. Here is where we gather to <strong>celebrate community</strong>, <strong>foster creativity</strong>, and <strong>create connection</strong> through the performing arts.</p><p><strong>Welcome to Outermost Performing Arts Center.</strong></p>"
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "id": "6222143",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "divider"
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "id": "ccbe587",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Wellfleet Art Galleries, Culture & Local Events"
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "id": "6df4fe5",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/b8a3eb93-Oyster-Festival-2026-rt2lsiby5a4r9pb8dubusfyu2if6th7unp989xbb20.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/elementor/thumbs/Oyster-Festival-2026-rt2lsiby5a4r9pb8dubusfyu2if6th7unp989xbb20.png?lossy=2&strip=0&webp=1",
+     "alt": "Wellfleet Oyster Festival 2026. Stop by Cape Cod Cannabis on your way! Please consume responsibly!",
+     "titleAttr": "Wellfleet Oyster Festival 2026. Stop by Cape Cod Cannabis on your way! Please consume responsibly!",
+     "href": "https://www.wellfleetoa.org/wellfleet-oysterfest/?utm_source=capecodcannabis.com",
+     "target": "_blank"
+    },
+    {
+     "t": "rich",
+     "html": "<p><em><strong>Beloved by locals and visitors alike, our annual Wellfleet OysterFest™ has grown to become one of the most popular events on Cape Cod.</strong></em> Started back in 2001, OysterFest is a 2-day party that pulses with everything that makes life in Wellfleet so special; art, seafood, and community.</p><p>Upwards of 20,000 people gather in the heart of downtown for one weekend in October to celebrate our world famous oysters. This family-friendly hootenanny takes over Main Street with local food, beer and wine gardens, live music, arts and crafts vendors, and, of course, oysters. Lots and lots of oysters and other ‘Fleet-raised shellfish dished out directly from the men and women who harvest them along our shores.</p><p>There are culinary demonstrations, educational lectures, an annual road race, and a Family Fun area complete with kid-friendly crafting, games, and a bounce house. <a href=\"https://www.wellfleetoa.org/wellfleet-oysterfest/?utm_source=capecodcannabis.com\" target=\"_blank\" rel=\"noopener\"><strong>Click here to buy tickets or for more information about the Wellfleet Oyster Fest 2026!</strong></a></p>"
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "id": "43a20c6",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "divider"
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "id": "7fc00fa",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong>Explore captivating art galleries, culture and local events near Cape Cod Cannabis in Wellfleet, MA!</strong> Just minutes from the dispensary, you’ll find a vibrant art scene featuring local and regional artists, the culture of Wellfleet and local events. <strong>Local Wellfleet <em>(and 420-friendly)</em> businesses please <a href=\"/contact-cape-cod-cannabis/\">contact us</a> if you’d like to exchange links. We’d love to connect.</strong></p><p><em>(Click the links below to visit the website)</em></p>"
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "id": "79b26e6",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Wellfleet Cultural District",
+     "href": "https://wellfleetculturaldistrict.org/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Wellfleet is known for its thriving arts community, galleries, restaurants, shops, theater, harbor, and walkable downtown cultural loop. The Wellfleet Cultural District is a great resource for current events, gallery openings, markets, and local happenings.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Wellfleet Art Gallery Association",
+     "href": "https://wellfleetartgalleryassociation.com/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Wellfleet is often celebrated for its gallery scene, with local and regional artists represented throughout town. During the season, visitors can enjoy gallery strolls, openings, and exhibitions across the Cultural District. The Wellfleet Art Gallery Association was started in June of 1980 with the purpose to promote the Town of Wellfleet as a Center for Fine Arts and Crafts Galleries on the Lower Cape.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Cove Gallery",
+     "href": "https://www.covegallery.com/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Located in downtown Wellfleet, Cove Gallery features contemporary art, local photography, coastal inspired works, handcrafted jewelry, and gifts from regional artists. It is a favorite stop for visitors exploring Wellfleet’s vibrant arts community.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Left Bank Gallery",
+     "href": "https://www.leftbankgallery.com/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>A longtime Wellfleet gallery destination, Left Bank Gallery showcases contemporary paintings, sculptures, mixed media works, and fine art from nationally recognized and local artists in a welcoming Cape Cod setting.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "The Frying Pan Gallery",
+     "href": "https://www.fryingpangallery.com/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Discover a captivating collection of marine-inspired steel sculptures by Steve Swain, featuring lighting designs, schools of fish, bass, tuna, whales, dolphins, octopuses, horseshoe crabs, and much more. Enjoy original works from beloved Cape Cod artists, including – paintings, encaustics, etchings, jewelry, driftwood, photography, ceramics – and a friendly, knowledgeable staff.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Wellfleet Art Stroll",
+     "href": "https://wellfleetculturaldistrict.org/events/wellfleet-art-stroll/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>The Wellfleet Art Stroll is a seasonal Saturday evening tradition where participating galleries open their doors for visitors, neighbors, artists, and art lovers. It is a great way to experience the creative spirit of town.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Wellfleet Events Calendar",
+     "href": "https://wellfleetculturaldistrict.org/events/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>From makers markets and art openings to community gatherings and seasonal activities, the Wellfleet Events Calendar is a helpful place to see what is happening during your visit.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Wellfleet Farmers Market",
+     "href": "https://www.wellfleetfarmersmarket.com/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p><strong>Starting wednesday, June 3rd – September 30th! </strong>Come delight your senses in fresh local produce, plant starts, coffee, baked goods, local meat, fresh fish, mushrooms, lots o’ eggs, cheese, local fruits, cut flowers &amp; herbs, garlic &amp; onions, fantastic greens, honey, teas &amp; tinctures, market merch &amp; more!</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Wellfleet OysterFest",
+     "href": "https://www.wellfleetoa.org/wellfleet-oysterfest/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p><strong>26TH ANNUAL Wellfleet OysterFest</strong><br><strong>Save the date: October 17 + 18, 2026</strong></p><p>Held each fall, Wellfleet OysterFest celebrates the town’s world famous oysters, local seafood, artists, music, food vendors, and Cape Cod culture. The annual festival attracts visitors from across New England and has become one of the Outer Cape’s signature events.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Wellfleet Chamber",
+     "href": "https://www.wellfleetchamber.com/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Join us in Wellfleet for some good ol’ fashioned hometown hurrah! Each year the Chamber’s annual Fourth of July Parade seems to get better and participants more creative. The nostalgic classic car parade begins at 9:30am and the float parade starts at 10:00am. </p>"
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "id": "40f0989",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "divider"
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "id": "9d187ed",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Wellfleet Shops & Boutiques"
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "id": "c83d4f7",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong>Explore unique shopping experiences near Cape Cod Cannabis in Wellfleet, MA!</strong> Just minutes from the dispensary, you’ll find a variety of local boutiques and artisan shops. <strong>Local Wellfleet <em>(and 420-friendly)</em> businesses please <a href=\"/contact-cape-cod-cannabis/\">contact us</a> if you’d like to exchange links. We’d love to connect.</strong></p><p><em>(Click the links below to visit the website)</em></p>"
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "id": "3b4efd5",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Jewelry Studio of Wellfleet",
+     "href": "https://jewelrystudioofwellfleet.com/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p><strong>Keeping the Art of Handmade Alive. </strong>Handcrafted silver and gold jewelry made in our Wellfleet workshop, featuring beautiful gemstones, native oyster pendants, and original designs.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Wellfleet Marketplace",
+     "href": "https://www.wellfleetmarketplace.com/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Wellfleet Marketplace is a local specialty shop offering gourmet foods, fresh baked goods, sandwiches, coffee, wine, and unique Cape Cod gifts. Conveniently located near downtown Wellfleet, it is a popular stop for both locals and seasonal visitors.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "The Mews & Local Wellfleet Shops",
+     "href": "https://aim-thrift-shop.square.site/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Downtown Wellfleet is home to a variety of independently owned boutiques, artisan shops, bookstores, galleries, gift stores, and specialty markets that reflect the creative and coastal spirit of the Outer Cape. Visitors can enjoy walkable shopping while exploring local restaurants, harbor views, and nearby attractions.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "AIM Thrift Shop",
+     "href": "https://aim-thrift-shop.square.site/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>AIM Thrift Shop offers clothing, jewelry, housewares, decor, art, vintage collectibles, books, toys, puzzles, discs, vinyl records, linens, sporting equipment, small furniture, and other items for you and your home at bargain prices. <strong>Proceeds from sales support Outer Cape Health Services and local nonprofits that provide health care, food, and housing on Outer Cape Cod.</strong></p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Mass Appeal",
+     "href": "https://www.ccmassappeal.org/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Mass Appeal is a non-profit “Share Shop” in Wellfleet, MA, that provides free, gently used clothing, shoes, and linens to residents of the Outer Cape.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Drift Wellfleet Home & Gift",
+     "href": "https://maps.app.goo.gl/pQXLV23znEvnqXhT7/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>New England-made goods, coastal jewelry, decor, and more. Drift has become a favorite stop for shoppers visiting downtown Wellfleet.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Wellfleet Marine Corporation",
+     "href": "https://wellfleetmarine.com/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>In 1954, Warren “Bing” and Irene Harrington started the Wellfleet Marine Corporation as a modest tackle and boat rental shop on the town pier in Wellfleet, Massachusetts. Today, Wellfleet Marine has grown to encompass two full service boatyards, a retail gift store, a fish market, and yes, we still have boat rentals and fishing tackle, all still family owned and operated. Our store is brimming full of under-the-sea surprises…and a few from on the land too. </p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Cape Cod Cannabis",
+     "href": "/"
+    },
+    {
+     "t": "rich",
+     "html": "<p><strong><em>Looking for the best dispensary on Cape Cod?</em></strong> <strong>Cape Cod Cannabis Recreational Dispensary, located in the Rt. 6 shopping plaza in South Wellfleet</strong> with plenty of parking, offers the largest selection and best prices on Cape Cod. Our product assortment includes <a href=\"/categories/flower/\">flower</a>, <a href=\"/categories/pre-rolls/\">pre-rolls</a>, <a href=\"/categories/edibles/\">edibles</a>, <a href=\"/categories/edibles/drinks/\">beverages</a>, <a href=\"/categories/vaporizers/\">vaporizers</a>, <a href=\"/categories/tinctures/\">tinctures</a>, <a href=\"/categories/concentrates/\">concentrates</a>, <a href=\"/categories/cbd/\">CBD products</a>, <a href=\"/categories/topicals/\">topicals</a>, <a href=\"/categories/Seeds/\">seeds</a>, <a href=\"/categories/accessories/\">smoking accessories</a> and <a href=\"/categories/merch/\">branded apparel.</a></p>"
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "id": "3775787",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "divider"
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "id": "a778843",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Wellfleet Accommodations & Places To Stay"
+    }
+   ]
+  },
+  {
+   "n": 31,
+   "id": "070df84",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong><em>Looking for places to stay near Cape Cod Cannabis in Wellfleet, MA?</em></strong> The Outer Cape offers a variety of local accommodations, from boutique hotels and cozy inns to classic Cape Cod motels and waterfront stays, all conveniently located near beaches, restaurants, galleries, and Wellfleet attractions. Whether you’re visiting for a weekend getaway or an extended Cape Cod vacation, you’ll find comfortable lodging just minutes from Cape Cod Cannabis and Route 6. <strong>Local Wellfleet <em>(and 420-friendly)</em> businesses please <a href=\"/contact-cape-cod-cannabis/\">contact us</a> if you’d like to exchange links. We’d love to connect.</strong></p><p><em>(Click the links below to visit the website)</em></p>"
+    }
+   ]
+  },
+  {
+   "n": 32,
+   "id": "1cc30b6",
+   "doc": "wp-page#136311",
+   "dev": [
+    "widescreen",
+    "desktop"
+   ],
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/438499da-FREE-Cape-Cod-Cannabis-Educational-Rack-Cards-1920x1080-1-768x432.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/09/FREE-Cape-Cod-Cannabis-Educational-Rack-Cards-1920x1080-1-768x432.png?lossy=2&strip=0&webp=1",
+     "master": "assets/source/f8a22860-FREE-Cape-Cod-Cannabis-Educational-Rack-Cards-1920x1080-1.png",
+     "alt": "FREE Educational Rack Cards from Cape Cod Cannabis in Wellfleet!",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 768,
+     "h": 432,
+     "href": "/free-rack-cards/",
+     "dev": [
+      "widescreen",
+      "desktop"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 33,
+   "id": "00f67a9",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Wilder Inn (formerly Wellfleet Motel & Lodge)",
+     "href": "https://www.hilton.com/en/hotels/pvcwfid-wilder-inn-south-wellfleet/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Located on Route 6 in South Wellfleet, the Wilder Inn (replacing the long-standing Wellfleet Motel &amp; Lodge), <strong>the property was completely renovated and rebranded as part of Hilton’s “Outset Collection”</strong>, and offers comfortable Cape Cod accommodations with easy access to beaches, bike trails, restaurants, and local attractions. Popular with families and visitors exploring the Outer Cape, the property features an outdoor pool, on-site restaurant, and convenient access throughout Cape Cod.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "The Copper Swan",
+     "href": "https://copperswan.com/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>The Copper Swan is a boutique hotel in downtown Wellfleet offering elegant accommodations overlooking Duck Creek and the Wellfleet marshes. Known for its peaceful setting, coastal charm, and walkable access to galleries, restaurants, and Wellfleet Harbor, The Copper Swan is a favorite destination for visitors seeking a relaxing Outer Cape getaway.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Endless Coast Boutique Hotel",
+     "href": "https://www.endlesscoast.com/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Endless Coast Boutique Hotel offers modern coastal accommodations with stylish rooms, outdoor gathering spaces, and convenient access to Wellfleet beaches, restaurants, and the Cape Cod National Seashore. Its central Outer Cape location makes it a popular choice for visitors exploring Wellfleet and nearby Provincetown.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Southfleet Motor Inn",
+     "href": "https://www.southfleetmotorinn.com/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>A longtime Wellfleet lodging favorite, Southfleet Motor Inn provides comfortable accommodations near Route 6 with indoor and outdoor pools, family friendly amenities, and easy access to Cape Cod beaches, biking trails, and local attractions throughout the Outer Cape.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "The Even’tide",
+     "href": "https://www.eventidewellfleet.com/?utm_source=capecodcannabis.com"
+    },
+    {
+     "t": "rich",
+     "html": "<p>The Even’tide is a popular Wellfleet hotel offering a relaxed Cape Cod experience close to the Cape Cod Rail Trail, beaches, restaurants, and outdoor activities. Guests appreciate its convenient location, welcoming atmosphere, and easy access to Wellfleet, Eastham, and Provincetown attractions.</p>"
+    }
+   ]
+  },
+  {
+   "n": 34,
+   "id": "7c6ad9c",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "divider"
+    }
+   ]
+  },
+  {
+   "n": 35,
+   "id": "a10e15c",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/781f87df-Wellfleet-OptiSigns-1920x1080-2b-768x432.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/05/Wellfleet-OptiSigns-1920x1080-2b-768x432.png?lossy=2&strip=0&webp=1",
+     "master": "assets/source/59525873-Wellfleet-OptiSigns-1920x1080-2b.png",
+     "alt": "Things to Do in Wellfleet, MA and stop by Cape Cod Cannabis on your way, located in the Rt. 6 South Wellfleet Shopping Plaza!",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 768,
+     "h": 432,
+     "href": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/05/Wellfleet-OptiSigns-1920x1080-2b.png?lossy=2&strip=0&webp=1"
+    }
+   ]
+  },
+  {
+   "n": 36,
+   "id": "3e8e62a",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Wellfleet, MA on the Outer Cape"
+    }
+   ]
+  },
+  {
+   "n": 37,
+   "id": "be5ac8d",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong>Wellfleet, MA</strong> is a charming seaside town located on the Outer Cape of Cape Cod. Known for its unspoiled natural beauty, artistic spirit, and maritime heritage, Wellfleet offers a unique blend of history, culture, and outdoor adventure. Nestled between the Atlantic Ocean and Cape Cod Bay, much of the town is protected land, including parts of the Cape Cod National Seashore, with miles of pristine beaches, salt marshes, and kettle ponds that attract nature lovers and outdoor enthusiasts year-round.</p><p>The town’s center features a classic New England vibe, with white-steepled churches, art galleries, boutique shops, and locally owned cafes. Wellfleet is also renowned for its vibrant arts scene, with a legacy of supporting local artists and performers. The town’s many galleries reflect its deep artistic roots, making it a haven for creatives and visitors seeking inspiration.</p><p>Wellfleet is perhaps best known for its oysters, harvested from its clean, cold tidal flats and prized around the world. The annual Wellfleet OysterFest, held every October, celebrates this heritage with food, music, and community spirit. Whether you’re exploring the trails of Great Island, watching the sunset over Mayo Beach, or savoring fresh seafood by the water, Wellfleet captures the essence of coastal New England with a laid-back charm and deep connection to the sea.</p><p><strong><em>Looking for the Best Dispensary on Cape Cod?</em></strong> <strong>Cape Cod Cannabis Recreational Dispensary, located in the Rt. 6 shopping plaza in South Wellfleet</strong> with plenty of parking, offers the largest selection and best prices on Cape Cod.</p><p>Our product assortment includes:</p><ul><li><a href=\"/categories/flower/\">Flower</a></li><li><a href=\"/categories/pre-rolls/\">Pre-rolls</a></li><li><a href=\"/categories/edibles/\">Edibles</a> </li><li><a href=\"/categories/edibles/drinks/\">Beverages</a></li><li><a href=\"/categories/vaporizers/\">Vaporizers</a></li><li><a href=\"/categories/concentrates/\">Concentrates</a></li><li><a href=\"/categories/tinctures/\">Tinctures</a></li><li><a href=\"/categories/cbd/\">CBD</a></li><li><a href=\"/categories/topicals/\">Topicals</a></li><li><a href=\"/categories/Seeds/\">Seeds</a></li><li><a href=\"/categories/accessories/\">Smoking Accessories</a></li><li><a href=\"/categories/merch/\">Branded Apparel</a></li></ul><p><em><strong>Cape Cod Cannabis in Wellfleet, MA … Always worth the trip!</strong></em></p>"
+    }
+   ]
+  },
+  {
+   "n": 38,
+   "id": "0ca0bbe",
+   "doc": "wp-page#136311",
+   "hiddenAll": true,
+   "dev": [],
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/37981235-End-of-Summer-Blowout-Sept-OptiSigns-1920x1080-2-768x432.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/09/End-of-Summer-Blowout-Sept-OptiSigns-1920x1080-2-768x432.png?lossy=2&strip=0&webp=1",
+     "master": "assets/source/e3f79979-End-of-Summer-Blowout-Sept-OptiSigns-1920x1080-2.png",
+     "alt": "End of Summer Blowout Offers at Cape Cod Cannabis in Wellfleet!",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 768,
+     "h": 432,
+     "href": "/offers/end-of-summer-blowout/",
+     "hrefStatus": "dead",
+     "dev": [],
+     "hiddenAll": true
+    }
+   ]
+  },
+  {
+   "n": 39,
+   "id": "17bb151",
+   "doc": "wp-page#136311",
+   "hiddenAll": true,
+   "dev": [],
+   "blocks": [
+    {
+     "t": "button",
+     "label": "Shop Our End of Summer Blowout Offers",
+     "href": "/offers/end-of-summer-blowout/",
+     "hrefStatus": "dead",
+     "dev": [],
+     "hiddenAll": true
+    }
+   ]
+  },
+  {
+   "n": 40,
+   "id": "124427b",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "button",
+     "label": "Shop Our Menu",
+     "href": "/menu/"
+    },
+    {
+     "t": "button",
+     "label": "Shop Everyday Offers",
+     "href": "/specials/"
+    }
+   ]
+  },
+  {
+   "n": 41,
+   "id": "0ab0919",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "html",
+     "review": true,
+     "embed": {
+      "t": "embed",
+      "kind": "gmap",
+      "src": "https://www.google.com/maps/embed?pb=!4v1779220480193!6m8!1m7!1sStiFUR4BAaK1taJnTRvO6Q!2m2!1d41.91616203925206!2d-69.98859413025795!3f61.95332!4f0!5f0.7820865974627469",
+      "w": "600",
+      "h": "450"
+     }
+    }
+   ]
+  },
+  {
+   "n": 42,
+   "id": "2033880",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "embed",
+     "kind": "gmap",
+     "src": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d95005.16053256529!2d-70.049645805814!3d41.91626620000001!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe9a627c2ee8ebdce!2sCape%20Cod%20Cannabis%20%3A%2021%2B%20Marijuana%20Dispensary%20Wellfleet%2C%20MA!5e0!3m2!1sen!2sus!4v1650395239715!5m2!1sen!2sus",
+     "w": "600",
+     "h": "450"
+    }
+   ]
+  },
+  {
+   "n": 43,
+   "id": "51c6715",
+   "doc": "wp-page#136311",
+   "hiddenAll": true,
+   "dev": [],
+   "blocks": [
+    {
+     "t": "button",
+     "label": "Shop Our Menu",
+     "href": "/menu/",
+     "dev": [],
+     "hiddenAll": true
+    }
+   ]
+  },
+  {
+   "n": 44,
+   "id": "65539c3",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong>Local Wellfleet <em>(and 420-friendly)</em> businesses please <a href=\"/contact-cape-cod-cannabis/\">contact us</a> if you’d like to exchange links. We’d love to connect.</strong></p><p>*The local attractions, businesses, and events listed on this website are provided for informational purposes only. We are not directly affiliated with, sponsored by, or officially endorsed by any of the establishments mentioned unless explicitly stated. While we aim to provide accurate and up-to-date information, we do not guarantee the accuracy, availability, or quality of any third-party services or experiences. Visitors are encouraged to verify details directly with the respective businesses or organizations before making plans.</p>"
+    }
+   ]
+  },
+  {
+   "n": 45,
+   "id": "ced69a4",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/1c48453a-CCC_Logo_320px-2.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/12/CCC_Logo_320px-2.png?lossy=2&strip=0&webp=1",
+     "alt": "Cape Cod Cannabis in Wellfleet, MA...Always worth the trip!",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 370,
+     "h": 306
+    }
+   ]
+  },
+  {
+   "n": 46,
+   "id": "16c8e07",
+   "doc": "wp-page#136311",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Always worth the trip!"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "button": 4,
+  "divider": 7,
+  "embed": 1,
+  "heading": 62,
+  "html": 1,
+  "image": 13,
+  "rich": 64
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [
+   {
+    "section": "053a87f",
+    "t": "image",
+    "dev": [
+     "widescreen",
+     "desktop"
+    ],
+    "text": "free bar coasters for cape cod restaurants & bars provided by cape cod cannabis in wellfleet! / cape cod cannabis recreational dispensary in wellfleet, ma"
+   },
+   {
+    "section": "1cc30b6",
+    "t": "image",
+    "dev": [
+     "widescreen",
+     "desktop"
+    ],
+    "text": "free educational rack cards from cape cod cannabis in wellfleet! / cape cod cannabis recreational dispensary in wellfleet, ma"
+   }
+  ],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [],
+  "links": [
+   {
+    "href": "/offers/end-of-summer-blowout/",
+    "from": "/offers/end-of-summer-blowout/",
+    "status": "dead"
+   }
+  ],
+  "aliasesResolved": [
+   {
+    "from": "/contact-cape-cod-cannabis/",
+    "to": "/contact-cape-cod-cannabis/"
+   },
+   {
+    "from": "/free-bar-coasters",
+    "to": "/free-bar-coasters/"
+   },
+   {
+    "from": "https://capecodcannabis.com/categories/flower",
+    "to": "/categories/flower/"
+   },
+   {
+    "from": "https://capecodcannabis.com/categories/pre-rolls",
+    "to": "/categories/pre-rolls/"
+   },
+   {
+    "from": "https://capecodcannabis.com/categories/edibles",
+    "to": "/categories/edibles/"
+   },
+   {
+    "from": "https://capecodcannabis.com/categories/edibles/drinks/",
+    "to": "/categories/edibles/drinks/"
+   },
+   {
+    "from": "https://capecodcannabis.com/categories/vaporizers/",
+    "to": "/categories/vaporizers/"
+   },
+   {
+    "from": "https://capecodcannabis.com/categories/tinctures",
+    "to": "/categories/tinctures/"
+   },
+   {
+    "from": "https://capecodcannabis.com/categories/concentrates",
+    "to": "/categories/concentrates/"
+   },
+   {
+    "from": "https://capecodcannabis.com/categories/cbd/",
+    "to": "/categories/cbd/"
+   },
+   {
+    "from": "https://capecodcannabis.com/categories/topicals/",
+    "to": "/categories/topicals/"
+   },
+   {
+    "from": "https://capecodcannabis.com/categories/Seeds/",
+    "to": "/categories/Seeds/"
+   },
+   {
+    "from": "https://capecodcannabis.com/categories/accessories",
+    "to": "/categories/accessories/"
+   },
+   {
+    "from": "https://capecodcannabis.com/categories/apparel/",
+    "to": "/categories/merch/"
+   },
+   {
+    "from": "/free-rack-cards",
+    "to": "/free-rack-cards/"
+   },
+   {
+    "from": "/categories/concentrates",
+    "to": "/categories/concentrates/"
+   },
+   {
+    "from": "/menu",
+    "to": "/menu/"
+   },
+   {
+    "from": "/specials",
+    "to": "/specials/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

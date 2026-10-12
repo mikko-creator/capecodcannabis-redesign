@@ -1,0 +1,910 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/the-myth-of-high-thc-potency/",
+ "sourceUrl": "https://capecodcannabis.com/the-myth-of-high-thc-potency/",
+ "requestedUrl": "https://capecodcannabis.com/the-myth-of-high-thc-potency",
+ "slug": "the-myth-of-high-thc-potency",
+ "kind": "blog-post",
+ "wpTemplate": "post",
+ "derived": false,
+ "rawFile": "audit/raw/the-myth-of-high-thc-potency.html",
+ "rawSha256": "bd591ea35d1eb808f96b7c2b0ffed5d3128c69ebceba2f1a4eb221df38334569",
+ "regionKind": "body-minus-chrome",
+ "title": "The Myth of High THC Potency: Why It's Not the Only Factor in Choosing the Best Cannabis Flower | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+ "metaDescription": "When shopping for cannabis flower, many people believe that high THC potency is the most important factor in determining quality and effect. Fact or myth?",
+ "canonical": "https://capecodcannabis.com/the-myth-of-high-thc-potency/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "The Myth of High THC Potency: Why It's Not the Only Factor in Choosing the Best Cannabis Flower | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "When shopping for cannabis flower, many people believe that high THC potency is the most important factor in determining quality and effect. Fact or myth?",
+  "url": "https://capecodcannabis.com/the-myth-of-high-thc-potency/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2026-06-30T12:04:08-04:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2024/10/Entourage-Effect-Graphic_1920x1080-768x432-1.webp",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/2024/10/Entourage-Effect-Graphic_1920x1080-768x432-1.webp",
+  "image:width": "768",
+  "image:height": "432",
+  "image:alt": "High THC and the Entourage Effect",
+  "image:type": "image/webp"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438",
+  "tag": [
+   "cannabinoids",
+   "cannabis flower",
+   "cape cod cannabis",
+   "cbd",
+   "cbg",
+   "cbn",
+   "cultivation",
+   "entourage effect",
+   "high thc",
+   "strains",
+   "terpenes",
+   "thc potency"
+  ],
+  "section": "Cannabis 101",
+  "published_time": "2024-10-01T15:26:08-04:00",
+  "modified_time": "2026-06-30T12:04:08-04:00"
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "The Myth of High THC Potency: Why It's Not the Only Factor in Choosing the Best Cannabis Flower | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "When shopping for cannabis flower, many people believe that high THC potency is the most important factor in determining quality and effect. Fact or myth?",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2024/10/Entourage-Effect-Graphic_1920x1080-768x432-1.webp",
+  "label1": "Written by",
+  "data1": "rrh_clientadmin",
+  "label2": "Time to read",
+  "data2": "3 minutes"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Place",
+     "@id": "https://capecodcannabis.com/#place",
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.916265712481554",
+      "longitude": "-69.98840341462632"
+     },
+     "hasMap": "https://www.google.com/maps/search/?api=1&amp;query=41.916265712481554,-69.98840341462632",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     }
+    },
+    {
+     "@type": [
+      "LocalBusiness",
+      "Organization"
+     ],
+     "@id": "https://capecodcannabis.com/#organization",
+     "name": "Cape Cod Cannabis in Wellfleet - Best dispensary on Cape Cod.",
+     "url": "https://capecodcannabis.com",
+     "sameAs": [
+      "https://www.facebook.com/profile.php?id=100077867156438",
+      "https://twitter.com/capecodcanna"
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "logo": {
+      "@type": "ImageObject",
+      "@id": "https://capecodcannabis.com/#logo",
+      "url": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "contentUrl": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "caption": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+      "inLanguage": "en-US",
+      "width": "700",
+      "height": "500"
+     },
+     "openingHours": [
+      "Mo,Tu,We,Th,Fr,Sa,Su 8:00 - 8:00"
+     ],
+     "description": "Welcome to Cape Cod Cannabis, recognized by many as the Best Dispensary on Cape Cod, located in Wellfleet. Conveniently situated in the Route 6 shopping plaza in South Wellfleet, we are a trusted destination for both locals and visitors traveling from Provincetown, Truro, Wellfleet, Eastham, Orleans, Brewster, Dennis, Harwich, Chatham, Yarmouth, Sandwich and across the Cape and beyond.\n\nCape Cod Cannabis, your go-to cannabis haven, offers a carefully curated selection of high quality products, including flower, pre-rolls, edibles, vaporizers, concentrates, tinctures, topicals, CBD, accessories, and more. With a focus on education, selection, and a welcoming experience, we make it easy to explore and find what works best for you whether you are visiting the Cape or live here year round.",
+     "location": {
+      "@id": "https://capecodcannabis.com/#place"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/#logo"
+     },
+     "telephone": "+1-774-383-3133"
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://capecodcannabis.com/#website",
+     "url": "https://capecodcannabis.com",
+     "name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+     "alternateName": "Cape Cod Cannabis | Wellfleet's Top Rated Cannabis Store on Cape Cod",
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "https://capecodcannabis.com/wp-content/uploads/2024/10/Entourage-Effect-Graphic_1920x1080-768x432-1.webp",
+     "url": "https://capecodcannabis.com/wp-content/uploads/2024/10/Entourage-Effect-Graphic_1920x1080-768x432-1.webp",
+     "width": "768",
+     "height": "432",
+     "caption": "High THC and the Entourage Effect",
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/the-myth-of-high-thc-potency/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/category/cannabis-101/",
+        "name": "Cannabis 101"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "3",
+       "item": {
+        "@id": "https://capecodcannabis.com/the-myth-of-high-thc-potency/",
+        "name": "The Myth of High THC Potency: Why It&#8217;s Not the Only Factor in Choosing the Best Cannabis Flower"
+       }
+      }
+     ]
+    },
+    {
+     "@type": "WebPage",
+     "@id": "https://capecodcannabis.com/the-myth-of-high-thc-potency/#webpage",
+     "url": "https://capecodcannabis.com/the-myth-of-high-thc-potency/",
+     "name": "The Myth of High THC Potency: Why It&#039;s Not the Only Factor in Choosing the Best Cannabis Flower | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "datePublished": "2024-10-01T15:26:08-04:00",
+     "dateModified": "2026-06-30T12:04:08-04:00",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2024/10/Entourage-Effect-Graphic_1920x1080-768x432-1.webp"
+     },
+     "inLanguage": "en-US",
+     "breadcrumb": {
+      "@id": "https://capecodcannabis.com/the-myth-of-high-thc-potency/#breadcrumb"
+     }
+    },
+    {
+     "@type": "Person",
+     "@id": "https://capecodcannabis.com/the-myth-of-high-thc-potency/#author",
+     "name": "rrh_clientadmin",
+     "image": {
+      "@type": "ImageObject",
+      "@id": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "url": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "caption": "rrh_clientadmin",
+      "inLanguage": "en-US"
+     },
+     "worksFor": {
+      "@id": "https://capecodcannabis.com/#organization"
+     }
+    },
+    {
+     "@type": "Article",
+     "headline": "The Myth of High THC Potency: Why It&#039;s Not the Only Factor in Choosing the Best Cannabis Flower | Cape",
+     "keywords": "high thc, potency, cannabis flower",
+     "datePublished": "2024-10-01T15:26:08-04:00",
+     "dateModified": "2026-06-30T12:04:08-04:00",
+     "articleSection": "Cannabis 101, Start Here",
+     "author": {
+      "@id": "https://capecodcannabis.com/the-myth-of-high-thc-potency/#author",
+      "name": "rrh_clientadmin"
+     },
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "description": "When shopping for cannabis flower, many people believe that high THC potency is the most important factor in determining quality and effect. Fact or myth?",
+     "name": "The Myth of High THC Potency: Why It&#039;s Not the Only Factor in Choosing the Best Cannabis Flower | Cape",
+     "@id": "https://capecodcannabis.com/the-myth-of-high-thc-potency/#richSnippet",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/the-myth-of-high-thc-potency/#webpage"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2024/10/Entourage-Effect-Graphic_1920x1080-768x432-1.webp"
+     },
+     "inLanguage": "en-US",
+     "mainEntityOfPage": {
+      "@id": "https://capecodcannabis.com/the-myth-of-high-thc-potency/#webpage"
+     }
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "h1": "The Myth of High THC Potency: Why It’s Not the Only Factor in Choosing the Best Cannabis Flower",
+ "h1Source": {
+  "count": 1,
+  "visible": 1,
+  "hidden": 0
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Cannabis 101",
+   "href": "/category/cannabis-101/"
+  },
+  {
+   "label": "The Myth of High THC Potency: Why It’s Not the Only Factor in Choosing the Best Cannabis Flower",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "visible",
+ "breadcrumbsSeparator": " / ",
+ "breadcrumbsLabel": "breadcrumbs",
+ "breadcrumbsInRegion": true,
+ "section": null,
+ "sections": [
+  {
+   "n": 0,
+   "id": "3f1093a4",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "The Myth of High THC Potency: Why It’s Not the Only Factor in Choosing the Best Cannabis Flower"
+    },
+    {
+     "t": "meta",
+     "items": [
+      {
+       "text": "October 1, 2024",
+       "href": "/2024/10/01/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "153593da",
+   "doc": "wp-post#108632",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "The Myth of High THC Potency: Why It’s Not the Only Factor in Choosing the Best Cannabis Flower"
+    },
+    {
+     "t": "rich",
+     "html": "<p>When shopping for cannabis flower, many people believe that high THC potency is the most important factor in determining quality and effect. It’s easy to see why—THC (tetrahydrocannabinol) is the primary psychoactive compound in cannabis, so it’s often assumed that more THC equals a stronger and better experience. However, at <strong>Cape Cod Cannabis in Wellfleet, MA</strong>, we’re here to dispel the myth that high THC alone determines the best cannabis flower.</p><p>While THC levels play a role in the overall potency, there’s much more to the cannabis experience than just the percentage on the label. Factors like <a href=\"/terpene-guide/\" data-link=\"dead\">terpene</a> profiles, cannabinoids, and how the plant was grown all contribute to the unique effects, flavors, and benefits of each <a href=\"/strains/\">strain</a>. Focusing solely on THC can lead consumers to miss out on some of the most enjoyable and beneficial aspects of cannabis.</p><p><strong>Terpenes: The Aromatic Powerhouses</strong><br>Terpenes are aromatic compounds found in cannabis that influence its scent, taste, and effects. They work synergistically with THC and other cannabinoids in what’s called the “entourage effect.” This interaction helps enhance the overall experience of the strain, contributing to effects like relaxation, focus, or even creativity. Strains with rich terpene profiles can deliver a more balanced and enjoyable experience, regardless of the THC percentage. Visit our <a href=\"/terpene-guide/\" data-link=\"dead\">Terpene Guide</a> for more information.</p><p><img src=\"assets/source/7586ec5e-Entourage-Effect-Graphic_1920x1080-768x432.png.webp\" alt=\"The Entourage Effect in Cannabis Flower\" width=\"506\" height=\"285\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://b2702268.assetcdn.net/2.0/2702268/wp-content/smush-webp/2023/11/Entourage-Effect-Graphic_1920x1080-768x432.png.webp?lossy=2&amp;strip=0&amp;webp=1\"></p><p>For instance, a strain high in the terpene<strong> myrcene</strong> may offer deep relaxation and pain relief, while <strong>limonene</strong> might uplift and energize. These terpene combinations can make a strain with moderate THC levels feel more potent or effective than a high-THC strain with a weaker terpene profile.</p><p><strong>The Importance of Cannabinoids</strong><br>Beyond THC, cannabis contains over 100 other cannabinoids, such as CBD, CBG, and CBN, each with its own set of therapeutic properties. A strain with a balanced cannabinoid profile might provide a more nuanced, less overwhelming high than a strain that’s THC-heavy but lacking in other cannabinoids. For example, strains with <a href=\"/strains/high-cbd/\">higher levels of<strong> CBD</strong></a> can help mitigate anxiety or paranoia that can sometimes accompany high-THC strains, creating a more comfortable and enjoyable experience.</p><p><strong>Cultivation Quality Matters</strong><br>The way cannabis is cultivated also plays a significant role in the final product’s quality. At Cape Cod Cannabis, we focus on sourcing flower from trusted growers who prioritize sustainable and organic growing practices. Properly grown cannabis tends to have better flavor, smoother smoke, and more consistent effects. Even a high-THC strain can disappoint if it’s poorly grown, lacking in flavor and balance.</p><p><strong>Finding the Best Flower at Cape Cod Cannabis</strong><br>At Cape Cod Cannabis, we believe in educating our customers to look beyond THC potency and explore the many factors that make a cannabis flower exceptional. We carry a <a href=\"/strains/\">wide selection of strains</a> that vary in THC levels but shine in terms of terpene richness, cannabinoid content, and overall quality. Our knowledgeable staff is here to help you find the right flower for your needs, whether you’re seeking relaxation, creativity, or relief.</p><p><strong><em>Remember, the best <a href=\"/categories/flower/\">cannabis flower</a> isn’t always about having the highest THC percentage. Instead, it’s about finding the right balance of effects, flavor, and overall enjoyment. Explore our wide range of <a href=\"/strains/\">strains</a> at Cape Cod Cannabis in Wellfleet, MA, and discover a whole new way to experience cannabis.</em></strong></p><p><strong>Visit Us Today</strong><br><em>Ready to learn more and find the perfect strain for you?</em> <a href=\"/directions/\">Stop by Cape Cod Cannabis in the Route 6 shopping plaza in South Wellfleet</a>, and talk to our expert team of product specialists. We’re here to guide you through the wide world of cannabis, so you can discover the right products for your lifestyle and needs. Plus, don’t forget to check out <a href=\"/blog/\" data-link=\"dead\">our blog</a> for more insights on cannabis myths and information, strain reviews, and tips for enjoying the best cannabis experience possible.</p>"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "329af6c",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "postnav",
+     "prev": {
+      "srLabel": "Prev",
+      "title": "The Perfect 420 Holiday Cannabis-Infused Drink Recipes",
+      "href": "/holiday-cannabis-infused-drink-recipes/"
+     },
+     "next": {
+      "title": "The Ultimate 420 Dabbing Temperature Guide for Concentrates and Terpenes",
+      "srLabel": "Next",
+      "href": "/the-ultimate-dabbing-temperature-guide/"
+     },
+     "ariaLabels": [
+      "Post Navigation"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": "9ba89d6",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "comments",
+     "note": "WordPress comment form; no comment backend in a static rebuild"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "comments": 1,
+  "heading": 2,
+  "meta": 1,
+  "postnav": 1,
+  "rich": 1
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [
+   {
+    "href": "/terpene-guide/",
+    "from": "https://capecodcannabis.com/terpene-guide/",
+    "status": "dead"
+   },
+   {
+    "href": "/blog/",
+    "from": "https://capecodcannabis.com/blog/",
+    "status": "dead"
+   }
+  ],
+  "aliasesResolved": [
+   {
+    "from": "https://capecodcannabis.com/2024/10/01/",
+    "to": "/2024/10/01/"
+   },
+   {
+    "from": "/strains",
+    "to": "/strains/"
+   },
+   {
+    "from": "/strains/high-cbd/",
+    "to": "/strains/high-cbd/"
+   },
+   {
+    "from": "/strains/",
+    "to": "/strains/"
+   },
+   {
+    "from": "/categories/flower/",
+    "to": "/categories/flower/"
+   },
+   {
+    "from": "/directions",
+    "to": "/directions/"
+   },
+   {
+    "from": "https://capecodcannabis.com/holiday-cannabis-infused-drink-recipes/",
+    "to": "/holiday-cannabis-infused-drink-recipes/"
+   },
+   {
+    "from": "https://capecodcannabis.com/the-ultimate-dabbing-temperature-guide/",
+    "to": "/the-ultimate-dabbing-temperature-guide/"
+   },
+   {
+    "from": "https://capecodcannabis.com/category/cannabis-101/",
+    "to": "/category/cannabis-101/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

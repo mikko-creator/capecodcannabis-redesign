@@ -1,0 +1,813 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/lifecycle-of-a-cannabis-seed/",
+ "sourceUrl": "https://capecodcannabis.com/lifecycle-of-a-cannabis-seed/",
+ "requestedUrl": "https://capecodcannabis.com/lifecycle-of-a-cannabis-seed",
+ "slug": "lifecycle-of-a-cannabis-seed",
+ "kind": "blog-post",
+ "wpTemplate": "page",
+ "derived": false,
+ "rawFile": "audit/raw/lifecycle-of-a-cannabis-seed.html",
+ "rawSha256": "440010c46167ae16e75de6dc397573fd225a01bba9bbf074d6afd5b1b89ace5d",
+ "regionKind": "main",
+ "title": "Lifecycle of a Cannabis Seed | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA |",
+ "metaDescription": "Lifecycle of a Cannabis Seed | The full lifecycle of a cannabis seed from germination to harvest and curing takes approximately 3.5 to 6+ months, depending on",
+ "canonical": "https://capecodcannabis.com/lifecycle-of-a-cannabis-seed/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "Lifecycle of a Cannabis Seed | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA |",
+  "description": "Lifecycle of a Cannabis Seed | The full lifecycle of a cannabis seed from germination to harvest and curing takes approximately 3.5 to 6+ months, depending on",
+  "url": "https://capecodcannabis.com/lifecycle-of-a-cannabis-seed/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2025-05-26T11:46:39-04:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2025/05/Germination-765x300-1.png",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/2025/05/Germination-765x300-1.png",
+  "image:width": "765",
+  "image:height": "330",
+  "image:alt": "1. Germination Cannabis Seed - Cape Cod Cannabis, Wellfleet, MA",
+  "image:type": "image/png"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438"
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "Lifecycle of a Cannabis Seed | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA |",
+  "description": "Lifecycle of a Cannabis Seed | The full lifecycle of a cannabis seed from germination to harvest and curing takes approximately 3.5 to 6+ months, depending on",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2025/05/Germination-765x300-1.png",
+  "label1": "Time to read",
+  "data1": "3 minutes"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/lifecycle-of-a-cannabis-seed/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/lifecycle-of-a-cannabis-seed/",
+        "name": "Lifecycle of a Cannabis Seed"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "h1": "Shop Cannabis Flower or Seeds for sale in Wellfleet, MA",
+ "h1Source": {
+  "count": 1,
+  "visible": 1,
+  "hidden": 0
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Lifecycle of a Cannabis Seed",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "visible",
+ "breadcrumbsSeparator": " / ",
+ "breadcrumbsLabel": "breadcrumbs",
+ "breadcrumbsInRegion": true,
+ "section": null,
+ "sections": [
+  {
+   "n": 0,
+   "id": "59b86e1d",
+   "doc": "section#11803",
+   "cont": true,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "Shop Cannabis Flower or Seeds for sale in Wellfleet, MA"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "49baecb",
+   "doc": "wp-page#135794",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Lifecycle of a Cannabis Seed"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "1398834",
+   "doc": "wp-page#135794",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>This timeline is provided for <b>educational purposes only</b> and is intended to offer a general overview of the cannabis cultivation process from seed to harvest. Please note that results may vary depending on numerous factors, including strain genetics, growing environment, and cultivation methods. This information is not guaranteed to produce specific outcomes and should not be considered professional advice. Always follow local laws and best practices when cultivating cannabis.</p>"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": "42ad605",
+   "doc": "wp-page#135794",
+   "blocks": [
+    {
+     "t": "timeline",
+     "kind": "jet-timeline",
+     "items": [
+      {
+       "meta": "1-7 Days",
+       "text": "1-7 Days 1. Germination Stage The cannabis lifecycle begins when a viable seed is exposed to moisture, warmth, and darkness. The seed absorbs water through its hard outer shell, activating internal enzymes and hormones. A white taproot (radicle) emerges as the seed cracks open, anchoring the future plant and beginning nutrient uptake. Key Conditions: • Temperature: 70–85°F (21–29°C) • Humidity: 70–90% • Darkness or low light • Moist, not soaked, growing medium (paper towels, peat plugs, or soil) Goal: A strong taproot and first signs of life—ready for transplant into soil or a hydroponic medium. 1-7 Days",
+       "image": {
+        "ref": "assets/source/a83c97d1-Germination-765x300-1.png",
+        "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/05/Germination-765x300-1.png?lossy=2&strip=0&webp=1",
+        "alt": "1. Germination Cannabis Seed - Cape Cod Cannabis, Wellfleet, MA",
+        "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+        "w": 765,
+        "h": 330
+       }
+      },
+      {
+       "meta": "2-3 weeks",
+       "text": "2-3 weeks 2. Seedling Stage After germination, the seedling emerges above soil. The first cotyledon leaves (small, round seed leaves) appear, followed by the first true serrated cannabis leaves. This young plant is very delicate and needs proper conditions to develop a strong root system and stem. Key Conditions: • Light: 18–24 hours per day (low-intensity grow lights) • Temperature: 68–77°F (20–25°C) • Humidity: 65–70% • Minimal nutrients (overfeeding can damage seedlings) Goal: Grow a sturdy, healthy base with at least 4–5 sets of true leaves before moving to vegetative growth. 2-3 weeks",
+       "image": {
+        "ref": "assets/source/63e4e631-Seedling-765x300-2.png",
+        "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/05/Seedling-765x300-2.png?lossy=2&strip=0&webp=1",
+        "alt": "2. Seedling - Cape Cod Cannabis, Wellfleet, MA",
+        "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+        "w": 765,
+        "h": 330
+       }
+      },
+      {
+       "meta": "3-8 weeks or longer",
+       "text": "3-8 weeks or longer 3. Vegetative Stage This is the main growth phase. The plant rapidly develops branches, stems, and fan leaves, building energy through photosynthesis. Roots expand aggressively, and the plant can be trained (via topping, LST, etc.) to encourage bushier growth and increase future yields. Key Conditions: • Light: 18 hours on / 6 hours off • Temperature: 70–85°F (21–29°C) • Humidity: 40–70% • Nutrients: High nitrogen (N) feed for structural growth Goal: Produce a robust, healthy plant with strong stems and multiple bud sites ready for flowering. 3-8 weeks or longer",
+       "image": {
+        "ref": "assets/source/36c34181-Vegetative-765x300-3.png",
+        "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/05/Vegetative-765x300-3.png?lossy=2&strip=0&webp=1",
+        "alt": "3. Vegetative - Cape Cod Cannabis, Wellfleet, MA",
+        "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+        "w": 765,
+        "h": 330
+       }
+      },
+      {
+       "meta": "1-2 weeks",
+       "text": "1-2 weeks 4. Pre-Flowering / Sexing Stage When transitioning from vegetative to flowering (typically by changing the light cycle), the plant shows signs of sex. • Females show pistils (white hairs at nodes) • Males form pollen sacs (round balls) If growing from regular seeds, this is the time to identify and remove males (unless breeding). Feminized seeds skip this guessing game. Key Conditions: • Same as late vegetative stage • Begin adjusting nutrient mix (lower nitrogen, more phosphorus) Goal: Identify plant sex and prepare females for full flowering. 1-2 weeks",
+       "image": {
+        "ref": "assets/source/ae9e716c-Pre-Flowering-765x300-4b.png",
+        "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/05/Pre-Flowering-765x300-4b.png?lossy=2&strip=0&webp=1",
+        "alt": "Pre-Flowering / Sexing Stage - Cape Cod Cannabis in Wellfleet, MA",
+        "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+        "w": 765,
+        "h": 330
+       }
+      },
+      {
+       "meta": "6-12 weeks (Strain Dependent)",
+       "text": "6-12 weeks (Strain Dependent) 5. Flowering Stage Once exposed to 12 hours of darkness, cannabis begins to flower. Female plants grow buds, which are clusters of calyxes covered in trichomes (resin glands with cannabinoids and terpenes). Buds thicken and ripen over time, developing their signature aroma, flavor, and potency. Key Conditions: • Light: 12 hours on / 12 off (strict) • Temperature: 65–80°F (18–26°C) • Humidity: 40–50% (lowering toward end to prevent mold) • Nutrients: Lower nitrogen, higher phosphorus (P) and potassium (K) Goal: Grow dense, resinous, cannabinoid-rich buds for harvest. 6-12 weeks (Strain Dependent)",
+       "image": {
+        "ref": "assets/source/4351e26e-Flowering-765x300-4.png",
+        "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/05/Flowering-765x300-4.png?lossy=2&strip=0&webp=1",
+        "alt": "Flowering - Cape Cod Cannabis, Wellfleet, MA",
+        "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+        "w": 765,
+        "h": 330
+       }
+      },
+      {
+       "meta": "Timing depends on Strain",
+       "text": "Timing depends on Strain 6. Harvest Stage Once trichomes shift from clear to cloudy/amber, and pistils darken and curl, the plant is ready for harvest. Timing affects potency: • Cloudy trichomes = peak THC • Amber trichomes = more CBN (relaxing, sedative effect) Key Steps: • Flush plant with water (no nutrients) for 7–14 days pre-harvest • Cut plant at the base or trim individual branches • Handle gently to preserve trichomes Goal: Harvest at optimal ripeness for desired effects and potency. Timing depends on Strain",
+       "image": {
+        "ref": "assets/source/359f3417-Harvest-765x300-5.png",
+        "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/05/Harvest-765x300-5.png?lossy=2&strip=0&webp=1",
+        "alt": "Harvest - Cape Cod Cannabis, Wellfleet, MA",
+        "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+        "w": 765,
+        "h": 330
+       }
+      },
+      {
+       "meta": "2-6 weeks",
+       "text": "2-6 weeks 7. Drying & Curing Post-harvest, buds must be dried slowly to remove moisture without damaging cannabinoids. Then, curing in airtight containers allows flavors and potency to develop fully, reduces harshness, and preserves freshness. Key Conditions (Drying): • Temp: 60–70°F (16–21°C) • Humidity: 50–60% • Time: 7–14 days, in dark space with airflow Key Conditions (Curing): • Use glass jars, “burped” daily to release gases • Continue for at least 2–4 weeks (up to 6+ weeks for premium results) Goal: Smooth, flavorful, potent buds with long shelf life and full terpene profile. 2-6 weeks",
+       "image": {
+        "ref": "assets/source/d0dd4837-Drying-Curing-765x300-6.png",
+        "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/05/Drying-Curing-765x300-6.png?lossy=2&strip=0&webp=1",
+        "alt": "Drying & Curing - Cape Cod Cannabis, Wellfleet, MA",
+        "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+        "w": 765,
+        "h": 330
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "id": "3023658",
+   "doc": "wp-page#135794",
+   "blocks": [
+    {
+     "t": "button",
+     "label": "Shop Flower",
+     "href": "/categories/flower/"
+    },
+    {
+     "t": "button",
+     "label": "Shop Seeds",
+     "href": "/categories/seeds/"
+    },
+    {
+     "t": "button",
+     "label": "Shop Menu",
+     "href": "/menu/"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "id": "37a7e96",
+   "doc": "wp-page#135794",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>The <b>full lifecycle of a cannabis seed</b> from germination to harvest and curing takes approximately <b>3.5 to 6+ months</b>, depending on the strain, growing conditions, and desired quality.</p><p>Here’s a breakdown of <b>how long each stage takes</b>:</p><table><thead><tr><th><p><b>Stage</b></p></th><th><p><b>Timeframe</b></p></th></tr></thead><tbody><tr><td><p>Germination</p></td><td><p>1–7 days</p></td></tr><tr><td><p>Seedling</p></td><td><p>2–3 weeks</p></td></tr><tr><td><p>Vegetative</p></td><td><p>3–8 weeks (longer if desired)</p></td></tr><tr><td><p>Pre-flowering/Sexing</p></td><td><p>1–2 weeks</p></td></tr><tr><td><p>Flowering</p></td><td><p>6–12 weeks (strain dependent)</p></td></tr><tr><td><p>Harvest</p></td><td><p>1–3 days (includes trimming)</p></td></tr><tr><td><p>Drying &amp; Curing</p></td><td><p>2–6 weeks (curing can go longer)</p></td></tr></tbody></table>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Typical Total Duration:"
+    },
+    {
+     "t": "rich",
+     "html": "<ul><li><p><b>Fast grow (auto-flowering strains)</b>: ~12–14 weeks (3–3.5 months)</p></li><li><p><b>Photoperiod grow (indoor/outdoor)</b>: ~16–24 weeks (4–6 months+)<br></p></li></ul>"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "id": "f9e6ac8",
+   "doc": "wp-page#135794",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>#CannabisSeedLifecycle #FromSeedToHarvest #GrowingCannabis #CannabisCultivation #HowCannabisGrows #SeedToStash #CannabisEducation #MarijuanaCultivation #HomeGrowCannabis #CannabisPlantGrowth #CapeCodCannabis</p>"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "button": 3,
+  "heading": 3,
+  "rich": 4,
+  "timeline": 1
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [],
+  "links": [],
+  "aliasesResolved": [
+   {
+    "from": "/categories/flower",
+    "to": "/categories/flower/"
+   },
+   {
+    "from": "/categories/seeds",
+    "to": "/categories/seeds/"
+   },
+   {
+    "from": "/menu",
+    "to": "/menu/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

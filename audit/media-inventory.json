@@ -1,0 +1,30 @@
+{
+  "schema": "site-reforge/media@1",
+  "generated": "2026-10-12T00:50:16.915Z",
+  "note": "Same-origin <video>/<audio>/<source> only. A third-party video is an outbound dependency of the site, not an asset of it. Oversized files are skipped, never truncated.",
+  "maxBytes": 52428800,
+  "discovered": [
+    "https://capecodcannabis.com/wp-content/uploads/2024/05/CCC-May-28-2024-2-OptiSign.mp4",
+    "https://capecodcannabis.com/wp-content/uploads/2026/06/So-Cool-400x600-1-2.mp4",
+    "https://capecodcannabis.com/wp-content/uploads/2021/12/Strane-Purgatory.mov",
+    "https://capecodcannabis.com/wp-content/uploads/2021/12/Glorious-Cannabis-Co-Lemon-Cherry-Gelato.mov",
+    "https://capecodcannabis.com/wp-content/uploads/2021/12/Perpetual-Bubble-Yum.mov",
+    "https://capecodcannabis.com/wp-content/uploads/2021/12/Resinate-Grandaddy-Purp.mov",
+    "https://capecodcannabis.com/wp-content/uploads/2026/07/GHP_Spinning_Cultivars.mp4",
+    "https://capecodcannabis.com/wp-content/uploads/2026/07/GHP_Spinning_Cultivars.mp4?_=1",
+    "https://capecodcannabis.com/wp-content/uploads/2025/08/STRANE_REBRANDING_240628_GUITAR_LQ.mp4",
+    "https://capecodcannabis.com/wp-content/uploads/2025/08/STRANE_REBRANDING_240628_GUITAR_LQ.mp4?_=1",
+    "https://capecodcannabis.com/wp-content/uploads/2025/06/Cannabis-101-Guide-VEED-2.mp4",
+    "https://capecodcannabis.com/wp-content/uploads/2026/07/stop-the-repeal-All_Voting_v11_MC.mp4",
+    "https://capecodcannabis.com/wp-content/uploads/2026/07/stop-the-repeal-Public_Health_v06_MC.mp4",
+    "https://capecodcannabis.com/wp-content/uploads/2026/07/stop-the-repeal-All_Voting_v11_MC.mp4?_=1",
+    "https://capecodcannabis.com/wp-content/uploads/2026/07/stop-the-repeal-Public_Health_v06_MC.mp4?_=2",
+    "https://capecodcannabis.com/wp-content/uploads/2024/01/Testing-Protocol-Flyer.pdf",
+    "https://capecodcannabis.com/wp-content/uploads/2024/02/Things-You-Should-Know-Cannabis.pdf",
+    "https://capecodcannabis.com/wp-content/uploads/2024/02/INTRODUCCION-AL-CANNABIS.pdf",
+    "https://capecodcannabis.com/wp-content/uploads/2026/07/Dispensary-Messaging-Stop-the-Repeal-Flyer-8.5x11.pdf"
+  ],
+  "saved": [],
+  "skipped": [],
+  "map": {}
+}

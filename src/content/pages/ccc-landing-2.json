@@ -1,0 +1,1123 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/ccc-landing-2/",
+ "sourceUrl": "https://capecodcannabis.com/ccc-landing-2/",
+ "requestedUrl": "https://capecodcannabis.com/ccc-landing-2",
+ "slug": "ccc-landing-2",
+ "kind": "standard-page",
+ "wpTemplate": "page-full-width",
+ "derived": false,
+ "rawFile": "audit/raw/ccc-landing-2.html",
+ "rawSha256": "dc2d8fd5ecf5171899fb509ce452f662544417b2c4c6d09c8da3ef12149a4393",
+ "regionKind": "body-minus-chrome",
+ "title": "CCC Landing | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA |",
+ "metaDescription": "CCC Landing | Flower, Pre-rolls, Edibles, Vape Carts & Dispos, Concentrates, and Tinctures. | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+ "canonical": "https://capecodcannabis.com/ccc-landing-2/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "CCC Landing | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA |",
+  "description": "CCC Landing | Flower, Pre-rolls, Edibles, Vape Carts & Dispos, Concentrates, and Tinctures. | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "url": "https://capecodcannabis.com/ccc-landing-2/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2026-08-18T16:16:29-04:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2025/04/Bundles-Blazing-Bargains-1176x500-1.png",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/2025/04/Bundles-Blazing-Bargains-1176x500-1.png",
+  "image:width": "1176",
+  "image:height": "500",
+  "image:alt": "Shop our Bundles and Blazing Bargains and SAVE at Cape Cod Cannabis in Wellfleet, MAShop our Bundles and Blazing Bargains and SAVE at Cape Cod Cannabis in Wellfleet, MAShop our Bundles and Blazing Bargains and SAVE at Cape Cod Cannabis in Wellfleet, MAShop our Bundles and Blazing Bargains and SAVE at Cape Cod Cannabis in Wellfleet, MAShop our Bundles and Blazing Bargains and SAVE at Cape Cod Cannabis in Wellfleet, MA",
+  "image:type": "image/png"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438"
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "CCC Landing | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA |",
+  "description": "CCC Landing | Flower, Pre-rolls, Edibles, Vape Carts & Dispos, Concentrates, and Tinctures. | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2025/04/Bundles-Blazing-Bargains-1176x500-1.png",
+  "label1": "Time to read",
+  "data1": "1 minute"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/ccc-landing-2/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/ccc-landing-2/",
+        "name": "CCC Landing"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "h1": null,
+ "h1Source": {
+  "count": 1,
+  "visible": 0,
+  "hidden": 1,
+  "note": "source h1 is hidden on every device",
+  "candidates": [
+   {
+    "text": "Shop Cannabis Flower",
+    "from": "first visible heading (level 2)"
+   },
+   {
+    "text": "CCC Landing",
+    "from": "breadcrumb last item (visible)"
+   },
+   {
+    "text": "CCC Landing | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA |",
+    "from": "title"
+   }
+  ]
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "CCC Landing",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "visible",
+ "breadcrumbsSeparator": " / ",
+ "breadcrumbsLabel": "breadcrumbs",
+ "breadcrumbsInRegion": true,
+ "section": null,
+ "sections": [
+  {
+   "n": 0,
+   "id": "789a5dd7",
+   "doc": "section#11803",
+   "cont": true,
+   "hiddenAll": true,
+   "dev": [],
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "Shop Cannabis Products for sale in Wellfleet, MA",
+     "dev": [],
+     "hiddenAll": true,
+     "demote": true
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "391df8de",
+   "doc": "wp-page#198933",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Shop Cannabis Flower"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "The finest selection"
+    },
+    {
+     "t": "button",
+     "label": "Shop Flower",
+     "href": "/categories/flower/"
+    },
+    {
+     "t": "button",
+     "label": "Shop Flower Offers",
+     "href": "/all-flower-on-sale/",
+     "dev": [],
+     "hiddenAll": true
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "74308f3a",
+   "doc": "wp-page#198933",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Shop Pre-Rolls"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "The finest selection"
+    },
+    {
+     "t": "button",
+     "label": "Shop Pre-Rolls",
+     "href": "/categories/pre-rolls/"
+    },
+    {
+     "t": "button",
+     "label": "Shop Pre-Roll Offers",
+     "href": "/all-pre-rolls-on-sale/",
+     "dev": [],
+     "hiddenAll": true
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Shop Edibles"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "The finest selection"
+    },
+    {
+     "t": "button",
+     "label": "Shop Edibles",
+     "href": "/categories/edibles/"
+    },
+    {
+     "t": "button",
+     "label": "Shop Edible Offers",
+     "href": "/all-edibles-on-sale/",
+     "dev": [],
+     "hiddenAll": true
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": "14b4a906",
+   "doc": "wp-page#198933",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Shop Vapes & Carts"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "The finest selection"
+    },
+    {
+     "t": "button",
+     "label": "Shop Vapes & Carts",
+     "href": "/categories/vaporizers/"
+    },
+    {
+     "t": "button",
+     "label": "Shop Vape Offers",
+     "href": "/all-vaporizers-bundles/",
+     "dev": [],
+     "hiddenAll": true
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Shop Concentrates"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "The finest selection"
+    },
+    {
+     "t": "button",
+     "label": "Shop Concentrates",
+     "href": "/categories/concentrates/"
+    },
+    {
+     "t": "button",
+     "label": "Shop Concentrate Offers",
+     "href": "/all-concentrates-on-sale/",
+     "dev": [],
+     "hiddenAll": true
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "id": "4288aaac",
+   "doc": "wp-page#198933",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Shop Tinctures & Syrups"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "The finest selection"
+    },
+    {
+     "t": "button",
+     "label": "Shop Tinctures",
+     "href": "/categories/tinctures/"
+    },
+    {
+     "t": "button",
+     "label": "Shop Tincture Offers",
+     "href": "/all-tinctures-on-sale/",
+     "dev": [],
+     "hiddenAll": true
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Shop CBD",
+     "href": "/categories/CBD/"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "The finest selection"
+    },
+    {
+     "t": "button",
+     "label": "Shop CBD",
+     "href": "/categories/cbd/"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "id": "59b57cdd",
+   "doc": "wp-page#198933",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Bundle Offers"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "The Best Offers on Cape Cod"
+    },
+    {
+     "t": "button",
+     "label": "View All Offers",
+     "href": "/specials/"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Shop Offers By Category"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Flower, Pre-rolls, Edibles, Vape Carts &amp; Dispos, Concentrates, and Tinctures.</p>"
+    },
+    {
+     "t": "nav",
+     "kind": "mega-menu",
+     "items": [
+      {
+       "label": "Flower",
+       "href": "/all-flower-on-sale/",
+       "title": "Shop Flower Offers"
+      },
+      {
+       "label": "Pre-Rolls",
+       "href": "/all-pre-rolls-on-sale/",
+       "title": "Shop Pre-Roll Offers"
+      },
+      {
+       "label": "Edibles",
+       "href": "/all-edibles-on-sale/",
+       "title": "Shop Edible Offers"
+      },
+      {
+       "label": "Vaporizers",
+       "href": "/all-vaporizers-bundles/",
+       "title": "Shop Vaporizer Offers"
+      },
+      {
+       "label": "Concentrates",
+       "href": "/all-concentrates-on-sale/",
+       "title": "Shop Concentrate Offers"
+      },
+      {
+       "label": "Tinctures",
+       "href": "/all-tinctures-on-sale/",
+       "title": "Shop Tincture Offers"
+      }
+     ],
+     "ariaLabels": [
+      "Categories",
+      "Menu Toggle"
+     ]
+    },
+    {
+     "t": "rich",
+     "html": "<p>Scroll left-right to view categories</p>",
+     "dev": [
+      "mobile_extra",
+      "mobile"
+     ]
+    },
+    {
+     "t": "image",
+     "ref": "assets/source/ec83c8d2-Bundles-Blazing-Bargains-1176x500-1.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/04/Bundles-Blazing-Bargains-1176x500-1.png?lossy=2&strip=0&webp=1",
+     "alt": "Shop our Bundles and Blazing Bargains and SAVE at Cape Cod Cannabis in Wellfleet, MAShop our Bundles and Blazing Bargains and SAVE at Cape Cod Cannabis in Wellfleet, MAShop our Bundles and Blazing Bargains and SAVE at Cape Cod Cannabis in Wellfleet, MAShop our Bundles and Blazing Bargains and SAVE at Cape Cod Cannabis in Wellfleet, MAShop our Bundles and Blazing Bargains and SAVE at Cape Cod Cannabis in Wellfleet, MA",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 1176,
+     "h": 500,
+     "href": "/specials/"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "id": "7a425a53",
+   "doc": "wp-page#198933",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Cannabis 101 Blog"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Clear, approachable education for first-time visitors and experienced consumers.</p>"
+    },
+    {
+     "t": "button",
+     "label": "Start Learning",
+     "href": "/category/start-here/"
+    },
+    {
+     "t": "image",
+     "ref": "assets/source/5970135b-Start-Here-Blog-Category-765x330-2.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2022/01/Start-Here-Blog-Category-765x330-2.png?lossy=2&strip=0&webp=1",
+     "alt": "Start Here Blog Category at Cape Cod Cannabis in Wellfleet!",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 765,
+     "h": 330,
+     "href": "/category/start-here/"
+    },
+    {
+     "t": "button",
+     "label": "Visit Intro to Cannabis 101",
+     "href": "/intro-to-cannabis-101/"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Visit Cape Cod Cannabis in Wellfleet"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Open Daily, 8 am to 8 pm, with ample free parking right off Route 6 in the South Wellfleet Shopping Plaza.</p>"
+    },
+    {
+     "t": "button",
+     "label": "Click for directions",
+     "href": "/directions/"
+    },
+    {
+     "t": "image",
+     "ref": "assets/source/59525873-Wellfleet-OptiSigns-1920x1080-2b.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/05/Wellfleet-OptiSigns-1920x1080-2b.png?lossy=2&strip=0&webp=1",
+     "alt": "Things to Do in Wellfleet, MA and stop by Cape Cod Cannabis on your way, located in the Rt. 6 South Wellfleet Shopping Plaza!",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 1920,
+     "h": 1080,
+     "href": "/things-to-do-near-cape-cod-cannabis-in-wellfleet-ma/"
+    },
+    {
+     "t": "button",
+     "label": "Discover Wellfleet",
+     "href": "/things-to-do-near-cape-cod-cannabis-in-wellfleet-ma/"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Cape Cod trusted since 2021."
+    },
+    {
+     "t": "rich",
+     "html": "<p>Loved by visitors and trusted by locals since 2021. Friendly guidance, quality products, and a relaxed Cape Cod experience. Conveniently located on Rt. 6 in the South Wellfleet shopping plaza and on your way to <em>(or from)</em> Wellfleet, Truro and Provincetown.</p><p><strong>Premium Cannabis.</strong></p><p><strong>Local Expertise.</strong></p><p><strong>900+ ⭐⭐⭐⭐⭐ Google Reviews</strong></p><p><strong>4.9 ⭐ rating / 5.0</strong></p>"
+    },
+    {
+     "t": "button",
+     "label": "About Cape Cod Cannabis",
+     "href": "/about-cape-cod-cannabis/"
+    },
+    {
+     "t": "image",
+     "ref": "assets/source/1a7e34ec-CCC_Logo_650px-geo-tag-1.jpg",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2023/12/CCC_Logo_650px-geo-tag-1.jpg?lossy=2&strip=0&webp=1",
+     "alt": "Cape Cod dispensary near me - Cape Cod Cannabis, Wellfleet, MA",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 648,
+     "h": 548
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Always worth the trip!"
+    },
+    {
+     "t": "button",
+     "label": "Shop Our Menu",
+     "href": "/menu/"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "id": "6fc842d7",
+   "doc": "wp-page#198933",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong>For adults 21+ only.</strong> Please consume responsibly. Keep out of reach of children and pets. Product availability may vary.</p>"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "button": 20,
+  "heading": 22,
+  "image": 4,
+  "nav": 1,
+  "rich": 6
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [
+   {
+    "section": "59b57cdd",
+    "t": "rich",
+    "dev": [
+     "mobile_extra",
+     "mobile"
+    ],
+    "text": "scroll left-right to view categories"
+   }
+  ],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [],
+  "aliasesResolved": [
+   {
+    "from": "/categories/flower",
+    "to": "/categories/flower/"
+   },
+   {
+    "from": "/all-flower-on-sale/",
+    "to": "/all-flower-on-sale/"
+   },
+   {
+    "from": "/categories/pre-rolls",
+    "to": "/categories/pre-rolls/"
+   },
+   {
+    "from": "/all-pre-rolls-on-sale/",
+    "to": "/all-pre-rolls-on-sale/"
+   },
+   {
+    "from": "/categories/edibles",
+    "to": "/categories/edibles/"
+   },
+   {
+    "from": "/all-edibles-on-sale/",
+    "to": "/all-edibles-on-sale/"
+   },
+   {
+    "from": "/categories/vaporizers",
+    "to": "/categories/vaporizers/"
+   },
+   {
+    "from": "/all-vaporizers-bundles/",
+    "to": "/all-vaporizers-bundles/"
+   },
+   {
+    "from": "/categories/concentrates",
+    "to": "/categories/concentrates/"
+   },
+   {
+    "from": "/all-concentrates-on-sale/",
+    "to": "/all-concentrates-on-sale/"
+   },
+   {
+    "from": "/categories/tinctures",
+    "to": "/categories/tinctures/"
+   },
+   {
+    "from": "/all-tinctures-on-sale/",
+    "to": "/all-tinctures-on-sale/"
+   },
+   {
+    "from": "/categories/CBD",
+    "to": "/categories/CBD/"
+   },
+   {
+    "from": "/categories/cbd",
+    "to": "/categories/cbd/"
+   },
+   {
+    "from": "/specials",
+    "to": "/specials/"
+   },
+   {
+    "from": "/category/start-here/",
+    "to": "/category/start-here/"
+   },
+   {
+    "from": "/intro-to-cannabis-101",
+    "to": "/intro-to-cannabis-101/"
+   },
+   {
+    "from": "/directions",
+    "to": "/directions/"
+   },
+   {
+    "from": "/things-to-do-near-cape-cod-cannabis-in-wellfleet-ma/",
+    "to": "/things-to-do-near-cape-cod-cannabis-in-wellfleet-ma/"
+   },
+   {
+    "from": "/about-cape-cod-cannabis/",
+    "to": "/about-cape-cod-cannabis/"
+   },
+   {
+    "from": "/menu",
+    "to": "/menu/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

@@ -1,0 +1,762 @@
+{
+  "schema": "site-reforge/client-facts@1",
+  "note": "Declared facts. ONLY facts recorded here or present in audit/content-inventory.json may appear as claims on the rebuild. Everything else is a fabrication and sr-fabrication.mjs fails the gate.",
+  "provenance": {
+    "rule": "Every entry is printed on the live site and carries its page, the saved file and a verbatim quote. Nothing here comes from outside the site. Entries marked UNVERIFIED or with a conflict need the client's confirmation before they are presented as fact.",
+    "sources": "audit/raw/*.html (crawl run A, 2026-10-12) and audit/prelock/*. No request was made to the origin for this file.",
+    "verifiedBy": "tmp/understand/facts/verify-quotes.js (re-checks every quote against the saved page)",
+    "writtenAt": "2026-10-12"
+  },
+  "legalName": "",
+  "legalNameEvidence": {
+    "status": "NOT PRINTED",
+    "detail": "No LLC, Inc. or other legal entity name appears on any crawled page. The Terms of Use say only 'the Company'. Ask the client for the licensee's legal name.",
+    "quote": "For purposes of this agreement, “Site” refers to the Company’s website",
+    "page": "https://capecodcannabis.com/terms-of-use",
+    "file": "audit/raw/terms-of-use.html"
+  },
+  "brand": "Cape Cod Cannabis",
+  "businessType": "Store",
+  "businessNames": [
+    {
+      "value": "Cape Cod Cannabis Recreational Dispensary",
+      "where": "footer copyright line, every page",
+      "quote": "Copyright © 2026 Cape Cod Cannabis Recreational Dispensary. All Rights Reserved.",
+      "page": "https://capecodcannabis.com/",
+      "file": "audit/raw/index.html"
+    },
+    {
+      "value": "Cape Cod Cannabis",
+      "where": "logo, headings, JSON-LD LocalBusiness/Store name",
+      "quote": "\"@type\": [\n    \"LocalBusiness\",\n    \"Store\"\n  ],",
+      "page": "https://capecodcannabis.com/",
+      "file": "audit/raw/index.html",
+      "quoteIn": "raw-html"
+    },
+    {
+      "value": "Cape Cod Cannabis Dispensary",
+      "where": "JSON-LD alternateName only",
+      "quote": "\"alternateName\": \"Cape Cod Cannabis Dispensary\"",
+      "page": "https://capecodcannabis.com/",
+      "file": "audit/raw/index.html",
+      "quoteIn": "raw-html"
+    }
+  ],
+  "slogan": {
+    "value": "Always worth the trip!",
+    "quote": "Always worth the trip!",
+    "where": "age gate on all 743 raw files (visible line and logo alt), footer on the 741 files with the footer (not /links/ or /free-bar-coasters/), JSON-LD slogan \"Always Worth the Trip!\"",
+    "page": "https://capecodcannabis.com/",
+    "file": "audit/raw/index.html"
+  },
+  "phone": [
+    "(774) 383-3133"
+  ],
+  "phoneEvidence": [
+    {
+      "value": "(774) 383-3133",
+      "where": "footer Contact block (every page), /contact-cape-cod-cannabis Contact Info, /return-policy",
+      "quote": "If you have any questions regarding our Return Policy please contact us or call (774) 383-3133.",
+      "page": "https://capecodcannabis.com/return-policy",
+      "file": "audit/raw/return-policy.html"
+    },
+    {
+      "value": "+1-774-383-3133",
+      "where": "tel: links and JSON-LD telephone (same number)",
+      "quote": "\"telephone\":\"+1-774-383-3133\"",
+      "page": "https://capecodcannabis.com/",
+      "file": "audit/raw/index.html",
+      "quoteIn": "raw-html"
+    }
+  ],
+  "email": [
+    "info@capecodcannabis.com"
+  ],
+  "emailEvidence": [
+    {
+      "value": "info@capecodcannabis.com",
+      "where": "/contact-cape-cod-cannabis Contact Info; Terms of Use; JSON-LD email",
+      "quote": "please contact us info@capecodcannabis.com.",
+      "page": "https://capecodcannabis.com/terms-of-use",
+      "file": "audit/raw/terms-of-use.html"
+    },
+    {
+      "value": "hr@capecodcannabis.com",
+      "where": "careers page only (job applications)",
+      "quote": "Email your resume to hr@capecodcannabis.com or apply via the online form",
+      "page": "https://capecodcannabis.com/join-our-team-cape-cod-cannabis",
+      "file": "audit/raw/join-our-team-cape-cod-cannabis.html"
+    },
+    {
+      "value": "jbourgea@capecodcannabis.com",
+      "where": "home page JSON-LD block from an ezlocal listing; NOT visible text. A personal staff address: do not publish on the rebuild without the client's say-so.",
+      "quote": "\"email\": \"jbourgea@capecodcannabis.com\"",
+      "page": "https://capecodcannabis.com/",
+      "file": "audit/raw/index.html",
+      "quoteIn": "raw-html"
+    }
+  ],
+  "addresses": [
+    {
+      "street": "1446 US-6",
+      "locality": "Wellfleet",
+      "region": "MA",
+      "postalCode": "02667",
+      "country": "US",
+      "geo": {
+        "lat": 41.9162662,
+        "lng": -69.9883627
+      },
+      "geoNote": "From the Joint LocalBusiness JSON-LD (every page); it matches the footer Google Maps directions link (41.916266,-69.988363) to six decimals. Two other coordinate pairs exist in other JSON-LD blocks: see conflicts.",
+      "printedAs": "1446 US-6 Wellfleet, MA 02667",
+      "locationNote": "Located in the Rt.6 shopping plaza in South Wellfleet",
+      "quote": "Cape Cod Cannabis Recreational Dispensary 1446 US-6 Wellfleet, MA 02667",
+      "page": "https://capecodcannabis.com/",
+      "file": "audit/raw/index.html"
+    }
+  ],
+  "addressEvidence": [
+    {
+      "quote": "Located in the Rt.6 shopping plaza in South Wellfleet",
+      "page": "https://capecodcannabis.com/contact-cape-cod-cannabis",
+      "file": "audit/raw/contact-cape-cod-cannabis.html"
+    },
+    {
+      "quote": "We’re conveniently located along Route 6 in the South Wellfleet shopping plaza, designed like a rest stop, for easy entry and exit with plenty of free parking, includes a bakery, liquor store, and U.S. Post Office for your convenience.",
+      "page": "https://capecodcannabis.com/about-cape-cod-cannabis",
+      "file": "audit/raw/about-cape-cod-cannabis.html"
+    }
+  ],
+  "hours": "Open daily, 8 AM–8 PM",
+  "hoursSpec": [
+    {
+      "days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "08:00",
+      "closes": "20:00"
+    }
+  ],
+  "hoursEvidence": [
+    {
+      "quote": "Monday 8am – 8pm Tuesday 8am – 8pm Wednesday 8am – 8pm Thursday 8am – 8pm Friday 8am – 8pm Saturday 8am – 8pm Sunday 8am – 8pm",
+      "where": "footer Hours list, VISIBLE (widget cf8f393 in footer template 1996; on the 741 files with the footer). This is the footer wording to keep: Monday first, \"8am – 8pm\".",
+      "page": "https://capecodcannabis.com/",
+      "file": "audit/raw/index.html"
+    },
+    {
+      "quote": "Sunday 8:00am – 8:00pm",
+      "where": "HIDDEN at every breakpoint (all six elementor-hidden-* classes on an ancestor): the Sunday-first Joint hours list in footer widget 467fc28 (every footer page) and the same list in the /contact-cape-cod-cannabis body (widget 69f3ff6). Not rendered on the live site; do not use it as the footer wording. The hours themselves agree: 08:00-20:00 daily.",
+      "page": "https://capecodcannabis.com/contact-cape-cod-cannabis",
+      "file": "audit/raw/contact-cape-cod-cannabis.html",
+      "hidden": true
+    },
+    {
+      "quote": "Hours Open daily, 8 AM–8 PM",
+      "where": "Quick Facts table",
+      "page": "https://capecodcannabis.com/customer-reviews",
+      "file": "audit/raw/customer-reviews.html"
+    },
+    {
+      "quote": "We’re open 7 days a week. Please check our hours for the most up-to-date hours, including holiday schedules.",
+      "where": "FAQ answer",
+      "page": "https://capecodcannabis.com/about-cape-cod-cannabis",
+      "file": "audit/raw/about-cape-cod-cannabis.html"
+    },
+    {
+      "quote": "Open Daily, 8 am to 8 pm, with ample free parking right off Route 6 in the South Wellfleet Shopping Plaza.",
+      "page": "https://capecodcannabis.com/ccc-landing-2",
+      "file": "audit/raw/ccc-landing-2.html"
+    }
+  ],
+  "seasonalOrSpecialHours": [
+    {
+      "quote": "Visit Cape Cod Cannabis Dispensary in Wellfleet and stock-up with our Pre-420 Deals on Friday 4/18 (8:00 am – 9:00 pm) and Saturday 4/19 (8:00 am – 9:00 pm), and celebrate our 4th Anniversary on Sunday 4/20 (8:00 am – 8:00 pm) that includes exclusive specials, prizes and treats.",
+      "note": "Past event-specific extended hours; not current hours.",
+      "page": "https://capecodcannabis.com/event/spring-in-to-4-20-celebration",
+      "file": "audit/raw/event-spring-in-to-4-20-celebration.html"
+    },
+    {
+      "quote": "Cape Cod Cannabis is open daily from 8:00 AM to 8:00 PM , including Monday September 7th.",
+      "note": "Holiday (Labor Day 2026) statement; same as regular hours.",
+      "page": "https://capecodcannabis.com/labor-day-weekend-on-cape-cod-2026",
+      "file": "audit/raw/labor-day-weekend-on-cape-cod-2026.html"
+    }
+  ],
+  "licences": [
+    {
+      "number": "MR282685",
+      "printedAs": "#MR282685",
+      "where": "footer legal row, after the policy links: once per page on the 741 raw files that carry footer template 1996. Also printed once in the body of /free-rack-cards/ and twice in the body of /free-bar-coasters/ (which has no footer). NOT on /links/: 0 occurrences and none of the footer legal links (Privacy Policy, Terms Of Use, Return Policy, Disclaimer). 744 occurrences in 742 of 743 raw files.",
+      "issuerNote": "The site prints the number without naming the issuer or licence type. Its MR prefix matches Massachusetts Cannabis Control Commission Marijuana Retailer numbering; not checked against the CCC licensing registry: UNVERIFIED.",
+      "quote": "Privacy Policy | Terms Of Use | Return Policy | Disclaimer | #MR282685",
+      "page": "https://capecodcannabis.com/",
+      "file": "audit/raw/index.html",
+      "whereEvidence": "tmp/understand/fixer/fixcheck.mjs sections J and G8; tmp/understand/fixer/follow2.mjs (c)",
+      "clientDecision": "Should every rebuilt page, including the /links/ link-in-bio page, show the licence number and the legal links? Today /links/ shows neither (COMPLIANCE.md section 4.3)."
+    }
+  ],
+  "licenceStatement": {
+    "quote": "Cape Cod Cannabis is a licensed adult-use recreational dispensary serving residents and visitors alike in Barnstable , Bourne , Brewster , Chatham , Dennis , Eastham , Falmouth , Harwich , Hyannis , Mashpee , Orleans , Provincetown , Sandwich , Truro , Wellfleet , Yarmouth and beyond.",
+    "page": "https://capecodcannabis.com/about-cape-cod-cannabis",
+    "file": "audit/raw/about-cape-cod-cannabis.html"
+  },
+  "founding": [
+    {
+      "value": "EST. 2018",
+      "where": "logo artwork (town-sign logo with whale tail)",
+      "quote": "EST. 2018 (read from the image audit/prelock/logo-agegate.png)",
+      "page": "https://capecodcannabis.com/",
+      "file": "audit/prelock/logo-agegate.png",
+      "quoteIn": "image"
+    },
+    {
+      "value": "Established 2018 / Open Since 2021",
+      "where": "About page 'By the Numbers'",
+      "quote": "Established 2018 Open Since 2021",
+      "page": "https://capecodcannabis.com/about-cape-cod-cannabis",
+      "file": "audit/raw/about-cape-cod-cannabis.html"
+    },
+    {
+      "value": "Since 2021",
+      "where": "home, About and many pages",
+      "quote": "Since opening in 2021 , Cape Cod Cannabis has proudly served Cape Cod residents and visitors with a commitment to education, exceptional customer service, and responsible cannabis retail.",
+      "page": "https://capecodcannabis.com/about-cape-cod-cannabis",
+      "file": "audit/raw/about-cape-cod-cannabis.html"
+    },
+    {
+      "value": "foundingDate 2018 and Retail Store Open Since 2021",
+      "where": "home JSON-LD",
+      "quote": "\"foundingDate\": \"2018\"",
+      "page": "https://capecodcannabis.com/",
+      "file": "audit/raw/index.html",
+      "quoteIn": "raw-html"
+    }
+  ],
+  "ownership": {
+    "status": "NOT PRINTED",
+    "detail": "No owner, founder or management names and no ownership statement (family-owned, locally owned, etc.) were found. The careers page and the About page name no people. Staff named only inside customer reviews (\"Hannah\")."
+  },
+  "sameAs": [
+    "https://www.facebook.com/Cape-Cod-Cannabis-112536844674702/",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://twitter.com/capecodcanna",
+    "https://www.instagram.com/thecccstore.ma"
+  ],
+  "socialProfiles": [
+    {
+      "network": "Facebook",
+      "url": "https://www.facebook.com/Cape-Cod-Cannabis-112536844674702/",
+      "where": "footer icon link (visible)",
+      "page": "https://capecodcannabis.com/",
+      "file": "audit/raw/index.html",
+      "conflict": "Two other Facebook URLs appear in JSON-LD: see conflicts."
+    },
+    {
+      "network": "LinkedIn",
+      "url": "https://www.linkedin.com/company/cape-cod-cannabis/",
+      "where": "footer icon link and JSON-LD sameAs",
+      "page": "https://capecodcannabis.com/",
+      "file": "audit/raw/index.html"
+    },
+    {
+      "network": "Twitter / X",
+      "url": "https://twitter.com/capecodcanna",
+      "where": "footer icon link and JSON-LD sameAs (one block uses https://x.com/capecodcanna)",
+      "page": "https://capecodcannabis.com/",
+      "file": "audit/raw/index.html"
+    },
+    {
+      "network": "Instagram",
+      "url": "https://www.instagram.com/thecccstore.ma",
+      "where": "footer icon link (not in any JSON-LD)",
+      "page": "https://capecodcannabis.com/",
+      "file": "audit/raw/index.html"
+    },
+    {
+      "network": "Yelp",
+      "url": "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet",
+      "where": "JSON-LD sameAs only",
+      "page": "https://capecodcannabis.com/",
+      "file": "audit/raw/index.html"
+    },
+    {
+      "network": "Google Business Profile",
+      "url": "https://maps.google.com/?cid=16836187975150648782",
+      "where": "JSON-LD sameAs; the reviews page links 'Read reviews on our Google Business Profile'",
+      "page": "https://capecodcannabis.com/",
+      "file": "audit/raw/index.html"
+    }
+  ],
+  "areaServed": [
+    "Barnstable",
+    "Bourne",
+    "Brewster",
+    "Chatham",
+    "Dennis",
+    "Eastham",
+    "Falmouth",
+    "Harwich",
+    "Hyannis",
+    "Mashpee",
+    "Orleans",
+    "Provincetown",
+    "Sandwich",
+    "Truro",
+    "Wellfleet",
+    "Yarmouth"
+  ],
+  "areaServedEvidence": {
+    "quote": "Cape Cod Cannabis Recreational Dispensary is an adult-use cannabis dispensary located on Route 6 in South Wellfleet, proudly serving residents and visitors throughout Cape Cod, including: Barnstable • Bourne • Brewster • Chatham • Dennis • Eastham • Falmouth • Harwich • Hyannis • Mashpee • Orleans • Provincetown • Sandwich • Truro • Wellfleet • Yarmouth",
+    "where": "footer, every page",
+    "page": "https://capecodcannabis.com/",
+    "file": "audit/raw/index.html"
+  },
+  "chambers": {
+    "value": [
+      "Wellfleet Chamber of Commerce",
+      "Eastham Chamber of Commerce",
+      "Yarmouth Chamber of Commerce"
+    ],
+    "quote": "Cape Cod Cannabis Recreational Dispensary is a proud member of the following Chambers on Cape Cod: Wellfleet Chamber of Commerce • Eastham Chamber of Commerce • Yarmouth Chamber of Commerce",
+    "where": "footer, every page",
+    "page": "https://capecodcannabis.com/",
+    "file": "audit/raw/index.html"
+  },
+  "ageRequirement": [
+    {
+      "quote": "We welcome anyone 21 years of age or older with a valid Government ID (e.g., Drivers License, Passport, etc.) to verify your age upon entry.",
+      "page": "https://capecodcannabis.com/about-cape-cod-cannabis",
+      "file": "audit/raw/about-cape-cod-cannabis.html"
+    },
+    {
+      "quote": "Unfortunately, we cannot accept any out-of-state or International ID’s that are expired.",
+      "page": "https://capecodcannabis.com/about-cape-cod-cannabis",
+      "file": "audit/raw/about-cape-cod-cannabis.html"
+    },
+    {
+      "quote": "Age Requirement 21+ with valid government-issued ID",
+      "page": "https://capecodcannabis.com/customer-reviews",
+      "file": "audit/raw/customer-reviews.html"
+    }
+  ],
+  "paymentMethods": [
+    {
+      "value": [
+        "cash",
+        "debit cards",
+        "CanPay",
+        "on-site ATM"
+      ],
+      "quote": "We accept cash, debit cards and CanPay . A regular ATM is also located on-site for your convenience.",
+      "page": "https://capecodcannabis.com/about-cape-cod-cannabis",
+      "file": "audit/raw/about-cape-cod-cannabis.html"
+    },
+    {
+      "value": "fee notice",
+      "quote": "Note : ATM and Debit transactions will incur a small third-party merchant fee.",
+      "page": "https://capecodcannabis.com/about-cape-cod-cannabis",
+      "file": "audit/raw/about-cape-cod-cannabis.html"
+    },
+    {
+      "value": "Easy Parking / Debit & Cash panel",
+      "quote": "We accept cash, debit cards, and CanPay . ATM is available on site. ATM and Debit transactions will incur a small merchant fee.",
+      "page": "https://capecodcannabis.com/directions",
+      "file": "audit/raw/directions.html"
+    }
+  ],
+  "parking": [
+    {
+      "quote": "For your convenience, we have 26 dedicated parking spaces. Several municipal parking spaces are located in the shopping plaza at no charge as well.",
+      "where": "Easy Parking panel (home, /directions, /faqs-420 and others)",
+      "page": "https://capecodcannabis.com/directions",
+      "file": "audit/raw/directions.html"
+    },
+    {
+      "quote": "our security staff ensure convenient and safe parking in our designated spaces during the store’s operating hours.",
+      "page": "https://capecodcannabis.com/about-cape-cod-cannabis",
+      "file": "audit/raw/about-cape-cod-cannabis.html"
+    }
+  ],
+  "orderingAndPickup": [
+    {
+      "quote": "You can place an order online , set the time of pick-up, and quickly pick up your order.",
+      "page": "https://capecodcannabis.com/directions",
+      "file": "audit/raw/directions.html"
+    },
+    {
+      "quote": "Once you finalize your order, it will be filled within 15 minutes and you will be able to pick it up at the store.",
+      "where": "home JSON-LD FAQ answer (markup)",
+      "page": "https://capecodcannabis.com/",
+      "file": "audit/raw/index.html",
+      "quoteIn": "raw-html"
+    },
+    {
+      "quote": "We will not keep orders placed, past our store closing, the day of when the order was placed.",
+      "where": "home JSON-LD FAQ answer (markup)",
+      "page": "https://capecodcannabis.com/",
+      "file": "audit/raw/index.html",
+      "quoteIn": "raw-html"
+    }
+  ],
+  "purchaseLimits": [
+    {
+      "quote": "As of April 19, 2026 , Massachusetts law allows you to purchase up to 2 ounces of flower (Recreational) or its equivalent in other cannabis products per day.",
+      "where": "FAQ block on 23 pages incl. About",
+      "page": "https://capecodcannabis.com/about-cape-cod-cannabis",
+      "file": "audit/raw/about-cape-cod-cannabis.html"
+    },
+    {
+      "quote": "Recreational = 56 grams (flower) a day is the legal MA limit, which can constitute:",
+      "page": "https://capecodcannabis.com/about-cape-cod-cannabis",
+      "file": "audit/raw/about-cape-cod-cannabis.html"
+    },
+    {
+      "quote": "CBD = No Limit",
+      "page": "https://capecodcannabis.com/about-cape-cod-cannabis",
+      "file": "audit/raw/about-cape-cod-cannabis.html"
+    },
+    {
+      "quote": "Breaking Down Massachusetts’ Daily Purchase Limits for Recreational Cannabis (UPDATED 4/2026)",
+      "where": "heading; the page also carries a Daily Limit Calculator",
+      "page": "https://capecodcannabis.com/daily-purchase-limit-in-ma",
+      "file": "audit/raw/daily-purchase-limit-in-ma.html"
+    }
+  ],
+  "loyaltyProgram": [
+    {
+      "quote": "Sign up for our free Loyalty VIP Program in-store and receive exclusive info on new product drops, new arrivals, offers, events, and earn loyalty points with every purchase that you can redeem for Accessories, Apparel or CBD .",
+      "where": "footer, every page",
+      "page": "https://capecodcannabis.com/",
+      "file": "audit/raw/index.html"
+    },
+    {
+      "quote": "NOTE : Per MA Cannabis Control Commission regulations, Loyalty Points CANNOT be used for cannabis products .",
+      "where": "loyalty and FAQ blocks on 23 pages",
+      "page": "https://capecodcannabis.com/shop-your-loyalty-points",
+      "file": "audit/raw/shop-your-loyalty-points.html"
+    },
+    {
+      "quote": "Joining our Loyalty VIP Program is simple and FREE :",
+      "page": "https://capecodcannabis.com/join-our-loyalty-vip-program-today",
+      "file": "audit/raw/join-our-loyalty-vip-program-today.html"
+    },
+    {
+      "quote": "✅ Sign up in-store during your next visit.",
+      "page": "https://capecodcannabis.com/join-our-loyalty-vip-program-today",
+      "file": "audit/raw/join-our-loyalty-vip-program-today.html"
+    }
+  ],
+  "returnPolicy": {
+    "quote": "We uphold a strict 5-day return policy exclusively for defective or damaged vape cartridges and pods. Regrettably, we do not accept returns for accessories, vape batteries, cannabis flower, cannabis seeds, clones or pre-rolls. Your understanding and cooperation are greatly appreciated.",
+    "page": "https://capecodcannabis.com/return-policy",
+    "file": "audit/raw/return-policy.html"
+  },
+  "accessibility": {
+    "status": "NOT PRINTED",
+    "detail": "No accessibility statement, wheelchair, ADA or accessible-parking statement was found (grep of all 745 page texts for wheelchair|handicap|ADA returned no statement; 'accessibility' occurs only in the mission sentence \"promoting education, accessibility, and well-being\")."
+  },
+  "testingClaims": [
+    {
+      "quote": "Yes. Cannabis products sold at Cape Cod Cannabis are required to meet Massachusetts testing and labeling requirements before being offered for retail sale.",
+      "where": "visible FAQ (About and others)",
+      "page": "https://capecodcannabis.com/about-cape-cod-cannabis",
+      "file": "audit/raw/about-cape-cod-cannabis.html"
+    },
+    {
+      "quote": "Yes. All cannabis products sold at Cape Cod Cannabis are state-tested and lab-certified to ensure purity, potency, and safety.",
+      "where": "home JSON-LD FAQ (markup, older wording)",
+      "page": "https://capecodcannabis.com/",
+      "file": "audit/raw/index.html",
+      "quoteIn": "raw-html"
+    }
+  ],
+  "certifications": [],
+  "awards": [
+    {
+      "text": "2026 Cape Cod Choice Awards: Best CBD Store Winner | Top 3 Best Cannabis Dispensary",
+      "type": "claim (award, not independently verified)",
+      "quote": "2026 Cape Cod Choice Awards: Best CBD Store Winner | Top 3 Best Cannabis Dispensary",
+      "where": "home WHY CAPE COD CANNABIS band, About, FAQs, loyalty pages",
+      "page": "https://capecodcannabis.com/about-cape-cod-cannabis",
+      "file": "audit/raw/about-cape-cod-cannabis.html"
+    }
+  ],
+  "claims": [
+    {
+      "text": "Wellfleet's Top Rated Cannabis Store on Cape Cod",
+      "quote": "Cape Cod Cannabis | Wellfleet's Top Rated Cannabis Store on Cape Cod",
+      "where": "home <title>",
+      "page": "https://capecodcannabis.com/",
+      "file": "audit/raw/index.html",
+      "quoteIn": "title"
+    },
+    {
+      "text": "Top Rated Cannabis Dispensary located in Wellfleet, MA",
+      "quote": "Top Rated Cannabis Dispensary located in Wellfleet, MA",
+      "page": "https://capecodcannabis.com/customer-reviews",
+      "file": "audit/raw/customer-reviews.html"
+    },
+    {
+      "text": "Best Dispensary on Cape Cod",
+      "quote": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+      "where": "JSON-LD WebSite name and logo caption (markup)",
+      "page": "https://capecodcannabis.com/",
+      "file": "audit/raw/index.html",
+      "quoteIn": "raw-html"
+    },
+    {
+      "text": "recognized by many as the Best Dispensary on Cape Cod",
+      "quote": "Welcome to Cape Cod Cannabis, recognized by many as the Best Dispensary on Cape Cod, located in Wellfleet.",
+      "where": "JSON-LD Organization description (markup)",
+      "page": "https://capecodcannabis.com/",
+      "file": "audit/raw/index.html",
+      "quoteIn": "raw-html"
+    },
+    {
+      "text": "Wellfleet's first dispensary",
+      "quote": "At Cape Cod Cannabis, Wellfleet’s first dispensary, our mission is to cultivate a vibrant and sustainable cannabis community",
+      "page": "https://capecodcannabis.com/about-cape-cod-cannabis",
+      "file": "audit/raw/about-cape-cod-cannabis.html"
+    },
+    {
+      "text": "largest selection and best prices on Cape Cod",
+      "quote": "offers the largest selection and best prices on Cape Cod.",
+      "page": "https://capecodcannabis.com/about-cape-cod-cannabis",
+      "file": "audit/raw/about-cape-cod-cannabis.html"
+    },
+    {
+      "text": "Cape Cod's Best Recreational Cannabis Dispensary Near Me",
+      "quote": "Cape Cod's Best Recreational Cannabis Dispensary Near Me",
+      "where": "<title> of the purchase-limit page",
+      "page": "https://capecodcannabis.com/daily-purchase-limit-in-ma",
+      "file": "audit/raw/daily-purchase-limit-in-ma.html",
+      "quoteIn": "title"
+    },
+    {
+      "text": "Thousands of satisfied customers",
+      "quote": "Customers Served Thousands of satisfied customers",
+      "page": "https://capecodcannabis.com/about-cape-cod-cannabis",
+      "file": "audit/raw/about-cape-cod-cannabis.html"
+    }
+  ],
+  "statistics": [
+    {
+      "text": "900+ Google Reviews",
+      "quote": "900+ ⭐⭐⭐⭐⭐ Google Reviews",
+      "page": "https://capecodcannabis.com/customer-reviews",
+      "file": "audit/raw/customer-reviews.html"
+    },
+    {
+      "text": "4.9 / 5.0 star rating",
+      "quote": "We have 900+ reviews with a 4.9 / 5.0 star rating… click to see what your neighbors are saying about their experience .",
+      "page": "https://capecodcannabis.com/",
+      "file": "audit/raw/index.html"
+    },
+    {
+      "text": "4.9 (967)",
+      "quote": "\"ratingValue\":\"4.9\",\"bestRating\":\"5\",\"ratingCount\":\"967\"",
+      "where": "Joint reviews widget badge shows 4.9 and (967); the same numbers are in the Joint LocalBusiness JSON-LD on every page. A live count: dated 2026-10-12.",
+      "page": "https://capecodcannabis.com/",
+      "file": "audit/raw/index.html",
+      "quoteIn": "raw-html"
+    },
+    {
+      "text": "26 dedicated parking spaces",
+      "quote": "For your convenience, we have 26 dedicated parking spaces.",
+      "page": "https://capecodcannabis.com/directions",
+      "file": "audit/raw/directions.html"
+    }
+  ],
+  "testimonials": [
+    {
+      "author": "Lyn Clements",
+      "date": "10/08/2026 09:39 PM",
+      "rating": "5.0",
+      "quote": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+      "source": "Google review via the Joint reviews widget (ul.joint-review-list); also in JSON-LD review[]",
+      "page": "https://capecodcannabis.com/customer-reviews",
+      "file": "audit/raw/customer-reviews.html"
+    },
+    {
+      "author": "Mike Korenich",
+      "date": "10/03/2026 04:39 PM",
+      "rating": "5.0",
+      "quote": "Quick, efficient. Pointed out some specials I was eligible to consider. Thanks!",
+      "source": "Google review via the Joint reviews widget; also in JSON-LD review[]",
+      "page": "https://capecodcannabis.com/customer-reviews",
+      "file": "audit/raw/customer-reviews.html"
+    },
+    {
+      "author": "James Kelly",
+      "date": "10/02/2026 06:38 PM",
+      "rating": "5.0",
+      "quote": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+      "source": "Google review via the Joint reviews widget; also in JSON-LD review[]",
+      "page": "https://capecodcannabis.com/customer-reviews",
+      "file": "audit/raw/customer-reviews.html"
+    },
+    {
+      "author": "Joseph Vitale",
+      "date": "09/30/2026 04:54 PM",
+      "rating": "5.0",
+      "quote": "Hannah is awesome",
+      "source": "Google review via the Joint reviews widget; also in JSON-LD review[]",
+      "page": "https://capecodcannabis.com/customer-reviews",
+      "file": "audit/raw/customer-reviews.html"
+    },
+    {
+      "author": "Barry McKeon",
+      "date": "09/26/2026 05:58 PM",
+      "rating": "5.0",
+      "quote": "Very professional",
+      "source": "Google review via the Joint reviews widget; also in JSON-LD review[]",
+      "page": "https://capecodcannabis.com/customer-reviews",
+      "file": "audit/raw/customer-reviews.html"
+    },
+    {
+      "author": "Lucas Warburton",
+      "date": "09/23/2026 05:21 PM",
+      "rating": "5.0",
+      "quote": "Hannah is extremely helpful!",
+      "source": "Google review via the Joint reviews widget",
+      "page": "https://capecodcannabis.com/customer-reviews",
+      "file": "audit/raw/customer-reviews.html"
+    },
+    {
+      "author": "Diane ODonnell",
+      "date": "09/22/2026 01:26 PM",
+      "rating": "5.0",
+      "quote": "Always a pleasure. Friendly, helpful staff. Clean well organized and decorated shop. Hannah’s smile and demeanor is welcoming. She is very knowledgeable.",
+      "source": "Google review via the Joint reviews widget",
+      "page": "https://capecodcannabis.com/customer-reviews",
+      "file": "audit/raw/customer-reviews.html"
+    },
+    {
+      "author": "Ryan Mickle",
+      "date": "09/15/2026 01:41 PM",
+      "rating": "4.0",
+      "quote": "",
+      "note": "Rating only, no review text.",
+      "source": "Google review via the Joint reviews widget",
+      "page": "https://capecodcannabis.com/customer-reviews",
+      "file": "audit/raw/customer-reviews.html"
+    },
+    {
+      "author": "Paul Shuhi",
+      "date": "09/10/2026 12:39 PM",
+      "rating": "5.0",
+      "quote": "Hannah was so friendly and knowledgeable. She made the experience so easy amd carefree for us. We will definitely be coming back because of her service!!",
+      "source": "Google review via the Joint reviews widget",
+      "page": "https://capecodcannabis.com/customer-reviews",
+      "file": "audit/raw/customer-reviews.html"
+    },
+    {
+      "author": "Wesley Shuhi",
+      "date": "09/10/2026 12:30 AM",
+      "rating": "5.0",
+      "quote": "Hannah was great had an awsome experience will definitely visit again",
+      "source": "Google review via the Joint reviews widget",
+      "page": "https://capecodcannabis.com/customer-reviews",
+      "file": "audit/raw/customer-reviews.html"
+    }
+  ],
+  "clients": [],
+  "guarantees": [],
+  "pricing": [],
+  "services": [
+    {
+      "text": "Online ordering and in-store pickup",
+      "quote": "Online Ordering Available for pre-ordering In-Store Pickup Available",
+      "page": "https://capecodcannabis.com/about-cape-cod-cannabis",
+      "file": "audit/raw/about-cape-cod-cannabis.html"
+    },
+    {
+      "text": "Apparel shipping via BlueTail",
+      "quote": "need our Apparel shipped to you? Visit www.BlueTail.cc to order",
+      "page": "https://capecodcannabis.com/about-cape-cod-cannabis",
+      "file": "audit/raw/about-cape-cod-cannabis.html"
+    },
+    {
+      "text": "Online assistant",
+      "quote": "We also offer an online assistant (bottom left side of the website) to ask questions and lead you in the right direction.",
+      "page": "https://capecodcannabis.com/about-cape-cod-cannabis",
+      "file": "audit/raw/about-cape-cod-cannabis.html"
+    }
+  ],
+  "announcementBar": {
+    "quote": "Boards in the Stores is back for 2026 and bidding is now open! Click here to bid or learn more!",
+    "where": "site-wide top bar at crawl time (dated 2026-10-12)",
+    "page": "https://capecodcannabis.com/contact-cape-cod-cannabis",
+    "file": "audit/raw/contact-cape-cod-cannabis.html"
+  },
+  "conflicts": [
+    {
+      "topic": "Founding year",
+      "detail": "Logo 'EST. 2018' and About 'Established 2018' vs 'Since 2021' / 'Since opening in 2021' and '5th Anniversary' (April 2026). The site's own JSON-LD separates them (foundingDate 2018; 'Retail Store Open Since' 2021), so both may be true: company 2018, store 2021. Keep both labels exactly as printed; never write 'since 2018' for the store."
+    },
+    {
+      "topic": "Payment methods",
+      "detail": "Visible copy: cash, debit cards and CanPay (plus ATM). Joint JSON-LD on every page: paymentAccepted \"Cash\". Another visible FAQ answer says \"we accept cash and debit payment options\" (no CanPay). Ask the client which is current."
+    },
+    {
+      "topic": "Purchase limit",
+      "detail": "Visible copy everywhere: 2 ounces / 56 grams (as of April 19, 2026). The home page and /faqs-420 still carry a stale JSON-LD FAQ answer: 'up to 1 ounce of flower ... 28 grams (flower) a day ... 500mg of edibles ... 5g of concentrates'. The rebuild must not regenerate the stale markup."
+    },
+    {
+      "topic": "Facebook profile",
+      "detail": "Three different Facebook URLs: footer link facebook.com/Cape-Cod-Cannabis-112536844674702/; Joint JSON-LD facebook.com/107188521043656/; Rank Math and ezlocal JSON-LD facebook.com/profile.php?id=100077867156438. Ask the client which page is official."
+    },
+    {
+      "topic": "Geo coordinates",
+      "detail": "Three pairs: 41.9162662,-69.9883627 (Joint JSON-LD; matches the Google Maps link); 41.916283126902506,-69.98835964200036 (custom Store JSON-LD); 41.916265712481554,-69.98840341462632 (Rank Math Place). All within a few metres; the first is used above."
+    },
+    {
+      "topic": "Street name",
+      "detail": "Printed '1446 US-6'; the footer Google Maps directions link encodes '1446 State Hwy Wellfleet, MA 02667'. Same place, two spellings; print '1446 US-6'."
+    },
+    {
+      "topic": "Price range",
+      "detail": "Joint JSON-LD priceRange '$' vs custom Store JSON-LD '$$'. Neither is visible text. Left unset."
+    },
+    {
+      "topic": "Rank Math openingHours",
+      "detail": "JSON-LD 'Mo,Tu,We,Th,Fr,Sa,Su 8:00 - 8:00' (reads as 8 to 8 with no am/pm) on 489 pages, while every other source says 08:00 to 20:00. Markup error; the rebuild uses hoursSpec above."
+    },
+    {
+      "topic": "Business type in markup",
+      "detail": "Joint JSON-LD alternateName includes 'Medical Marijuana Dispensary', but every visible statement says adult-use / recreational only. Do not carry that alternateName into the rebuild without the client's confirmation."
+    },
+    {
+      "topic": "Testing claim",
+      "detail": "Visible FAQ: 'required to meet Massachusetts testing and labeling requirements'. Home JSON-LD FAQ (older): 'state-tested and lab-certified to ensure purity, potency, and safety'. The second asserts safety: see docs/COMPLIANCE.md."
+    },
+    {
+      "topic": "Review count",
+      "detail": "'900+' (rounded, static copy) vs '(967)' (live widget count at crawl time). Not a contradiction, but the live count changes; a static rebuild freezes it."
+    },
+    {
+      "topic": "Business name",
+      "detail": "Rank Math JSON-LD Organization name is 'Cape Cod Cannabis in Wellfleet - Best dispensary on Cape Cod.' (a claim used as a name); visible names are 'Cape Cod Cannabis' and 'Cape Cod Cannabis Recreational Dispensary'."
+    }
+  ],
+  "footerScopeNote": "Facts located \"in the footer\" are on the 741 of 743 raw files that carry Elementor footer template 1996. The canvas pages /links/ and /free-bar-coasters/ have no footer (fixcheck.mjs section E).",
+  "verificationLog": [
+    {
+      "at": "2026-10-12",
+      "lane": "fixer",
+      "changes": [
+        "licences[0].where: \"every page\" -> footer on 741 files, plus body copies on 2 pages, absent on /links/",
+        "hoursEvidence[0]: hidden Sunday-first \"8:00am – 8:00pm\" footer list -> visible Monday-first \"8am – 8pm\" list; hidden lists kept as a flagged entry",
+        "slogan.where: \"footer on every page\" -> age gate 743, footer 741",
+        "footerScopeNote added"
+      ]
+    }
+  ]
+}

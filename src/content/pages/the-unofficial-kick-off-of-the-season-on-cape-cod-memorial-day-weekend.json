@@ -1,0 +1,1065 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/the-unofficial-kick-off-of-the-season-on-cape-cod-memorial-day-weekend/",
+ "sourceUrl": "https://capecodcannabis.com/the-unofficial-kick-off-of-the-season-on-cape-cod-memorial-day-weekend/",
+ "requestedUrl": "https://capecodcannabis.com/the-unofficial-kick-off-of-the-season-on-cape-cod-memorial-day-weekend",
+ "slug": "the-unofficial-kick-off-of-the-season-on-cape-cod-memorial-day-weekend",
+ "kind": "blog-post",
+ "wpTemplate": "post",
+ "derived": false,
+ "rawFile": "audit/raw/the-unofficial-kick-off-of-the-season-on-cape-cod-memorial-day-weekend.html",
+ "rawSha256": "2fb531fd606462aa934c1aaf92830eabc4309882afe14ee6717f3143c2278091",
+ "regionKind": "body-minus-chrome",
+ "title": "The \"Unofficial\" Kick-Off of the Season on Cape Cod: Memorial Day Weekend | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+ "metaDescription": "Memorial Day weekend marks something special on Cape Cod. It is more than just a long weekend. It is the unofficial kickoff to summer, when the Cape comes",
+ "canonical": "https://capecodcannabis.com/the-unofficial-kick-off-of-the-season-on-cape-cod-memorial-day-weekend/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "The \"Unofficial\" Kick-Off of the Season on Cape Cod: Memorial Day Weekend | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "Memorial Day weekend marks something special on Cape Cod. It is more than just a long weekend. It is the unofficial kickoff to summer, when the Cape comes",
+  "url": "https://capecodcannabis.com/the-unofficial-kick-off-of-the-season-on-cape-cod-memorial-day-weekend/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2026-06-30T11:33:41-04:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2026/05/Memorial-Day-Blog-Banner-Image-1.png",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/2026/05/Memorial-Day-Blog-Banner-Image-1.png",
+  "image:width": "1920",
+  "image:height": "250",
+  "image:alt": "Celebrate 250 years of America at Cape Cod Cannabis in Wellfleet.",
+  "image:type": "image/png"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438",
+  "tag": [
+   "Always worth the trip",
+   "best dispensary on Cape Cod",
+   "cannabis",
+   "cannabis concentrate",
+   "cannabis dispensary in Wellfleet",
+   "cannabis flower",
+   "cape cod",
+   "cape cod cannabis",
+   "dispensary near me",
+   "edibles",
+   "memorial day",
+   "tinctures",
+   "vaporizers",
+   "wellfleet dispensary"
+  ],
+  "section": "Cape Cod Lifestyle",
+  "published_time": "2026-05-19T11:18:14-04:00",
+  "modified_time": "2026-06-30T11:33:41-04:00"
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "The \"Unofficial\" Kick-Off of the Season on Cape Cod: Memorial Day Weekend | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "Memorial Day weekend marks something special on Cape Cod. It is more than just a long weekend. It is the unofficial kickoff to summer, when the Cape comes",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2026/05/Memorial-Day-Blog-Banner-Image-1.png",
+  "label1": "Written by",
+  "data1": "rrh_clientadmin",
+  "label2": "Time to read",
+  "data2": "5 minutes"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Place",
+     "@id": "https://capecodcannabis.com/#place",
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.916265712481554",
+      "longitude": "-69.98840341462632"
+     },
+     "hasMap": "https://www.google.com/maps/search/?api=1&amp;query=41.916265712481554,-69.98840341462632",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     }
+    },
+    {
+     "@type": [
+      "LocalBusiness",
+      "Organization"
+     ],
+     "@id": "https://capecodcannabis.com/#organization",
+     "name": "Cape Cod Cannabis in Wellfleet - Best dispensary on Cape Cod.",
+     "url": "https://capecodcannabis.com",
+     "sameAs": [
+      "https://www.facebook.com/profile.php?id=100077867156438",
+      "https://twitter.com/capecodcanna"
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "logo": {
+      "@type": "ImageObject",
+      "@id": "https://capecodcannabis.com/#logo",
+      "url": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "contentUrl": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "caption": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+      "inLanguage": "en-US",
+      "width": "700",
+      "height": "500"
+     },
+     "openingHours": [
+      "Mo,Tu,We,Th,Fr,Sa,Su 8:00 - 8:00"
+     ],
+     "description": "Welcome to Cape Cod Cannabis, recognized by many as the Best Dispensary on Cape Cod, located in Wellfleet. Conveniently situated in the Route 6 shopping plaza in South Wellfleet, we are a trusted destination for both locals and visitors traveling from Provincetown, Truro, Wellfleet, Eastham, Orleans, Brewster, Dennis, Harwich, Chatham, Yarmouth, Sandwich and across the Cape and beyond.\n\nCape Cod Cannabis, your go-to cannabis haven, offers a carefully curated selection of high quality products, including flower, pre-rolls, edibles, vaporizers, concentrates, tinctures, topicals, CBD, accessories, and more. With a focus on education, selection, and a welcoming experience, we make it easy to explore and find what works best for you whether you are visiting the Cape or live here year round.",
+     "location": {
+      "@id": "https://capecodcannabis.com/#place"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/#logo"
+     },
+     "telephone": "+1-774-383-3133"
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://capecodcannabis.com/#website",
+     "url": "https://capecodcannabis.com",
+     "name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+     "alternateName": "Cape Cod Cannabis | Wellfleet's Top Rated Cannabis Store on Cape Cod",
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "https://capecodcannabis.com/wp-content/uploads/2026/05/Memorial-Day-Blog-Banner-Image-1.png",
+     "url": "https://capecodcannabis.com/wp-content/uploads/2026/05/Memorial-Day-Blog-Banner-Image-1.png",
+     "width": "1920",
+     "height": "250",
+     "caption": "Celebrate 250 years of America at Cape Cod Cannabis in Wellfleet.",
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/the-unofficial-kick-off-of-the-season-on-cape-cod-memorial-day-weekend/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/category/cape-cod-lifestyle/",
+        "name": "Cape Cod Lifestyle"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "3",
+       "item": {
+        "@id": "https://capecodcannabis.com/the-unofficial-kick-off-of-the-season-on-cape-cod-memorial-day-weekend/",
+        "name": "The &#8220;Unofficial&#8221; Kick-Off of the Season on Cape Cod: Memorial Day Weekend"
+       }
+      }
+     ]
+    },
+    {
+     "@type": "WebPage",
+     "@id": "https://capecodcannabis.com/the-unofficial-kick-off-of-the-season-on-cape-cod-memorial-day-weekend/#webpage",
+     "url": "https://capecodcannabis.com/the-unofficial-kick-off-of-the-season-on-cape-cod-memorial-day-weekend/",
+     "name": "The &quot;Unofficial&quot; Kick-Off of the Season on Cape Cod: Memorial Day Weekend | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "datePublished": "2026-05-19T11:18:14-04:00",
+     "dateModified": "2026-06-30T11:33:41-04:00",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2026/05/Memorial-Day-Blog-Banner-Image-1.png"
+     },
+     "inLanguage": "en-US",
+     "breadcrumb": {
+      "@id": "https://capecodcannabis.com/the-unofficial-kick-off-of-the-season-on-cape-cod-memorial-day-weekend/#breadcrumb"
+     }
+    },
+    {
+     "@type": "Person",
+     "@id": "https://capecodcannabis.com/the-unofficial-kick-off-of-the-season-on-cape-cod-memorial-day-weekend/#author",
+     "name": "rrh_clientadmin",
+     "image": {
+      "@type": "ImageObject",
+      "@id": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "url": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "caption": "rrh_clientadmin",
+      "inLanguage": "en-US"
+     },
+     "worksFor": {
+      "@id": "https://capecodcannabis.com/#organization"
+     }
+    },
+    {
+     "@type": "Article",
+     "headline": "The &quot;Unofficial&quot; Kick-Off of the Season on Cape Cod: Memorial Day Weekend | Cape Cod Cannabis",
+     "keywords": "Memorial Day, cape cod cannabis, unofficial kick-off",
+     "datePublished": "2026-05-19T11:18:14-04:00",
+     "dateModified": "2026-06-30T11:33:41-04:00",
+     "articleSection": "Cape Cod Lifestyle",
+     "author": {
+      "@id": "https://capecodcannabis.com/the-unofficial-kick-off-of-the-season-on-cape-cod-memorial-day-weekend/#author",
+      "name": "rrh_clientadmin"
+     },
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "description": "Memorial Day weekend marks something special on Cape Cod. It is more than just a long weekend. It is the unofficial kickoff to summer, when the Cape comes",
+     "name": "The &quot;Unofficial&quot; Kick-Off of the Season on Cape Cod: Memorial Day Weekend | Cape Cod Cannabis",
+     "@id": "https://capecodcannabis.com/the-unofficial-kick-off-of-the-season-on-cape-cod-memorial-day-weekend/#richSnippet",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/the-unofficial-kick-off-of-the-season-on-cape-cod-memorial-day-weekend/#webpage"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2026/05/Memorial-Day-Blog-Banner-Image-1.png"
+     },
+     "inLanguage": "en-US",
+     "mainEntityOfPage": {
+      "@id": "https://capecodcannabis.com/the-unofficial-kick-off-of-the-season-on-cape-cod-memorial-day-weekend/#webpage"
+     }
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "h1": "The “Unofficial” Kick-Off of the Season on Cape Cod: Memorial Day Weekend",
+ "h1Source": {
+  "count": 2,
+  "visible": 2,
+  "hidden": 0,
+  "note": "source has several visible h1s; the first is primary, the rest carry demote:true"
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Cape Cod Lifestyle",
+   "href": "/category/cape-cod-lifestyle/"
+  },
+  {
+   "label": "The “Unofficial” Kick-Off of the Season on Cape Cod: Memorial Day Weekend",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "visible",
+ "breadcrumbsSeparator": " / ",
+ "breadcrumbsLabel": "breadcrumbs",
+ "breadcrumbsInRegion": true,
+ "section": null,
+ "sections": [
+  {
+   "n": 0,
+   "id": "3f1093a4",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "The “Unofficial” Kick-Off of the Season on Cape Cod: Memorial Day Weekend"
+    },
+    {
+     "t": "meta",
+     "items": [
+      {
+       "text": "May 19, 2026",
+       "href": "/2026/05/19/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "460b469",
+   "doc": "wp-post#162143",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "Memorial Day Weekend on Cape Cod: The Unofficial Kick-off of the Season",
+     "demote": true
+    },
+    {
+     "t": "rich",
+     "html": "<p>Memorial Day weekend marks something special on Cape Cod. It is more than just a long weekend. It is the <strong>unofficial kickoff to summer</strong>, when the Cape comes back to life with sunshine, visitors, and that unmistakable coastal energy.</p><p>From beach days and backyard gatherings to sunset drives and quiet mornings by the water, this is the time of year when everything feels just a little brighter. And for many locals and visitors searching for a <strong>dispensary near me</strong>, it is also the perfect time to explore cannabis in a relaxed, intentional way.</p><p>At <strong>Cape Cod Cannabis</strong>, your trusted <strong>dispensary in Wellfleet</strong>, we are proud to be part of that experience.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "The Cape Cod Memorial Day Vibe"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Memorial Day weekend on Cape Cod is about balance. It is lively but not overwhelming. It is social but still peaceful. You will find people returning to their favorite beaches, reopening summer homes, and reconnecting with everything that makes the Cape feel like home.</p><p>Wellfleet in particular offers a unique experience. It is quieter than some of the more crowded areas, with a strong connection to nature, art, and community. Whether you are here for a weekend or the entire season, the goal is simple. Slow down and enjoy it.</p><p>Cannabis fits naturally into that lifestyle when approached thoughtfully. It enhances moments without rushing them.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Why Cape Cod Cannabis Is a Favorite Stop This Weekend"
+    },
+    {
+     "t": "rich",
+     "html": "<p>If you are searching for a <strong>dispensary on Cape Cod</strong> this Memorial Day weekend, you will find plenty of options. What makes Cape Cod Cannabis different is our approach.</p><p>We focus on <strong><a href=\"/intro-to-cannabis-101/\">education</a>, quality, and consistency</strong>. No pressure. No confusing menus. Just a welcoming space where you can explore products and ask questions at your own pace.</p><p>Our team is here to guide both first-time visitors and experienced consumers. Whether you are looking for something to enjoy at sunset, during a beach day, or after a long dinner with friends, we help you find the right fit.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Memorial Day Weekend Favorites"
+    },
+    {
+     "t": "rich",
+     "html": "<p>As the season begins, certain products naturally become more popular.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Flower for Classic Cape Moments"
+    },
+    {
+     "t": "rich",
+     "html": "<p><a href=\"/categories/flower/\">Premium cannabis flower remains a go-to choice for many customers</a>. It pairs perfectly with the rhythm of the Cape. Think a quiet evening outside, a walk along the shoreline, or simply relaxing after a full day.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Pre-Rolls for Easy Sharing"
+    },
+    {
+     "t": "rich",
+     "html": "<p><a href=\"/categories/pre-rolls/\">Pre rolls are ideal for convenience and social settings</a>. They are easy to bring along and simple to enjoy without preparation.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Edibles for Long Lasting Relaxation"
+    },
+    {
+     "t": "rich",
+     "html": "<p><a href=\"/categories/edibles/\">Edibles are a great option for those who prefer a smoke free experience</a>. They are discreet and long lasting, making them perfect for a full afternoon or evening.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Vapes for On the Go Simplicity"
+    },
+    {
+     "t": "rich",
+     "html": "<p><a href=\"/categories/vaporizers/\">Vape products offer a smooth and convenient experience</a> for customers who want something portable and easy to use.</p><p>No matter your preference, our Wellfleet dispensary offers carefully selected products that prioritize quality and consistency.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Concentrates for Experienced Consumers"
+    },
+    {
+     "t": "rich",
+     "html": "<p>For those looking for a more potent and flavor-rich experience, <strong>concentrates</strong> are a top choice. Products like live resin, rosin, wax, and shatter offer higher cannabinoid levels and enhanced terpene profiles.</p><p><a href=\"/categories/concentrates/\">Concentrates are ideal for experienced consumers who want a stronger, more refined experience</a> during their time on the Cape. Whether you are relaxing after a long beach day or enjoying a quiet evening, concentrates deliver a powerful and consistent effect.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Tinctures for a Balanced, Smoke Free Option"
+    },
+    {
+     "t": "rich",
+     "html": "<p><a href=\"/categories/tinctures/\"><strong>Tinctures</strong> are one of the most versatile and approachable cannabis products available</a>. They can be taken under the tongue or added to food and drinks, making them a great option for those who want a controlled and discreet experience.</p><p>Tinctures are especially popular for customers who value consistency and ease of use. They fit perfectly into a relaxed Cape Cod lifestyle, whether you are starting your morning slowly or winding down at the end of the day.</p><p>At our Wellfleet dispensary, we offer a variety of tinctures including THC, CBD, and balanced options to suit different preferences.</p><p>Our team at Cape Cod Cannabis can help guide you toward the right concentrate based on your preferences and experience level.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "A Different Approach to Value"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Memorial Day weekend often comes with a lot of noise. Flashy promotions, big claims, and short term deals.</p><p>We will also offer great offers, yet we don’t inflate prices <em>(like other dispensaries)</em> and supposedly <em>“mark it down”</em> for the special holiday. Be careful and do your research and you will find that our prices beat most other dispensaries…all year round.</p><p>At Cape Cod Cannabis, we focus on <strong>fair, everyday pricing and offer the largest variety of products all year round</strong>. Our goal is simple. Provide value without gimmicks so customers know exactly what they are getting every time they visit.</p><p>This approach builds trust, especially in a place like Cape Cod where reputation matters.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Supporting Local on Cape Cod"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Choosing a local dispensary means more than just convenience. It means supporting a business that is part of the community. <strong>Cape Cod Cannabis</strong> takes pride in offering a space that reflects the character of Wellfleet. Relaxed, welcoming, and genuine.</p><p>Whether you are a year round resident or visiting for the holiday weekend, we are here to make your experience easy and enjoyable.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Make the Most of Memorial Day Weekend"
+    },
+    {
+     "t": "rich",
+     "html": "<p>As the unofficial start of summer, Memorial Day weekend is about setting the tone for the months ahead. It is about slowing down, reconnecting, and enjoying the simple moments that make Cape Cod special.</p><p>If you are looking for a <strong>dispensary near me</strong> <strong>and the best dispensary on Cape Cod</strong> during your time on the Cape, <a href=\"/directions/\"><strong>stop by Cape Cod Cannabis in Wellfleet</strong></a>. Our team is ready to help you find products that match your plans and your comfort level.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Visit Cape Cod Cannabis"
+    },
+    {
+     "t": "rich",
+     "html": "<p>This Memorial Day weekend, experience one of the most trusted <strong>dispensaries on Cape Cod</strong>. <a href=\"/menu/\">Explore our menu,</a> ask questions, and enjoy cannabis the way it was meant to be enjoyed. Calm, intentional, and part of a great Cape Cod experience.</p><p><em><strong>Summer starts here Cape Cod Cannabis in Wellfleet…Always worth the trip!</strong></em></p>"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "bedb11e",
+   "doc": "wp-post#162143",
+   "blocks": [
+    {
+     "t": "button",
+     "label": "Shop Our Menu",
+     "href": "/menu/"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": "69374c3",
+   "doc": "wp-post#162143",
+   "blocks": [
+    {
+     "t": "button",
+     "label": "Shop Our Offers",
+     "href": "/specials/"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "id": "329af6c",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "postnav",
+     "prev": {
+      "srLabel": "Prev",
+      "title": "Celebrate 420 & Our 5th Anniversary at Cape Cod Cannabis!",
+      "href": "/celebrate-420-at-cape-cod-cannabis/"
+     },
+     "next": {
+      "title": "Cape Cod Choice Awards 2026 Voting Round Finalist",
+      "srLabel": "Next",
+      "href": "/cape-cod-choice-awards-2026/"
+     },
+     "ariaLabels": [
+      "Post Navigation"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "id": "9ba89d6",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "comments",
+     "note": "WordPress comment form; no comment backend in a static rebuild"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "button": 2,
+  "comments": 1,
+  "heading": 15,
+  "meta": 1,
+  "postnav": 1,
+  "rich": 14
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [],
+  "aliasesResolved": [
+   {
+    "from": "https://capecodcannabis.com/2026/05/19/",
+    "to": "/2026/05/19/"
+   },
+   {
+    "from": "https://capecodcannabis.com/intro-to-cannabis-101/",
+    "to": "/intro-to-cannabis-101/"
+   },
+   {
+    "from": "/categories/flower",
+    "to": "/categories/flower/"
+   },
+   {
+    "from": "/categories/pre-rolls",
+    "to": "/categories/pre-rolls/"
+   },
+   {
+    "from": "/categories/edibles",
+    "to": "/categories/edibles/"
+   },
+   {
+    "from": "/categories/vaporizers",
+    "to": "/categories/vaporizers/"
+   },
+   {
+    "from": "/categories/concentrates",
+    "to": "/categories/concentrates/"
+   },
+   {
+    "from": "/categories/tinctures",
+    "to": "/categories/tinctures/"
+   },
+   {
+    "from": "/directions",
+    "to": "/directions/"
+   },
+   {
+    "from": "/menu",
+    "to": "/menu/"
+   },
+   {
+    "from": "/specials",
+    "to": "/specials/"
+   },
+   {
+    "from": "https://capecodcannabis.com/celebrate-420-at-cape-cod-cannabis/",
+    "to": "/celebrate-420-at-cape-cod-cannabis/"
+   },
+   {
+    "from": "https://capecodcannabis.com/cape-cod-choice-awards-2026/",
+    "to": "/cape-cod-choice-awards-2026/"
+   },
+   {
+    "from": "https://capecodcannabis.com/category/cape-cod-lifestyle/",
+    "to": "/category/cape-cod-lifestyle/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

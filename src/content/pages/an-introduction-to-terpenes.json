@@ -1,0 +1,934 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/an-introduction-to-terpenes/",
+ "sourceUrl": "https://capecodcannabis.com/an-introduction-to-terpenes/",
+ "requestedUrl": "https://capecodcannabis.com/an-introduction-to-terpenes",
+ "slug": "an-introduction-to-terpenes",
+ "kind": "blog-post",
+ "wpTemplate": "post",
+ "derived": false,
+ "rawFile": "audit/raw/an-introduction-to-terpenes.html",
+ "rawSha256": "06c76011e95fb80e01d424bea9722d2c2b3fcc518a3b5c0ec876ca71a5681044",
+ "regionKind": "body-minus-chrome",
+ "title": "An Introduction to Terpenes | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+ "metaDescription": "An Introduction to Terpenes | Top rated Cape Cod Cannabis dispensary, the best cannabis selection and the best cannabis prices on Cape Cod - Always worth the trip!",
+ "canonical": "https://capecodcannabis.com/an-introduction-to-terpenes/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "An Introduction to Terpenes | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "An Introduction to Terpenes | Top rated Cape Cod Cannabis dispensary, the best cannabis selection and the best cannabis prices on Cape Cod - Always worth the trip!",
+  "url": "https://capecodcannabis.com/an-introduction-to-terpenes/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2026-07-13T16:13:01-04:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2025/05/Terpenes_banner.webp",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/2025/05/Terpenes_banner.webp",
+  "image:width": "1200",
+  "image:height": "800",
+  "image:alt": "An Introduction to Terpenes - Cape Cod Cannabis in Welflleet, MA",
+  "image:type": "image/webp"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438",
+  "tag": [
+   "bisabolol",
+   "Caryophyllene",
+   "geraniol",
+   "humulene",
+   "Limonene",
+   "Linalool",
+   "Myrcene",
+   "ocimene",
+   "Pinene",
+   "terpenes",
+   "terpinolene"
+  ],
+  "section": "Start Here",
+  "published_time": "2025-05-01T21:57:31-04:00",
+  "modified_time": "2026-07-13T16:13:01-04:00"
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "An Introduction to Terpenes | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "An Introduction to Terpenes | Top rated Cape Cod Cannabis dispensary, the best cannabis selection and the best cannabis prices on Cape Cod - Always worth the trip!",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2025/05/Terpenes_banner.webp",
+  "label1": "Written by",
+  "data1": "rrh_admin",
+  "label2": "Time to read",
+  "data2": "2 minutes"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Place",
+     "@id": "https://capecodcannabis.com/#place",
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.916265712481554",
+      "longitude": "-69.98840341462632"
+     },
+     "hasMap": "https://www.google.com/maps/search/?api=1&amp;query=41.916265712481554,-69.98840341462632",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     }
+    },
+    {
+     "@type": [
+      "LocalBusiness",
+      "Organization"
+     ],
+     "@id": "https://capecodcannabis.com/#organization",
+     "name": "Cape Cod Cannabis in Wellfleet - Best dispensary on Cape Cod.",
+     "url": "https://capecodcannabis.com",
+     "sameAs": [
+      "https://www.facebook.com/profile.php?id=100077867156438",
+      "https://twitter.com/capecodcanna"
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "logo": {
+      "@type": "ImageObject",
+      "@id": "https://capecodcannabis.com/#logo",
+      "url": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "contentUrl": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "caption": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+      "inLanguage": "en-US",
+      "width": "700",
+      "height": "500"
+     },
+     "openingHours": [
+      "Mo,Tu,We,Th,Fr,Sa,Su 8:00 - 8:00"
+     ],
+     "description": "Welcome to Cape Cod Cannabis, recognized by many as the Best Dispensary on Cape Cod, located in Wellfleet. Conveniently situated in the Route 6 shopping plaza in South Wellfleet, we are a trusted destination for both locals and visitors traveling from Provincetown, Truro, Wellfleet, Eastham, Orleans, Brewster, Dennis, Harwich, Chatham, Yarmouth, Sandwich and across the Cape and beyond.\n\nCape Cod Cannabis, your go-to cannabis haven, offers a carefully curated selection of high quality products, including flower, pre-rolls, edibles, vaporizers, concentrates, tinctures, topicals, CBD, accessories, and more. With a focus on education, selection, and a welcoming experience, we make it easy to explore and find what works best for you whether you are visiting the Cape or live here year round.",
+     "location": {
+      "@id": "https://capecodcannabis.com/#place"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/#logo"
+     },
+     "telephone": "+1-774-383-3133"
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://capecodcannabis.com/#website",
+     "url": "https://capecodcannabis.com",
+     "name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+     "alternateName": "Cape Cod Cannabis | Wellfleet's Top Rated Cannabis Store on Cape Cod",
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "https://capecodcannabis.com/wp-content/uploads/2025/05/Terpenes_banner.webp",
+     "url": "https://capecodcannabis.com/wp-content/uploads/2025/05/Terpenes_banner.webp",
+     "width": "1200",
+     "height": "800",
+     "caption": "An Introduction to Terpenes - Cape Cod Cannabis in Welflleet, MA",
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/an-introduction-to-terpenes/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/category/start-here/",
+        "name": "Start Here"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "3",
+       "item": {
+        "@id": "https://capecodcannabis.com/an-introduction-to-terpenes/",
+        "name": "An Introduction to Terpenes"
+       }
+      }
+     ]
+    },
+    {
+     "@type": "WebPage",
+     "@id": "https://capecodcannabis.com/an-introduction-to-terpenes/#webpage",
+     "url": "https://capecodcannabis.com/an-introduction-to-terpenes/",
+     "name": "An Introduction to Terpenes | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "datePublished": "2025-05-01T21:57:31-04:00",
+     "dateModified": "2026-07-13T16:13:01-04:00",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2025/05/Terpenes_banner.webp"
+     },
+     "inLanguage": "en-US",
+     "breadcrumb": {
+      "@id": "https://capecodcannabis.com/an-introduction-to-terpenes/#breadcrumb"
+     }
+    },
+    {
+     "@type": "Person",
+     "@id": "https://capecodcannabis.com/an-introduction-to-terpenes/#author",
+     "name": "rrh_admin",
+     "image": {
+      "@type": "ImageObject",
+      "@id": "https://secure.gravatar.com/avatar/444a770f84c54c4c5cfaa3a2b8dd7994e0cf5817132852c6035420600d47d473?s=96&amp;d=mm&amp;r=g",
+      "url": "https://secure.gravatar.com/avatar/444a770f84c54c4c5cfaa3a2b8dd7994e0cf5817132852c6035420600d47d473?s=96&amp;d=mm&amp;r=g",
+      "caption": "rrh_admin",
+      "inLanguage": "en-US"
+     },
+     "sameAs": [
+      "https://capecodcannabis.com"
+     ],
+     "worksFor": {
+      "@id": "https://capecodcannabis.com/#organization"
+     }
+    },
+    {
+     "@type": "Article",
+     "headline": "An Introduction to Terpenes | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA | Cape Cod's Best",
+     "keywords": "An Introduction to Terpenes, terpenes, cape cod cannabis",
+     "datePublished": "2025-05-01T21:57:31-04:00",
+     "dateModified": "2026-07-13T16:13:01-04:00",
+     "articleSection": "Cannabis 101, Start Here",
+     "author": {
+      "@id": "https://capecodcannabis.com/an-introduction-to-terpenes/#author",
+      "name": "rrh_admin"
+     },
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "description": "An Introduction to Terpenes | Top rated Cape Cod Cannabis dispensary, the best cannabis selection and the best cannabis prices on Cape Cod - Always worth the trip!",
+     "name": "An Introduction to Terpenes | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA | Cape Cod's Best",
+     "@id": "https://capecodcannabis.com/an-introduction-to-terpenes/#richSnippet",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/an-introduction-to-terpenes/#webpage"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2025/05/Terpenes_banner.webp"
+     },
+     "inLanguage": "en-US",
+     "mainEntityOfPage": {
+      "@id": "https://capecodcannabis.com/an-introduction-to-terpenes/#webpage"
+     }
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "h1": "An Introduction to Terpenes",
+ "h1Source": {
+  "count": 1,
+  "visible": 1,
+  "hidden": 0
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Start Here",
+   "href": "/category/start-here/"
+  },
+  {
+   "label": "An Introduction to Terpenes",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "visible",
+ "breadcrumbsSeparator": " / ",
+ "breadcrumbsLabel": "breadcrumbs",
+ "breadcrumbsInRegion": true,
+ "section": null,
+ "sections": [
+  {
+   "n": 0,
+   "id": "3f1093a4",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "An Introduction to Terpenes"
+    },
+    {
+     "t": "meta",
+     "items": [
+      {
+       "text": "May 1, 2025",
+       "href": "/2025/05/01/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "1be748f",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "An Introduction to Terpenes: What They Are and Why They Matter"
+    },
+    {
+     "t": "rich",
+     "html": "<p>When shopping for cannabis at our Wellfleet dispensary, you’ve probably noticed product descriptions mentioning words like <b>“myrcene,” “limonene,”</b> or <b>“caryophyllene.”</b> These aren’t just fancy terms—they’re <b>terpenes</b>, and they play a major role in how cannabis affects your mind and body.</p><p>Let’s break down what terpenes are, how they influence your experience, and why they’re worth paying attention to when choosing cannabis products.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "What Are Terpenes?"
+    },
+    {
+     "t": "rich",
+     "html": "<p><b>Terpenes</b> are naturally occurring aromatic compounds found in many plants—including cannabis. They’re responsible for the distinctive scents and flavors in everything from lavender to citrus to pine.</p><p>In cannabis, terpenes do more than smell good—they also help shape the <b>overall effects</b> of each strain. That calming indica or energizing sativa? Terpenes are a big part of the reason why they feel different.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "What is The Entourage Effect?"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Terpenes don’t work alone—they interact with cannabinoids like <b>THC</b> and <b>CBD</b> to create what scientists call the <b>entourage effect</b>. This means that the combination of compounds works together synergistically, enhancing the potential therapeutic effects of cannabis.</p><p>For example, a strain high in both <b>limonene</b> and <b>THC</b> may feel more uplifting than a strain with the same THC level but different terpenes.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "What are the most common Cannabis Terpenes?"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Here are a few of the most common terpenes found in cannabis and their potential effects:</p><ul><li><p><b>Myrcene</b> – Earthy, musky scent. Known for relaxing, sedative effects.</p></li><li><p><b>Limonene</b> – Citrus aroma. Uplifting and mood-boosting.</p></li><li><p><b>Caryophyllene</b> – Peppery or spicy smell. Anti-inflammatory and may help with pain.</p></li><li><p><b>Pinene</b> – Piney aroma. Promotes alertness and focus.</p></li><li><p><b>Linalool</b> – Floral scent. Calming and may ease anxiety or stress.</p></li></ul>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Why Do Terpenes Matter When Choosing Cannabis?"
+    },
+    {
+     "t": "rich",
+     "html": "<p>At <b>Cape Cod Cannabis</b>, we believe the best cannabis experience comes from understanding what you’re putting into your body. Instead of choosing based solely on <b>THC percentage</b>, consider terpene content and how you want to feel.</p><p>Looking for deep relaxation after a day on the beach? Try a strain high in <b>myrcene</b>. Need focus and energy before a hike in the Cape Cod National Seashore? A <b>limonene</b>-rich sativa might be the move.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Shop by Terpene at Cape Cod Cannabis"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Whether you’re new to cannabis or a seasoned enthusiast, our team in <b>Wellfleet, MA</b> is here to help you explore strains and products that align with your goals—<b>flavor, effect, and experience</b>.</p><p>Browse our menu <a href=\"/menu/\">online here</a> or stop by to chat with one of our knowledgeable budtenders about terpene-rich flower, vapes, and edibles.</p><p>For more information please <a href=\"/terpene-cannabinoid-guide/\">visit our Terpene &amp; Cannabinoid Guide</a>.</p><p>—</p><p>#WhatAreTerpenes #TerpeneBenefits #CannabisEducation #CapeCodCannabis #EntourageEffect</p>"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "329af6c",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "postnav",
+     "prev": {
+      "srLabel": "Prev",
+      "title": "An Introduction to Cannabinoids",
+      "href": "/an-introduction-to-cannabinoids/"
+     },
+     "next": {
+      "title": "Warning: Cartridge & Disposable Vape Consumers",
+      "srLabel": "Next",
+      "href": "/warning-cartridge-disposable-vape-consumers/"
+     },
+     "ariaLabels": [
+      "Post Navigation"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": "9ba89d6",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "comments",
+     "note": "WordPress comment form; no comment backend in a static rebuild"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "comments": 1,
+  "heading": 7,
+  "meta": 1,
+  "postnav": 1,
+  "rich": 6
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [],
+  "aliasesResolved": [
+   {
+    "from": "https://capecodcannabis.com/2025/05/01/",
+    "to": "/2025/05/01/"
+   },
+   {
+    "from": "https://capecodcannabis.com/menu",
+    "to": "/menu/"
+   },
+   {
+    "from": "/terpene-cannabinoid-guide/",
+    "to": "/terpene-cannabinoid-guide/"
+   },
+   {
+    "from": "https://capecodcannabis.com/an-introduction-to-cannabinoids/",
+    "to": "/an-introduction-to-cannabinoids/"
+   },
+   {
+    "from": "https://capecodcannabis.com/warning-cartridge-disposable-vape-consumers/",
+    "to": "/warning-cartridge-disposable-vape-consumers/"
+   },
+   {
+    "from": "https://capecodcannabis.com/category/start-here/",
+    "to": "/category/start-here/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

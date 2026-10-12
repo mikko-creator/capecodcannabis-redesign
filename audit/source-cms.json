@@ -1,0 +1,82 @@
+{
+  "schema": "site-reforge/source-cms@1",
+  "generated": "2026-10-12T00:49:32.945Z",
+  "detected": [
+    {
+      "id": "wordpress",
+      "label": "WordPress",
+      "matchedPatterns": 4,
+      "evidence": [
+        "/\\/wp-content\\//i",
+        "/\\/wp-includes\\//i",
+        "/\\/wp-json\\//i"
+      ],
+      "pages": 745
+    },
+    {
+      "id": "elementor",
+      "label": "Elementor",
+      "matchedPatterns": 2,
+      "evidence": [
+        "/elementor-(?:widget|section|element|column|kit)/i",
+        "/data-elementor-type/i"
+      ],
+      "pages": 745
+    },
+    {
+      "id": "webflow",
+      "label": "Webflow",
+      "matchedPatterns": 1,
+      "evidence": [
+        "/w-(?:container|row|col|nav|slider)\\b/i"
+      ],
+      "pages": 744
+    },
+    {
+      "id": "squarespace",
+      "label": "Squarespace",
+      "matchedPatterns": 1,
+      "evidence": [
+        "/sqs-block/i"
+      ],
+      "pages": 5
+    },
+    {
+      "id": "wix",
+      "label": "Wix",
+      "matchedPatterns": 1,
+      "evidence": [
+        "/static\\.wixstatic\\.com/i"
+      ],
+      "pages": 2
+    },
+    {
+      "id": "svelte",
+      "label": "Svelte",
+      "matchedPatterns": 1,
+      "evidence": [
+        "/svelte-[a-z0-9]{6}/i"
+      ],
+      "pages": 1
+    },
+    {
+      "id": "divi",
+      "label": "Divi",
+      "matchedPatterns": 1,
+      "evidence": [
+        "/et_pb_(?:section|row|module)/i"
+      ],
+      "pages": 1
+    },
+    {
+      "id": "vue",
+      "label": "Vue",
+      "matchedPatterns": 1,
+      "evidence": [
+        "/data-v-[a-f0-9]{8}/i"
+      ],
+      "pages": 1
+    }
+  ],
+  "note": "Every id listed here MUST be absent from dist/ before packaging. sr-decontaminate.mjs enforces it."
+}

@@ -1,0 +1,1648 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/specials/",
+ "sourceUrl": "https://capecodcannabis.com/specials/",
+ "requestedUrl": "https://capecodcannabis.com/specials",
+ "slug": "specials",
+ "kind": "specials-index",
+ "wpTemplate": "archive-specials",
+ "derived": false,
+ "rawFile": "audit/raw/specials.html",
+ "rawSha256": "4f58e9e05d31a53581117ec76cbe159cfe6c03108d0a44c8519d2388c8ee9925",
+ "regionKind": "body-minus-chrome",
+ "title": "October Cannabis Deals on Cape Cod | Flower, Vape & Edible Bundles at Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+ "metaDescription": "Specials Archive | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+ "canonical": "https://capecodcannabis.com/specials/",
+ "robots": "follow, index",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "October Cannabis Deals on Cape Cod | Flower, Vape & Edible Bundles at Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "Specials Archive | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "url": "https://capecodcannabis.com/specials/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438"
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "October Cannabis Deals on Cape Cod | Flower, Vape & Edible Bundles at Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "Specials Archive | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "site": "@capecodcanna"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Place",
+     "@id": "https://capecodcannabis.com/#place",
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.916265712481554",
+      "longitude": "-69.98840341462632"
+     },
+     "hasMap": "https://www.google.com/maps/search/?api=1&amp;query=41.916265712481554,-69.98840341462632",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     }
+    },
+    {
+     "@type": "LocalBusiness",
+     "@id": "https://capecodcannabis.com/#organization",
+     "name": "Cape Cod Cannabis in Wellfleet - Best dispensary on Cape Cod.",
+     "url": "https://capecodcannabis.com",
+     "sameAs": [
+      "https://www.facebook.com/profile.php?id=100077867156438",
+      "https://twitter.com/capecodcanna"
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "logo": {
+      "@type": "ImageObject",
+      "@id": "https://capecodcannabis.com/#logo",
+      "url": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "contentUrl": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "caption": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+      "inLanguage": "en-US",
+      "width": "700",
+      "height": "500"
+     },
+     "openingHours": [
+      "Mo,Tu,We,Th,Fr,Sa,Su 8:00 - 8:00"
+     ],
+     "description": "Welcome to Cape Cod Cannabis, recognized by many as the Best Dispensary on Cape Cod, located in Wellfleet. Conveniently situated in the Route 6 shopping plaza in South Wellfleet, we are a trusted destination for both locals and visitors traveling from Provincetown, Truro, Wellfleet, Eastham, Orleans, Brewster, Dennis, Harwich, Chatham, Yarmouth, Sandwich and across the Cape and beyond.\n\nCape Cod Cannabis, your go-to cannabis haven, offers a carefully curated selection of high quality products, including flower, pre-rolls, edibles, vaporizers, concentrates, tinctures, topicals, CBD, accessories, and more. With a focus on education, selection, and a welcoming experience, we make it easy to explore and find what works best for you whether you are visiting the Cape or live here year round.",
+     "location": {
+      "@id": "https://capecodcannabis.com/#place"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/#logo"
+     },
+     "telephone": "+1-774-383-3133"
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://capecodcannabis.com/#website",
+     "url": "https://capecodcannabis.com",
+     "name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+     "alternateName": "Cape Cod Cannabis | Wellfleet's Top Rated Cannabis Store on Cape Cod",
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/specials/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/specials/",
+        "name": "Specials"
+       }
+      }
+     ]
+    },
+    {
+     "@type": "CollectionPage",
+     "@id": "https://capecodcannabis.com/specials/#webpage",
+     "url": "https://capecodcannabis.com/specials/",
+     "name": "October Cannabis Deals on Cape Cod | Flower, Vape &amp; Edible Bundles at Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/#website"
+     },
+     "inLanguage": "en-US",
+     "breadcrumb": {
+      "@id": "https://capecodcannabis.com/specials/#breadcrumb"
+     }
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "http://schema.org",
+   "@type": "CollectionPage",
+   "name": "Specials",
+   "mainEntity": {
+    "@type": "OfferCatalog",
+    "numberOfItems": 12,
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+       "@type": "Offer",
+       "name": "Wana Gummies | 2 for $55",
+       "description": "Stock up on Wana! Grab 2 Wana Gummies for just $55 and mix &amp; match your favorites. Double the gummies, better the deal!",
+       "availability": "https://schema.org/InStock",
+       "priceCurrency": "USD",
+       "@id": "https://capecodcannabis.com/specials/wana-gummies-2-for-55/",
+       "url": "https://capecodcannabis.com/specials/wana-gummies-2-for-55/",
+       "image": "https://joint-product-photos.s3.amazonaws.com/production/specials/5164/9616d019-3f82-4688-abef-63c6f3c81e13.jpeg",
+       "validFrom": "2026-10-08T00:00:00+00:00",
+       "validThrough": "2026-11-01T00:00:00+00:00",
+       "seller": {
+        "@type": "Organization",
+        "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164"
+       },
+       "eligibleRegion": {
+        "@type": "Place",
+        "address": "Wellfleet, MA"
+       }
+      }
+     },
+     {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+       "@type": "Offer",
+       "name": "Glorious | 3.5g Moonrocks | 2 for $70 | 5 for $160",
+       "description": "Get more Glorious Moonrocks for less! Mix &amp; match 3.5g Moonrocks and grab 2 for $70 or 5 for $160. While supplies last.",
+       "availability": "https://schema.org/InStock",
+       "priceCurrency": "USD",
+       "@id": "https://capecodcannabis.com/specials/glorious-3-5g-moonrocks-2-for-70-5-for-160/",
+       "url": "https://capecodcannabis.com/specials/glorious-3-5g-moonrocks-2-for-70-5-for-160/",
+       "image": "https://joint-product-photos.s3.amazonaws.com/production/specials/5164/761f4984-92f8-4471-88b6-ea4486ad7ca3.jpeg",
+       "validFrom": "2026-10-01T00:00:00+00:00",
+       "validThrough": "2026-11-01T00:00:00+00:00",
+       "seller": {
+        "@type": "Organization",
+        "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164"
+       },
+       "eligibleRegion": {
+        "@type": "Place",
+        "address": "Wellfleet, MA"
+       }
+      }
+     },
+     {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+       "@type": "Offer",
+       "name": "Happy Valley | Pre-Roll 7pks | 2 for $75",
+       "description": "Double up on Happy Valley! Grab any 2 Pre-Roll 7-Packs for just $75. Mix &amp; match available strains while supplies last.",
+       "availability": "https://schema.org/InStock",
+       "priceCurrency": "USD",
+       "@id": "https://capecodcannabis.com/specials/happy-valley-pre-roll-7pks-2-for-75/",
+       "url": "https://capecodcannabis.com/specials/happy-valley-pre-roll-7pks-2-for-75/",
+       "image": "https://joint-product-photos.s3.amazonaws.com/production/specials/5164/14b449ff-d179-4bb8-800c-c17a8d767c7f.jpeg",
+       "validFrom": "2026-10-01T00:00:00+00:00",
+       "validThrough": "2026-11-01T00:00:00+00:00",
+       "seller": {
+        "@type": "Organization",
+        "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164"
+       },
+       "eligibleRegion": {
+        "@type": "Place",
+        "address": "Wellfleet, MA"
+       }
+      }
+     },
+     {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+       "@type": "Offer",
+       "name": "Mindy&#039;s | Gummies | 8 for $100",
+       "description": "Mix, match, and stock up on Mindy’s Gummies! Choose 8 packs for just $100 and build your perfect assortment from available flavors. While supplies last.",
+       "availability": "https://schema.org/InStock",
+       "priceCurrency": "USD",
+       "@id": "https://capecodcannabis.com/specials/mindys-gummies-8-for-100/",
+       "url": "https://capecodcannabis.com/specials/mindys-gummies-8-for-100/",
+       "image": "https://joint-product-photos.s3.amazonaws.com/production/specials/5164/f16d5d71-5e9f-4587-ac5e-a5864be09029.jpeg",
+       "validFrom": "2026-10-01T00:00:00+00:00",
+       "validThrough": "2026-11-01T00:00:00+00:00",
+       "seller": {
+        "@type": "Organization",
+        "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164"
+       },
+       "eligibleRegion": {
+        "@type": "Place",
+        "address": "Wellfleet, MA"
+       }
+      }
+     },
+     {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+       "@type": "Offer",
+       "name": "Kiva | Chocolate Bars | 2 for $32.50",
+       "description": "Stock up on Kiva Chocolate Bars and save! Mix &amp; match your favorites and grab 2 for $32.50. While supplies last.",
+       "availability": "https://schema.org/InStock",
+       "priceCurrency": "USD",
+       "@id": "https://capecodcannabis.com/specials/kiva-chocolate-bars-2-for-32-50/",
+       "url": "https://capecodcannabis.com/specials/kiva-chocolate-bars-2-for-32-50/",
+       "image": "https://joint-product-photos.s3.amazonaws.com/production/specials/5164/68b550e4-c9b1-4bf2-b9a8-9401ba467545.jpeg",
+       "validFrom": "2026-10-01T00:00:00+00:00",
+       "validThrough": "2026-11-01T00:00:00+00:00",
+       "seller": {
+        "@type": "Organization",
+        "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164"
+       },
+       "eligibleRegion": {
+        "@type": "Place",
+        "address": "Wellfleet, MA"
+       }
+      }
+     },
+     {
+      "@type": "ListItem",
+      "position": 6,
+      "item": {
+       "@type": "Offer",
+       "name": "Infused Pre-Roll 5pk | Jeeter | 2 for $95 | 4 for $180 | 6 for $255 | 10 for $380",
+       "description": "Go big with Jeeter’s premium infused pre-roll 5-packs — packed with bold flavor, heavy potency, and smooth-burning sessions from start to finish.",
+       "availability": "https://schema.org/InStock",
+       "priceCurrency": "USD",
+       "@id": "https://capecodcannabis.com/specials/infused-pre-roll-5pk-jeeter-2-for-95-4-for-180-6-for-255-10-for-380/",
+       "url": "https://capecodcannabis.com/specials/infused-pre-roll-5pk-jeeter-2-for-95-4-for-180-6-for-255-10-for-380/",
+       "image": "https://joint-product-photos.s3.amazonaws.com/production/specials/5164/d32685ca-f8d3-426d-ae97-85752e981e4b.jpeg",
+       "validFrom": "2026-05-22T00:00:00+00:00",
+       "validThrough": "2026-12-31T00:00:00+00:00",
+       "seller": {
+        "@type": "Organization",
+        "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164"
+       },
+       "eligibleRegion": {
+        "@type": "Place",
+        "address": "Wellfleet, MA"
+       }
+      }
+     },
+     {
+      "@type": "ListItem",
+      "position": 7,
+      "item": {
+       "@type": "Offer",
+       "name": "Cultivators Classic | 1g Concentrates | 5 for $90 | 10 for $160",
+       "description": "Stock up on your favorite classic concentrates and save more when you buy more! Mix and match qualifying products to get 5 for $90 or 10 for $160.",
+       "availability": "https://schema.org/InStock",
+       "priceCurrency": "USD",
+       "@id": "https://capecodcannabis.com/specials/cultivators-classic-1g-concentrates-5-for-90-10-for-160/",
+       "url": "https://capecodcannabis.com/specials/cultivators-classic-1g-concentrates-5-for-90-10-for-160/",
+       "image": "https://joint-product-photos.s3.amazonaws.com/production/specials/5164/0bd369ba-ee40-4d64-9cc5-1cd101bd44f0.jpeg",
+       "validFrom": "2026-09-11T00:00:00+00:00",
+       "validThrough": "2027-05-01T00:00:00+00:00",
+       "seller": {
+        "@type": "Organization",
+        "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164"
+       },
+       "eligibleRegion": {
+        "@type": "Place",
+        "address": "Wellfleet, MA"
+       }
+      }
+     },
+     {
+      "@type": "ListItem",
+      "position": 8,
+      "item": {
+       "@type": "Offer",
+       "name": "Eureka | 1g Disposables | 2 for $40",
+       "description": "Buy 2 Eureka 1g Vaporizers for $40! Mix and match your favorites and stock up while the deal lasts.",
+       "availability": "https://schema.org/InStock",
+       "priceCurrency": "USD",
+       "@id": "https://capecodcannabis.com/specials/eureka-1g-disposables-2-for-40/",
+       "url": "https://capecodcannabis.com/specials/eureka-1g-disposables-2-for-40/",
+       "image": "https://joint-product-photos.s3.amazonaws.com/production/specials/5164/8cf109bc-bdd3-4b44-b393-16121cb8b9a5.jpeg",
+       "validFrom": "2026-09-08T00:00:00+00:00",
+       "validThrough": "2026-11-01T00:00:00+00:00",
+       "seller": {
+        "@type": "Organization",
+        "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164"
+       },
+       "eligibleRegion": {
+        "@type": "Place",
+        "address": "Wellfleet, MA"
+       }
+      }
+     },
+     {
+      "@type": "ListItem",
+      "position": 9,
+      "item": {
+       "@type": "Offer",
+       "name": "Chill Medicated | 500mg Syrups | 2 for $65",
+       "description": "Double up on Chill Medicated! Grab 2 500mg Syrups for just $65 and stock up on your favorite flavors. Mix, sip, and enjoy your way!",
+       "availability": "https://schema.org/InStock",
+       "priceCurrency": "USD",
+       "@id": "https://capecodcannabis.com/specials/chill-medicated-500mg-syrups-2-for-65/",
+       "url": "https://capecodcannabis.com/specials/chill-medicated-500mg-syrups-2-for-65/",
+       "image": "https://joint-product-photos.s3.amazonaws.com/production/specials/5164/f264b096-2519-409a-8754-5b427197ed89.jpeg",
+       "validFrom": "2026-09-01T00:00:00+00:00",
+       "validThrough": "2026-11-01T00:00:00+00:00",
+       "seller": {
+        "@type": "Organization",
+        "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164"
+       },
+       "eligibleRegion": {
+        "@type": "Place",
+        "address": "Wellfleet, MA"
+       }
+      }
+     },
+     {
+      "@type": "ListItem",
+      "position": 10,
+      "item": {
+       "@type": "Offer",
+       "name": "Infused Pre-Rolls | 2 for $20",
+       "description": "Double up and save! 🔥 Mix &amp; match select Infused Pre-Rolls and grab 2 for just $20. Pick your favorites or switch it up and try something new!",
+       "availability": "https://schema.org/InStock",
+       "priceCurrency": "USD",
+       "@id": "https://capecodcannabis.com/specials/infused-pre-rolls-2-for-20/",
+       "url": "https://capecodcannabis.com/specials/infused-pre-rolls-2-for-20/",
+       "image": "https://joint-product-photos.s3.amazonaws.com/production/specials/5164/cf9b880b-ed5d-4803-b3ac-bdb4e62ebd26.jpeg",
+       "validFrom": "2026-09-01T00:00:00+00:00",
+       "validThrough": "2026-11-01T00:00:00+00:00",
+       "seller": {
+        "@type": "Organization",
+        "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164"
+       },
+       "eligibleRegion": {
+        "@type": "Place",
+        "address": "Wellfleet, MA"
+       }
+      }
+     },
+     {
+      "@type": "ListItem",
+      "position": 11,
+      "item": {
+       "@type": "Offer",
+       "name": "Premium 3.5g Flower | 2 for 10% Off | 4 for 15% Off | 8 for 20% Off",
+       "description": "Stock up on premium flower and save more as you go! Mix &amp; match select 3.5g Flower and get 10% Off 2, 15% Off 4, or 20% Off 8. More flower, bigger savings!",
+       "availability": "https://schema.org/InStock",
+       "priceCurrency": "USD",
+       "@id": "https://capecodcannabis.com/specials/premium-3-5g-flower-2-for-10-off-4-for-15-off-8-for-20-off/",
+       "url": "https://capecodcannabis.com/specials/premium-3-5g-flower-2-for-10-off-4-for-15-off-8-for-20-off/",
+       "image": "https://joint-product-photos.s3.amazonaws.com/production/specials/5164/6aaa429d-2e31-4e8a-9c2a-6af7c20b04d0.jpeg",
+       "validFrom": "2026-09-01T00:00:00+00:00",
+       "validThrough": "2026-11-01T00:00:00+00:00",
+       "seller": {
+        "@type": "Organization",
+        "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164"
+       },
+       "eligibleRegion": {
+        "@type": "Place",
+        "address": "Wellfleet, MA"
+       }
+      }
+     },
+     {
+      "@type": "ListItem",
+      "position": 12,
+      "item": {
+       "@type": "Offer",
+       "name": "Wavez | 1g Infused Pre-Rolls | 10 for $75 | 20 for $135 | 30 for $180",
+       "description": "Wavez by Mega Labs Mix &amp; match 1g infused pre-rolls enhanced with potency-forward distillate infusion for a bold, elevated experience.",
+       "availability": "https://schema.org/InStock",
+       "priceCurrency": "USD",
+       "@id": "https://capecodcannabis.com/specials/wavez-1g-infused-pre-rolls-10-for-75-20-for-135-30-for-180/",
+       "url": "https://capecodcannabis.com/specials/wavez-1g-infused-pre-rolls-10-for-75-20-for-135-30-for-180/",
+       "image": "https://joint-product-photos.s3.amazonaws.com/production/specials/5164/e7d46cba-7bcb-41ab-9404-bc45b71eb130.jpeg",
+       "validFrom": "2026-07-26T00:00:00+00:00",
+       "seller": {
+        "@type": "Organization",
+        "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164"
+       },
+       "eligibleRegion": {
+        "@type": "Place",
+        "address": "Wellfleet, MA"
+       }
+      }
+     }
+    ]
+   },
+   "url": "https://capecodcannabis.com/specials/",
+   "@id": "https://capecodcannabis.com/specials/"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "h1": "Cannabis Offers for sale in Wellfleet, MA",
+ "h1Source": {
+  "count": 1,
+  "visible": 1,
+  "hidden": 0
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Specials",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "jsonld",
+ "section": "Shop Menu",
+ "sections": [
+  {
+   "n": 0,
+   "id": "5a789648",
+   "doc": "archive#113037",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<a href=\"/\">Home</a>",
+     "dev": [
+      "widescreen"
+     ]
+    },
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "Cannabis Offers for sale in Wellfleet, MA"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "5d69432",
+   "doc": "archive#113037",
+   "dev": [
+    "widescreen",
+    "desktop"
+   ],
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>Looking for the <strong>best cannabis</strong> <b>bundle offers near me</b> on Cape Cod? At <b>Cape Cod Cannabis in Wellfleet, MA</b>, we make it easy to save on your favorite products with curated bundles featuring premium <b>flower, pre-rolls, cartridges and disposables, concentrates, edibles, and more</b>. Whether you’re stocking up for the weekend, visiting the Outer Cape, or a local shopper looking for value, our dispensary bundle offers are designed to give you more for less.</p><p>Conveniently located in the Route 6 shopping plaza in South Wellfleet, <strong>Cape Cod Cannabis </strong>proudly serves customers from <strong>Barnstable, Bourne, Brewster, Chatham, Dennis, Eastham, Falmouth, Harwich, Hyannis, Mashpee, Orleans, Provincetown, Sandwich, Truro, Wellfleet, Yarmouth</strong>, and across the Cape and beyond.</p>",
+     "dev": [
+      "widescreen",
+      "desktop"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "66455fc",
+   "doc": "archive#113037",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "October Starts Here…"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": "c2108c6",
+   "doc": "archive#113037",
+   "dev": [
+    "tablet",
+    "mobile_extra",
+    "mobile"
+   ],
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong>Scroll left-right to view</strong></p>",
+     "dev": [
+      "tablet",
+      "mobile_extra",
+      "mobile"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "id": "b9bbb27",
+   "doc": "archive#113037",
+   "blocks": [
+    {
+     "t": "timeline",
+     "kind": "jet-horizontal-timeline",
+     "items": [
+      {
+       "meta": "Every Tuesday",
+       "text": "Every Tuesday"
+      },
+      {
+       "meta": "Friday, October 16th",
+       "text": "Friday, October 16th"
+      },
+      {
+       "meta": "Tuesday, October 20th",
+       "text": "Tuesday, October 20th"
+      },
+      {
+       "meta": "Every Wednesday",
+       "text": "Every Wednesday"
+      },
+      {
+       "meta": "Every Sunday",
+       "text": "Every Sunday"
+      },
+      {
+       "text": ""
+      },
+      {
+       "text": ""
+      },
+      {
+       "text": ""
+      },
+      {
+       "text": ""
+      },
+      {
+       "text": ""
+      },
+      {
+       "text": "Puff your way through the week with 2g Dispo Tuesday! Every Tuesday in October, grab select 2g disposables for just $40 at Cape Cod Cannabis. Explore fresh flavors, revisit your favorites, and bring a little extra brightness to your fall routine. Tuesdays just became another reason we’re Always Worth the Trip! While supplies last!",
+       "image": {
+        "ref": "assets/source/b578dc88-October-2G-Dispo-Tuesday.png",
+        "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2024/11/October-2G-Dispo-Tuesday.png?lossy=2&strip=0&webp=1",
+        "alt": "",
+        "w": 765,
+        "h": 330
+       }
+      },
+      {
+       "text": "Double the chocolate, double the delight! On Friday, October 16th only, pick up two Double Baked RSO chocolates for just $12.50 at Cape Cod Cannabis. Give your fall weekend a sweeter start with a one-day offer that’s Always Worth the Trip! Available October 16, 2026 only, while supplies last.",
+       "image": {
+        "ref": "assets/source/9c515578-October-Double-Baked-BOGO-765-x-330.png",
+        "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2024/11/October-Double-Baked-BOGO-765-x-330.png?lossy=2&strip=0&webp=1",
+        "alt": "",
+        "w": 765,
+        "h": 330
+       }
+      },
+      {
+       "text": "$12 Tuesday is back for one day only! On October 20, 2026, pick up Blackstone Valley Cannabis 3.5g flower for just $12 at Cape Cod Cannabis. Mark your calendar—this October offer is available only on 10/20/26, while supplies last!",
+       "image": {
+        "ref": "assets/source/40e12ae3-October-12-Tuesday.png",
+        "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2024/11/October-12-Tuesday.png?lossy=2&strip=0&webp=1",
+        "alt": "",
+        "w": 765,
+        "h": 330
+       }
+      },
+      {
+       "text": "Give your week a sweeter twist with Wax & Wana Wednesday! Every Wednesday in October, explore $20 1g concentrates and $25 Wana Gummies at Cape Cod Cannabis. From flavorful dabs to fruity bites, your midweek favorites are waiting. Make Wednesday Always Worth the Trip! Available every Wednesday in October, while supplies last.",
+       "image": {
+        "ref": "assets/source/2b6afbb7-October-Wax-Wana-Wednesday.png",
+        "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2024/11/October-Wax-Wana-Wednesday.png?lossy=2&strip=0&webp=1",
+        "alt": "",
+        "w": 765,
+        "h": 330
+       }
+      },
+      {
+       "text": "Keep Sundays simple with Simpler Daze! Every Sunday in October, pick up two 28g Simpler Daze ounces from select participating strains for $140 at Cape Cod Cannabis—that’s $70 per ounce. Give your fall weekend a laid-back finish with Simpler Daze Sundays, Always Worth the Trip! Available every Sunday in October on select strains!",
+       "image": {
+        "ref": "assets/source/8a6f6d48-October-28g-Simpler-Daze-Sunday.png",
+        "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2024/11/October-28g-Simpler-Daze-Sunday.png?lossy=2&strip=0&webp=1",
+        "alt": "",
+        "w": 765,
+        "h": 330
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "id": "be8eaf6",
+   "doc": "archive#113037",
+   "hiddenAll": true,
+   "dev": [],
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "September’s Last Hurrah",
+     "dev": [],
+     "hiddenAll": true
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "id": "d62db1f",
+   "doc": "archive#113037",
+   "dev": [
+    "tablet",
+    "mobile_extra",
+    "mobile"
+   ],
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong>Scroll left-right to view</strong></p>",
+     "dev": [
+      "tablet",
+      "mobile_extra",
+      "mobile"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "id": "a32d726",
+   "doc": "archive#113037",
+   "hiddenAll": true,
+   "dev": [],
+   "blocks": [
+    {
+     "t": "timeline",
+     "kind": "jet-horizontal-timeline",
+     "items": [
+      {
+       "meta": "Limited time. While supplies last.",
+       "text": "Limited time. While supplies last."
+      },
+      {
+       "text": ""
+      },
+      {
+       "text": "Eureka Disposables are even better together! For a limited time, mix and match select Eureka Disposables 2 for $40. Choose from a variety of flavors and stock up on your favorites while the offer lasts. Available while supplies last.",
+       "image": {
+        "ref": null,
+        "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/09/3b0ef225-991f-4a73-9f6a-a5c4a04327a7.jpeg.jpeg?lossy=2&strip=0&webp=1",
+        "missing": "download-failed",
+        "alt": ""
+       }
+      }
+     ],
+     "dev": [],
+     "hiddenAll": true
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "id": "6aa1e7b",
+   "doc": "archive#113037",
+   "hiddenAll": true,
+   "dev": [],
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong><u>Note</u>:</strong> We are experiencing technical difficulties with our Bundles showing and linking on our site. We are working hard to resolve the issue and thank you for your patience.</p>",
+     "dev": [],
+     "hiddenAll": true
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "id": "f6ec7f8",
+   "doc": "archive#113037",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Everyday Offers"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "id": "cb5736d",
+   "doc": "archive#113037",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>*Bundle pricing is only in-store and will not reflect on website or on pre-orders! Only products listed in each bundle applies! <a href=\"/daily-purchase-limit-in-ma/\" target=\"_blank\" rel=\"noopener\">Purchase up to 2 ounces (56g) per day.</a></p>"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "id": "8d77fb6",
+   "doc": "archive#113037",
+   "blocks": [
+    {
+     "t": "posts",
+     "kind": "posts.cards",
+     "items": [
+      {
+       "title": "Wana Gummies | 2 for $55",
+       "href": "/specials/wana-gummies-2-for-55/",
+       "excerpt": "Stock up on Wana! Grab 2 Wana Gummies for just $55 and mix & match your favorites. Double the gummies, better the deal!",
+       "image": {
+        "ref": "assets/source/790cbd58-9616d019-3f82-4688-abef-63c6f3c81e13.jpeg.jpeg",
+        "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/10/9616d019-3f82-4688-abef-63c6f3c81e13.jpeg.jpeg?lossy=2&strip=0&webp=1",
+        "alt": "",
+        "w": 765,
+        "h": 330
+       },
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "Glorious | 3.5g Moonrocks | 2 for $70 | 5 for $160",
+       "href": "/specials/glorious-3-5g-moonrocks-2-for-70-5-for-160/",
+       "excerpt": "Get more Glorious Moonrocks for less! Mix & match 3.5g Moonrocks and grab 2 for $70 or 5 for $160. While supplies last.",
+       "image": {
+        "ref": "assets/source/87019394-761f4984-92f8-4471-88b6-ea4486ad7ca3.jpeg.jpeg",
+        "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/10/761f4984-92f8-4471-88b6-ea4486ad7ca3.jpeg.jpeg?lossy=2&strip=0&webp=1",
+        "alt": "",
+        "w": 765,
+        "h": 330
+       },
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "Happy Valley | Pre-Roll 7pks | 2 for $75",
+       "href": "/specials/happy-valley-pre-roll-7pks-2-for-75/",
+       "excerpt": "Double up on Happy Valley! Grab any 2 Pre-Roll 7-Packs for just $75. Mix & match available strains while supplies last.",
+       "image": {
+        "ref": "assets/source/74fe9f00-14b449ff-d179-4bb8-800c-c17a8d767c7f.jpeg.jpeg",
+        "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/10/14b449ff-d179-4bb8-800c-c17a8d767c7f.jpeg.jpeg?lossy=2&strip=0&webp=1",
+        "alt": "",
+        "w": 765,
+        "h": 330
+       },
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "Mindy’s | Gummies | 8 for $100",
+       "href": "/specials/mindys-gummies-8-for-100/",
+       "excerpt": "Mix, match, and stock up on Mindy’s Gummies! Choose 8 packs for just $100 and build your perfect assortment from available flavors. While supplies last.",
+       "image": {
+        "ref": "assets/source/2da057ef-f16d5d71-5e9f-4587-ac5e-a5864be09029.jpeg.jpeg",
+        "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/10/f16d5d71-5e9f-4587-ac5e-a5864be09029.jpeg.jpeg?lossy=2&strip=0&webp=1",
+        "alt": "",
+        "w": 765,
+        "h": 330
+       },
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "Kiva | Chocolate Bars | 2 for $32.50",
+       "href": "/specials/kiva-chocolate-bars-2-for-32-50/",
+       "excerpt": "Stock up on Kiva Chocolate Bars and save! Mix & match your favorites and grab 2 for $32.50. While supplies last.",
+       "image": {
+        "ref": "assets/source/62525e9b-68b550e4-c9b1-4bf2-b9a8-9401ba467545.jpeg.jpeg",
+        "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/10/68b550e4-c9b1-4bf2-b9a8-9401ba467545.jpeg.jpeg?lossy=2&strip=0&webp=1",
+        "alt": "",
+        "w": 765,
+        "h": 330
+       },
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "Infused Pre-Roll 5pk | Jeeter | 2 for $95 | 4 for $180 | 6 for $255 | 10 for $380",
+       "href": "/specials/infused-pre-roll-5pk-jeeter-2-for-95-4-for-180-6-for-255-10-for-380/",
+       "excerpt": "Go big with Jeeter’s premium infused pre-roll 5-packs — packed with bold flavor, heavy potency, and smooth-burning sessions from start to finish.",
+       "image": {
+        "ref": "assets/source/051bbd3f-d32685ca-f8d3-426d-ae97-85752e981e4b.jpeg.jpeg",
+        "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/10/d32685ca-f8d3-426d-ae97-85752e981e4b.jpeg.jpeg?lossy=2&strip=0&webp=1",
+        "alt": "",
+        "w": 765,
+        "h": 330
+       },
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "Cultivators Classic | 1g Concentrates | 5 for $90 | 10 for $160",
+       "href": "/specials/cultivators-classic-1g-concentrates-5-for-90-10-for-160/",
+       "excerpt": "Stock up on your favorite classic concentrates and save more when you buy more! Mix and match qualifying products to get 5 for $90 or 10 for $160.",
+       "image": {
+        "ref": "assets/source/1f6b6f4d-0bd369ba-ee40-4d64-9cc5-1cd101bd44f0.jpeg.jpeg",
+        "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/10/0bd369ba-ee40-4d64-9cc5-1cd101bd44f0.jpeg.jpeg?lossy=2&strip=0&webp=1",
+        "alt": "",
+        "w": 765,
+        "h": 330
+       },
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "Eureka | 1g Disposables | 2 for $40",
+       "href": "/specials/eureka-1g-disposables-2-for-40/",
+       "excerpt": "Buy 2 Eureka 1g Vaporizers for $40! Mix and match your favorites and stock up while the deal lasts.",
+       "image": {
+        "ref": "assets/source/3184124b-8cf109bc-bdd3-4b44-b393-16121cb8b9a5.jpeg.jpeg",
+        "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/10/8cf109bc-bdd3-4b44-b393-16121cb8b9a5.jpeg.jpeg?lossy=2&strip=0&webp=1",
+        "alt": "",
+        "w": 765,
+        "h": 330
+       },
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "Chill Medicated | 500mg Syrups | 2 for $65",
+       "href": "/specials/chill-medicated-500mg-syrups-2-for-65/",
+       "excerpt": "Double up on Chill Medicated! Grab 2 500mg Syrups for just $65 and stock up on your favorite flavors. Mix, sip, and enjoy your way!",
+       "image": {
+        "ref": "assets/source/c4d16fab-f264b096-2519-409a-8754-5b427197ed89.jpeg.jpeg",
+        "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/10/f264b096-2519-409a-8754-5b427197ed89.jpeg.jpeg?lossy=2&strip=0&webp=1",
+        "alt": "",
+        "w": 765,
+        "h": 330
+       },
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "Infused Pre-Rolls | 2 for $20",
+       "href": "/specials/infused-pre-rolls-2-for-20/",
+       "excerpt": "Double up and save! 🔥 Mix & match select Infused Pre-Rolls and grab 2 for just $20. Pick your favorites or switch it up and try something new!",
+       "image": {
+        "ref": "assets/source/b9980832-cf9b880b-ed5d-4803-b3ac-bdb4e62ebd26.jpeg.jpeg",
+        "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/10/cf9b880b-ed5d-4803-b3ac-bdb4e62ebd26.jpeg.jpeg?lossy=2&strip=0&webp=1",
+        "alt": "",
+        "w": 765,
+        "h": 330
+       },
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "Premium 3.5g Flower | 2 for 10% Off | 4 for 15% Off | 8 for 20% Off",
+       "href": "/specials/premium-3-5g-flower-2-for-10-off-4-for-15-off-8-for-20-off/",
+       "excerpt": "Stock up on premium flower and save more as you go! Mix & match select 3.5g Flower and get 10% Off 2, 15% Off 4, or 20% Off 8. More flower, bigger savings!",
+       "image": {
+        "ref": "assets/source/a099726a-6aaa429d-2e31-4e8a-9c2a-6af7c20b04d0.jpeg.jpeg",
+        "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/10/6aaa429d-2e31-4e8a-9c2a-6af7c20b04d0.jpeg.jpeg?lossy=2&strip=0&webp=1",
+        "alt": "",
+        "w": 765,
+        "h": 330
+       },
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "Wavez | 1g Infused Pre-Rolls | 10 for $75 | 20 for $135 | 30 for $180",
+       "href": "/specials/wavez-1g-infused-pre-rolls-10-for-75-20-for-135-30-for-180/",
+       "excerpt": "Wavez by Mega Labs Mix & match 1g infused pre-rolls enhanced with potency-forward distillate infusion for a bold, elevated experience.",
+       "image": {
+        "ref": "assets/source/912a5317-e7d46cba-7bcb-41ab-9404-bc45b71eb130.jpeg.jpeg",
+        "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/10/e7d46cba-7bcb-41ab-9404-bc45b71eb130.jpeg.jpeg?lossy=2&strip=0&webp=1",
+        "alt": "",
+        "w": 765,
+        "h": 330
+       },
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "Zzzonked & Hashables | Gummies | 2 for $35",
+       "href": "/specials/gummies-zzzonked-2-for-35/",
+       "excerpt": "Rest easy and save! Mix and match qualifying Zzzonked & Hashable Gummies and get 2 for $35. A great value on gummies formulated to help you unwind and support a restful night’s sleep. While supplies last.",
+       "image": {
+        "ref": "assets/source/2c9161a3-6def7ad4-02c9-4012-9093-9013fa10d658.jpeg.jpeg",
+        "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/10/6def7ad4-02c9-4012-9093-9013fa10d658.jpeg.jpeg?lossy=2&strip=0&webp=1",
+        "alt": "",
+        "w": 765,
+        "h": 330
+       },
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "1g Cartridges | 2 for $36",
+       "href": "/specials/cartridges-crude-boys-hellavated-2-for-36/",
+       "excerpt": "Mix and match your favorite 1g cartridges froma variety of brands and get 2 for $36. A great everyday value on quality vape options with a wide variety of strains to choose from.",
+       "image": {
+        "ref": "assets/source/8bd2bc55-544da0a3-d35e-491d-8eca-b97e6690bc68.jpeg.jpeg",
+        "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/10/544da0a3-d35e-491d-8eca-b97e6690bc68.jpeg.jpeg?lossy=2&strip=0&webp=1",
+        "alt": "",
+        "w": 765,
+        "h": 330
+       },
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "Disposables | 2 for 10% Off",
+       "href": "/specials/disposables-1g-2g-2-for-10-off-4-for-20-off/",
+       "excerpt": "Mix & match disposable vapes crafted for smooth flavor and consistent effects—ready when you are.",
+       "image": {
+        "ref": "assets/source/2eea8f1e-8610df32-ef46-4f5c-9136-a363cb82b93c.jpeg.jpeg",
+        "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/10/8610df32-ef46-4f5c-9136-a363cb82b93c.jpeg.jpeg?lossy=2&strip=0&webp=1",
+        "alt": "",
+        "w": 765,
+        "h": 330
+       },
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "1g Concentrates | 2 for 10% OFF | 5 for 15% OFF | 10 for 25% OFF",
+       "href": "/specials/mix-n-match-concentrates/",
+       "excerpt": "The more you grab, the more you save! Mix & match select 1g Concentrates and save 10% on 2, 15% on 5, or 25% on 10. Stock up on your favorites and save big!",
+       "image": {
+        "ref": "assets/source/cb08432a-951f0dfe-73b3-46e1-a385-165d625fcc69.jpeg.jpeg",
+        "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/10/951f0dfe-73b3-46e1-a385-165d625fcc69.jpeg.jpeg?lossy=2&strip=0&webp=1",
+        "alt": "",
+        "w": 765,
+        "h": 330
+       },
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "Affordable Ounces & Half Ounces",
+       "href": "/specials/affordable-ounces-1-2-ounces/",
+       "excerpt": "Displaying All Affordable Ounces & 1/2 Ounces Available on our Menu!",
+       "image": {
+        "ref": "assets/source/03e39bfe-b592a693-48ee-4b50-86e1-f85ef152513f.jpeg.jpeg",
+        "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/10/b592a693-48ee-4b50-86e1-f85ef152513f.jpeg.jpeg?lossy=2&strip=0&webp=1",
+        "alt": "",
+        "w": 765,
+        "h": 330
+       },
+       "more": "Shop Now ⭢"
+      }
+     ],
+     "ariaLabels": [
+      "Read more about Wana Gummies | 2 for $55",
+      "Read more about Glorious | 3.5g Moonrocks | 2 for $70 | 5 for $160",
+      "Read more about Happy Valley | Pre-Roll 7pks | 2 for $75",
+      "Read more about Mindy’s | Gummies | 8 for $100",
+      "Read more about Kiva | Chocolate Bars | 2 for $32.50",
+      "Read more about Infused Pre-Roll 5pk | Jeeter | 2 for $95 | 4 for $180 | 6 for $255 | 10 for $380",
+      "Read more about Cultivators Classic | 1g Concentrates | 5 for $90 | 10 for $160",
+      "Read more about Eureka | 1g Disposables | 2 for $40",
+      "Read more about Chill Medicated | 500mg Syrups | 2 for $65",
+      "Read more about Infused Pre-Rolls | 2 for $20",
+      "Read more about Premium 3.5g Flower | 2 for 10% Off | 4 for 15% Off | 8 for 20% Off",
+      "Read more about Wavez | 1g Infused Pre-Rolls | 10 for $75 | 20 for $135 | 30 for $180",
+      "Read more about Zzzonked & Hashables | Gummies | 2 for $35",
+      "Read more about 1g Cartridges | 2 for $36",
+      "Read more about Disposables | 2 for 10% Off",
+      "Read more about 1g Concentrates | 2 for 10% OFF | 5 for 15% OFF | 10 for 25% OFF",
+      "Read more about Affordable Ounces & Half Ounces"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "id": "e6d7be6",
+   "doc": "archive#113037",
+   "blocks": [
+    {
+     "t": "button",
+     "label": "Shop Menu",
+     "href": "/menu/"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "button": 1,
+  "heading": 4,
+  "posts": 1,
+  "rich": 6,
+  "timeline": 2
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [
+   {
+    "section": "c2108c6",
+    "t": "rich",
+    "dev": [
+     "tablet",
+     "mobile_extra",
+     "mobile"
+    ],
+    "text": "scroll left-right to view"
+   },
+   {
+    "section": "d62db1f",
+    "t": "rich",
+    "dev": [
+     "tablet",
+     "mobile_extra",
+     "mobile"
+    ],
+    "text": "scroll left-right to view"
+   },
+   {
+    "section": "5d69432",
+    "t": "rich",
+    "dev": [
+     "widescreen",
+     "desktop"
+    ],
+    "text": "looking for the best cannabis bundle offers near me on cape cod? at cape cod cannabis in wellfleet, ma, we make it easy to save on your favorite products with curated bundles featuring premium flower, pre-rolls, cartridges and disposables, "
+   },
+   {
+    "section": "5a789648",
+    "t": "rich",
+    "dev": [
+     "widescreen"
+    ],
+    "text": "home"
+   }
+  ],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [],
+  "aliasesResolved": [
+   {
+    "from": "/daily-purchase-limit-in-ma/",
+    "to": "/daily-purchase-limit-in-ma/"
+   },
+   {
+    "from": "https://capecodcannabis.com/specials/wana-gummies-2-for-55/",
+    "to": "/specials/wana-gummies-2-for-55/"
+   },
+   {
+    "from": "https://capecodcannabis.com/specials/glorious-3-5g-moonrocks-2-for-70-5-for-160/",
+    "to": "/specials/glorious-3-5g-moonrocks-2-for-70-5-for-160/"
+   },
+   {
+    "from": "https://capecodcannabis.com/specials/happy-valley-pre-roll-7pks-2-for-75/",
+    "to": "/specials/happy-valley-pre-roll-7pks-2-for-75/"
+   },
+   {
+    "from": "https://capecodcannabis.com/specials/mindys-gummies-8-for-100/",
+    "to": "/specials/mindys-gummies-8-for-100/"
+   },
+   {
+    "from": "https://capecodcannabis.com/specials/kiva-chocolate-bars-2-for-32-50/",
+    "to": "/specials/kiva-chocolate-bars-2-for-32-50/"
+   },
+   {
+    "from": "https://capecodcannabis.com/specials/infused-pre-roll-5pk-jeeter-2-for-95-4-for-180-6-for-255-10-for-380/",
+    "to": "/specials/infused-pre-roll-5pk-jeeter-2-for-95-4-for-180-6-for-255-10-for-380/"
+   },
+   {
+    "from": "https://capecodcannabis.com/specials/cultivators-classic-1g-concentrates-5-for-90-10-for-160/",
+    "to": "/specials/cultivators-classic-1g-concentrates-5-for-90-10-for-160/"
+   },
+   {
+    "from": "https://capecodcannabis.com/specials/eureka-1g-disposables-2-for-40/",
+    "to": "/specials/eureka-1g-disposables-2-for-40/"
+   },
+   {
+    "from": "https://capecodcannabis.com/specials/chill-medicated-500mg-syrups-2-for-65/",
+    "to": "/specials/chill-medicated-500mg-syrups-2-for-65/"
+   },
+   {
+    "from": "https://capecodcannabis.com/specials/infused-pre-rolls-2-for-20/",
+    "to": "/specials/infused-pre-rolls-2-for-20/"
+   },
+   {
+    "from": "https://capecodcannabis.com/specials/premium-3-5g-flower-2-for-10-off-4-for-15-off-8-for-20-off/",
+    "to": "/specials/premium-3-5g-flower-2-for-10-off-4-for-15-off-8-for-20-off/"
+   },
+   {
+    "from": "https://capecodcannabis.com/specials/wavez-1g-infused-pre-rolls-10-for-75-20-for-135-30-for-180/",
+    "to": "/specials/wavez-1g-infused-pre-rolls-10-for-75-20-for-135-30-for-180/"
+   },
+   {
+    "from": "https://capecodcannabis.com/specials/gummies-zzzonked-2-for-35/",
+    "to": "/specials/gummies-zzzonked-2-for-35/"
+   },
+   {
+    "from": "https://capecodcannabis.com/specials/cartridges-crude-boys-hellavated-2-for-36/",
+    "to": "/specials/cartridges-crude-boys-hellavated-2-for-36/"
+   },
+   {
+    "from": "https://capecodcannabis.com/specials/disposables-1g-2g-2-for-10-off-4-for-20-off/",
+    "to": "/specials/disposables-1g-2g-2-for-10-off-4-for-20-off/"
+   },
+   {
+    "from": "https://capecodcannabis.com/specials/mix-n-match-concentrates/",
+    "to": "/specials/mix-n-match-concentrates/"
+   },
+   {
+    "from": "https://capecodcannabis.com/specials/affordable-ounces-1-2-ounces/",
+    "to": "/specials/affordable-ounces-1-2-ounces/"
+   },
+   {
+    "from": "/menu",
+    "to": "/menu/"
+   }
+  ],
+  "imagesMissing": [
+   {
+    "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/09/3b0ef225-991f-4a73-9f6a-a5c4a04327a7.jpeg.jpeg?lossy=2&strip=0&webp=1",
+    "missing": "download-failed"
+   }
+  ],
+  "h1InRich": 0
+ }
+}

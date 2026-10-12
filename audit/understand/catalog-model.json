@@ -1,0 +1,1227 @@
+{
+ "schema": "site-reforge/catalog-model@1",
+ "generated": "2026-10-12T01:14:26.623Z",
+ "role": "catalog (UNDERSTAND phase)",
+ "doc": "docs/COMMERCE.md",
+ "scratch": "tmp/understand/catalog/",
+ "productFields": {
+  "evidence": "audit/prelock/t1.html (the only product page captured) + audit/raw/sitemap.html + audit/raw/products.html",
+  "url": "/products/<slug>/ ; canonical with trailing slash; slug grammar in slugGrammar",
+  "title": {
+   "sample": "Claravita Maui Waui | Popcorn | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+   "pattern": "<post title> | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA"
+  },
+  "metaDescription": "JSON-LD description with <br /> removed and no separator (sample: \"...SweetDominate Terpenes...\")",
+  "ogType": "article",
+  "ogUpdatedTime": "2026-10-11T14:07:33-04:00",
+  "h1": "Claravita Maui Waui | Popcorn",
+  "breadcrumb": [
+   "Home",
+   "Products",
+   "Claravita Maui Waui | Popcorn"
+  ],
+  "breadcrumbNote": "No category level: Home > Products > <title>",
+  "jsonLdProduct": {
+   "@context": "http://schema.org",
+   "name": "Maui Waui | Popcorn",
+   "nameNote": "post title minus the leading brand",
+   "description": "Flavor: Citrus, Fruity, Pineapple, Sweet&lt;br /&gt;Dominate Terpenes: Myrcene (Earthy, Relaxing), Caryophyllene (Spicy, Calming), Limonene (Citrus, Uplifting)&lt;br /&gt;Effects: Happy, Calming, Uplifting, Relaxing&lt;br /&gt;May Relieve: Low mood, Stress, Tension, Discomfort",
+   "descriptionNote": "HTML-escaped <br /> separators (&lt;br /&gt;); labelled lines Lineage/Flavor/Dominate Terpenes/Effects/May Relieve seen in archive excerpts",
+   "brand": {
+    "@type": "Brand",
+    "name": "Claravita",
+    "description": "",
+    "image": ""
+   },
+   "image": "https://images.dutchie.com/da19282bb39167e387f0e00ed9f12f32",
+   "offers": [
+    {
+     "@type": "Offer",
+     "availability": "https://schema.org/InStock",
+     "name": "1/2oz",
+     "price": "75.00",
+     "priceCurrency": "USD"
+    }
+   ],
+   "offersNote": "offer name = variant label (1/2oz), price string with 2 decimals, availability schema.org URL"
+  },
+  "dataConfig": {
+   "raw": {
+    "post_id": 240851,
+    "business": null,
+    "menutype": null,
+    "ordertype": null,
+    "product": "018167f0-b6ee-43b2-b641-fa0f52b56be9",
+    "category": null,
+    "subcategory": null,
+    "brand": null,
+    "strain": null,
+    "effects": null,
+    "weights": null,
+    "pricemin": null,
+    "pricemax": null,
+    "thcmin": null,
+    "thcmax": null,
+    "cbdmin": null,
+    "cbdmax": null,
+    "cannabinoids": null,
+    "terpenes": null,
+    "tags": null,
+    "collections": null,
+    "ids": null,
+    "pos_ids": null,
+    "sort": null,
+    "special": null,
+    "specials": null,
+    "featured": null,
+    "limit": 15,
+    "listid": null,
+    "listname": null
+   },
+   "filters": [
+    {
+     "field": "jointId",
+     "values": [
+      "018167f0-b6ee-43b2-b641-fa0f52b56be9"
+     ],
+     "type": "any"
+    }
+   ],
+   "sort": null,
+   "limit": 15
+  },
+  "jointProductId": "018167f0-b6ee-43b2-b641-fa0f52b56be9",
+  "wpPostId": 240851,
+  "storeConfig": {
+   "jointBusinessId": "5164",
+   "menuTypes": [
+    "RECREATIONAL"
+   ],
+   "orderTypes": [
+    "IN_STORE_PICKUP"
+   ],
+   "defaultSort": "Popular",
+   "showEffects": true,
+   "displayDosage": false,
+   "subcategoryDisplay": "rank_subcategory",
+   "featuredBrand": "skyhigh",
+   "showMenuBanner": false,
+   "menuBannerContent": "<p><a href=\"https://capecodcannabis.com\" target=\"_blank\" rel=\"noopener noreferrer\"><strong><em>Cape Cod Cannabis...it's worth the trip!</em></strong></a></p><p><br></p><p>*<strong>ID must be a Government issued ID.</strong> <strong>An</strong> <strong>expired ID is not an acceptable form of identification, customers who present expired IDs will not be permitted to enter Cape Cod Cannabis.</strong></p><p><br></p><p><em>*We accept cash, debit cards or CanPay</em></p><p><em>*Debit cards must match the name given on the order, otherwise we will be unable to complete the transaction.</em></p>"
+  },
+  "jointTheme": {
+   "layout_option": "cannazon",
+   "product_card_layout": "cannazon",
+   "product_details_layout": "5g",
+   "primary_color": "#00a3e0",
+   "secondary_color": "#02a7eb",
+   "background_color": "#ffffff",
+   "text_color": "#000000",
+   "border_radius": "8px",
+   "mobile_filter_style": "static",
+   "social_share_enabled": false
+  },
+  "jointEcommerce": {
+   "search_mode": "mega_menu",
+   "search_products_display": "card",
+   "search_specials_display": "rail",
+   "search_brands_display": "rail",
+   "search_categories_display": "rail",
+   "default_store_selector_method": "auto",
+   "require_delivery_address": true,
+   "view_only_mode": false,
+   "checkout_flow": "retail",
+   "checkout_url": "/checkout/",
+   "checkout_redirect": "/thank-you/",
+   "buy_now": true,
+   "show_low_stock_notice": true,
+   "low_stock_threshold": 5,
+   "ma_compliance_enabled": false
+  },
+  "jointIntegrations": {
+   "surfside": false,
+   "alpineIq": false,
+   "authorizedUsers": false,
+   "swifterPay": false,
+   "moodiDay": false,
+   "rrhAdvertising": false
+  },
+  "storeIntegrations": [
+   "moodiDay",
+   "highQ"
+  ],
+  "clientRenderedOnly": [
+   "variant picker",
+   "price display",
+   "potency",
+   "add to cart / buy now",
+   "specials on product",
+   "staff pick badge",
+   "low stock notice",
+   "related products"
+  ]
+ },
+ "slugGrammar": {
+  "shape": "<core>-for-sale-wellfleet-ma[-N]/ ; core is the POS product name slugified at post creation",
+  "coreLayouts": {
+   "typeFirst": "<type tokens>-<brand or house abbreviation>-<strain/name>-<strain type>-<size> e.g. flower-popcorn-half-ounce-claravita-maui-waui-sdh-14g",
+   "brandFirst": "<brand>-<type tokens>-<brand abbreviation>-<name>-<strain type>-<size> e.g. trees-co-pre-roll-tc-time-turner-hybrid-1g",
+   "nameOnly": "<brand?>-<name> e.g. resinate-lemon-haze, mango-sapphire"
+  },
+  "strainTypeTokens": [
+   "sdh (sativa-dominant hybrid, UNVERIFIED expansion)",
+   "idh (indica-dominant hybrid, UNVERIFIED expansion)",
+   "hybrid",
+   "indica",
+   "sativa",
+   "s",
+   "i",
+   "cbd"
+  ],
+  "sizeTokens": "<n>g | <n>-<d>g (decimal, 3-5g = 3.5 g) | <n>mg | <n>ml | <n>oz | <n>pk | <n>serv (combinations like 10pk-20serv, 500mg-4oz)",
+  "duplicateCounter": "-N after -for-sale-wellfleet-ma is the WordPress duplicate-slug counter (654 slugs); the same title can map to several slugs (sizes or re-imports)",
+  "nonAscii": "36 slugs contain percent-encoded UTF-8 (e.g. 1-%c2%bc = 1-1/4 sign); the static host must serve the decoded directory name"
+ },
+ "slugParseStats": {
+  "source": "audit/raw/sitemap.html (Rank Math HTML sitemap, section joint_products: 5,857 product links with post titles); cross-checked against audit/prelock/sm-joint_products-sitemap1.xml (4,000 product URLs, all present in the HTML sitemap). Script: tmp/understand/catalog/slugparse.mjs",
+  "products": 5857,
+  "xmlSitemap1ProductUrls": 4000,
+  "xmlSitemap1AlsoInHtmlSitemap": 4000,
+  "suffix": {
+   "for-sale-wellfleet-ma": 5203,
+   "for-sale-wellfleet-ma-N (WordPress duplicate-slug counter)": 654
+  },
+  "size": {
+   "recovered": 3757,
+   "pct": 64.1,
+   "notRecovered": 2100,
+   "byUnit": {
+    "g": 2749,
+    "serv": 137,
+    "oz": 253,
+    "pk": 539,
+    "mg": 47,
+    "ml": 32
+   },
+   "caveat": "t1 slug size \"14g\" but its only offer is named \"1/2oz\": the slug carries the POS size token, not the menu variant label; multi-variant products cannot be recovered from a slug."
+  },
+  "strainType": {
+   "recovered": 2657,
+   "pct": 45.4,
+   "byToken": {
+    "sdh": 770,
+    "hybrid": 1018,
+    "(none)": 3200,
+    "idh": 762,
+    "sativa": 16,
+    "s": 35,
+    "cbd": 38,
+    "i": 9,
+    "indica": 9
+   }
+  },
+  "brand": {
+   "slugOnly": {
+    "atSlugStart": 3163,
+    "afterTypeToken": 1250,
+    "elsewhereInSlug": 273,
+    "notFound": 1171,
+    "foundPct": 80
+   },
+   "titleStartsWithKnownBrand": 5227,
+   "titlePct": 89.2,
+   "slugAgreesWithTitle": 4155,
+   "slugDisagreesWithTitle": 1072,
+   "slugBrandContradictsTitleBrand": 212,
+   "slugOrTitle": 5546,
+   "slugOrTitlePct": 94.7,
+   "dictionary": "252 brand keys / 247 distinct brand names from the brandName filter of the 252 crawled /brands/<slug>/ pages; 249 brand sitemap URLs all covered",
+   "failureModes": [
+    "house abbreviations instead of the brand (ghp = Garcia Hand Picked, tf = Trifecta Farms, tt = Tumble & Toke)",
+    "strain words that are also brand names (\"haze\", \"juicy\")",
+    "parent brand in slug vs sub-brand in title (Mega Labs vs Wavez, Northern Grown vs Fog Cutter)",
+    "stale slugs: the slug keeps the name the post was created with while the title changed (flower-popcorn-half-ounce-claravita-lemon-mints-... is titled \"Tumble & Toke ...\")",
+    "typos (cali-balze)"
+   ]
+  },
+  "category": {
+   "method": "heuristic token dictionary (tmp/understand/catalog/slugparse.mjs TYPE) mapped onto the 12 Joint category enums seen in audit/raw configs; NO ground truth exists for any product (t1 has no category in its breadcrumb, JSON-LD or data-config)",
+   "exactlyOneTypeToken": 2911,
+   "severalTokensSameCategory": 1213,
+   "severalTokensConflicting": 485,
+   "noTypeToken": 1248,
+   "guessedPct": 78.7,
+   "unambiguousPct": 70.4,
+   "byGuessedCategory": {
+    "FLOWER": 968,
+    "VAPORIZERS": 520,
+    "MERCH": 202,
+    "PRE_ROLLS": 885,
+    "CONCENTRATES": 561,
+    "EDIBLES": 481,
+    "ACCESSORIES": 722,
+    "SEEDS": 160,
+    "TOPICALS": 44,
+    "CLONES": 6,
+    "TINCTURES": 60
+   }
+  },
+  "layout": {
+   "typeTokenFirst": 1926,
+   "brandFirst": 3157,
+   "neither": 774
+  },
+  "nameOnlySlugs": 722,
+  "titles": {
+   "distinctTitles": 4290,
+   "titlesUsedMoreThanOnce": 1182
+  },
+  "allThree": {
+   "brandAnySource_and_categoryGuess_and_size": 3078
+  },
+  "percentEncodedSlugs": 36,
+  "failureExamples": {
+   "noSize": [
+    "cape-cod-cannabis-sticker-cape-cod-cannabis-tie-dye-edition-3-x-3-for-sale-wellfleet-ma/  ||  Cape Cod Cannabis Sticker | Cape Cod Cannabis Tie-Dye Edition | 3\" x 3\"",
+    "t-shirt-garment-dyed-black-xxl-for-sale-wellfleet-ma/  ||  XXL T-Shirt | Garment-Dyed | Black | XXL",
+    "northern-lime-lights-shake-for-sale-wellfleet-ma/  ||  Farmer's Cut Northern Lime Lights | Shake",
+    "farmers-cut-powder-peach-shake-for-sale-wellfleet-ma/  ||  Farmer's Cut Powder Peach | Shake",
+    "farmers-cut-strawberry-glue-shake-for-sale-wellfleet-ma/  ||  Farmer's Cut Strawberry Glue | Shake",
+    "farmers-cut-banana-mochi-shake-for-sale-wellfleet-ma/  ||  Farmer's Cut Banana Mochi | Shake",
+    "farmers-cut-rancid-rainbow-shake-for-sale-wellfleet-ma/  ||  Farmer's Cut Rancid Rainbow | Shake",
+    "skyhigh-bluephoria-for-sale-wellfleet-ma/  ||  SKYHIGH Bluephoria",
+    "heat-serve-glitter-bomb-for-sale-wellfleet-ma/  ||  Heat & Serve Glitter Bomb",
+    "cape-cod-cannabis-sticker-420-state-of-mind-edition-holographic-3-x-3-for-sale-wellfleet-ma/  ||  Cape Cod Cannabis Sticker | 4:20 State of Mind Edition | Holographic | 3\" x 3\"",
+    "cape-cod-cannabis-dugout-cape-cod-cannabis-wood-engraved-knuckled-dugout-4-for-sale-wellfleet-ma/  ||  Cape Cod Cannabis Dugout | Cape Cod Cannabis | Wood Engraved Knuckled Dugout | 4\"",
+    "trifecta-farms-lemon-cake-pre-ground-flower-for-sale-wellfleet-ma/  ||  Trifecta Farms Lemon Cake | Pre-Ground"
+   ],
+   "noBrand": [
+    "flower-ounce-ghp-caps-frozen-lemons-sdh-28g-for-sale-wellfleet-ma/  ||  Garcia Hand Picked Caps Frozen Lemons",
+    "flower-half-ounce-ghp-caps-frozen-lemons-sdh-14g-for-sale-wellfleet-ma/  ||  Garcia Hand Picked Caps Frozen Lemons",
+    "flower-ghp-caps-frozen-lemons-sdh-3-5g-for-sale-wellfleet-ma/  ||  Garcia Hand Picked Caps Frozen Lemons",
+    "flower-tf-lemon-fresh-hybrid-3-5g-for-sale-wellfleet-ma/  ||  Trifecta Farms Lemon Fresh",
+    "flower-popcorn-ounce-tf-vanilla-zoap-hybrid-28g-for-sale-wellfleet-ma/  ||  Trifecta Farms Vanilla Zoap | Popcorn",
+    "flower-popcorn-ounce-tf-blue-dream-sdh-28g-for-sale-wellfleet-ma/  ||  Trifecta Farms Blue Dream | Popcorn",
+    "flower-pre-ground-tf-cookie-dough-sundae-idh-14g-for-sale-wellfleet-ma/  ||  Trifecta Farms Flower Pre-Ground | TF | Cookie Dough Sundae |  IDH | 14g",
+    "flower-pre-ground-tf-pirate-hat-hybrid-14g-for-sale-wellfleet-ma/  ||  Trifecta Farms Pirate Hat | Pre-Ground",
+    "flower-pre-ground-tf-lemon-fresh-hybrid-14g-for-sale-wellfleet-ma/  ||  Trifecta Farms Lemon Fresh | Pre-Ground",
+    "flower-pre-ground-tf-diamond-lungs-hybrid-14g-for-sale-wellfleet-ma/  ||  Trifecta Farms Diamond Lungs | Pre-Ground",
+    "flower-popcorn-half-ounce-tt-tropicana-cherry-sdh-14g-for-sale-wellfleet-ma/  ||  Tumble & Toke Tropicana Cherry | Popcorn",
+    "flower-popcorn-half-ounce-tt-lava-cake-idh-14g-for-sale-wellfleet-ma/  ||  Tumble & Toke Lava Cake | Popcorn",
+    "flower-pre-ground-tt-elephant-smoothie-hybrid-14g-for-sale-wellfleet-ma/  ||  Tumble & Toke Elephant Smoothie | Pre-Ground",
+    "flower-pre-ground-ounce-tt-tropicana-cherry-sdh-28g-for-sale-wellfleet-ma/  ||  Tumble & Toke Tropicana Cherry | Pre-Ground",
+    "infused-buds-ounce-cali-balze-cherry-pie-idh-28g-for-sale-wellfleet-ma/  ||  Infused Buds Ounce | Cali Balze | Cherry Pie | IDH | 28g"
+   ],
+   "noCategory": [
+    "happy-valley-dirty-taxi-7pk-0-5g-for-sale-wellfleet-ma/  ||  Happy Valley Dirty Taxi | 7pk | 0.5g",
+    "jeeter-infused-pe-roll-jeeter-island-papaya-hybrid-1g-for-sale-wellfleet-ma/  ||  Jeeter Island Papaya | Infused",
+    "skyhigh-bluephoria-for-sale-wellfleet-ma/  ||  SKYHIGH Bluephoria",
+    "heat-serve-glitter-bomb-for-sale-wellfleet-ma/  ||  Heat & Serve Glitter Bomb",
+    "skyhigh-disbosable-sky-high-banana-splitz-hybrid-2g-for-sale-wellfleet-ma/  ||  SKYHIGH Banana Splitz | Hybrid | 2g",
+    "syringe-float-distillate-papaya-peach-idh-1g-for-sale-wellfleet-ma/  ||  Float Papaya Peach | Distillate I Syringe",
+    "cape-cod-cannabis-dugout-cape-cod-cannabis-wood-engraved-knuckled-dugout-4-for-sale-wellfleet-ma/  ||  Cape Cod Cannabis Dugout | Cape Cod Cannabis | Wood Engraved Knuckled Dugout | 4\"",
+    "bostica-purple-milk-for-sale-wellfleet-ma-2/  ||  Bostica Purple Milk",
+    "bostica-cap-junky-for-sale-wellfleet-ma-3/  ||  Bostica Cap Junky",
+    "camino-wild-cherry-111-thccbccbg-20pk-for-sale-wellfleet-ma/  ||  Camino Wild Cherry | Excite | 1:1:1 THC : CBC : CBG | 20pk",
+    "camino-sour-blackberry-dream-111-thccbdcbn-20pk-for-sale-wellfleet-ma/  ||  Camino Sour Blackberry Dream | Deep Sleep | 1:1:1 THC : CBD : CBN | 20pk",
+    "camino-sour-orchard-peach-11-thccbd-20pk-for-sale-wellfleet-ma/  ||  Camino Sour Orchard Peach | Balance | 1:1 THC : CBD | 20pk",
+    "camino-sour-watermelon-spritz-20pk-for-sale-wellfleet-ma/  ||  Camino Sour Watermelon Spritz | Uplifting | 20pk",
+    "mindys-edibles-cool-keylime-kiwi-20pk-for-sale-wellfleet-ma/  ||  Mindy's Edibles Cool Keylime Kiwi | Happy | 20pk",
+    "mindys-edibles-botanical-white-grapefruit-20pk-for-sale-wellfleet-ma/  ||  Mindy's Edibles Botanical White Grapefruit | Happy | 20pk"
+   ],
+   "categoryConflict": [
+    "trifecta-farms-flower-pre-ground-tf-cookie-dough-sundae-hybrid-14g-for-sale-wellfleet-ma/ -> flower:FLOWER, pre-ground:FLOWER, cookie:EDIBLES",
+    "trifecta-farms-flower-tf-cookie-dough-sundae-hybrid-3-5g-for-sale-wellfleet-ma/ -> flower:FLOWER, cookie:EDIBLES",
+    "flower-pre-ground-tf-cookie-dough-sundae-idh-14g-for-sale-wellfleet-ma/ -> flower:FLOWER, pre-ground:FLOWER, cookie:EDIBLES",
+    "flower-pre-ground-tf-pirate-hat-hybrid-14g-for-sale-wellfleet-ma/ -> flower:FLOWER, pre-ground:FLOWER, hat:MERCH",
+    "headliners-disposable-headliners-raspberry-lemonade-sdh-2g-for-sale-wellfleet-ma/ -> disposable:VAPORIZERS, lemonade:EDIBLES",
+    "flower-popcorn-half-ounce-claravita-lemon-mints-idh-14g-for-sale-wellfleet-ma-2/ -> flower:FLOWER, popcorn:FLOWER, half-ounce:FLOWER, ounce:FLOWER, mints:EDIBLES",
+    "flower-popcorn-half-ounce-claravita-lemon-mints-idh-14g-for-sale-wellfleet-ma/ -> flower:FLOWER, popcorn:FLOWER, half-ounce:FLOWER, ounce:FLOWER, mints:EDIBLES",
+    "claravita-flower-pre-ground-claravita-strawberry-syrup-hybrid-14g-for-sale-wellfleet-ma/ -> flower:FLOWER, pre-ground:FLOWER, syrup:EDIBLES",
+    "claravita-flower-pre-ground-ounce-claravita-strawberry-syrup-hybrid-28g-for-sale-wellfleet-ma/ -> flower:FLOWER, pre-ground:FLOWER, ounce:FLOWER, syrup:EDIBLES",
+    "tumble-toke-flower-pre-ground-ounce-tt-chocolate-sunrise-sdh-28g-for-sale-wellfleet-ma/ -> flower:FLOWER, pre-ground:FLOWER, ounce:FLOWER, chocolate:EDIBLES",
+    "live-resin-clear-gold-strawberry-syrup-hybrid-1g-for-sale-wellfleet-ma/ -> live-resin:CONCENTRATES, syrup:EDIBLES",
+    "cali-blaze-infused-buds-cali-blaze-dirty-soda-idh-3-5g-for-sale-wellfleet-ma/ -> infused-buds:FLOWER, soda:EDIBLES"
+   ],
+   "titleVsSlugBrand": [
+    "flower-ounce-ghp-caps-frozen-lemons-sdh-28g-for-sale-wellfleet-ma/ || title brand=Garcia Hand Picked || slug brand=null",
+    "flower-half-ounce-ghp-caps-frozen-lemons-sdh-14g-for-sale-wellfleet-ma/ || title brand=Garcia Hand Picked || slug brand=null",
+    "flower-ghp-caps-frozen-lemons-sdh-3-5g-for-sale-wellfleet-ma/ || title brand=Garcia Hand Picked || slug brand=null",
+    "flower-tf-lemon-fresh-hybrid-3-5g-for-sale-wellfleet-ma/ || title brand=Trifecta Farms || slug brand=null",
+    "flower-tf-super-haze-sdh-3-5g-for-sale-wellfleet-ma/ || title brand=Trifecta Farms || slug brand=Haze",
+    "flower-popcorn-ounce-tf-vanilla-zoap-hybrid-28g-for-sale-wellfleet-ma/ || title brand=Trifecta Farms || slug brand=null",
+    "flower-popcorn-ounce-tf-blue-dream-sdh-28g-for-sale-wellfleet-ma/ || title brand=Trifecta Farms || slug brand=null",
+    "flower-pre-ground-tf-cookie-dough-sundae-idh-14g-for-sale-wellfleet-ma/ || title brand=Trifecta Farms || slug brand=null",
+    "flower-pre-ground-tf-pirate-hat-hybrid-14g-for-sale-wellfleet-ma/ || title brand=Trifecta Farms || slug brand=null",
+    "flower-pre-ground-tf-lemon-fresh-hybrid-14g-for-sale-wellfleet-ma/ || title brand=Trifecta Farms || slug brand=null",
+    "flower-pre-ground-tf-diamond-lungs-hybrid-14g-for-sale-wellfleet-ma/ || title brand=Trifecta Farms || slug brand=null",
+    "flower-popcorn-half-ounce-tt-tropicana-cherry-sdh-14g-for-sale-wellfleet-ma/ || title brand=Tumble & Toke || slug brand=null"
+   ],
+   "nameOnly": [
+    "skyhigh-bluephoria-for-sale-wellfleet-ma/  ||  SKYHIGH Bluephoria",
+    "heat-serve-glitter-bomb-for-sale-wellfleet-ma/  ||  Heat & Serve Glitter Bomb",
+    "cape-cod-cannabis-dugout-cape-cod-cannabis-wood-engraved-knuckled-dugout-4-for-sale-wellfleet-ma/  ||  Cape Cod Cannabis Dugout | Cape Cod Cannabis | Wood Engraved Knuckled Dugout | 4\"",
+    "bostica-purple-milk-for-sale-wellfleet-ma-2/  ||  Bostica Purple Milk",
+    "bostica-cap-junky-for-sale-wellfleet-ma-3/  ||  Bostica Cap Junky",
+    "suncrafted-papaya-for-sale-wellfleet-ma/  ||  SunCrafted Papaya",
+    "suncrafted-watermelon-mimosa-x-jealousy-for-sale-wellfleet-ma/  ||  SunCrafted Watermelon Mimosa x Jealousy",
+    "suncrafted-bubba-fett-for-sale-wellfleet-ma/  ||  SunCrafted Bubba Fett",
+    "suncrafted-rainbow-sherbert-11-for-sale-wellfleet-ma/  ||  SunCrafted Rainbow Sherbert #11",
+    "nea-love-truffles-for-sale-wellfleet-ma/  ||  Northeast Alternatives Love Truffles",
+    "farmers-cut-neon-screams-for-sale-wellfleet-ma/  ||  Farmer's Cut Neon Screams",
+    "mango-sapphire-for-sale-wellfleet-ma/  ||  Mango Sapphire"
+   ]
+  }
+ },
+ "filters": [
+  {
+   "param": "brand",
+   "apiField": "brandName",
+   "filterType": "any",
+   "widgets": 255,
+   "pageTypes": {
+    "(root)": 2,
+    "brands": 252,
+    "intro-to-cannabis-101": 1
+   },
+   "distinctValues": 252,
+   "values": [
+    "health circle",
+    "choice chews",
+    "14 Counties",
+    "1906",
+    "603 Glass",
+    "AFG",
+    "aLeaf Glass",
+    "Alternative Compassion Services",
+    "Aruna",
+    "Atlas Seeds",
+    "Attune",
+    "Aura Cannabis Co.",
+    "Auto Seeds",
+    "Barney's Farm",
+    "Bear Quartz",
+    "Best Budz",
+    "Best Dirty Lemonade",
+    "Betty's",
+    "Blackstone Valley Cannabis",
+    "Blazy Susan",
+    "Blimburn",
+    "Blimburn Seeds",
+    "Blue Collar",
+    "Bob Marley",
+    "Boomstix",
+    "... 227 more"
+   ]
+  },
+  {
+   "param": "category",
+   "apiField": "category",
+   "filterType": "any",
+   "widgets": 144,
+   "pageTypes": {
+    "affordable-ounces-cape-cod-cannabis": 1,
+    "all-concentrates-on-sale": 1,
+    "all-edibles-on-sale": 1,
+    "all-flower-on-sale": 1,
+    "all-pre-rolls-on-sale": 1,
+    "all-tinctures-on-sale": 1,
+    "all-vaporizers-bundles": 1,
+    "anatomy-of-a-moonrock": 1,
+    "cannabis-seeds-vs-clones": 2,
+    "categories": 132,
+    "shop-high-testing-flower": 1,
+    "what-is-a-cannabis-moonrock": 1
+   },
+   "distinctValues": 12,
+   "values": [
+    "FLOWER",
+    "CONCENTRATES",
+    "EDIBLES",
+    "PRE_ROLLS",
+    "TINCTURES",
+    "VAPORIZERS",
+    "SEEDS",
+    "CLONES",
+    "CBD",
+    "ACCESSORIES",
+    "MERCH",
+    "TOPICALS"
+   ]
+  },
+  {
+   "param": "pricemax",
+   "apiField": "variants.price",
+   "filterType": "any",
+   "widgets": 67,
+   "pageTypes": {
+    "categories": 67
+   },
+   "distinctValues": 2,
+   "values": [
+    "115",
+    "12.50"
+   ]
+  },
+  {
+   "param": "weights",
+   "apiField": "variants.option",
+   "filterType": "any",
+   "widgets": 66,
+   "pageTypes": {
+    "categories": 66
+   },
+   "distinctValues": 1,
+   "values": [
+    "1oz"
+   ]
+  },
+  {
+   "param": "subcategory",
+   "apiField": "subCategory",
+   "filterType": "any",
+   "widgets": 54,
+   "pageTypes": {
+    "anatomy-of-a-moonrock": 1,
+    "categories": 52,
+    "what-is-a-cannabis-moonrock": 1
+   },
+   "distinctValues": 51,
+   "values": [
+    "INFUSED_BUD",
+    "BATTERIES",
+    "CLEANING_SOLUTIONS",
+    "DAB_TOOLS",
+    "GLASSWARE",
+    "GRINDERS",
+    "LIGHTERS",
+    "PAPERS_ROLLING_SUPPLIES",
+    "STORAGE_CONTAINERS",
+    "TRAYS",
+    "APPLICATORS",
+    "BADDER",
+    "BUDDER",
+    "DIAMONDS",
+    "ISOLATE",
+    "KIEF",
+    "LIVE_RESIN",
+    "LIVE_ROSIN",
+    "SHATTER",
+    "SUGAR",
+    "WAX",
+    "GUMMIES",
+    "CAPSULES_TABLETS",
+    "CHEWS",
+    "CHOCOLATES",
+    "DRINKS",
+    "GUMMIES,LIVE_RESIN_GUMMIES,LIVE_ROSIN_GUMMIES",
+    "LIVE_RESIN_GUMMIES",
+    "LIVE_ROSIN_GUMMIES",
+    "INFUSED_BUDS",
+    "PRE_GROUND",
+    "PREMIUM",
+    "SHAKE_TRIM",
+    "SMALLS_POPCORN",
+    "WHOLE_FLOWER",
+    "INFUSED_PRE_ROLL_PACKS",
+    "PACKS",
+    "SINGLE_INFUSED_PRE_ROLL",
+    "SINGLES",
+    "FLAVORED",
+    "HERBAL",
+    "BALMS",
+    "LOTIONS",
+    "STICKS_ROLL_ONS",
+    "CARTRIDGES,LIVE_RESIN_CARTIDGE,LIVE_ROSIN_CARTIDGE",
+    "CURED_RESIN_CARTIDGE",
+    "DISPOSABLES",
+    "DISPOSABLES,LIVE_ROSIN_DISPOSABLE",
+    "LIVE_RESIN_CARTIDGE",
+    "LIVE_ROSIN_CARTIDGE",
+    "LIVE_ROSIN_DISPOSABLE"
+   ]
+  },
+  {
+   "param": "terpenes",
+   "apiField": "terpenes.name",
+   "filterType": "any",
+   "widgets": 53,
+   "pageTypes": {
+    "terpenes": 53
+   },
+   "distinctValues": 53,
+   "values": [
+    "Alpha Bisabolol,Alpha Pinene,Beta Caryophyllene,Beta Myrcene,Beta Pinene,Bisabolol,Caryophyllene,Caryophyllene Oxide,Geraniol,Humulene,Limonene,Linalool,Ocimene,Terpinolene",
+    "α-Phellandrene",
+    "α-Pinene",
+    "α-Terpinene",
+    "β-Ocimene",
+    "β-Pinene",
+    "Alpha Bisabolol",
+    "Alpha Pinene",
+    "Beta Caryophyllene",
+    "Beta Caryophyllene Oxide",
+    "Beta Myrcene",
+    "Beta Pinene",
+    "Bisabolol",
+    "Borneol",
+    "Camphene",
+    "Camphor",
+    "Carene",
+    "Caryophyllene",
+    "Caryophyllene Oxide",
+    "Cedrene",
+    "Citral",
+    "Citronellol",
+    "Cymene",
+    "Eucalyptol",
+    "Farnesene",
+    "Fenchol",
+    "Geraniol",
+    "Geranyl Acetate",
+    "Guaiol",
+    "Humulene",
+    "Isoborneol",
+    "Isopulegol",
+    "Limonene",
+    "Linalool",
+    "Menthol",
+    "Myrcene",
+    "Nerol",
+    "Nerolidol",
+    "Nerolidol-2",
+    "Ocimene",
+    "P-Cymene",
+    "Para Cymene",
+    "Phellandrene",
+    "Pinene",
+    "Pulegone",
+    "Sabinene",
+    "Terpinene",
+    "Terpineol",
+    "Terpinolene",
+    "Total Terpenes",
+    "Trans-Caryophyllene",
+    "Trans-Nerolidol",
+    "Valencene"
+   ]
+  },
+  {
+   "param": "cannabinoids",
+   "apiField": "cannabinoids.name",
+   "filterType": "any",
+   "widgets": 21,
+   "pageTypes": {
+    "cannabinoids": 21
+   },
+   "distinctValues": 20,
+   "values": [
+    "CBC (Cannabichromene),CBCA (Cannabichromenenic acid),CBD (Cannabidiol),CBDA (Cannabidiolic acid),CBDV (Cannabidivarin),CBDVA (Cannabidivarinic acid),CBG (Cannabigerol),CBGA (Cannabigerolic acid),CBL (Cannabicyclol),CBLA (Cannabicyclolic Acid),CBN (Cannabinol),CBNA (Cannabinolic Acid),CBT (Cannabicitranis),THC-D8 (Delta 8-tetrahydrocannabinol),THC-D9 (Delta 9–tetrahydrocannabinol),THCA (Δ9-tetrahydrocannabinolic acid),THCV (Tetrahydrocannabivarin),THCVA (Tetrahydrocanabivarinic acid)",
+    "CBC (Cannabichromene)",
+    "CBCA (Cannabichromenenic acid)",
+    "CBCV (Cannabichromevarin)",
+    "CBD (Cannabidiol)",
+    "CBDA (Cannabidiolic acid)",
+    "CBDV (Cannabidivarin)",
+    "CBDVA (Cannabidivarinic acid)",
+    "CBG (Cannabigerol)",
+    "CBGA (Cannabigerolic acid)",
+    "CBL (Cannabicyclol)",
+    "CBLA (Cannabicyclolic Acid)",
+    "CBN (Cannabinol)",
+    "CBNA (Cannabinolic Acid)",
+    "CBT (Cannabicitranis)",
+    "THC-D8 (Delta 8-tetrahydrocannabinol)",
+    "THC-D9 (Delta 9–tetrahydrocannabinol)",
+    "THCA (Δ9-tetrahydrocannabinolic acid)",
+    "THCV (Tetrahydrocannabivarin)",
+    "THCVA (Tetrahydrocanabivarinic acid)"
+   ]
+  },
+  {
+   "param": "special",
+   "apiField": "applicableSpecials.specialId",
+   "filterType": "any",
+   "widgets": 17,
+   "pageTypes": {
+    "specials": 17
+   },
+   "distinctValues": 17,
+   "values": [
+    "97d6ae59-267b-43d8-a29a-ec7cff4819ce",
+    "bb742102-1817-43ae-9ae6-508cdc4f3893",
+    "5acc893e-f70b-413b-ab23-093e14fc1346",
+    "ff61ee33-80b0-4c4e-aba1-6775ec96919b",
+    "9319f071-f738-4fcf-af5a-5616615aec70",
+    "8fb8d287-f712-4dfc-ab35-459484b1651b",
+    "54b4e62c-874a-40d6-a865-0609c1be46b8",
+    "235b3ca2-953d-4879-8820-4610b875e490",
+    "0f44be37-0865-4eb1-a121-686a6a85fa2d",
+    "92e789b3-70b1-4ba1-b33e-b668bf82a8a1",
+    "010432db-18a3-4d73-adbf-25d915ff81d6",
+    "48a233eb-06a1-4915-b049-ca925d99f579",
+    "37b4ed3b-7bad-4ddf-a4f9-1c2dd576a7af",
+    "ca5abf97-c420-4abd-91b5-33c5eb35c91d",
+    "58d53d45-da62-4fb4-9a01-ef936909c5d7",
+    "0a3fc85a-c45f-421f-9dd8-58710eb9c626",
+    "c475bc33-e022-42f3-81e8-f7e0fb9dd5be"
+   ]
+  },
+  {
+   "param": "specials",
+   "apiField": "applicableSpecials.specialName",
+   "filterType": "any",
+   "widgets": 11,
+   "pageTypes": {
+    "(root)": 4,
+    "affordable-ounces-cape-cod-cannabis": 1,
+    "all-concentrates-on-sale": 1,
+    "all-edibles-on-sale": 1,
+    "all-flower-on-sale": 1,
+    "all-pre-rolls-on-sale": 1,
+    "all-tinctures-on-sale": 1,
+    "all-vaporizers-bundles": 1
+   },
+   "distinctValues": 6,
+   "values": [
+    "Affordable Ounces & 1/2 Ounces",
+    "1g Pre-Rolls | 7 for $35 | 28 for $133",
+    "Cartridges | 2 for 10% Off | 5 for 20% Off",
+    "Disposables | 1g & 2g | 2 for 10% Off | 4 for 20% Off",
+    "Affordable Ounces of Flower",
+    "all"
+   ]
+  },
+  {
+   "param": "effects",
+   "apiField": "effects",
+   "filterType": "any",
+   "widgets": 11,
+   "pageTypes": {
+    "effects": 10,
+    "my-favorite-cannabis-products-for-sleeping-in-massachusetts": 1
+   },
+   "distinctValues": 11,
+   "values": [
+    "CALM",
+    "CLEAR_MIND",
+    "CREATIVE",
+    "ENERGETIC",
+    "FOCUSED",
+    "HAPPY",
+    "INSPIRED",
+    "RELAXED",
+    "SLEEPY",
+    "UPLIFTED",
+    "sleepy"
+   ]
+  },
+  {
+   "param": "collections",
+   "apiField": "collections",
+   "filterType": "any",
+   "widgets": 6,
+   "pageTypes": {
+    "(root)": 1,
+    "categories": 2,
+    "fire-offers-2": 1,
+    "new-products": 1,
+    "sleep-products": 1
+   },
+   "distinctValues": 6,
+   "values": [
+    "Blazing Bargains | Flower",
+    "Liquid Diamond Cartridges",
+    "Liquid Diamond Disposables",
+    "Fire Offers | Flower,Fire Offers | Pre-Rolls,Fire Offers | Pre-Rolls #2",
+    "New Products",
+    "Sleep Products"
+   ]
+  },
+  {
+   "param": "strain",
+   "apiField": "strainType",
+   "filterType": "any",
+   "widgets": 5,
+   "pageTypes": {
+    "strains": 5
+   },
+   "distinctValues": 4,
+   "values": [
+    "HIGH_CBD",
+    "HYBRID",
+    "INDICA",
+    "SATIVA"
+   ]
+  },
+  {
+   "param": "menutype",
+   "apiField": "menuType",
+   "filterType": "any",
+   "widgets": 2,
+   "pageTypes": {
+    "anatomy-of-a-moonrock": 1,
+    "what-is-a-cannabis-moonrock": 1
+   },
+   "distinctValues": 1,
+   "values": [
+    "RECREATIONAL"
+   ]
+  },
+  {
+   "param": "featured",
+   "apiField": "(no filter emitted; featured_brand store setting = \"skyhigh\")",
+   "filterType": "any",
+   "widgets": 2,
+   "pageTypes": {
+    "faqs-420": 1,
+    "featured-brand": 1
+   },
+   "distinctValues": 1,
+   "values": [
+    "true"
+   ]
+  },
+  {
+   "param": "pricemin",
+   "apiField": "variants.price",
+   "filterType": "any",
+   "widgets": 1,
+   "pageTypes": {
+    "categories": 1
+   },
+   "distinctValues": 1,
+   "values": [
+    "7"
+   ]
+  },
+  {
+   "param": "staffpicks",
+   "apiField": "staffPick",
+   "filterType": "any",
+   "widgets": 1,
+   "pageTypes": {
+    "staff-picks": 1
+   },
+   "distinctValues": 1,
+   "values": [
+    "true"
+   ]
+  },
+  {
+   "param": "thcmin/thcmax/cbdmin/cbdmax/tags/ids/pos_ids",
+   "apiField": "UNVERIFIED (keys exist in every widget raw config, never set on any crawled page)",
+   "widgets": 0,
+   "pageTypes": {},
+   "distinctValues": 0,
+   "values": []
+  },
+  {
+   "param": "sort",
+   "apiField": "sort[]",
+   "widgets": 133,
+   "labelToApi": {
+    "Brand": [
+     {
+      "field": "brandName",
+      "direction": "asc"
+     }
+    ],
+    "Price: Low to High": [
+     {
+      "field": "lowestPrice",
+      "direction": "asc"
+     }
+    ],
+    "Price: High to Low": [
+     {
+      "field": "lowestPrice",
+      "direction": "desc"
+     }
+    ],
+    "CBD: Low to High": [
+     {
+      "field": "potencyCbdRangeHigh",
+      "direction": "asc"
+     }
+    ],
+    "THC: High to Low": [
+     {
+      "field": "potencyThcRangeHigh",
+      "direction": "desc"
+     }
+    ],
+    "Relevance": [
+     {
+      "field": "_score",
+      "direction": "desc"
+     }
+    ],
+    "Best Selling": [
+     {
+      "field": "itemsSold",
+      "direction": "desc"
+     }
+    ]
+   },
+   "storeDefault": "Popular (API mapping UNVERIFIED)"
+  },
+  {
+   "param": "menu UI filters (client app)",
+   "note": "The filter panel is drawn by joint-ecommerce main.1.45.0.js (not captured). Only two filter UI hooks are evidenced: #Specials-filter-label (relabelled \"Bundles\" by custom CSS) and .joint-collection-filter (hidden by custom CSS). Full filter list UNVERIFIED.",
+   "evidence": "audit/prelock/t1.html style#wp-custom-css"
+  }
+ ],
+ "flows": [
+  {
+   "id": "age-gate",
+   "what": "Client-side 21+ overlay (Age Gate plugin, template#tmpl-age-gate, cookie age_gate); must pass before browsing",
+   "evidence": "audit/raw/categories-concentrates.html template#tmpl-age-gate"
+  },
+  {
+   "id": "browse-menu",
+   "page": "/menu/",
+   "widget": "#joint-menu",
+   "what": "Full menu grid, limit 20 per page, no preset filter, store default sort \"Popular\"; filter panel + sort drawn client-side",
+   "evidence": "audit/raw/menu.html #joint-menu data-config; window.jointEcommerce.stores.5164.default_sort"
+  },
+  {
+   "id": "browse-listing",
+   "pages": "categories (66 URLs: 11 top-level + 4 alias URLs + 51 subcategories), brands (252), specials (17), strains (5), effects (10), terpenes (52), cannabinoids (21), recreational geo (56), curated pages",
+   "widget": "#joint-menu / .joint-slider",
+   "what": "Same grid pre-filtered by one field (see filters); category pages add a 15-item \"1oz under $115\" FLOWER rail (66 pages)",
+   "evidence": "tmp/understand/catalog/survey.json"
+  },
+  {
+   "id": "search-typeahead",
+   "what": "Header search; typeahead mode \"mega_menu\", min 2 chars, products shown as card, specials/brands/categories as rails; submits to https://capecodcannabis.com/menu/ (plus WP ?s= search; \"Shop Gift Cards\" links to /?s=gift-card)",
+   "endpoint": "https://capecodcannabis.com/wp-json/joint-ecommerce/v1/search/suggest",
+   "evidence": "audit/prelock/t1.html script#joint-ecommerce-typeahead-js-extra"
+  },
+  {
+   "id": "pdp",
+   "page": "/products/<slug>/",
+   "widget": ".joint-product-details",
+   "what": "Server HTML has only breadcrumb, H1, JSON-LD and an empty div with data-config filter jointId=<uuid>; layout \"5g\" drawn client-side (variants, price, add to cart, specials \"Shop Offers\", staff pick badge, low-stock notice at <=5)",
+   "evidence": "audit/prelock/t1.html div.joint-product-details; var joint"
+  },
+  {
+   "id": "cart",
+   "widget": "#joint-cart",
+   "what": "Fixed floating cart button on every page (config color default, variant fixed, icon store, size small) opening the client cart; buy_now true",
+   "evidence": "752 #joint-cart containers across audit/raw + prelock"
+  },
+  {
+   "id": "checkout",
+   "page": "/checkout/",
+   "widget": "#joint-checkout (no config)",
+   "what": "checkout_flow \"retail\", redirect /thank-you/ (thank-you page not crawled); order type IN_STORE_PICKUP only; order_settings paymentTypes [\"CASH\"], asap false, scheduled false",
+   "evidence": "audit/raw/checkout.html; window.jointEcommerce.stores.5164"
+  },
+  {
+   "id": "specials",
+   "pages": "/specials/ (17 joint_specials cards, paginated) and /specials/<slug>/",
+   "what": "Each special page lists products by applicableSpecials.specialId; copy \"*Website cart may not reflect the bundled price but it will be adjusted at time of payment.\"; discounts/strike prices hidden by custom CSS (\"Hide Specials MA Compliance\"), badges relabelled \"Shop Bundles\"/\"Shop Offer\"/\"Bundles\"",
+   "evidence": "audit/raw/specials-affordable-ounces-1-2-ounces.html; t1 style#wp-custom-css"
+  },
+  {
+   "id": "orders",
+   "page": "/my-orders/",
+   "widget": "#joint-order-history {storeName:\"\",rewardsUrl:\"\"}",
+   "what": "Client-rendered order history (customer login inside the Joint app, UNVERIFIED)",
+   "evidence": "audit/raw/my-orders.html"
+  },
+  {
+   "id": "points",
+   "page": "/my-points/",
+   "widget": "#joint-rewards {orderHistoryUrl:/my-orders/}",
+   "what": "Client-rendered rewards balance; Joint integrations.alpineIq is false",
+   "evidence": "audit/raw/my-points.html; var joint.integrations"
+  },
+  {
+   "id": "loyalty",
+   "pages": "/loyalty-sign-in/ (Alpine IQ wallet iframe https://lab.alpineiq.com/wallet/1209), /join-our-newsletter/ (Alpine IQ join iframe https://lab.alpineiq.com/join/c/1209/110622), /loyalty-sign-up/ (copy only: \"Sign up in-store today!\"), /shop-your-loyalty-points/",
+   "what": "Loyalty sign-up is in-store; sign-in/wallet and newsletter join are Alpine IQ iframes; Alpine IQ pixel https://lab.alpineiq.com/p/1209.js on every page",
+   "evidence": "audit/raw/loyalty-sign-in.html, audit/raw/join-our-newsletter.html"
+  },
+  {
+   "id": "purchase-limit",
+   "page": "/daily-purchase-limit-in-ma/",
+   "what": "Inline JS calculator: limit 56.70 g flower-equivalent; concentrate and vape x5.6; tincture 0.55999 g per 100 mg; edibles 0.27999 g per 5 mg; moonrock presets (Crude Boys Frosted Buds 1.575/1.925, Four20 0.84/2.66, Glorious 2.18/1.31). Portable as-is (no dependencies).",
+   "evidence": "audit/raw/daily-purchase-limit-in-ma.html #purchaseForm script"
+  },
+  {
+   "id": "store-hours",
+   "what": "Joint hours list (server-rendered ul.joint-hours-list, 7 rows \"8:00am – 8:00pm\") + jointEcommerce hours/special_hours",
+   "data": {
+    "hours": [
+     {
+      "dayIndex": 0,
+      "day": "SUNDAY",
+      "open": "0800",
+      "close": "2000",
+      "isClosed": false
+     },
+     {
+      "dayIndex": 1,
+      "day": "MONDAY",
+      "open": "0800",
+      "close": "2000",
+      "isClosed": false
+     },
+     {
+      "dayIndex": 2,
+      "day": "TUESDAY",
+      "open": "0800",
+      "close": "2000",
+      "isClosed": false
+     },
+     {
+      "dayIndex": 3,
+      "day": "WEDNESDAY",
+      "open": "0800",
+      "close": "2000",
+      "isClosed": false
+     },
+     {
+      "dayIndex": 4,
+      "day": "THURSDAY",
+      "open": "0800",
+      "close": "2000",
+      "isClosed": false
+     },
+     {
+      "dayIndex": 5,
+      "day": "FRIDAY",
+      "open": "0800",
+      "close": "2000",
+      "isClosed": false
+     },
+     {
+      "dayIndex": 6,
+      "day": "SATURDAY",
+      "open": "0800",
+      "close": "2000",
+      "isClosed": false
+     }
+    ],
+    "special_hours": [
+     {
+      "startDate": {
+       "year": 2026,
+       "month": 7,
+       "day": 4
+      },
+      "openTime": {
+       "hours": 8
+      },
+      "endDate": {
+       "year": 2026,
+       "month": 7,
+       "day": 4
+      },
+      "closeTime": {
+       "hours": 20
+      }
+     },
+     {
+      "startDate": {
+       "year": 2026,
+       "month": 9,
+       "day": 7
+      },
+      "openTime": {
+       "hours": 8
+      },
+      "endDate": {
+       "year": 2026,
+       "month": 9,
+       "day": 7
+      },
+      "closeTime": {
+       "hours": 20
+      }
+     },
+     {
+      "startDate": {
+       "year": 2026,
+       "month": 10,
+       "day": 12
+      },
+      "openTime": {
+       "hours": 8
+      },
+      "endDate": {
+       "year": 2026,
+       "month": 10,
+       "day": 12
+      },
+      "closeTime": {
+       "hours": 20
+      }
+     }
+    ],
+    "timezone": "America/New_York"
+   },
+   "evidence": "audit/raw/index.html ul.joint-hours-list; t1 window.jointEcommerce"
+  },
+  {
+   "id": "payment",
+   "what": "Heading \"💵 Debit & Cash Accepted\" (4 pages); menu banner \"*We accept cash, debit cards or CanPay\" + \"*Debit cards must match the name given on the order...\"; online order_settings paymentTypes CASH only; JSON-LD paymentAccepted \"Cash, Debit Card, CanPay\" and, in a second LocalBusiness block, \"Cash\" (conflict for the content owner)",
+   "evidence": "audit/raw/index.html h2; t1 window.jointEcommerce.menu_banner_content (show_menu_banner false); t1 JSON-LD blocks 2-3"
+  }
+ ],
+ "planA": {
+  "premise": "Product pages become crawlable later (allowlisted crawl or the Joint/Dutchie feed): every PDP yields JSON-LD Product + jointId",
+  "harvest": [
+   "Re-crawl 5,857 /products/<slug>/ pages (rate-limited) OR, cheaper, the paginated /products/page/N/ archive (12 posts per page, title + full description excerpt; about 489 pages) for descriptions, plus PDPs for price/offers/image/brand/jointId",
+   "Category is NOT on the PDP: assign it from the category/brand listings only if the client API is captured; otherwise keep the slug heuristic and flag it"
+  ],
+  "indexFields": {
+   "s": "slug core (without -for-sale-wellfleet-ma)",
+   "d": "duplicate counter N (0 if none)",
+   "t": "post title = H1 (brand + name)",
+   "n": "JSON-LD name",
+   "b": "brand.name",
+   "c": "category enum (UNVERIFIED source, see slugParseStats.category)",
+   "st": "strain type token",
+   "img": "images.dutchie.com hash",
+   "o": "[{n: offer name e.g. \"1/2oz\", pr: price number, a: availability}]",
+   "desc": "description (HTML entities decoded, <br /> to line breaks)",
+   "id": "Joint product UUID (data-config filters jointId)",
+   "p": "WP post id"
+  },
+  "estBytesPerProduct": 535,
+  "estTotalBytes": 3133495,
+  "estGzipBytes": 576563,
+  "sharding": "one shard per category (largest guessed FLOWER ~0.5 MB raw) + a slim search index (s,t,b,c ~150 B/product = ~0.9 MB raw, ~0.16 MB gzip)",
+  "pdp": "Static /products/<slug>/index.html for all 5,857 with full Product JSON-LD (name, description, brand, image, offers), BreadcrumbList Home > Products > title, canonical, title \"<title> | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\", meta description = description with <br /> removed (as live)",
+  "freshness": "Prices/stock change daily (og:updated_time 2026-10-11T14:07:33-04:00 on t1; sitemap lastmod same day): a static snapshot goes stale; label prices \"as of\" or fetch live at runtime"
+ },
+ "planB": {
+  "premise": "Product pages never become crawlable: only slugs, titles (HTML sitemap), 12 archive excerpts and the single t1 sample exist",
+  "canBuild": [
+   "URL-compatible /products/<slug>/ stubs for all 5,857 URLs (no 404s, links from blog/events keep working)",
+   "Index of slug, title, brand (94.7% via slug or title), size token (64.1%), strain type (45.4%), guessed category (78.7% guessed, 70.4% unambiguous)",
+   "Brand pages listing products by brand name match on title/slug (exact for 89.2% where the title starts with a known brand)",
+   "Descriptions for the 12 products on /products/ page 1 (audit/raw/products.html); full data (price, image, offer) for t1 only"
+  ],
+  "mustLeaveOut": [
+   "Prices, variants/offers, stock, THC/CBD potency, terpene/cannabinoid/effect tags, images (except t1), Joint product ids (except t1)",
+   "Product JSON-LD with offers (would be fabricated) - emit BreadcrumbList only, or noindex the stubs",
+   "Specials/terpene/cannabinoid/effect/strain listings: no product membership data exists; render the page copy plus a live-menu CTA"
+  ],
+  "indexBytes": 864659,
+  "indexGzipBytes": 158885,
+  "indexBrotliBytes": 96393,
+  "stubPage": "H1 = title, breadcrumb Home > Products > title, parsed facts shown as \"From the product name\" chips (size, strain type), \"Check price and availability\" CTA to the live Joint menu/cart integration point, link to brand page"
+ },
+ "images": {
+  "host": "images.dutchie.com",
+  "evidence": "tmp/understand/catalog/imgtest.json (6 GETs, 2026-10-12, >=1.1 s apart; script tmp/understand/catalog/imgtest.mjs)",
+  "sampleHash": "da19282bb39167e387f0e00ed9f12f32 (t1 JSON-LD Product.image)",
+  "isImgix": true,
+  "isImgixEvidence": "x-imgix-id response header on every variant; live pages already use ?auto=format&fit=fill&fill=solid&ixlib=react-9.5.4&h=330&w=344 (audit/raw/event-strane-garcia-hellavated-do-drops-pop-up.html)",
+  "headers": {
+   "cacheControl": "public, max-age=31536000",
+   "cors": "*",
+   "varyOnAuto": "Accept, User-Agent",
+   "server": "cloudflare"
+  },
+  "variants": [
+   {
+    "id": "original",
+    "query": "(none)",
+    "status": 200,
+    "contentType": "image/jpeg",
+    "width": 250,
+    "height": 250,
+    "bytes": 13668
+   },
+   {
+    "id": "card-auto",
+    "query": "?auto=format&fit=fill&fill=solid&w=344&h=330",
+    "status": 200,
+    "contentType": "image/avif",
+    "width": 344,
+    "height": 330,
+    "bytes": 15305
+   },
+   {
+    "id": "card-webp-w400",
+    "query": "?fm=webp&w=400&q=75",
+    "status": 200,
+    "contentType": "image/webp",
+    "width": 400,
+    "height": 400,
+    "bytes": 34472
+   },
+   {
+    "id": "pdp-auto-w1000",
+    "query": "?auto=format&w=1000&q=75",
+    "status": 200,
+    "contentType": "image/avif",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 60497
+   },
+   {
+    "id": "card-avif-w400",
+    "query": "?fm=avif&w=400&q=60",
+    "status": 200,
+    "contentType": "image/avif",
+    "width": 400,
+    "height": 400,
+    "bytes": 22232
+   },
+   {
+    "id": "thumb-auto-w200-dpr2",
+    "query": "?auto=format&w=200&dpr=2&q=60",
+    "status": 200,
+    "contentType": "image/avif",
+    "width": 400,
+    "height": 400,
+    "bytes": 22232
+   }
+  ],
+  "findings": [
+   "Accepted params: w, h, fit=fill, fill=solid, fm=webp, fm=avif, auto=format (negotiates AVIF for an Accept header listing image/avif), q, dpr (w=200&dpr=2 returned 400x400).",
+   "The sample source is only 250x250 JPEG (13,668 bytes); imgix upscales on request (w=1000 returned 1000x1000, 60,497 bytes) so PDP sizes above the source add bytes, not detail. Source sizes of the other products are UNVERIFIED."
+  ],
+  "estimates": {
+   "method": "sample bytes x 5857 products; ONE image measured, so these are order-of-magnitude only (many products may share or lack images)",
+   "original250Jpeg": {
+    "bytesSample": 13668,
+    "estAllProductsMB": 80.1
+   },
+   "cardAvif344x330": {
+    "bytesSample": 15305,
+    "estAllProductsMB": 89.6
+   },
+   "cardWebp400": {
+    "bytesSample": 34472,
+    "estAllProductsMB": 201.9
+   },
+   "cardAvif400": {
+    "bytesSample": 22232,
+    "estAllProductsMB": 130.2
+   },
+   "pdpAvif1000Upscaled": {
+    "bytesSample": 60497,
+    "estAllProductsMB": 354.3
+   }
+  },
+  "recommendation": "Hotlink images.dutchie.com with imgix params instead of downloading (CORS *, max-age 1 year): cards ?auto=format&fit=fill&fill=solid&w=344&h=330 (+ dpr=2 srcset), PDP ?auto=format&w=<min(source,800)>. Self-host only the brand/category art. Plan B has an image for t1 only."
+ },
+ "endpointsRecordedNotCalled": [
+  "https://capecodcannabis.com/wp-json/joint-api/v1",
+  "https://capecodcannabis.com/wp-json/joint-ecommerce/v1",
+  "https://capecodcannabis.com/wp-json/joint-ecommerce/v1/search/suggest",
+  "https://capecodcannabis.com/wp-admin/admin-ajax.php",
+  "https://capecodcannabis.com/wp-json/wp/v2/joint_categories/<id> (also joint_brands, joint_strains)",
+  "https://capecodcannabis.com/wp-content/plugins/joint-ecommerce/app/build/assets/js/main.1.45.0.js",
+  "https://lab.alpineiq.com/p/1209.js",
+  "https://lab.alpineiq.com/wallet/1209",
+  "https://lab.alpineiq.com/join/c/1209/110622",
+  "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png"
+ ]
+}

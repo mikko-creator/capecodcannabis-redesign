@@ -1,0 +1,968 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/cannabis-chronicles-insights-into-premium-products/",
+ "sourceUrl": "https://capecodcannabis.com/cannabis-chronicles-insights-into-premium-products/",
+ "requestedUrl": "https://capecodcannabis.com/cannabis-chronicles-insights-into-premium-products",
+ "slug": "cannabis-chronicles-insights-into-premium-products",
+ "kind": "standard-page",
+ "wpTemplate": "page",
+ "derived": false,
+ "rawFile": "audit/raw/cannabis-chronicles-insights-into-premium-products.html",
+ "rawSha256": "037dcef7f586299ae101430d710623b31e34d792f0b4d58c8575f140622fa05d",
+ "regionKind": "main",
+ "title": "Cannabis Chronicles: Insights into Premium Products | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA |",
+ "metaDescription": "Cannabis Chronicles: Insights into Premium Products | https://capecodcannabis.com/wp-content/uploads/2021/12/Strane-Purgatory.mov | Cape Cod Cannabis",
+ "canonical": "https://capecodcannabis.com/cannabis-chronicles-insights-into-premium-products/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "Cannabis Chronicles: Insights into Premium Products | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA |",
+  "description": "Cannabis Chronicles: Insights into Premium Products | https://capecodcannabis.com/wp-content/uploads/2021/12/Strane-Purgatory.mov | Cape Cod Cannabis",
+  "url": "https://capecodcannabis.com/cannabis-chronicles-insights-into-premium-products/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2025-01-01T16:31:24-05:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/elementor/thumbs/garcia-limefire-skunk-qq01g8c0f2lc76zxklvsmnqh6u7xwk7ueaweea7na8.jpeg",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/elementor/thumbs/garcia-limefire-skunk-qq01g8c0f2lc76zxklvsmnqh6u7xwk7ueaweea7na8.jpeg",
+  "image:alt": "cannabis"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438"
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "Cannabis Chronicles: Insights into Premium Products | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA |",
+  "description": "Cannabis Chronicles: Insights into Premium Products | https://capecodcannabis.com/wp-content/uploads/2021/12/Strane-Purgatory.mov | Cape Cod Cannabis",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/elementor/thumbs/garcia-limefire-skunk-qq01g8c0f2lc76zxklvsmnqh6u7xwk7ueaweea7na8.jpeg",
+  "label1": "Time to read",
+  "data1": "4 minutes"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/cannabis-chronicles-insights-into-premium-products/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/cannabis-chronicles-insights-into-premium-products/",
+        "name": "Cannabis Chronicles: Insights into Premium Products"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "h1": null,
+ "h1Source": {
+  "count": 0,
+  "visible": 0,
+  "hidden": 0,
+  "note": "source has no h1",
+  "candidates": [
+   {
+    "text": "Cannabis Chronicles: Insights into Premium Products",
+    "from": "first visible heading (level 2)"
+   },
+   {
+    "text": "Cannabis Chronicles: Insights into Premium Products",
+    "from": "breadcrumb last item (jsonld)"
+   },
+   {
+    "text": "Cannabis Chronicles: Insights into Premium Products | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA |",
+    "from": "title"
+   }
+  ]
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Cannabis Chronicles: Insights into Premium Products",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "jsonld",
+ "section": null,
+ "sections": [
+  {
+   "n": 0,
+   "id": "48eefe60",
+   "doc": "wp-page#98840",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Cannabis Chronicles: Insights into Premium Products"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "2fdfcce7",
+   "doc": "wp-page#98840",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "Strane Purgatory"
+    },
+    {
+     "t": "rich",
+     "html": "<p><strong>(Indica)</strong></p>"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "62139b6d",
+   "doc": "wp-page#98840",
+   "blocks": [
+    {
+     "t": "embed",
+     "kind": "video",
+     "src": "https://capecodcannabis.com/wp-content/uploads/2021/12/Strane-Purgatory.mov",
+     "settings": {
+      "video_type": "hosted",
+      "mute": "yes",
+      "controls": "yes"
+     }
+    },
+    {
+     "t": "rich",
+     "html": "<p>Strane’s Purgatory offers an experience for cannabis enthusiasts seeking high-quality flower for a great price that delivers on all fronts. With its earthy, gassy, and subtly sweet aroma, Purgatory stands out for its dense nug structure adorned with glistening trichomes.</p><p>Despite its modest THC levels, Purgatory surpasses many strains boasting higher percentages, delivering a smooth smoking experience and potent effects. Ideal for a relaxing movie night, its effects provide a perfect blend of relaxation without overwhelming sedation depending on how much you consume.</p><p>This strain comes highly recommended for anyone seeking to unwind after a long day, whether it’s at the beach, work, or exploring Cape Cod. Strane’s Purgatory ensures a consistently enjoyable and relaxing evening.</p>"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": "1651e58",
+   "doc": "wp-page#98840",
+   "blocks": [
+    {
+     "t": "button",
+     "label": "Shop Strane",
+     "href": "/brands/strane/"
+    },
+    {
+     "t": "button",
+     "label": "Shop Purgatory",
+     "href": "/?s=purgatory"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "id": "396c443c",
+   "doc": "wp-page#98840",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "Glorious Cannabis Co. Lemon Cherry Gelato"
+    },
+    {
+     "t": "rich",
+     "html": "<p><strong>(Indica)</strong></p>"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "id": "3421dcb6",
+   "doc": "wp-page#98840",
+   "blocks": [
+    {
+     "t": "embed",
+     "kind": "video",
+     "src": "https://capecodcannabis.com/wp-content/uploads/2021/12/Glorious-Cannabis-Co-Lemon-Cherry-Gelato.mov",
+     "settings": {
+      "video_type": "hosted",
+      "mute": "yes",
+      "controls": "yes"
+     }
+    },
+    {
+     "t": "rich",
+     "html": "<p>Lemon Cherry Gelato from Glorious Cannabis Co is an excellent choice for discerning cannabis users seeking a high-quality flower to unwind with towards the end of the day. This strain exudes sweet, creamy, and earthy undertones that enhance the smoking experience, reminiscent of a dessert strain due to its pronounced sweetness. Those who prefer less sweetness in their smoke may find its sweeter smoking profile less appealing.</p><p>The nug structure of Lemon Cherry Gelato is notably dense, comprising smaller-sized nugs that grind perfectly for easy preparation. Featuring a striking blend of dark purple and light green hues, its appearance adds to its appeal.</p><p>The effects of Lemon Cherry Gelato hit the mark, providing a balanced experience that combines calming effects with sociability, uplifting the user into a happy and content state. This makes it ideal for those looking to take the edge off while remaining functional enough to tackle activities like yard work, enjoying a late-night fire, or simply relaxing.</p>"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "id": "c5e22ed",
+   "doc": "wp-page#98840",
+   "blocks": [
+    {
+     "t": "button",
+     "label": "Shop Glorious Cannabis Co.",
+     "href": "/brands/glorious-cannabis-co/"
+    },
+    {
+     "t": "button",
+     "label": "Shop Lemon Cherry Gelato",
+     "href": "/brands/glorious-cannabis-co/?product=664e0b921729290001e37293"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "id": "5a790e5d",
+   "doc": "wp-page#98840",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "Garcia Hand Picked Limefire Skunk"
+    },
+    {
+     "t": "rich",
+     "html": "<p><strong>(Hybrid)</strong></p>"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "id": "7993e299",
+   "doc": "wp-page#98840",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/bd7e00c3-garcia-limefire-skunk-qq01g8c0f2lc76zxklvsmnqh6u7xwk7ueaweea7na8.jpeg",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/elementor/thumbs/garcia-limefire-skunk-qq01g8c0f2lc76zxklvsmnqh6u7xwk7ueaweea7na8.jpeg?lossy=2&strip=0&webp=1",
+     "alt": "garcia-limefire-skunk",
+     "titleAttr": "garcia-limefire-skunk"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Limefire Skunk by Garcia Hand Picked stands as a personal favorite of mine, offering a comprehensive experience from its exceptional flower quality to its flavorful smoke. This strain is an excellent investment for those seeking top-tier cannabis.</p><p>Characterized by an enticing blend of old-school funk with a contemporary twist, Limefire Skunk leaves a memorable impression with its bold aroma upon opening. The nug structure features large, dense nugs generously coated in trichomes, exemplifying its premium quality.</p><p>The effects of Limefire Skunk are versatile, suitable for any time of day depending on ones desired outcomes. It delivers a happy and uplifting experience while also providing me relief from muscle pains, making it a multifaceted choice for consumers.</p>"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "id": "3035aae",
+   "doc": "wp-page#98840",
+   "blocks": [
+    {
+     "t": "button",
+     "label": "Shop Garcia Hand Picked",
+     "href": "/brands/garcia-hand-picked/"
+    },
+    {
+     "t": "button",
+     "label": "Shop Limefire Skunk",
+     "href": "/?s=limefire"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "id": "17394247",
+   "doc": "wp-page#98840",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "Perpetual Bubble Yum"
+    },
+    {
+     "t": "rich",
+     "html": "<p><strong>(Hybrid)</strong></p>"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "id": "6d2b63c3",
+   "doc": "wp-page#98840",
+   "blocks": [
+    {
+     "t": "embed",
+     "kind": "video",
+     "src": "https://capecodcannabis.com/wp-content/uploads/2021/12/Perpetual-Bubble-Yum.mov",
+     "settings": {
+      "video_type": "hosted",
+      "mute": "yes",
+      "controls": "yes"
+     }
+    },
+    {
+     "t": "rich",
+     "html": "<p>Bubble Yum by Perpetual presents itself as a delightful strain, notable for its balanced hybrid nature and beneficial effects. This semi-sweet strain offers a nuanced profile that combines earthy undertones with a hint of sweetness, making it a distinct choice for cannabis enthusiasts.</p><p>Despite its smaller nug size, Bubble Yum impresses with its potency and abundant trichome coverage, ensuring a robust experience with every session. It’s important to note that its sweeter smoking profile may not appeal to those preferring less sweetness in their smoke.</p><p>This strain is well-suited for individuals seeking a relaxing yet functional experience during afternoons or evenings. Bubble Yum by Perpetual is an ideal companion for unwinding while maintaining productivity.</p>"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "id": "7d906f8",
+   "doc": "wp-page#98840",
+   "blocks": [
+    {
+     "t": "button",
+     "label": "Shop Perpetual Harvest",
+     "href": "/brands/perpetual-harvest/",
+     "hrefStatus": "dead"
+    },
+    {
+     "t": "button",
+     "label": "Shop Bubble Yum",
+     "href": "/?s=yum"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "id": "8c6629",
+   "doc": "wp-page#98840",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "Resinate Grandaddy Purp"
+    },
+    {
+     "t": "rich",
+     "html": "<p><strong>(Indica)</strong></p>"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "id": "29a58af8",
+   "doc": "wp-page#98840",
+   "blocks": [
+    {
+     "t": "embed",
+     "kind": "video",
+     "src": "https://capecodcannabis.com/wp-content/uploads/2021/12/Resinate-Grandaddy-Purp.mov",
+     "settings": {
+      "video_type": "hosted",
+      "mute": "yes",
+      "controls": "yes"
+     }
+    },
+    {
+     "t": "rich",
+     "html": "<p>Grandaddy Purp from Resinate pays homage to its classic genetics with a modern twist, offering a nostalgic yet refreshing cannabis experience. This strain greets users with a delightful sweet earthy aroma that captivates the senses upon opening and persists through consumption.</p><p>Characterized by a fluffy, dense nug structure generously coated in trichomes and accented by vibrant orange pistils, Grandaddy Purp combines visual appeal with potent effects. It’s ideal for those seeking a strain to unwind after a long day, effectively easing the burdens of daily life and promoting a tranquil state of mind.</p><p>Grandaddy Purp by Resinate stands out as a perfect choice for those looking to relax and immerse themselves in the present moment, making it a valuable addition to any cannabis connoisseur’s collection.</p>"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "id": "cc2fc23",
+   "doc": "wp-page#98840",
+   "blocks": [
+    {
+     "t": "button",
+     "label": "Shop Resinate",
+     "href": "/brands/resinate/"
+    },
+    {
+     "t": "button",
+     "label": "Shop Grandaddy Purp",
+     "href": "/brands/resinate/?product=645d043315186400019f4f97"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "id": "9a0fb15",
+   "doc": "wp-page#98840",
+   "blocks": [
+    {
+     "t": "divider"
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "id": "312db954",
+   "doc": "wp-page#98840",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><img src=\"assets/source/3d0d701c-PC90ZH_Black_Front_1080x1080-300x300.png\" alt=\"Jackson Simard - Product Curator - Cape Cod Cannabis\" width=\"300\" height=\"300\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2024/06/PC90ZH_Black_Front_1080x1080-300x300.png?lossy=2&amp;strip=0&amp;webp=1\" data-master=\"assets/source/a779fe4f-PC90ZH_Black_Front_1080x1080.png\"></p><p><em>– Jackson S. – Product Curator, Cape Cod Cannabis</em></p>"
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "id": "f59c5cd",
+   "doc": "wp-page#98840",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong>Disclaimer:</strong> Cape Cod Cannabis does not endorse specific products or services. Reviews and testimonials are personal opinions and should not be considered endorsements unless otherwise specified. Use products at your own risk. Cape Cod Cannabis is not liable for any adverse effects from the use of products mentioned. Cannabis effects vary; consult a healthcare professional before use.</p>"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "button": 10,
+  "divider": 1,
+  "embed": 4,
+  "heading": 6,
+  "image": 1,
+  "rich": 12
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [],
+  "links": [
+   {
+    "href": "/brands/perpetual-harvest/",
+    "from": "https://capecodcannabis.com/brands/perpetual-harvest/",
+    "status": "dead"
+   }
+  ],
+  "aliasesResolved": [
+   {
+    "from": "https://capecodcannabis.com/brands/strane/",
+    "to": "/brands/strane/"
+   },
+   {
+    "from": "https://capecodcannabis.com/brands/glorious-cannabis-co/",
+    "to": "/brands/glorious-cannabis-co/"
+   },
+   {
+    "from": "https://capecodcannabis.com/brands/glorious-cannabis-co/?product=664e0b921729290001e37293",
+    "to": "/brands/glorious-cannabis-co/?product=664e0b921729290001e37293"
+   },
+   {
+    "from": "https://capecodcannabis.com/brands/garcia-hand-picked/",
+    "to": "/brands/garcia-hand-picked/"
+   },
+   {
+    "from": "https://capecodcannabis.com/brands/resinate/",
+    "to": "/brands/resinate/"
+   },
+   {
+    "from": "https://capecodcannabis.com/brands/resinate/?product=645d043315186400019f4f97",
+    "to": "/brands/resinate/?product=645d043315186400019f4f97"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

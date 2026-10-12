@@ -1,0 +1,1190 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/upcoming-2026-cannabis-seed-law-what-it-means/",
+ "sourceUrl": "https://capecodcannabis.com/upcoming-2026-cannabis-seed-law-what-it-means/",
+ "requestedUrl": "https://capecodcannabis.com/upcoming-2026-cannabis-seed-law-what-it-means",
+ "slug": "upcoming-2026-cannabis-seed-law-what-it-means",
+ "kind": "blog-post",
+ "wpTemplate": "post",
+ "derived": false,
+ "rawFile": "audit/raw/upcoming-2026-cannabis-seed-law-what-it-means.html",
+ "rawSha256": "b1849fa0e5663ecf3b4ee422a3c6f4a2dd8facd3c7a0a517b9501a37eb489adc",
+ "regionKind": "body-minus-chrome",
+ "title": "Upcoming 2026 Cannabis Seed Law: What it means? | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+ "metaDescription": "The cannabis industry is constantly evolving, and one of the most important upcoming changes is the new federal cannabis seed law taking effect on November",
+ "canonical": "https://capecodcannabis.com/upcoming-2026-cannabis-seed-law-what-it-means/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "Upcoming 2026 Cannabis Seed Law: What it means? | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "The cannabis industry is constantly evolving, and one of the most important upcoming changes is the new federal cannabis seed law taking effect on November",
+  "url": "https://capecodcannabis.com/upcoming-2026-cannabis-seed-law-what-it-means/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2026-06-30T11:33:25-04:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2026/04/cannabis-seeds-1024x665.jpg",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/2026/04/cannabis-seeds-1024x665.jpg",
+  "image:width": "800",
+  "image:height": "520",
+  "image:alt": "cannabis seed law",
+  "image:type": "image/jpeg"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438",
+  "tag": [
+   "2026 Cannabis Law",
+   "cannabis seeds",
+   "cape cod cannabis",
+   "lifecycle of a cannabis seed"
+  ],
+  "section": "Cannabis News",
+  "published_time": "2026-05-28T11:28:47-04:00",
+  "modified_time": "2026-06-30T11:33:25-04:00"
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "Upcoming 2026 Cannabis Seed Law: What it means? | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "The cannabis industry is constantly evolving, and one of the most important upcoming changes is the new federal cannabis seed law taking effect on November",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2026/04/cannabis-seeds-1024x665.jpg",
+  "label1": "Written by",
+  "data1": "rrh_clientadmin",
+  "label2": "Time to read",
+  "data2": "4 minutes"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Place",
+     "@id": "https://capecodcannabis.com/#place",
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.916265712481554",
+      "longitude": "-69.98840341462632"
+     },
+     "hasMap": "https://www.google.com/maps/search/?api=1&amp;query=41.916265712481554,-69.98840341462632",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     }
+    },
+    {
+     "@type": [
+      "LocalBusiness",
+      "Organization"
+     ],
+     "@id": "https://capecodcannabis.com/#organization",
+     "name": "Cape Cod Cannabis in Wellfleet - Best dispensary on Cape Cod.",
+     "url": "https://capecodcannabis.com",
+     "sameAs": [
+      "https://www.facebook.com/profile.php?id=100077867156438",
+      "https://twitter.com/capecodcanna"
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "logo": {
+      "@type": "ImageObject",
+      "@id": "https://capecodcannabis.com/#logo",
+      "url": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "contentUrl": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "caption": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+      "inLanguage": "en-US",
+      "width": "700",
+      "height": "500"
+     },
+     "openingHours": [
+      "Mo,Tu,We,Th,Fr,Sa,Su 8:00 - 8:00"
+     ],
+     "description": "Welcome to Cape Cod Cannabis, recognized by many as the Best Dispensary on Cape Cod, located in Wellfleet. Conveniently situated in the Route 6 shopping plaza in South Wellfleet, we are a trusted destination for both locals and visitors traveling from Provincetown, Truro, Wellfleet, Eastham, Orleans, Brewster, Dennis, Harwich, Chatham, Yarmouth, Sandwich and across the Cape and beyond.\n\nCape Cod Cannabis, your go-to cannabis haven, offers a carefully curated selection of high quality products, including flower, pre-rolls, edibles, vaporizers, concentrates, tinctures, topicals, CBD, accessories, and more. With a focus on education, selection, and a welcoming experience, we make it easy to explore and find what works best for you whether you are visiting the Cape or live here year round.",
+     "location": {
+      "@id": "https://capecodcannabis.com/#place"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/#logo"
+     },
+     "telephone": "+1-774-383-3133"
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://capecodcannabis.com/#website",
+     "url": "https://capecodcannabis.com",
+     "name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+     "alternateName": "Cape Cod Cannabis | Wellfleet's Top Rated Cannabis Store on Cape Cod",
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "https://capecodcannabis.com/wp-content/uploads/2026/04/cannabis-seeds.jpg",
+     "url": "https://capecodcannabis.com/wp-content/uploads/2026/04/cannabis-seeds.jpg",
+     "width": "2300",
+     "height": "1494",
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/upcoming-2026-cannabis-seed-law-what-it-means/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/category/cannabis-news/",
+        "name": "Cannabis News"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "3",
+       "item": {
+        "@id": "https://capecodcannabis.com/upcoming-2026-cannabis-seed-law-what-it-means/",
+        "name": "Upcoming 2026 Cannabis Seed Law: What it means?"
+       }
+      }
+     ]
+    },
+    {
+     "@type": "WebPage",
+     "@id": "https://capecodcannabis.com/upcoming-2026-cannabis-seed-law-what-it-means/#webpage",
+     "url": "https://capecodcannabis.com/upcoming-2026-cannabis-seed-law-what-it-means/",
+     "name": "Upcoming 2026 Cannabis Seed Law: What it means? | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "datePublished": "2026-05-28T11:28:47-04:00",
+     "dateModified": "2026-06-30T11:33:25-04:00",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2026/04/cannabis-seeds.jpg"
+     },
+     "inLanguage": "en-US",
+     "breadcrumb": {
+      "@id": "https://capecodcannabis.com/upcoming-2026-cannabis-seed-law-what-it-means/#breadcrumb"
+     }
+    },
+    {
+     "@type": "Person",
+     "@id": "https://capecodcannabis.com/upcoming-2026-cannabis-seed-law-what-it-means/#author",
+     "name": "rrh_clientadmin",
+     "image": {
+      "@type": "ImageObject",
+      "@id": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "url": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "caption": "rrh_clientadmin",
+      "inLanguage": "en-US"
+     },
+     "worksFor": {
+      "@id": "https://capecodcannabis.com/#organization"
+     }
+    },
+    {
+     "@type": "Article",
+     "headline": "Upcoming 2026 Cannabis Seed Law: What it means? | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "keywords": "cannabis seed law, cape cod cannabis",
+     "datePublished": "2026-05-28T11:28:47-04:00",
+     "dateModified": "2026-06-30T11:33:25-04:00",
+     "articleSection": "Cannabis News",
+     "author": {
+      "@id": "https://capecodcannabis.com/upcoming-2026-cannabis-seed-law-what-it-means/#author",
+      "name": "rrh_clientadmin"
+     },
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "description": "The cannabis industry is constantly evolving, and one of the most important upcoming changes is the new federal cannabis seed law taking effect on November",
+     "name": "Upcoming 2026 Cannabis Seed Law: What it means? | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "@id": "https://capecodcannabis.com/upcoming-2026-cannabis-seed-law-what-it-means/#richSnippet",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/upcoming-2026-cannabis-seed-law-what-it-means/#webpage"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2026/04/cannabis-seeds.jpg"
+     },
+     "inLanguage": "en-US",
+     "mainEntityOfPage": {
+      "@id": "https://capecodcannabis.com/upcoming-2026-cannabis-seed-law-what-it-means/#webpage"
+     }
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "h1": "Upcoming 2026 Cannabis Seed Law: What it means?",
+ "h1Source": {
+  "count": 2,
+  "visible": 2,
+  "hidden": 0,
+  "note": "source has several visible h1s; the first is primary, the rest carry demote:true"
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Cannabis News",
+   "href": "/category/cannabis-news/"
+  },
+  {
+   "label": "Upcoming 2026 Cannabis Seed Law: What it means?",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "visible",
+ "breadcrumbsSeparator": " / ",
+ "breadcrumbsLabel": "breadcrumbs",
+ "breadcrumbsInRegion": true,
+ "section": null,
+ "sections": [
+  {
+   "n": 0,
+   "id": "3f1093a4",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "Upcoming 2026 Cannabis Seed Law: What it means?"
+    },
+    {
+     "t": "meta",
+     "items": [
+      {
+       "text": "May 28, 2026",
+       "href": "/2026/05/28/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "51c20b28",
+   "doc": "wp-post#158668",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "The 2026 Cannabis Seed Law: What It Means for Massachusetts",
+     "demote": true
+    },
+    {
+     "t": "rich",
+     "html": "<p><img src=\"assets/source/7c2f9ac1-MassachusettsTHCUniversalSymbol-150x150.png\" alt=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" width=\"150\" height=\"150\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/04/MassachusettsTHCUniversalSymbol-150x150.png?lossy=2&amp;strip=0&amp;webp=1\" data-master=\"assets/source/9b755c43-MassachusettsTHCUniversalSymbol.png\"></p><p>The cannabis industry is constantly evolving, and one of the most important upcoming changes is the new <strong>federal cannabis seed law taking effect on November 12, 2026</strong>. Known as <strong>Section 781</strong>, this legislation will reshape how cannabis seeds are classified, sold, and distributed across the United States.</p><p>For consumers, growers, and dispensaries like <strong>Cape Cod Cannabis in Wellfleet</strong>, this change could significantly impact access to cannabis genetics, product availability, and the future of cultivation.</p><p>Let’s break it down in simple terms.</p>"
+    },
+    {
+     "t": "image",
+     "ref": "assets/source/9375c58c-2c.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/04/2c.png?lossy=2&strip=0&webp=1",
+     "alt": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 43,
+     "h": 38,
+     "inHeading": true
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "What Is the 2026 Cannabis Seed Law?"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Section 781 is part of a federal agriculture bill passed in 2025 that updates the definition of hemp and cannabis under U.S. law.</p><p>The key change is this:</p><ul><li>Cannabis seeds will <strong>no longer automatically qualify as hemp</strong></li><li>Seeds will now be classified based on the <strong>THC potential of the plant they can grow into</strong></li></ul><p>In practice, this means most cannabis seeds — especially those that can produce high-THC plants — will be treated as <strong>regulated cannabis rather than hemp</strong> under federal law.</p>"
+    },
+    {
+     "t": "image",
+     "ref": "assets/source/9375c58c-2c.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/04/2c.png?lossy=2&strip=0&webp=1",
+     "alt": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 43,
+     "h": 38,
+     "inHeading": true
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "What Changes on November 12, 2026?"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Once the law takes effect:</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "1. Interstate Seed Sales Become Illegal"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Cannabis seeds from high-THC genetics can no longer be legally shipped across state lines.</p><p>This is one of the biggest changes. For years, seed companies operated in a legal gray area, shipping nationwide. That system is ending.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "2. Seeds May Be Treated as Controlled Substances"
+    },
+    {
+     "t": "rich",
+     "html": "<p>High-THC cannabis seeds will be classified under federal drug law frameworks, increasing compliance requirements for businesses.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "3. The Hemp Loophole Is Closing"
+    },
+    {
+     "t": "rich",
+     "html": "<p>The 2018 Farm Bill allowed cannabis seeds to be sold as “hemp” because they contain little to no THC.</p><p>The new law shifts to a <strong>“total THC” standard</strong>, closing that loophole and tightening regulation across the industry.</p>"
+    },
+    {
+     "t": "image",
+     "ref": "assets/source/9375c58c-2c.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/04/2c.png?lossy=2&strip=0&webp=1",
+     "alt": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 43,
+     "h": 38,
+     "inHeading": true
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Why This Matters for the Cannabis Industry"
+    },
+    {
+     "t": "rich",
+     "html": "<p>This is not a small change — it’s one of the biggest regulatory shifts since federal hemp legalization.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Reduced Access to Genetics"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Growers and breeders may have fewer options when sourcing seeds. Unique or rare strains could become harder to find.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Increased Costs"
+    },
+    {
+     "t": "rich",
+     "html": "<p>With interstate commerce restricted, supply chains will shrink. This could lead to higher prices for seeds and potentially higher production costs across the industry.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Shift to State-Based Markets"
+    },
+    {
+     "t": "rich",
+     "html": "<p>States like Massachusetts may need to develop <strong>in-state seed systems</strong>, licensing local breeders and cultivators to maintain supply.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Industry Uncertainty"
+    },
+    {
+     "t": "rich",
+     "html": "<p>There is ongoing debate and pushback from cannabis businesses and lawmakers, meaning future amendments or delays are still possible.</p>"
+    },
+    {
+     "t": "image",
+     "ref": "assets/source/9375c58c-2c.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/04/2c.png?lossy=2&strip=0&webp=1",
+     "alt": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 43,
+     "h": 38,
+     "inHeading": true
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "What This Means for Massachusetts Cannabis"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Massachusetts legalized adult-use cannabis in 2016 and has built a regulated, state-based system for cultivation and retail.</p><p>Because of this:</p><ul><li>Cannabis products will still be <strong>legal within the state</strong></li><li>Licensed cultivators will continue to grow and supply dispensaries</li><li>The biggest impact will be on <strong>how genetics and seeds move into the state</strong></li></ul><p>In simple terms, Massachusetts consumers will still have access to cannabis — but the <strong>supply chain behind it may change</strong>.</p>"
+    },
+    {
+     "t": "image",
+     "ref": "assets/source/9375c58c-2c.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/04/2c.png?lossy=2&strip=0&webp=1",
+     "alt": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 43,
+     "h": 38,
+     "inHeading": true
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "How This Affects Cape Cod Cannabis"
+    },
+    {
+     "t": "rich",
+     "html": "<p>At <strong>Cape Cod Cannabis</strong>, our focus has always been on <strong>quality, compliance, and local sourcing</strong>. This new law reinforces the importance of that approach.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Stronger Focus on Massachusetts-Grown Products"
+    },
+    {
+     "t": "rich",
+     "html": "<p>As interstate seed movement becomes restricted, locally cultivated cannabis will become even more important. We already prioritize <strong>Massachusetts-grown flower, pre-rolls, concentrates, and edibles</strong>, which positions us well for this transition.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Continued Commitment to Compliance"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Cannabis regulations are complex and constantly evolving. Our team stays up to date with both <strong>state and federal changes</strong> to ensure every product we carry meets current standards.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Education for Our Customers"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Changes like this can be confusing, especially for newer consumers. That’s why we continue to provide clear, honest education — helping customers understand not just products, but the laws behind them.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "No Immediate Impact on Retail Customers"
+    },
+    {
+     "t": "rich",
+     "html": "<p>For most customers visiting our <strong>dispensary in Wellfleet</strong>, this law won’t change your day-to-day experience right away.</p><p>You’ll still be able to:</p><ul><li>Shop high-quality flower and pre-rolls</li><li>Explore edibles, tinctures, and concentrates</li><li>Receive guidance from our knowledgeable staff</li></ul><p>The changes happen behind the scenes — primarily in cultivation and distribution.</p>"
+    },
+    {
+     "t": "image",
+     "ref": "assets/source/9375c58c-2c.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/04/2c.png?lossy=2&strip=0&webp=1",
+     "alt": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 43,
+     "h": 38,
+     "inHeading": true
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Looking Ahead: The Future of Cannabis Genetics"
+    },
+    {
+     "t": "rich",
+     "html": "<p>The 2026 cannabis seed law signals a shift toward a more <strong>state-controlled and regulated cannabis ecosystem</strong>.</p><p>While this may create challenges, it also opens the door for:</p><ul><li>Growth of local cannabis breeding programs</li><li>Stronger state-level cannabis industries</li><li>Increased focus on quality and consistency</li></ul><p>For Cape Cod Cannabis, this aligns with our long-term vision: supporting <strong>local growers, responsible practices, and a transparent cannabis market</strong>.</p>"
+    },
+    {
+     "t": "image",
+     "ref": "assets/source/9375c58c-2c.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/04/2c.png?lossy=2&strip=0&webp=1",
+     "alt": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 43,
+     "h": 38,
+     "inHeading": true
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Final Thoughts"
+    },
+    {
+     "t": "rich",
+     "html": "<p>The upcoming <strong>November 12, 2026 cannabis seed law</strong> represents a major turning point for the industry. By redefining how cannabis seeds are classified and restricting interstate sales, it reshapes how cannabis is grown, distributed, and accessed across the country.</p><p>For customers, the most important takeaway is simple:</p><p><strong>Your access to safe, regulated cannabis in Massachusetts isn’t going anywhere.</strong></p><p>At <strong>Cape Cod Cannabis</strong>, we remain committed to providing high-quality products, trusted education, and a welcoming experience — no matter how the industry evolves.</p>"
+    },
+    {
+     "t": "image",
+     "ref": "assets/source/9375c58c-2c.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/04/2c.png?lossy=2&strip=0&webp=1",
+     "alt": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 43,
+     "h": 38,
+     "inHeading": true
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Visit Cape Cod Cannabis"
+    },
+    {
+     "t": "rich",
+     "html": "<p>If you’re searching for a <strong>dispensary near me</strong> or a trusted <a href=\"/directions/\"><strong>dispensary in Wellfleet</strong></a>, stop by and speak with our team. We’re here to help you stay informed and find the right products for your needs — today and into the future.</p>"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "51a00be",
+   "doc": "wp-post#158668",
+   "blocks": [
+    {
+     "t": "button",
+     "label": "Buy Cannabis Seeds Now!",
+     "href": "/categories/seeds/"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": "af1a390",
+   "doc": "wp-post#158668",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/8b17d636-CCC_Logo_320px-2-300x248.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/12/CCC_Logo_320px-2-300x248.png?lossy=2&strip=0&webp=1",
+     "master": "assets/source/1c48453a-CCC_Logo_320px-2.png",
+     "alt": "Cape Cod Cannabis in Wellfleet, MA...Always worth the trip!",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 300,
+     "h": 248
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "id": "1103aab",
+   "doc": "wp-post#158668",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Always worth the trip!"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "id": "3f6689c",
+   "doc": "wp-post#158668",
+   "blocks": [
+    {
+     "t": "button",
+     "label": "Lifecycle of a Cannabis Seed",
+     "href": "/lifecycle-of-a-cannabis-seed/"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "id": "329af6c",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "postnav",
+     "prev": {
+      "srLabel": "Prev",
+      "title": "Cape Cod Choice Awards 2026 Voting Round Finalist",
+      "href": "/cape-cod-choice-awards-2026/"
+     },
+     "next": {
+      "title": "Cannabis Seeds vs Clones",
+      "srLabel": "Next",
+      "href": "/cannabis-seeds-vs-clones/"
+     },
+     "ariaLabels": [
+      "Post Navigation"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "id": "9ba89d6",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "comments",
+     "note": "WordPress comment form; no comment backend in a static rebuild"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "button": 2,
+  "comments": 1,
+  "heading": 22,
+  "image": 9,
+  "meta": 1,
+  "postnav": 1,
+  "rich": 20
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [],
+  "aliasesResolved": [
+   {
+    "from": "https://capecodcannabis.com/2026/05/28/",
+    "to": "/2026/05/28/"
+   },
+   {
+    "from": "/directions",
+    "to": "/directions/"
+   },
+   {
+    "from": "/categories/seeds",
+    "to": "/categories/seeds/"
+   },
+   {
+    "from": "https://capecodcannabis.com/lifecycle-of-a-cannabis-seed/",
+    "to": "/lifecycle-of-a-cannabis-seed/"
+   },
+   {
+    "from": "https://capecodcannabis.com/cape-cod-choice-awards-2026/",
+    "to": "/cape-cod-choice-awards-2026/"
+   },
+   {
+    "from": "https://capecodcannabis.com/cannabis-seeds-vs-clones/",
+    "to": "/cannabis-seeds-vs-clones/"
+   },
+   {
+    "from": "https://capecodcannabis.com/category/cannabis-news/",
+    "to": "/category/cannabis-news/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

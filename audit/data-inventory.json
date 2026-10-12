@@ -1,0 +1,3735 @@
+{
+  "schema": "site-reforge/data@1",
+  "generated": "2026-10-12T00:50:17.665Z",
+  "note": "Same-origin data files a shipped script fetches at RUNTIME. The markup references none of these, so no other stage can see them; a build without them renders a shell and passes parity, because parity compares two equally empty static documents. Served at their ORIGINAL path — the caller is a string literal this pipeline cannot rewrite.",
+  "discovered": [],
+  "saved": [],
+  "unresolved": [
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "index.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2021-11-07.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2021-11-14.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2021-11-21.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2021-11-25.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2021-11-28.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2021-12-05.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2021-12-12.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2021-12-19.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2021-12-26.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2022-01-02.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2022-01-09.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2022-01-23.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2022-01-30.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2023-07-26.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2023-11-20.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2023-12-01.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2024-01-31.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2024-02-12.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2024-04-08.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2024-08-15.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2024-08-16.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2024-09-24.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2024-10-01.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2024-10-16.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2024-12-20.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2025-03-14.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2025-05-01.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2025-05-07.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2025-06-03.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2025-06-17.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2025-06-24.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2025-07-15.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2025-08-02.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2025-08-28.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2025-09-01.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2025-10-23.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2025-11-04.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2025-11-14.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2025-12-16.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2026-02-06.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2026-04-05.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2026-05-19.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2026-05-20.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2026-05-28.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2026-05-29.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2026-06-01.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2026-06-09.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2026-06-19.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2026-07-01.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2026-07-13.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2026-07-22.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2026-07-29.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2026-08-17.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2026-09-04.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2026-09-14.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "2026-09-16.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "250-years-of-america-and-the-spirit-of-cape-cod.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "420-jersey.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "about-cape-cod-cannabis.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "affordable-ounces-cape-cod-cannabis.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "all-concentrates-on-sale.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "all-edibles-on-sale.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "all-flower-on-sale.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "all-pre-rolls-on-sale.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "all-tinctures-on-sale.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "all-vaporizers-bundles.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "an-introduction-to-cannabinoids.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "an-introduction-to-terpenes.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "anatomy-of-a-moonrock.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "best-cbd-store-on-cape-cod.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "beyond-bud-cape-cod-cannabis-and-our-exclusive-blue-tail-apparel-and-merch.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "boards-in-the-stores-2026-returns-to-cape-cod.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-14-counties.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-1906.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-603-glass.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-afg.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-aleaf-glass.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-alternative-compassion-services.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-aruna.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-atlas-seeds.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-attune.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-aura-cannabis-co.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-auto-seeds.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-barneys-farm.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-bear-quartz.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-best-budz.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-best-dirty-lemonade.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-bettys.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-blackstone-valley-cannabis.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-blazy-susan.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-blimburn.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-blimburn-seeds.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-blue-collar.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-bob-marley.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-boomstix.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-bostica.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-botanist.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-boundless-tech.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-bountiful-farms.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-boutiq.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-brothers-grimm-genetics.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-buzzy.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-cali-blaze.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-cali-blaze-2.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-camino.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-cannabispm.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-cape-cod-cannabis.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-cape-cod-cannabis-x-stashlogix.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-cape-cod-grow-lab.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-cape-heady-glass.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-cartisan.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-caseys-cannabis-crafts.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-cclassic.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-ch-x-sgb.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-charge-bar.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-chill-medicated.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-chill-medicated-product-506bc068-8921-48a3-ba3d-0b0385eebcd7.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-choice-chews.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-claravita.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-clear-as-a-bell.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-clear-gold.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-clipper.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-cms-gardens.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-coast-cannabis-co.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-coastal-healing.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-commuter.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-compound-genetics.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-constellations.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-cosmonaut.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-cresco.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-crispy-commission.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-crude-boys.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-cultivators-classic.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-dabcap.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-dabfx.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-dcc.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-dirty-bird-genetics.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-dna-genetics.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-dogg-lbs.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-doja-x-barneys-farm.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-dope-chemist.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-dorks.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-double-baked.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-drinkcq.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-e-z-wider.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-elements.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-elements-papers.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-elev8.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-eleven.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-empire-glassworks.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-eureka.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-exotic-genetix.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-eyce.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-farmers-cut.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-fast420.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-fastbuds.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-fathom-cannabis.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-fernway.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-fire-styxx.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-firecrackers.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-flight.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-float.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-floracal-farms.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-fog-cutter.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-formula-420.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-four20.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-g-pen.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-galileo.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-garcia-hand-picked.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-garden-society.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-get-a-grip-paracord-co.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-glass-house.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-glorious-cannabis-co.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-glorious-cannabis-co-product-664e0b921729290001e37293.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-good-chemistry-nurseries.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-good-feels.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-good-green.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-good-news.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-good-tide.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-grav.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-grav-labs.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-green-harbor.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-green-house-seed-co.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-hamilton-devices.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-hannahs-jewelry.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-happy-valley.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-hashables.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-havn.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-haze.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-headliners.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-health-circle.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-heat-serve.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-heights.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-hellavated.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-high-creek.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-high-flavor.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-high-supply.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-high-wired.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-hk-knives.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-honey.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-human-grade.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-humboldt-seed-company.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-impressed.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-incredibles.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-inhouse-genetics.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-jeeter.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-joy-bombs-by-joyibles.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-juicy.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-kanha.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-khalifa.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-kiva.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-kosmik-brands.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-kynd.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-large.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-later-days.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-levia.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-lit-farms.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-lookah.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-lost-farm.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-luvbuds.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-m1.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-mass-alternative-care.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-medium.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-mega-labs.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-mephisto-genetics.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-mindys-edibles.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-mj-arsenal.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-mk.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-mosca-seeds.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-mrs-claws-maine.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-muse.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-muze.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-my-bud-vase.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-n9.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-natural-selections.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-nea.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-nectar.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-neon.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-nordic-goddess.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-north-atlantic-seed-co.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-northeast-alternatives.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-northern-grown.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-nostalgia.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-nwtn-home.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-offbrand.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-old-pal.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-one-size.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-ooze.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-paw20.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-pax.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-phoenix-rising.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-pine-star.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-pioneer-valley.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-puffco.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-pulsar.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-rave.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-raw.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-realm.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-remedi.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-replay.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-resinate.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-resinate-product-645d043315186400019f4f97.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-ritual.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-ritualz.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-rokin.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-root-bloom.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-royal-queen-seeds.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-rythm.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-sackville-co.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-sapura.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-scorch.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-seshgear.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-shine.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-simpler-daze.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-sin-city-gardens.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-sireel.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-skinny-bone.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-skyhigh.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-sluggers.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-small.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-smokiez-edibles.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-smyle-labs.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-sparq.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-sparq-x-cape-cod-cannabis.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-stache.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-standard-farms.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-stingers.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-stix-preroll-co.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-stoned-puppy.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-strane.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-strawberryhill-farm.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-suncrafted.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-superflux.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-sweetgrass-botanicals.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-sweetspot.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-tastebudz.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-the-botanist.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-the-fix.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-the-healing-rose.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-toker-poker.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-trees-co.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-treeworks.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-trifecta-farms.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-trip.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-truweigh.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-tumble-toke.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-twenty20.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-twisted-growers.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-valorem.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-wakit.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-walking-stix.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-wana.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-wavez.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-whip-it.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-white-rhino.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-windy-village.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-wonder-wellness-co.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-wyld.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-xl.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-xxl.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-yocan.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-zig-zag.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-zig-zag-2.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "brands-zzzonked.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "can-i-overdose-on-cannabis.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "cannabinoids.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "cannabinoids-cbc-cannabichromene.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "cannabinoids-cbca-cannabichromenenic-acid.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "cannabinoids-cbcv-cannabichromevarin.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "cannabinoids-cbd-cannabidiol.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "cannabinoids-cbda-cannabidiolic-acid.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "cannabinoids-cbdv-cannabidivarin.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "cannabinoids-cbdva-cannabidivarinic-acid.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "cannabinoids-cbg-cannabigerol.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "cannabinoids-cbga-cannabigerolic-acid.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "cannabinoids-cbl-cannabicyclol.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "cannabinoids-cbla-cannabicyclolic-acid.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "cannabinoids-cbn-cannabinol.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "cannabinoids-cbna-cannabinolic-acid.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "cannabinoids-cbt-cannabicitranis.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "cannabinoids-page-2.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "cannabinoids-tac-total-active-cannabinoids.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "cannabinoids-thc-d8-delta-8-tetrahydrocannabinol.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "cannabinoids-thc-d9-delta-9-tetrahydrocannabinol.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "cannabinoids-thca-ce-b49-tetrahydrocannabinolic-acid.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "cannabinoids-thcv-tetrahydrocannabivarin.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "cannabinoids-thcva-tetrahydrocanabivarinic-acid.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "cannabis-101.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "cannabis-101-the-beginners-guide.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "cannabis-accessories-im-thankful-for.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "cannabis-chronicles-insights-into-premium-products.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "cannabis-control-commission-testing-regulations-update.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "cannabis-glossary-101.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "cannabis-infused-summer-drink-recipes-2025.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "cannabis-seeds-vs-clones.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "cape-cod-cannabis-in-wellfleet-a-local-dispensary-focused-on-education-selection-and-community.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "cape-cod-choice-awards-2026.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "cape-cod-summer-guide-2025-cape-cod-cannabis.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-CBD.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-Seeds.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-accessories.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-accessories-batteries-devices.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-accessories-cleaning-solutions.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-accessories-dab-tools.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-accessories-glassware.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-accessories-grinders.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-accessories-lighters.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-accessories-papers-rolling-supplies.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-accessories-storage-containers-2.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-accessories-trays.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-cbd.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-concentrates.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-concentrates-applicators-2.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-concentrates-badder.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-concentrates-budder.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-concentrates-diamonds-2.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-concentrates-isolate.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-concentrates-kief.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-concentrates-live-resin.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-concentrates-live-rosin.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-concentrates-shatter-2.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-concentrates-sugar-2.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-concentrates-wax.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-edibles.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-edibles-capsules-tablets.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-edibles-chews.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-edibles-chocolates.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-edibles-drinks.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-edibles-gummies.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-edibles-live-resin-gummies.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-edibles-live-rosin-gummies.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-flower.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-flower-infused-bud-2.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-flower-infused-buds.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-flower-pre-ground.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-flower-premium.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-flower-shake-trim.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-flower-smalls-popcorn.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-flower-whole-flower.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-merch.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-pre-rolls.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-pre-rolls-infused-pre-roll-packs-2.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-pre-rolls-packs.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-pre-rolls-single-infused-pre-roll-3.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-pre-rolls-singles.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-seeds.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-tinctures.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-tinctures-flavored.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-tinctures-herbal.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-tinctures-product-4e1668e1-339b-4ac9-bdc3-94cd76de3749.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-tinctures-product-98bcef64-8732-4bac-9e6e-a84f98842852.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-topicals.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-topicals-balms.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-topicals-lotions.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-topicals-sticks-roll-ons.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-vaporizers.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-vaporizers-cartridges.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-vaporizers-cured-resin-cartidge-4.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-vaporizers-disposables.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-vaporizers-liquid-diamond-cartridges.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-vaporizers-liquid-diamond-disposables.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-vaporizers-live-resin-cartidge-2.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-vaporizers-live-rosin-cartidge.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "categories-vaporizers-live-rosin-disposable.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "category-cannabis-101.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "category-cannabis-news.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "category-cape-cod-lifestyle.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "category-inside-cape-cod-cannabis.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "category-start-here.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "ccc-landing-2.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "celebrate-420-at-cape-cod-cannabis.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "checkout.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "choosing-your-vape-cart.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "contact-cape-cod-cannabis.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "customer-reviews.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "dab-vocab-101.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "daily-purchase-limit-in-ma.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "directions.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "disclaimer.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "dispensary-near-me-in-hyannis-02601.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "dispensary-near-me-in-wellfleet-02667.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "dispensary-near-provincetown.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "dosage.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "dry-herb-why-make-the-switch.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "effects.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "effects-calm.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "effects-clear-mind.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "effects-creative.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "effects-energetic.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "effects-focused.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "effects-happy.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "effects-inspired.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "effects-relaxed.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "effects-sleepy.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "effects-uplifted.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "embracing-the-end-of-summer-on-cape-cod.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "end-of-summer-on-cape-cod-2026.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-bertha-is-back-pop-up.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-blackstone-valley-cannabis-pop-up-event.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-blackstone-valley-cannabis-pop-up-event-2.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-blackstone-valley-cannabis-pop-up-on-4-20.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-boards-in-the-stores-2026.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-boutiq-pop-up.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-boutiq-pop-up-event.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-boutiq-spooky-pop-up-event.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-cali-blaze-pop-up-event.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-cann-pop-up-2.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-chill-medicated-pop-up.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-cna-pop-up-event.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-coast-cannabis-co-pop-up-2.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-coast-cannabis-co-pop-up-3.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-coast-cannabis-co-pop-up-event.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-coast-cannabis-pop-up-event.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-eureka-vapor-pop-up-event.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-eureka-vapor-pop-up-event-2.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-fog-cutter-pop-up.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-fog-cutter-pop-up-2.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-garcia-hand-picked-pop-up-2.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-good-feels-good-vibes-pop-up.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-hashables-rezzy-zzzonked-pop-up.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-havn-stingers-pop-up-event.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-hellavated-baja-blastoff-pop-up.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-jeeter-hook-up-pop-up.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-jeeter-hookup-day-event.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-komik-classic-cultivators-and-uncut-pop-up.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-kosmik-cultivators-classic-and-uncut-pop-up.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-kosmik-cultivators-classic-and-uncut-pop-up-2.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-kosmik-cultivators-classic-and-uncut-pop-up-3.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-kosmik-cultivators-classic-pop-up.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-levia-pop-up.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-natures-heritage-pop-up.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-northeast-alternatives-pop-up.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-northeast-alternatives-pop-up-2.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-northern-grown-fog-cutter-pop-up-event.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-northern-grown-fog-cutter-pop-up-event-2.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-outer-cape-music-festival-2026.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-perpetual-harvest-pop-up.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-sluggers-hit-pop-up-event.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-sparq-pop-up.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-spring-in-to-4-20-celebration.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-stingers-pop-up-event.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-stingers-pop-up-event-2.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-strane-garcia-hand-picked-hellavated-do-drops-pop-up.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-strane-garcia-hand-picked-hellavated-do-drops-pop-up-event.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-strane-garcia-hellavated-do-drops-pop-up.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-strane-pop-up.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-strane-pop-up-event.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-treeworks-pop-up.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-treeworks-pop-up-2.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-treeworks-pop-up-3.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-u4ea-farms-pop-up.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-vangarden-pop-up.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-wana-pop-up-2.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-wana-pop-up-3.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-wana-pop-up-4.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-wana-pop-up-event.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "event-wyld-pop-up.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "events-calendar.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "exploring-wellfleet-ma-cape-cod.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "faqs-420.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "featured-brand.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "fire-offers-2.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "free-bar-coasters.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "free-rack-cards.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "green-wednesday-2025-your-guide-to-cannabis-deals-holiday-vibes.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "high-anxiety.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "holiday-cannabis-infused-drink-recipes.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "how-to-accurately-measure-tincture-oils.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "intro-to-cannabis-101.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "join-our-loyalty-vip-program-today.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "join-our-newsletter.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "join-our-team-cape-cod-cannabis.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "labor-day-weekend-on-cape-cod-2026.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "learn-about-cannabis.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "leave-your-review.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "lifecycle-of-a-cannabis-seed.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "links.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "loyalty-sign-in.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "loyalty-sign-up.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "massachusetts-cannabis-purchase-limit.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "massachusetts-cannabis-repeal-2026.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "massachusetts-medical-marijuana-card-pros-and-cons.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "menu.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "moodi-day-review-portal.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "my-favorite-cannabis-products-for-sleeping-in-massachusetts.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "my-orders.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "my-points.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "new-products.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "our-blog.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "outer-cape-music-festival-2026.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "privacy-policy.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "products.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "receive-web-ios-push-notifications.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-benefits-of-using-cannabis.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-dispensary-near-bourne-02532.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-dispensary-near-chatham-02633.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-dispensary-near-eastham-02642.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-dispensary-near-falmouth.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-dispensary-near-me-in-barnstable.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-dispensary-near-me-in-brewster.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-dispensary-near-me-in-dennis.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-dispensary-near-me-in-harwich.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-dispensary-near-me-in-mashpee.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-dispensary-near-me-in-orleans.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-dispensary-near-me-in-yarmouth.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-dispensary-near-sandwich.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-dispensary-near-truro.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-page-2.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-page-3.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-page-4.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-page-5.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-cannabis-dispensary-near-west-harwich-ma-02671.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-barnstable-ma-02630.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-brant-rock-ma-02020.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-brewster-ma-02631.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-buzzards-bay-ma-02532.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-buzzards-bay-ma-02542.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-centerville-ma-02632.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-centerville-ma-02634.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-chatham-ma-02633.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-cotuit-ma-02635.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-cummaquid-ma-02637.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-dennis-ma-02638.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-dennis-port-ma-02639.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-duxbury-ma-02331.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-duxbury-ma-02332.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-east-dennis-ma-02641.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-east-orleans-ma-02643.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-east-sandwich-ma-02537.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-east-wareham-ma-02538.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-eastham-ma-02642.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-forestdale-ma-02644.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-harwich-ma-02645.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-harwich-port-ma-02646.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-hyannis-ma-02601.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-hyannis-port-ma-02647.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-manomet-ma-02345.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-marstons-mills-ma-02648.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-mashpee-ma-02649.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-monument-beach-ma-02553.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-north-chatham-ma-02650.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-north-eastham-ma-02651.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-north-truro-ma-02652.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-orleans-ma-02653.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-osterville-ma-02655.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-plymouth-ma-02360.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-plymouth-ma-02361.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-plymouth-ma-02362.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-provincetown-ma-02657.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-sagamore-beach-ma-02562.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-sagamore-ma-02561.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-sandwich-ma-02563.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-south-chatham-ma-02659.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-south-dennis-ma-02660.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-south-harwich-ma-02661.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-south-orleans-ma-02662.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-south-wellfleet-ma-02663.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-south-yarmouth-ma-02664.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-truro-ma-02666.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-wellfleet-ma-02667.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-west-barnstable-ma-02668.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-west-chatham-ma-02669.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-west-dennis-ma-02670.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-west-hyannisport-ma-02672.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-west-yarmouth-ma-02673.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-white-horse-beach-ma-02381.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "recreational-recreational-marijuana-dispensary-near-yarmouth-port-ma-02675.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "return-policy.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "shop-high-testing-flower.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "shop-your-loyalty-points.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "sitemap.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "sleep-products.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "specials.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "specials-affordable-ounces-1-2-ounces.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "specials-cartridges-crude-boys-hellavated-2-for-36.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "specials-chill-medicated-500mg-syrups-2-for-65.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "specials-cultivators-classic-1g-concentrates-5-for-90-10-for-160.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "specials-disposables-1g-2g-2-for-10-off-4-for-20-off.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "specials-eureka-1g-disposables-2-for-40.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "specials-glorious-3-5g-moonrocks-2-for-70-5-for-160.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "specials-gummies-zzzonked-2-for-35.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "specials-happy-valley-pre-roll-7pks-2-for-75.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "specials-infused-pre-roll-5pk-jeeter-2-for-95-4-for-180-6-for-255-10-for-380.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "specials-infused-pre-rolls-2-for-20.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "specials-kiva-chocolate-bars-2-for-32-50.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "specials-mindys-gummies-8-for-100.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "specials-mix-n-match-concentrates.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "specials-premium-3-5g-flower-2-for-10-off-4-for-15-off-8-for-20-off.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "specials-wana-gummies-2-for-55.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "specials-wavez-1g-infused-pre-rolls-10-for-75-20-for-135-30-for-180.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "staff-picks.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "stepping-into-a-dispensary-for-the-first-time.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "stores.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "stores-cape-cod-cannabis-dispensary-in-wellfleet.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "strains.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "strains-high-cbd.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "strains-high-cbd-strain-high-cbd.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "strains-hybrid.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "strains-indica.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "strains-sativa.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "summer-2025-kick-off-4th-of-july-at-cape-cod-cannabis.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terms-of-use.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpene-cannabinoid-guide.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-ce-b1-phellandrene.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-ce-b1-pinene.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-ce-b1-terpinene.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-ce-b2-ocimene.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-ce-b2-pinene.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-alpha-bisabolol.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-alpha-pinene.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-beta-caryophyllene.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-beta-caryophyllene-oxide.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-beta-myrcene.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-beta-pinene.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-bisabolol-2.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-borneol.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-camphene-2.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-camphor.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-carene.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-caryophyllene.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-caryophyllene-oxide.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-cedrene.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-citral.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-citronellol.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-cymene.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-eucalyptol.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-farnesene.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-fenchol.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-geraniol.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-geranyl-acetate.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-guaiol.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-humulene.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-isoborneol.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-isopulegol.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-limonene.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-linalool.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-menthol.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-myrcene.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-nerol.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-nerolidol.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-nerolidol-2.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-ocimene.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-p-cymene.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-para-cymene.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-phellandrene.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-pinene.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-pulegone.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-sabinene.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-terpinene.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-terpineol.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-terpinolene.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-total-terpenes.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-trans-caryophyllene.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-trans-nerolidol.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "terpenes-valencene.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "the-ancient-origins-of-halloween-toke-or-treat.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "the-best-holiday-cannabis-gifts-on-cape-cod.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "the-ins-and-outs-of-vaping.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "the-myth-of-high-thc-potency.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "the-perks-of-a-dry-herb-vaporizer.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "the-ultimate-dabbing-temperature-guide.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "the-unofficial-kick-off-of-the-season-on-cape-cod-memorial-day-weekend.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "things-to-do-near-cape-cod-cannabis-in-wellfleet-ma.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "tips-for-those-who-want-to-like-cannabis-but-just-cant.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "top-sellers.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "understanding-cannabis-concentrates-types-and-uses.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "understanding-the-daily-purchase-limit-for-recreational-cannabis-products-in-massachusetts.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "upcoming-2026-cannabis-seed-law-what-it-means.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "valentines-day-cannabis-gifts.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "warning-cartridge-disposable-vape-consumers.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "what-are-dabs.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "what-is-710-dab-day.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "what-is-a-cannabis-moonrock.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "what-is-cbd-a-beginners-guide.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "what-is-green-wednesday.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "what-is-live-rosin.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "what-is-the-difference-between-fso-full-spectrum-oil-versus-rso-rick-simpson-oil.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "which-route-of-administration-is-best-for-me.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "why-is-the-ma-cannabis-purchase-limit-so-different-for-thc-edibles-versus-thc-tintures.html",
+      "write": true
+    },
+    {
+      "literal": "/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "via": "why-you-should-consider-incorporating-rso-into-your-cannabis-diet.html",
+      "write": true
+    }
+  ],
+  "unresolvedNote": "An interpolated or cross-origin runtime endpoint. Not fetched: an interpolated path is a SERVER and a static clone has no server, and a cross-origin one belongs to somebody else. Both are reported so the build states what it cannot serve."
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "site-reforge/scripts@1",
+  "generated": "2026-10-12T00:50:17.273Z",
+  "note": "Same-origin <script src> only. A third-party script is an outbound dependency of the site, not an asset of it; vendoring one would change what the page does.",
+  "discovered": [
+    "https://capecodcannabis.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+    "https://capecodcannabis.com/wp-content/plugins/jet-search/assets/lib/chosen/chosen.jquery.min.js?ver=1.8.7"
+  ],
+  "saved": [],
+  "map": {}
+}

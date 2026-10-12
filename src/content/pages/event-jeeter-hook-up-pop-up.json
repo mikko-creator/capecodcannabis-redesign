@@ -1,0 +1,944 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/event/jeeter-hook-up-pop-up/",
+ "sourceUrl": "https://capecodcannabis.com/event/jeeter-hook-up-pop-up/",
+ "requestedUrl": "https://capecodcannabis.com/event/jeeter-hook-up-pop-up",
+ "slug": "event-jeeter-hook-up-pop-up",
+ "kind": "event",
+ "wpTemplate": "event",
+ "derived": false,
+ "rawFile": "audit/raw/event-jeeter-hook-up-pop-up.html",
+ "rawSha256": "3b9dec017fa1652b5df1cb0095c06acc0b1e3f6e60d53eac4e1d0bad0f545b08",
+ "regionKind": "body-minus-chrome",
+ "title": "Jeeter Hook-Up Pop-Up | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+ "metaDescription": "Join the event in Wellfleet this Thursday, August 13, 2026, from 4:00 PM to 6:00 PM for a brand pop-up with Jeeter. Meet brand representatives to learn about",
+ "canonical": "https://capecodcannabis.com/event/jeeter-hook-up-pop-up/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "Jeeter Hook-Up Pop-Up | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "Join the event in Wellfleet this Thursday, August 13, 2026, from 4:00 PM to 6:00 PM for a brand pop-up with Jeeter. Meet brand representatives to learn about",
+  "url": "https://capecodcannabis.com/event/jeeter-hook-up-pop-up/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2026-08-11T09:33:00-04:00"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438",
+  "tag": [
+   "cannabis dispensary in Wellfleet",
+   "cape cod cannabis",
+   "cartridges",
+   "dispensary near me",
+   "infused pre-rolls",
+   "jeeter",
+   "pop-up",
+   "pop-up event",
+   "va",
+   "vapes",
+   "vaporizers"
+  ]
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "Jeeter Hook-Up Pop-Up | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "Join the event in Wellfleet this Thursday, August 13, 2026, from 4:00 PM to 6:00 PM for a brand pop-up with Jeeter. Meet brand representatives to learn about",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/event/jeeter-hook-up-pop-up/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/events-calendar/",
+        "name": "Events"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "3",
+       "item": {
+        "@id": "https://capecodcannabis.com/event/jeeter-hook-up-pop-up/",
+        "name": "Jeeter Hook-Up Pop-Up"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  },
+  [
+   {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "Jeeter Hook-Up Pop-Up",
+    "description": "&lt;p&gt;Jeeter Pop-Up at Cape Cod Cannabis! Join the event in Wellfleet this Thursday, August 13, 2026, from 4:00 PM to 6:00 PM for a brand pop-up with Jeeter. Meet brand [&hellip;]&lt;/p&gt;\\n",
+    "image": "https://capecodcannabis.com/wp-content/uploads/2024/08/Jeeter_black_web_20px.png",
+    "url": "https://capecodcannabis.com/event/jeeter-hook-up-pop-up/",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "startDate": "2026-08-13T16:00:00-04:00",
+    "endDate": "2026-08-13T18:00:00-04:00",
+    "location": {
+     "@type": "Place",
+     "name": "Cape Cod Cannabis",
+     "description": "",
+     "url": "",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressLocality": "Wellfleet",
+      "addressRegion": "MA",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "telephone": "774-383-3133",
+     "sameAs": "https://www.capecodcannabis.com"
+    },
+    "performer": "Organization"
+   }
+  ]
+ ],
+ "h1": "Jeeter Hook-Up Pop-Up",
+ "h1Source": {
+  "count": 1,
+  "visible": 1,
+  "hidden": 0
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Events",
+   "href": "/events-calendar/"
+  },
+  {
+   "label": "Jeeter Hook-Up Pop-Up",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "jsonld",
+ "section": null,
+ "sections": [
+  {
+   "n": 0,
+   "id": "4d8f4efa",
+   "doc": "tec_event_single_dynamic#92071",
+   "blocks": [
+    {
+     "t": "event-field",
+     "field": "calendar_link",
+     "text": "« All Events",
+     "links": [
+      {
+       "label": "« All Events",
+       "href": "/events-calendar/"
+      }
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "status",
+     "text": "This event has passed."
+    },
+    {
+     "t": "event-field",
+     "field": "title",
+     "text": "Jeeter Hook-Up Pop-Up",
+     "level": 1
+    },
+    {
+     "t": "event-field",
+     "field": "datetime",
+     "text": "August 13, 2026\n@ 4:00 pm\n- 6:00 pm"
+    },
+    {
+     "t": "image",
+     "ref": "assets/source/ad74c027-Jeeter_black_web_20px.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2024/08/Jeeter_black_web_20px.png?lossy=2&strip=0&webp=1",
+     "alt": "Jeeter",
+     "w": 200,
+     "h": 88,
+     "kind": "event-image"
+    },
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "Jeeter Pop-Up at Cape Cod Cannabis!"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Join the event in Wellfleet this Thursday, August 13, 2026, from 4:00 PM to 6:00 PM for a brand pop-up with Jeeter. Meet brand representatives to learn about their products, including their pre-rolls and vape cartridges, and access brand-specific merchandise. Whether interested in the brand’s history or looking for information on their current offerings, this session provides an opportunity to engage with brand experts.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "Visit Cape Cod Cannabis at 1446 State Hwy Route 6 this Thursday to learn more about Jeeter."
+    },
+    {
+     "t": "rich",
+     "html": "<p><img alt=\"Pink Lemon | Infused image 0\" width=\"236\" height=\"236\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://images.dutchie.com/2bd9ba3764291ae357dbcbc68fc8551b\" data-missing=\"not-inventoried\"> <img alt=\"Double Rainbow | Liquid Diamond image 0\" width=\"238\" height=\"238\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://images.dutchie.com/12386c41bf05c57069f50f0d3029b27f\" data-missing=\"not-inventoried\"> <img alt=\"Blue Dream | Liquid Diamond | Disposable image 0\" width=\"239\" height=\"239\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://images.dutchie.com/be3f6113efd94ba2ca929687f11fd01c\" data-missing=\"not-inventoried\"> <img alt=\"Mimosa | Infused | 5pk | 0.5g image 0\" width=\"239\" height=\"239\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://images.dutchie.com/71c0e30ba5c02f8c098e9881e3ef1a3d\" data-missing=\"not-inventoried\"></p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p><a href=\"/brands/jeeter/\"><img src=\"assets/source/d151dbdc-Shop-Now-Button-200px.png\" alt=\"Shop Now at Cape Cod Cannabis in Wellfleet, MA\" width=\"200\" height=\"69\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/04/Shop-Now-Button-200px.png?lossy=2&amp;strip=0&amp;webp=1\"></a></p>"
+    },
+    {
+     "t": "event-field",
+     "field": "venue",
+     "text": "Cape Cod Cannabis\n1446 US-6\nWellfleet,MA02667United States\n+ Google Map\n774-383-3133\nView Venue Website",
+     "links": [
+      {
+       "label": "+ Google Map",
+       "href": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=1446+US-6+Wellfleet+MA+02667+United+States"
+      },
+      {
+       "label": "774-383-3133",
+       "href": "tel:774-383-3133"
+      },
+      {
+       "label": "View Venue Website",
+       "href": "/"
+      }
+     ],
+     "ariaLabels": [
+      "Venue location map"
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "categories",
+     "text": "Categories:\nPop-Ups",
+     "links": [
+      {
+       "label": "Pop-Ups",
+       "href": "/events-calendar/category/pop-ups/"
+      }
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "tags",
+     "text": "Tags:\ncannabis dispensary in Wellfleet,\ncape cod cannabis,\ncartridges,\ndispensary near me,\ninfused pre-rolls,\njeeter,\npop-up,\npop-up event,\nva,\nvapes,\nvaporizers",
+     "links": [
+      {
+       "label": "cannabis dispensary in Wellfleet",
+       "href": "/tag/cannabis-dispensary-in-wellfleet/"
+      },
+      {
+       "label": "cape cod cannabis",
+       "href": "/tag/cape-cod-cannabis/"
+      },
+      {
+       "label": "cartridges",
+       "href": "/tag/cartridges/"
+      },
+      {
+       "label": "dispensary near me",
+       "href": "/tag/dispensary-near-me/"
+      },
+      {
+       "label": "infused pre-rolls",
+       "href": "/tag/infused-pre-rolls/"
+      },
+      {
+       "label": "jeeter",
+       "href": "/tag/jeeter/"
+      },
+      {
+       "label": "pop-up",
+       "href": "/tag/pop-up/"
+      },
+      {
+       "label": "pop-up event",
+       "href": "/tag/pop-up-event/"
+      },
+      {
+       "label": "va",
+       "href": "/tag/va/"
+      },
+      {
+       "label": "vapes",
+       "href": "/tag/vapes/"
+      },
+      {
+       "label": "vaporizers",
+       "href": "/tag/vaporizers/"
+      }
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "export",
+     "text": "Add to calendar\nGoogle Calendar\niCalendar\nOutlook 365\nOutlook Live",
+     "links": [
+      {
+       "label": "Google Calendar",
+       "href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20260813T160000/20260813T180000&text=Jeeter%20Hook-Up%20Pop-Up&details=%3Ch4%3E%3Cstrong+class%3D%22rQesXe+MPyX%22+data-sfc-cp%3D%22%22+data-sfc-root%3D%22ep%22+data-complete%3D%22true%22+data-processed%3D%22true%22+data-copy-service-computed-style%3D%22font-family%3A+%26quot%3BGoogle+Sans%26quot%3B%2C+Roboto%2C+Arial%2C+sans-serif%3B+font-size%3A+16px%3B+font-weight%3A+700%3B+margin%3A+0px%3B+text-decoration%3A+none%3B+border-bottom%3A+0px+rgb%2810%2C+10%2C+10%29%3B%22%3E%3Cspan+class%3D%22iNqyIf%22+data-sfc-cp%3D%22%22+data-sfc-root%3D%22ep%22+data-complete%3D%22true%22+data-processed%3D%22true%22+data-copy-service-computed-style%3D%22font-family%3A+%26quot%3BGoogle+Sans%26quot%3B%2C+Roboto%2C+Arial%2C+sans-serif%3B+font-size%3A+16px%3B+font-weight%3A+700%3B+margin%3A+0px%3B+text-decoration%3A+none%3B+border-bottom%3A+0px+rgb%2810%2C+10%2C+10%29%3B%22%3E%3Cspan+data-sfc-cp%3D%22%22+data-sfc-root%3D%22ep%22+data-complete%3D%22true%22+data-processed%3D%22true%22+data-copy-service-computed-style%3D%22font-family%3A+%26quot%3BGoogle+Sans%26quot%3B%2C+Roboto%2C+Arial%2C+sans-serif%3B+font-size%3A+16px%3B+font-weight%3A+700%3B+margin%3A+0px%3B+text-decoration%3A+none%3B+border-bottom%3A+0px+rgb%2810%2C+10%2C+10%29%3B%22%3E%3Cspan+class%3D%22%22+data-sfc-cp%3D%22%22+data-sfc-root%3D%22c%22+data-ved%3D%222ahUKEwj5mpfO1JiWAxVOKFkFHT%3C%2Fspan%3E%3C%2Fspan%3E%3C%2Fstrong%3E%3C%2Fh4%3E+%28View+Full+event+Description+Here%3A+https%3A%2F%2Fcapecodcannabis.com%2Fevent%2Fjeeter-hook-up-pop-up%2F%29&location=Cape%20Cod%20Cannabis,%201446%20US-6,%20Wellfleet,%20MA,%2002667,%20United%20States&trp=false&ctz=America/New_York&sprop=website:https://capecodcannabis.com"
+      },
+      {
+       "label": "iCalendar",
+       "href": "/event/jeeter-hook-up-pop-up/?ical=1"
+      },
+      {
+       "label": "Outlook 365",
+       "href": "https://outlook.office.com/owa/?path=/calendar/action/compose&rrv=addevent&startdt=2026-08-13T16%3A00%3A00-04%3A00&enddt=2026-08-13T18%3A00%3A00-04%3A00&location=Cape%20Cod%20Cannabis,%201446%20US-6,%20Wellfleet,%20MA,%2002667,%20United%20States&subject=Jeeter%20Hook-Up%20Pop-Up&body=Jeeter%20Pop-Up%20at%20Cape%20Cod%20Cannabis%21Join%20the%20event%20in%20Wellfleet%20this%20Thursday%2C%20August%2013%2C%202026%2C%20from%204%3A00%20PM%20to%206%3A00%20PM%20for%20a%20brand%20pop-up%20with%20Jeeter.%20Meet%20brand%20representatives%20to%20learn%20about%20their%20products%2C%20including%20their%20pre-rolls%20and%20vape%20cartridges%2C%20and%20access%20brand-specific%20merchandise.%20Whether%20interested%20in%20the%20brand%27s%20history%20or%20looking%20for%20information%20on%20their%20current%20offerings%2C%20this%20session%20provides%20an%20opportunity%20to%20engage%20with%20brand%20experts.%26nbsp%3BVisit%20Cape%20Cod%20Cannabis%20at%201446%20State%20Hwy%20Route%206%20this%20Thursday%20to%20learn%20more%20about%20Jeeter.%26nbsp%3B%26nbsp%3B%3Cp%20style%3D%22text-align%3A%20left%3B%22%3E%C2%A0%20%C2%A0%20%C2%A0%20%3C%2Fp%3E%26nbsp%3B%3Cp%20style%3D%22text-align%3A%20center%3B%22%3E%3C%2Fp%3E%26nbsp%3B%26nbsp%3B%26nbsp%3B"
+      },
+      {
+       "label": "Outlook Live",
+       "href": "https://outlook.live.com/owa/?path=/calendar/action/compose&rrv=addevent&startdt=2026-08-13T16%3A00%3A00-04%3A00&enddt=2026-08-13T18%3A00%3A00-04%3A00&location=Cape%20Cod%20Cannabis,%201446%20US-6,%20Wellfleet,%20MA,%2002667,%20United%20States&subject=Jeeter%20Hook-Up%20Pop-Up&body=Jeeter%20Pop-Up%20at%20Cape%20Cod%20Cannabis%21Join%20the%20event%20in%20Wellfleet%20this%20Thursday%2C%20August%2013%2C%202026%2C%20from%204%3A00%20PM%20to%206%3A00%20PM%20for%20a%20brand%20pop-up%20with%20Jeeter.%20Meet%20brand%20representatives%20to%20learn%20about%20their%20products%2C%20including%20their%20pre-rolls%20and%20vape%20cartridges%2C%20and%20access%20brand-specific%20merchandise.%20Whether%20interested%20in%20the%20brand%27s%20history%20or%20looking%20for%20information%20on%20their%20current%20offerings%2C%20this%20session%20provides%20an%20opportunity%20to%20engage%20with%20brand%20experts.%26nbsp%3BVisit%20Cape%20Cod%20Cannabis%20at%201446%20State%20Hwy%20Route%206%20this%20Thursday%20to%20learn%20more%20about%20Jeeter.%26nbsp%3B%26nbsp%3B%3Cp%20style%3D%22text-align%3A%20left%3B%22%3E%C2%A0%20%C2%A0%20%C2%A0%20%3C%2Fp%3E%26nbsp%3B%3Cp%20style%3D%22text-align%3A%20center%3B%22%3E%3C%2Fp%3E%26nbsp%3B%26nbsp%3B%26nbsp%3B"
+      }
+     ],
+     "ariaLabels": [
+      "View links to add events to your calendar"
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "navigation",
+     "text": "Wana Pop-Up\nGarcia Hand Picked Pop-Up",
+     "links": [
+      {
+       "label": "Wana Pop-Up",
+       "href": "/event/wana-pop-up-4/"
+      },
+      {
+       "label": "Garcia Hand Picked Pop-Up",
+       "href": "/event/garcia-hand-picked-pop-up-2/"
+      }
+     ],
+     "ariaLabels": [
+      "Events"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "a7bb484",
+   "doc": "tec_event_single_dynamic#92071",
+   "hiddenAll": true,
+   "dev": [],
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/ad74c027-Jeeter_black_web_20px.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2024/08/Jeeter_black_web_20px.png?lossy=2&strip=0&webp=1",
+     "alt": "Jeeter",
+     "w": 200,
+     "h": 88,
+     "kind": "event-image",
+     "dev": [],
+     "hiddenAll": true
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "c7b579f",
+   "doc": "tec_event_single_dynamic#92071",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/c0c34846-CCC_Logo_650px-geo-tag-r9v1ohpw5zerbd7bkhgpgccbma2ezjddi6xfhghm0u.jpg",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/elementor/thumbs/CCC_Logo_650px-geo-tag-r9v1ohpw5zerbd7bkhgpgccbma2ezjddi6xfhghm0u.jpg?lossy=2&strip=0&webp=1",
+     "alt": "Cape Cod Cannabis Recreational Dispensary near me in Wellfleet, MA ... it's worth the trip!",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary near me in Wellfleet, MA … it’s worth the trip!"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": null,
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong><em>Cape Cod Cannabis…always worth the trip!</em></strong></p>"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "event-field": 9,
+  "heading": 2,
+  "image": 3,
+  "rich": 4
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "tec-loading-spinner",
+    "text": "Loading Events",
+    "reason": "The Events Calendar AJAX loading spinner (plugin runtime UI, origin wp-content gif); declared in removals.json"
+   },
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [],
+  "aliasesResolved": [
+   {
+    "from": "https://capecodcannabis.com/events-calendar/",
+    "to": "/events-calendar/"
+   },
+   {
+    "from": "/brands/jeeter",
+    "to": "/brands/jeeter/"
+   },
+   {
+    "from": "https://capecodcannabis.com/event/jeeter-hook-up-pop-up/?ical=1",
+    "to": "/event/jeeter-hook-up-pop-up/?ical=1"
+   },
+   {
+    "from": "https://capecodcannabis.com/event/wana-pop-up-4/",
+    "to": "/event/wana-pop-up-4/"
+   },
+   {
+    "from": "https://capecodcannabis.com/event/garcia-hand-picked-pop-up-2/",
+    "to": "/event/garcia-hand-picked-pop-up-2/"
+   }
+  ],
+  "imagesMissing": [
+   {
+    "srcUrl": "https://images.dutchie.com/2bd9ba3764291ae357dbcbc68fc8551b",
+    "missing": "not-inventoried"
+   },
+   {
+    "srcUrl": "https://images.dutchie.com/12386c41bf05c57069f50f0d3029b27f",
+    "missing": "not-inventoried"
+   },
+   {
+    "srcUrl": "https://images.dutchie.com/be3f6113efd94ba2ca929687f11fd01c",
+    "missing": "not-inventoried"
+   },
+   {
+    "srcUrl": "https://images.dutchie.com/71c0e30ba5c02f8c098e9881e3ef1a3d",
+    "missing": "not-inventoried"
+   }
+  ],
+  "h1InRich": 0
+ }
+}

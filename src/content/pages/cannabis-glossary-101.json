@@ -1,0 +1,1861 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/cannabis-glossary-101/",
+ "sourceUrl": "https://capecodcannabis.com/cannabis-glossary-101/",
+ "requestedUrl": "https://capecodcannabis.com/cannabis-glossary-101",
+ "slug": "cannabis-glossary-101",
+ "kind": "blog-post",
+ "wpTemplate": "post",
+ "derived": false,
+ "rawFile": "audit/raw/cannabis-glossary-101.html",
+ "rawSha256": "5fc47408d411dc6a2228d6ec902b6f632573d2c45cf7d178043a9b900b5acc1c",
+ "regionKind": "body-minus-chrome",
+ "title": "Cannabis Glossary 101 | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+ "metaDescription": "Welcome to the Cannabis Glossary 101, your go-to resource for essential cannabis terms. Explore the complete language of cannabis and enhance your knowledge today!",
+ "canonical": "https://capecodcannabis.com/cannabis-glossary-101/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "Cannabis Glossary 101 | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "Welcome to the Cannabis Glossary 101, your go-to resource for essential cannabis terms. Explore the complete language of cannabis and enhance your knowledge today!",
+  "url": "https://capecodcannabis.com/cannabis-glossary-101/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2026-08-17T14:22:28-04:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2024/09/Cannabis-Glossary-1200x600-1.png",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/2024/09/Cannabis-Glossary-1200x600-1.png",
+  "image:width": "1200",
+  "image:height": "600",
+  "image:alt": "Cannabis 101 Blog Category at Cape Cod Cannabis in Wellfleet!",
+  "image:type": "image/png"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438",
+  "tag": [
+   "cannabis",
+   "cannabis dispensary in Wellfleet",
+   "cannabis dispensary near me",
+   "cannabis glossary",
+   "cannabis terms",
+   "cape cod cannabis",
+   "ma",
+   "recreational dispensary near me"
+  ],
+  "section": "Cannabis 101",
+  "published_time": "2024-09-24T11:13:31-04:00",
+  "modified_time": "2026-08-17T14:22:28-04:00"
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "Cannabis Glossary 101 | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "Welcome to the Cannabis Glossary 101, your go-to resource for essential cannabis terms. Explore the complete language of cannabis and enhance your knowledge today!",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2024/09/Cannabis-Glossary-1200x600-1.png",
+  "label1": "Written by",
+  "data1": "rrh_clientadmin",
+  "label2": "Time to read",
+  "data2": "9 minutes"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Place",
+     "@id": "https://capecodcannabis.com/#place",
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.916265712481554",
+      "longitude": "-69.98840341462632"
+     },
+     "hasMap": "https://www.google.com/maps/search/?api=1&amp;query=41.916265712481554,-69.98840341462632",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     }
+    },
+    {
+     "@type": [
+      "LocalBusiness",
+      "Organization"
+     ],
+     "@id": "https://capecodcannabis.com/#organization",
+     "name": "Cape Cod Cannabis in Wellfleet - Best dispensary on Cape Cod.",
+     "url": "https://capecodcannabis.com",
+     "sameAs": [
+      "https://www.facebook.com/profile.php?id=100077867156438",
+      "https://twitter.com/capecodcanna"
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "logo": {
+      "@type": "ImageObject",
+      "@id": "https://capecodcannabis.com/#logo",
+      "url": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "contentUrl": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "caption": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+      "inLanguage": "en-US",
+      "width": "700",
+      "height": "500"
+     },
+     "openingHours": [
+      "Mo,Tu,We,Th,Fr,Sa,Su 8:00 - 8:00"
+     ],
+     "description": "Welcome to Cape Cod Cannabis, recognized by many as the Best Dispensary on Cape Cod, located in Wellfleet. Conveniently situated in the Route 6 shopping plaza in South Wellfleet, we are a trusted destination for both locals and visitors traveling from Provincetown, Truro, Wellfleet, Eastham, Orleans, Brewster, Dennis, Harwich, Chatham, Yarmouth, Sandwich and across the Cape and beyond.\n\nCape Cod Cannabis, your go-to cannabis haven, offers a carefully curated selection of high quality products, including flower, pre-rolls, edibles, vaporizers, concentrates, tinctures, topicals, CBD, accessories, and more. With a focus on education, selection, and a welcoming experience, we make it easy to explore and find what works best for you whether you are visiting the Cape or live here year round.",
+     "location": {
+      "@id": "https://capecodcannabis.com/#place"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/#logo"
+     },
+     "telephone": "+1-774-383-3133"
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://capecodcannabis.com/#website",
+     "url": "https://capecodcannabis.com",
+     "name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+     "alternateName": "Cape Cod Cannabis | Wellfleet's Top Rated Cannabis Store on Cape Cod",
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "https://capecodcannabis.com/wp-content/uploads/2024/09/Cannabis-Glossary-1200x600-1.png",
+     "url": "https://capecodcannabis.com/wp-content/uploads/2024/09/Cannabis-Glossary-1200x600-1.png",
+     "width": "1200",
+     "height": "600",
+     "caption": "Cannabis 101 Blog Category at Cape Cod Cannabis in Wellfleet!",
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/cannabis-glossary-101/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/category/cannabis-101/",
+        "name": "Cannabis 101"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "3",
+       "item": {
+        "@id": "https://capecodcannabis.com/cannabis-glossary-101/",
+        "name": "Cannabis Glossary 101"
+       }
+      }
+     ]
+    },
+    {
+     "@type": "WebPage",
+     "@id": "https://capecodcannabis.com/cannabis-glossary-101/#webpage",
+     "url": "https://capecodcannabis.com/cannabis-glossary-101/",
+     "name": "Cannabis Glossary 101 | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "datePublished": "2024-09-24T11:13:31-04:00",
+     "dateModified": "2026-08-17T14:22:28-04:00",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2024/09/Cannabis-Glossary-1200x600-1.png"
+     },
+     "inLanguage": "en-US",
+     "breadcrumb": {
+      "@id": "https://capecodcannabis.com/cannabis-glossary-101/#breadcrumb"
+     }
+    },
+    {
+     "@type": "Person",
+     "@id": "https://capecodcannabis.com/cannabis-glossary-101/#author",
+     "name": "rrh_clientadmin",
+     "image": {
+      "@type": "ImageObject",
+      "@id": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "url": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "caption": "rrh_clientadmin",
+      "inLanguage": "en-US"
+     },
+     "worksFor": {
+      "@id": "https://capecodcannabis.com/#organization"
+     }
+    },
+    {
+     "@type": "Article",
+     "headline": "Cannabis Glossary 101 | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA | Cape Cod's Best",
+     "keywords": "cannabis glossary 101",
+     "datePublished": "2024-09-24T11:13:31-04:00",
+     "dateModified": "2026-08-17T14:22:28-04:00",
+     "articleSection": "Cannabis 101, Start Here",
+     "author": {
+      "@id": "https://capecodcannabis.com/cannabis-glossary-101/#author",
+      "name": "rrh_clientadmin"
+     },
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "description": "Welcome to the Cannabis Glossary 101, your go-to resource for essential cannabis terms. Explore the complete language of cannabis and enhance your knowledge today!",
+     "name": "Cannabis Glossary 101 | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA | Cape Cod's Best",
+     "@id": "https://capecodcannabis.com/cannabis-glossary-101/#richSnippet",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/cannabis-glossary-101/#webpage"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2024/09/Cannabis-Glossary-1200x600-1.png"
+     },
+     "inLanguage": "en-US",
+     "mainEntityOfPage": {
+      "@id": "https://capecodcannabis.com/cannabis-glossary-101/#webpage"
+     }
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "h1": "Cannabis Glossary 101",
+ "h1Source": {
+  "count": 1,
+  "visible": 1,
+  "hidden": 0
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Cannabis 101",
+   "href": "/category/cannabis-101/"
+  },
+  {
+   "label": "Cannabis Glossary 101",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "visible",
+ "breadcrumbsSeparator": " / ",
+ "breadcrumbsLabel": "breadcrumbs",
+ "breadcrumbsInRegion": true,
+ "section": null,
+ "sections": [
+  {
+   "n": 0,
+   "id": "3f1093a4",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "Cannabis Glossary 101"
+    },
+    {
+     "t": "meta",
+     "items": [
+      {
+       "text": "September 24, 2024",
+       "href": "/2024/09/24/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "6eacd6c",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "anchor",
+     "id": "Top"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "56ecd36",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>Welcome to the <strong>Cannabis Glossary 101</strong>, your go-to resource for some of the most common and essential cannabis terms. Whether you’re a novice or a seasoned user, this glossary covers key concepts, cannabinoids, <a href=\"/terpene-guide/\" data-link=\"dead\">terpenes</a>, and the entourage effect, helping you navigate the world of cannabis with ease. Explore the complete language of cannabis and enhance your knowledge today!</p>"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": "382138b",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "html",
+     "review": true,
+     "text": "A\nB\nC\nD\nE\nF\nG\nH\nI\nJ\nK\nL\nM\nN\nO\nP\nR\nS\nT\nV\nW\nZ",
+     "html": "<p> <a href=\"#A\">A</a> <a href=\"#B\">B</a> <a href=\"#C\">C</a> <a href=\"#D\">D</a> <a href=\"#E\">E</a> <a href=\"#F\">F</a> <a href=\"#G\">G</a> <a href=\"#H\">H</a> <br><br> <a href=\"#I\">I</a> <a href=\"#J\">J</a> <a href=\"#K\">K</a> <a href=\"#L\">L</a> <a href=\"#M\">M</a> <a href=\"#N\">N</a> <a href=\"#O\">O</a> <a href=\"#P\">P</a> <a href=\"#R\">R</a> <br><br> <a href=\"#S\">S</a> <a href=\"#T\">T</a> <a href=\"#V\">V</a> <a href=\"#W\">W</a> <a href=\"#Z\">Z</a></p>"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "id": "8aebd0a",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "anchor",
+     "id": "A"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "id": "598b6d5",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Cannabis Glossary 101"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "id": "c064f8e",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "A"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "id": "272722a",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong>Alcohol Extraction:</strong> A process to strip the cannabis plant of its resinous trichomes and their oils using either ethyl alcohol or ethanol.</p><p><strong>Aroma:</strong> The scent of cannabis, primarily determined by its terpene profile. Cannabis aromas can range from citrusy and fruity to earthy, skunky, or sweet, depending on the strain.</p><p><strong>Autoflowering:</strong> A type of cannabis strain that automatically transitions from the vegetative phase to the flowering phase after a set period of growth, without needing specific light cycles. Autoflowering strains are easy to grow and popular with beginners.</p><p><strong>Anandamide:</strong> A naturally occurring endocannabinoid in the human body, often called the “bliss molecule.” It interacts with cannabinoid receptors to produce effects similar to THC, contributing to feelings of happiness and well-being.</p>"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "id": "eb8d260",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "anchor",
+     "id": "B"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "id": "50e0137",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "B"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "id": "42febc4",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong>BHO (Butane Hash Oil):</strong> A potent cannabis concentrate made using butane as a solvent. BHO is known for its high THC content and is commonly used in dabbing. Forms include <a href=\"/categories/concentrates/shatter-2/\">shatter</a>, <a href=\"/categories/concentrates/wax/\">wax</a>, and <a href=\"/categories/concentrates/budder/\">budder</a>.</p><p><strong>Blunt:</strong> A hollowed-out cigar filled with cannabis. Blunts burn slower than joints and can offer a longer, more intense smoking experience.</p><p><strong>Bud:</strong> The flower of the female cannabis plant, rich in cannabinoids like THC and CBD. Buds are typically dried, cured, and consumed by smoking, vaping, or making edibles.</p><p><strong><a href=\"/?s=bong\">Bong</a>:</strong> A water pipe used for smoking cannabis. Bongs cool and filter smoke through water, resulting in a smoother hit and less irritation to the lungs.</p><p><strong>Broad-Spectrum:</strong> Cannabis products that contain multiple cannabinoids and terpenes but are THC-free. Broad-spectrum products provide the benefits of the entourage effect without psychoactive effects.</p>"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "id": "70182a1",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "anchor",
+     "id": "C"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "id": "8db56b6",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "C"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "id": "31d927c",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong><a href=\"/strains/high-cbd/\">CBD (Cannabidiol)</a>:</strong> A non-psychoactive cannabinoid found in cannabis, known for its therapeutic benefits, including relief from pain, anxiety, inflammation, and seizures, without the high associated with THC.</p><p><strong>Cannabinoids:</strong> Chemical compounds found in cannabis that interact with the endocannabinoid system in the body. The two most well-known cannabinoids are THC and CBD, though there are over 100 other cannabinoids like CBG, CBN, and THCV.</p><p><strong><a href=\"/categories/concentrates/\">Concentrate</a>:</strong> An extremely potent concentration of cannabinoids from the collection of trichomes, that is extracted without the use of solvents. Typically, cannabis concentrates are created by sifting cannabis or by using adding heat and pressure.</p><p><strong>Curing:</strong> The post-harvest process of drying and aging cannabis flowers to improve their flavor, potency, and overall quality. Proper curing is essential for preserving terpenes and cannabinoids.</p><p><strong>Cannabis:</strong> The genus of flowering plants that includes both marijuana and hemp. Cannabis is rich in cannabinoids, which provide the plant’s therapeutic and psychoactive effects.</p><p><strong><a href=\"/?s=carb+cap\">Carb Cap</a>:</strong> A tool used in dabbing to regulate airflow, ensuring that concentrates vaporize at lower temperatures, resulting in a more flavorful and efficient experience.</p>"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "id": "ee2a618",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "html",
+     "review": true,
+     "text": "Back to top",
+     "html": "<p> <a href=\"#Top\">Back to top</a></p>"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "id": "ce4f137",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "anchor",
+     "id": "D"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "id": "1d9bbe6",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "D"
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "id": "3696648",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong>Dab:</strong> A concentrated dose of cannabis extract, typically vaporized using a dab rig. Dabbing is known for delivering a fast-acting and potent high due to the high concentration of THC.</p><p><strong>Decarboxylation:</strong> The process of heating raw cannabis to activate cannabinoids like THC and CBD. For example, THCA (non-psychoactive) is converted into THC (psychoactive) through decarboxylation, making it usable in edibles and tinctures.</p><p><strong>Dispensary:</strong> A state-licensed retail outlet where consumers can legally purchase cannabis products such as flower, edibles, concentrates, and topicals. Dispensaries may be for medical, recreational, or both types of cannabis.</p>"
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "id": "9762157",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "anchor",
+     "id": "E"
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "id": "e326806",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "E"
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "id": "6964d48",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong><a href=\"/categories/edibles/\">Edibles</a>:</strong> Cannabis-infused food or beverages that are consumed orally. Edibles take longer to produce effects (typically 30 minutes to 2 hours) but deliver a longer-lasting and sometimes more intense experience compared to smoking.</p><p><strong>Endocannabinoid System (ECS):</strong> A biological system in the body that helps regulate key functions such as mood, appetite, sleep, and pain. The ECS interacts with cannabinoids like THC and CBD, leading to the effects of cannabis on the body and mind.</p><p><strong>Entourage Effect:</strong> A synergistic interaction between cannabinoids, terpenes, and other compounds in cannabis. The entourage effect suggests that these compounds work better together to enhance therapeutic effects than when isolated.</p><p><strong>Extract:</strong> A concentrated form of cannabis created using solvents such as butane, CO2, or ethanol. Extracts, like oils and waxes, are more potent than cannabis flower and are often used in dabbing, vaping, or making edibles.</p>"
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "id": "e191414",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "anchor",
+     "id": "F"
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "id": "a862052",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "F"
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "id": "140782f",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong><a href=\"/categories/flower/\">Flower</a>:</strong> The part of the female cannabis plant that is harvested, dried, and consumed. Flowers (buds) contain the highest concentration of cannabinoids and terpenes.</p><p><strong>Full-Spectrum:</strong> Cannabis products that contain all cannabinoids, terpenes, flavonoids, and other natural compounds found in the cannabis plant, including THC. Full-spectrum products are believed to offer the most comprehensive effects due to the entourage effect.</p><p><strong>Feminized Seeds:</strong> Cannabis seeds that are bred to produce only female plants. Feminized seeds ensure growers maximize their yield, as only female plants produce usable cannabis flowers.</p>"
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "id": "b8861b9",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "html",
+     "review": true,
+     "text": "Back to top",
+     "html": "<p> <a href=\"#Top\">Back to top</a></p>"
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "id": "c64a718",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "anchor",
+     "id": "G"
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "id": "7e55d45",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "G"
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "id": "12b54f9",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong>Gram:</strong> A unit of measurement for cannabis, commonly used for small amounts of flower or concentrates. One gram is typically enough for a few joints or bowls.</p><p><strong><a href=\"/?s=grinder\">Grinder</a>:</strong> A tool used to break up cannabis flowers into smaller pieces for even burning in joints or bowls. Grinders improve airflow, making for a more efficient smoking experience.</p><p><strong>Grow Light:</strong> A light source used in indoor cannabis cultivation to replicate the sun’s light spectrum. Popular types include LED, HID, and fluorescent lights.</p>"
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "id": "abf8837",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "anchor",
+     "id": "H"
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "id": "4c817b0",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "H"
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "id": "d352a44",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong><a href=\"/categories/concentrates/hash/\" data-link=\"dead\">Hash (Hashish)</a>:</strong> A cannabis concentrate made by compressing the plant’s trichomes (resin glands) into a solid or paste-like substance. Hash is one of the oldest forms of cannabis concentrate.</p><p><strong>Hemp:</strong> A variety of cannabis containing less than 0.3% THC. Hemp is primarily used for industrial purposes such as producing textiles, paper, and CBD products.</p><p><strong><a href=\"/strains/hybrid/\">Hybrid</a>:</strong> A cannabis strain that is bred from both indica and sativa parents. Hybrids can produce a wide range of effects, from uplifting to relaxing, depending on the strain’s genetics.</p>"
+    }
+   ]
+  },
+  {
+   "n": 31,
+   "id": "b8c1e12",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "anchor",
+     "id": "I"
+    }
+   ]
+  },
+  {
+   "n": 32,
+   "id": "9f776e6",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "I"
+    }
+   ]
+  },
+  {
+   "n": 33,
+   "id": "2ea7b40",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong><a href=\"/strains/indica/\">Indica</a>:</strong> One of the three main subspecies of cannabis (along with sativa and ruderalis). Indica strains are known for their relaxing, sedative effects and are often used to relieve pain, insomnia, and anxiety.</p><p><strong><a href=\"/categories/concentrates/isolate/\">Isolate</a>:</strong> A cannabis product that contains a single cannabinoid, such as CBD or THC, with all other cannabinoids, terpenes, and plant materials removed. Isolates are often used for their purity and precise dosing.</p>"
+    }
+   ]
+  },
+  {
+   "n": 34,
+   "id": "37eb8b3",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "html",
+     "review": true,
+     "text": "Back to top",
+     "html": "<p> <a href=\"#Top\">Back to top</a></p>"
+    }
+   ]
+  },
+  {
+   "n": 35,
+   "id": "a3825d6",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "anchor",
+     "id": "J"
+    }
+   ]
+  },
+  {
+   "n": 36,
+   "id": "2c60cfa",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "J"
+    }
+   ]
+  },
+  {
+   "n": 37,
+   "id": "6c10d86",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong><a href=\"/categories/pre-rolls/\">Joint</a>:</strong> A cannabis cigarette typically rolled using thin rolling paper. Joints are one of the most common ways to consume cannabis flower.</p><p><strong>Jelly Hash:</strong> A type of cannabis concentrate made by combining bubble hash and hash oil, creating a jelly-like consistency. It is prized for its potency and smooth texture.</p>"
+    }
+   ]
+  },
+  {
+   "n": 38,
+   "id": "cbc342f",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "anchor",
+     "id": "K"
+    }
+   ]
+  },
+  {
+   "n": 39,
+   "id": "35706b8",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "K"
+    }
+   ]
+  },
+  {
+   "n": 40,
+   "id": "a1a69d4",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong><a href=\"/categories/concentrates/kief/\">Kief</a>:</strong> The powdery substance made up of trichomes that fall off cannabis flowers. Kief is rich in cannabinoids and terpenes and can be sprinkled on joints, added to bowls, or used to make hash.</p><p><strong>Kush:</strong> A popular cannabis strain originating from the Hindu Kush mountain region. Kush strains are typically indica-dominant and known for their strong sedative effects and earthy aromas.</p>"
+    }
+   ]
+  },
+  {
+   "n": 41,
+   "id": "e3d5e34",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "anchor",
+     "id": "L"
+    }
+   ]
+  },
+  {
+   "n": 42,
+   "id": "305d187",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "L"
+    }
+   ]
+  },
+  {
+   "n": 43,
+   "id": "6a1bded",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong>Landrace:</strong> A pure cannabis strain that has adapted to grow naturally in its native environment. Landrace strains are often used as the genetic foundation for hybrid strains.</p><p><strong><a href=\"/categories/concentrates/live-resin/\">Live Resin</a>:</strong> A cannabis concentrate made from fresh, frozen cannabis plants. Live resin is prized for preserving a plant’s terpenes and delivering a more flavorful experience.</p>"
+    }
+   ]
+  },
+  {
+   "n": 44,
+   "id": "81ac1ef",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "html",
+     "review": true,
+     "text": "Back to top",
+     "html": "<p> <a href=\"#Top\">Back to top</a></p>"
+    }
+   ]
+  },
+  {
+   "n": 45,
+   "id": "5683985",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/730a21a3-Cannabis-Glossary-101-image-1024x163.webp",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2024/09/Cannabis-Glossary-101-image-1024x163.webp?lossy=2&strip=0&webp=1",
+     "master": "assets/source/856bf9d1-Cannabis-Glossary-101-image.webp",
+     "alt": "Cannabis Glossary 101",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 800,
+     "h": 127
+    }
+   ]
+  },
+  {
+   "n": 46,
+   "id": "987b2df",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "anchor",
+     "id": "M"
+    }
+   ]
+  },
+  {
+   "n": 47,
+   "id": "e3e0547",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "M"
+    }
+   ]
+  },
+  {
+   "n": 48,
+   "id": "5d2ab8e",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong><a href=\"/menu/\">Marijuana</a>:</strong> A term often used to refer to the psychoactive varieties of the cannabis plant, typically containing higher levels of THC. Marijuana can be used recreationally or medicinally.</p><p><strong>Microdosing:</strong> The practice of consuming very small amounts of cannabis to achieve mild effects without getting “high.” Microdosing is often used for therapeutic purposes like anxiety or pain relief.</p>"
+    }
+   ]
+  },
+  {
+   "n": 49,
+   "id": "c8e9764",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "anchor",
+     "id": "N"
+    }
+   ]
+  },
+  {
+   "n": 50,
+   "id": "32d7d82",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "N"
+    }
+   ]
+  },
+  {
+   "n": 51,
+   "id": "c7c40c2",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong>Nug:</strong> A slang term for high-quality cannabis flowers. Nugs are typically dense, sticky, and rich in cannabinoids.</p><p><strong>Nectar Collector:</strong> A portable device used for dabbing concentrates. Users heat the tip of the nectar collector and touch it directly to the concentrate for vaporization.</p>"
+    }
+   ]
+  },
+  {
+   "n": 52,
+   "id": "d6206f4",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "anchor",
+     "id": "O"
+    }
+   ]
+  },
+  {
+   "n": 53,
+   "id": "0e78a7d",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "O"
+    }
+   ]
+  },
+  {
+   "n": 54,
+   "id": "b1b6454",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong>Oil:</strong> A type of cannabis extract, often used in <a href=\"/categories/vaporizers/\">vape pens</a> or <a href=\"/categories/tinctures/\">tinctures</a>. Oils are rich in cannabinoids and can be used for both medicinal and recreational purposes.</p><p><strong>OG:</strong> Short for “Ocean Grown,” a term associated with high-quality indica strains, particularly OG Kush. OG strains are known for their potent effects and earthy, piney aroma.</p>"
+    }
+   ]
+  },
+  {
+   "n": 55,
+   "id": "377a350",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "anchor",
+     "id": "P"
+    }
+   ]
+  },
+  {
+   "n": 56,
+   "id": "8c0423d",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "P"
+    }
+   ]
+  },
+  {
+   "n": 57,
+   "id": "251a5df",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong>Phenotype:</strong> The observable traits of a cannabis plant, such as its appearance, aroma, and effects, resulting from its genetic makeup (genotype) and growing conditions.</p><p><strong><a href=\"/?s=pipes\">Pipe</a>:</strong> A simple device used to smoke cannabis flower. Pipes come in a variety of materials such as glass, wood, and metal.</p><p><strong>Percolator:</strong> A filtration device in bongs or dab rigs that cools and filters the smoke or vapor, resulting in a smoother hit.</p>"
+    }
+   ]
+  },
+  {
+   "n": 58,
+   "id": "a94adbb",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "html",
+     "review": true,
+     "text": "Back to top",
+     "html": "<p> <a href=\"#Top\">Back to top</a></p>"
+    }
+   ]
+  },
+  {
+   "n": 59,
+   "id": "e79fba6",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "anchor",
+     "id": "R"
+    }
+   ]
+  },
+  {
+   "n": 60,
+   "id": "d82e8f8",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "R"
+    }
+   ]
+  },
+  {
+   "n": 61,
+   "id": "8e35548",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong>Resin:</strong> The sticky, cannabinoid-rich substance secreted by trichomes on cannabis flowers. Resin is used to make various concentrates like hash and live resin.</p><p><strong>Ruderalis:</strong> A subspecies of cannabis known for its autoflowering traits. Ruderalis plants are often used to breed autoflowering strains.</p>"
+    }
+   ]
+  },
+  {
+   "n": 62,
+   "id": "a6a7644",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "anchor",
+     "id": "S"
+    }
+   ]
+  },
+  {
+   "n": 63,
+   "id": "3666008",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "S"
+    }
+   ]
+  },
+  {
+   "n": 64,
+   "id": "a4a8c73",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong><a href=\"/strains/sativa/\">Sativa</a>:</strong> A cannabis subspecies known for its uplifting and energizing effects. Sativa strains are often used during the day to boost creativity and focus.</p><p><strong><a href=\"/categories/concentrates/shatter-2/\">Shatter</a>:</strong> A brittle, glass-like cannabis concentrate with a high THC content. Shatter is commonly used for dabbing.</p><p><strong>Solventless Extract:</strong> A cannabis concentrate made without the use of solvents like butane or CO2. Examples include hash and rosin.</p>"
+    }
+   ]
+  },
+  {
+   "n": 65,
+   "id": "1d3a6e3",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "anchor",
+     "id": "T"
+    }
+   ]
+  },
+  {
+   "n": 66,
+   "id": "6db328b",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "T"
+    }
+   ]
+  },
+  {
+   "n": 67,
+   "id": "faa49b5",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong><a href=\"/terpene-guide/\" data-link=\"dead\">Terpenes</a>:</strong> Aromatic compounds found in cannabis that give each strain its unique smell and flavor. Terpenes also play a role in the effects of cannabis, contributing to the entourage effect.</p><p><strong><a href=\"/categories/flower/\">THC (Tetrahydrocannabinol)</a>:</strong> The primary psychoactive cannabinoid in cannabis, responsible for the “high” sensation. THC also has therapeutic effects, such as pain relief and appetite stimulation.</p><p><strong><a href=\"/categories/tinctures/\">Tincture</a>:</strong> A liquid cannabis extract, typically made using alcohol or oil as a base. Tinctures are consumed sublingually (under the tongue) for fast-acting effects.</p>"
+    }
+   ]
+  },
+  {
+   "n": 68,
+   "id": "f4c325e",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "html",
+     "review": true,
+     "text": "Back to top",
+     "html": "<p> <a href=\"#Top\">Back to top</a></p>"
+    }
+   ]
+  },
+  {
+   "n": 69,
+   "id": "2582b8e",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "anchor",
+     "id": "V"
+    }
+   ]
+  },
+  {
+   "n": 70,
+   "id": "8e6e6ba",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "V"
+    }
+   ]
+  },
+  {
+   "n": 71,
+   "id": "d837518",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong><a href=\"/categories/vaporizers/\">Vape Pen</a>:</strong> A portable, pen-shaped device used to vaporize cannabis oil or concentrate for inhalation. Vape pens are discreet and easy to use, making them a popular choice for cannabis consumers.</p><p><strong><a href=\"/brands/puffco/\">Vaporizer</a>:</strong> A device used to heat cannabis flowers or concentrates to a temperature that releases cannabinoids and terpenes without combustion, producing vapor instead of smoke.</p>"
+    }
+   ]
+  },
+  {
+   "n": 72,
+   "id": "f059da8",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "anchor",
+     "id": "W"
+    }
+   ]
+  },
+  {
+   "n": 73,
+   "id": "e615840",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "W"
+    }
+   ]
+  },
+  {
+   "n": 74,
+   "id": "33310d6",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong><a href=\"/categories/concentrates/wax/\">Wax</a>:</strong> A soft, sticky cannabis concentrate with a high THC content, often used for dabbing. Wax gets its name from its texture, which resembles candle wax.</p><p><strong><a href=\"/?s=water+pipe\">Water Pipe</a>:</strong> A device used to smoke cannabis, similar to a bong. Water pipes use water to filter and cool the smoke, making for a smoother smoking experience.</p>"
+    }
+   ]
+  },
+  {
+   "n": 75,
+   "id": "b659ae3",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "anchor",
+     "id": "Z"
+    }
+   ]
+  },
+  {
+   "n": 76,
+   "id": "08b4600",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Z"
+    }
+   ]
+  },
+  {
+   "n": 77,
+   "id": "383dc4b",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong><a href=\"/?s=Zkittlez\">Zkittlez</a>:</strong> A popular hybrid cannabis strain known for its fruity flavor and balanced effects. Zkittlez is prized for its relaxing and euphoric properties.</p>"
+    }
+   ]
+  },
+  {
+   "n": 78,
+   "id": "b773c9e",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "html",
+     "review": true,
+     "text": "Back to top",
+     "html": "<p> <a href=\"#Top\">Back to top</a></p>"
+    }
+   ]
+  },
+  {
+   "n": 79,
+   "id": "ebc3295",
+   "doc": "wp-post#107615",
+   "blocks": [
+    {
+     "t": "button",
+     "label": "Shop our menu",
+     "href": "/menu/"
+    }
+   ]
+  },
+  {
+   "n": 80,
+   "id": "329af6c",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "postnav",
+     "prev": {
+      "srLabel": "Prev",
+      "title": "Exploring Wellfleet, MA: A Hidden Gem on Cape Cod",
+      "href": "/exploring-wellfleet-ma-cape-cod/"
+     },
+     "next": {
+      "title": "The Perfect 420 Holiday Cannabis-Infused Drink Recipes",
+      "srLabel": "Next",
+      "href": "/holiday-cannabis-infused-drink-recipes/"
+     },
+     "ariaLabels": [
+      "Post Navigation"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 81,
+   "id": "9ba89d6",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "comments",
+     "note": "WordPress comment form; no comment backend in a static rebuild"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "anchor": 23,
+  "button": 1,
+  "comments": 1,
+  "heading": 24,
+  "html": 8,
+  "image": 1,
+  "meta": 1,
+  "postnav": 1,
+  "rich": 23
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [
+   {
+    "href": "/terpene-guide/",
+    "from": "https://capecodcannabis.com/terpene-guide/",
+    "status": "dead"
+   },
+   {
+    "href": "/categories/concentrates/hash/",
+    "from": "/categories/concentrates/hash/",
+    "status": "dead"
+   }
+  ],
+  "aliasesResolved": [
+   {
+    "from": "https://capecodcannabis.com/2024/09/24/",
+    "to": "/2024/09/24/"
+   },
+   {
+    "from": "/categories/concentrates/shatter/",
+    "to": "/categories/concentrates/shatter-2/"
+   },
+   {
+    "from": "/categories/concentrates/wax/",
+    "to": "/categories/concentrates/wax/"
+   },
+   {
+    "from": "/categories/concentrates/budder/",
+    "to": "/categories/concentrates/budder/"
+   },
+   {
+    "from": "/strains/high-cbd/",
+    "to": "/strains/high-cbd/"
+   },
+   {
+    "from": "/categories/concentrates/",
+    "to": "/categories/concentrates/"
+   },
+   {
+    "from": "/categories/edibles/",
+    "to": "/categories/edibles/"
+   },
+   {
+    "from": "/categories/flower/",
+    "to": "/categories/flower/"
+   },
+   {
+    "from": "/strains/hybrid/",
+    "to": "/strains/hybrid/"
+   },
+   {
+    "from": "/strains/indica/",
+    "to": "/strains/indica/"
+   },
+   {
+    "from": "/categories/concentrates/isolate/",
+    "to": "/categories/concentrates/isolate/"
+   },
+   {
+    "from": "/categories/pre-rolls/",
+    "to": "/categories/pre-rolls/"
+   },
+   {
+    "from": "/categories/concentrates/kief/",
+    "to": "/categories/concentrates/kief/"
+   },
+   {
+    "from": "/categories/concentrates/live-resin/",
+    "to": "/categories/concentrates/live-resin/"
+   },
+   {
+    "from": "/menu",
+    "to": "/menu/"
+   },
+   {
+    "from": "/categories/vaporizers/",
+    "to": "/categories/vaporizers/"
+   },
+   {
+    "from": "/categories/tinctures/",
+    "to": "/categories/tinctures/"
+   },
+   {
+    "from": "/strains/sativa",
+    "to": "/strains/sativa/"
+   },
+   {
+    "from": "https://capecodcannabis.com/brands/puffco/",
+    "to": "/brands/puffco/"
+   },
+   {
+    "from": "https://capecodcannabis.com/exploring-wellfleet-ma-cape-cod/",
+    "to": "/exploring-wellfleet-ma-cape-cod/"
+   },
+   {
+    "from": "https://capecodcannabis.com/holiday-cannabis-infused-drink-recipes/",
+    "to": "/holiday-cannabis-infused-drink-recipes/"
+   },
+   {
+    "from": "https://capecodcannabis.com/category/cannabis-101/",
+    "to": "/category/cannabis-101/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

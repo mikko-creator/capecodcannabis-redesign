@@ -1,0 +1,1095 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/massachusetts-cannabis-purchase-limit/",
+ "sourceUrl": "https://capecodcannabis.com/massachusetts-cannabis-purchase-limit/",
+ "requestedUrl": "https://capecodcannabis.com/massachusetts-cannabis-purchase-limit",
+ "slug": "massachusetts-cannabis-purchase-limit",
+ "kind": "blog-post",
+ "wpTemplate": "post",
+ "derived": false,
+ "rawFile": "audit/raw/massachusetts-cannabis-purchase-limit.html",
+ "rawSha256": "5e8e4ea3ddedcdc699dd7bc8b073415dcb595ffbf5ab05e085b8a9307644107a",
+ "regionKind": "body-minus-chrome",
+ "title": "Massachusetts Cannabis Purchase Limit Increased to 2 Ounces: What You Need to Know",
+ "metaDescription": "Learn about the new Massachusetts cannabis purchase limit. Discover what changed, current possession limits, and what it means at Cape Cod Cannabis in Wellfleet.",
+ "canonical": "https://capecodcannabis.com/massachusetts-cannabis-purchase-limit/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "Massachusetts Cannabis Purchase Limit Increased to 2 Ounces: What You Need to Know",
+  "description": "Learn about the new Massachusetts cannabis purchase limit. Discover what changed, current possession limits, and what it means at Cape Cod Cannabis in Wellfleet.",
+  "url": "https://capecodcannabis.com/massachusetts-cannabis-purchase-limit/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2026-07-29T17:08:52-04:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2024/09/FAQ-banner.jpg",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/2024/09/FAQ-banner.jpg",
+  "image:width": "1900",
+  "image:height": "600",
+  "image:alt": "FAQs - Frequently asked questions at Cape Cod Cannabis in Wellfleet, MA",
+  "image:type": "image/jpeg"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438",
+  "tag": [
+   "cannabis daily limit",
+   "cape cod cannabis",
+   "cape cod dispensary",
+   "dispensary cape cod",
+   "dispensary wellfleet",
+   "massachusetts cannabis purchase limit",
+   "recreational cannabis"
+  ],
+  "section": "Start Here",
+  "published_time": "2026-07-13T13:46:11-04:00",
+  "modified_time": "2026-07-29T17:08:52-04:00"
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "Massachusetts Cannabis Purchase Limit Increased to 2 Ounces: What You Need to Know",
+  "description": "Learn about the new Massachusetts cannabis purchase limit. Discover what changed, current possession limits, and what it means at Cape Cod Cannabis in Wellfleet.",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2024/09/FAQ-banner.jpg",
+  "label1": "Written by",
+  "data1": "rrh_clientadmin",
+  "label2": "Time to read",
+  "data2": "5 minutes"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Place",
+     "@id": "https://capecodcannabis.com/#place",
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.916265712481554",
+      "longitude": "-69.98840341462632"
+     },
+     "hasMap": "https://www.google.com/maps/search/?api=1&amp;query=41.916265712481554,-69.98840341462632",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     }
+    },
+    {
+     "@type": [
+      "LocalBusiness",
+      "Organization"
+     ],
+     "@id": "https://capecodcannabis.com/#organization",
+     "name": "Cape Cod Cannabis in Wellfleet - Best dispensary on Cape Cod.",
+     "url": "https://capecodcannabis.com",
+     "sameAs": [
+      "https://www.facebook.com/profile.php?id=100077867156438",
+      "https://twitter.com/capecodcanna"
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "logo": {
+      "@type": "ImageObject",
+      "@id": "https://capecodcannabis.com/#logo",
+      "url": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "contentUrl": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "caption": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+      "inLanguage": "en-US",
+      "width": "700",
+      "height": "500"
+     },
+     "openingHours": [
+      "Mo,Tu,We,Th,Fr,Sa,Su 8:00 - 8:00"
+     ],
+     "description": "Welcome to Cape Cod Cannabis, recognized by many as the Best Dispensary on Cape Cod, located in Wellfleet. Conveniently situated in the Route 6 shopping plaza in South Wellfleet, we are a trusted destination for both locals and visitors traveling from Provincetown, Truro, Wellfleet, Eastham, Orleans, Brewster, Dennis, Harwich, Chatham, Yarmouth, Sandwich and across the Cape and beyond.\n\nCape Cod Cannabis, your go-to cannabis haven, offers a carefully curated selection of high quality products, including flower, pre-rolls, edibles, vaporizers, concentrates, tinctures, topicals, CBD, accessories, and more. With a focus on education, selection, and a welcoming experience, we make it easy to explore and find what works best for you whether you are visiting the Cape or live here year round.",
+     "location": {
+      "@id": "https://capecodcannabis.com/#place"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/#logo"
+     },
+     "telephone": "+1-774-383-3133"
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://capecodcannabis.com/#website",
+     "url": "https://capecodcannabis.com",
+     "name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+     "alternateName": "Cape Cod Cannabis | Wellfleet's Top Rated Cannabis Store on Cape Cod",
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "https://capecodcannabis.com/wp-content/uploads/2024/09/FAQ-banner.jpg",
+     "url": "https://capecodcannabis.com/wp-content/uploads/2024/09/FAQ-banner.jpg",
+     "width": "1900",
+     "height": "600",
+     "caption": "FAQs - Frequently asked questions at Cape Cod Cannabis in Wellfleet, MA",
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/massachusetts-cannabis-purchase-limit/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/category/start-here/",
+        "name": "Start Here"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "3",
+       "item": {
+        "@id": "https://capecodcannabis.com/massachusetts-cannabis-purchase-limit/",
+        "name": "Massachusetts Cannabis Purchase Limit"
+       }
+      }
+     ]
+    },
+    {
+     "@type": "WebPage",
+     "@id": "https://capecodcannabis.com/massachusetts-cannabis-purchase-limit/#webpage",
+     "url": "https://capecodcannabis.com/massachusetts-cannabis-purchase-limit/",
+     "name": "Massachusetts Cannabis Purchase Limit Increased to 2 Ounces: What You Need to Know",
+     "datePublished": "2026-07-13T13:46:11-04:00",
+     "dateModified": "2026-07-29T17:08:52-04:00",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2024/09/FAQ-banner.jpg"
+     },
+     "inLanguage": "en-US",
+     "breadcrumb": {
+      "@id": "https://capecodcannabis.com/massachusetts-cannabis-purchase-limit/#breadcrumb"
+     }
+    },
+    {
+     "@type": "Person",
+     "@id": "https://capecodcannabis.com/massachusetts-cannabis-purchase-limit/#author",
+     "name": "rrh_clientadmin",
+     "image": {
+      "@type": "ImageObject",
+      "@id": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "url": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "caption": "rrh_clientadmin",
+      "inLanguage": "en-US"
+     },
+     "worksFor": {
+      "@id": "https://capecodcannabis.com/#organization"
+     }
+    },
+    {
+     "@type": "Article",
+     "headline": "Massachusetts Cannabis Purchase Limit Increased to 2 Ounces: What You Need to Know | Cape Cod's Best",
+     "keywords": "Massachusetts cannabis purchase limit",
+     "datePublished": "2026-07-13T13:46:11-04:00",
+     "dateModified": "2026-07-29T17:08:52-04:00",
+     "articleSection": "Cannabis 101, Cannabis News, Start Here",
+     "author": {
+      "@id": "https://capecodcannabis.com/massachusetts-cannabis-purchase-limit/#author",
+      "name": "rrh_clientadmin"
+     },
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "description": "Learn about the new Massachusetts cannabis purchase limit. Discover what changed, current possession limits, and what it means at Cape Cod Cannabis in Wellfleet.",
+     "name": "Massachusetts Cannabis Purchase Limit Increased to 2 Ounces: What You Need to Know | Cape Cod's Best",
+     "@id": "https://capecodcannabis.com/massachusetts-cannabis-purchase-limit/#richSnippet",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/massachusetts-cannabis-purchase-limit/#webpage"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2024/09/FAQ-banner.jpg"
+     },
+     "inLanguage": "en-US",
+     "mainEntityOfPage": {
+      "@id": "https://capecodcannabis.com/massachusetts-cannabis-purchase-limit/#webpage"
+     }
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "h1": "Massachusetts Cannabis Purchase Limit",
+ "h1Source": {
+  "count": 2,
+  "visible": 2,
+  "hidden": 0,
+  "note": "source has several visible h1s; the first is primary, the rest carry demote:true"
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Start Here",
+   "href": "/category/start-here/"
+  },
+  {
+   "label": "Massachusetts Cannabis Purchase Limit",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "visible",
+ "breadcrumbsSeparator": " / ",
+ "breadcrumbsLabel": "breadcrumbs",
+ "breadcrumbsInRegion": true,
+ "section": null,
+ "sections": [
+  {
+   "n": 0,
+   "id": "3f1093a4",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "Massachusetts Cannabis Purchase Limit"
+    },
+    {
+     "t": "meta",
+     "items": [
+      {
+       "text": "July 13, 2026",
+       "href": "/2026/07/13/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "1be748f",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "Massachusetts Cannabis Purchase Limit Increased to 2 Ounces: What You Need to Know",
+     "demote": true
+    },
+    {
+     "t": "rich",
+     "html": "<p>If you’ve been searching for information about the <strong>Massachusetts cannabis purchase limit</strong>, you’re not alone. One of the biggest changes to Massachusetts cannabis laws in recent years is the increase in the recreational cannabis purchase limit for adults 21 and older.</p><p>Whether you’re a Massachusetts resident or visiting Cape Cod, <a href=\"/daily-purchase-limit-in-ma/\">understanding the <strong>Massachusetts cannabis purchase limit</strong></a> can help you shop confidently, stay compliant with state law, and better plan your visit to a licensed dispensary.</p><p>At <strong>Cape Cod Cannabis</strong>, we’re committed to providing accurate cannabis education and helping our customers stay informed about the latest cannabis laws and regulations.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "What Is the Massachusetts Cannabis Purchase Limit?"
+    },
+    {
+     "t": "rich",
+     "html": "<p>As of April 20, 2026, the <strong>Massachusetts cannabis purchase limit</strong> for adult-use (recreational) consumers has increased from <strong>one ounce to two ounces of cannabis flower or its equivalent per day</strong>.</p><p>The updated law was enacted through <strong>An Act Modernizing the Commonwealth’s Cannabis Laws (H.5350)</strong> and signed by Governor Maura Healey. The change is intended to modernize Massachusetts cannabis regulations while providing greater flexibility for adult consumers.</p><p>For adults <strong>21 years of age and older</strong>, the current Massachusetts recreational cannabis purchase limits include:</p><ul><li>Up to <strong>2 ounces of cannabis flower</strong></li><li>Up to <b>56 pre-roll joints</b>, assuming each joint contains roughly <b>1 gram of flower</b>.</li><li>Up to <strong>10 grams of active THC in cannabis concentrates</strong></li><li>Up to <strong>20</strong><b> x 0.5g cartridges</b> or <strong>10</strong><b> x 1g cartridges/disposables</b>.</li><li>Up to <strong>1,000mg of THC in edible cannabis products</strong></li><li>Up to <b>10,000mg of THC in Tinctures / Syrups</b></li></ul><ul><li><strong>Topicals</strong> = NO LIMIT</li><li><strong>CBD</strong> = NO LIMIT</li><li><strong>Seeds</strong> = NO LIMIT</li></ul><p>These limits apply to purchases made from licensed adult-use (recreational) cannabis retailers in Massachusetts. Visit our <a href=\"/daily-purchase-limit-in-ma/\">Understanding the MA Daily Limit</a> page for more information and calculator.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Why Did the Massachusetts Cannabis Purchase Limit Change?"
+    },
+    {
+     "t": "rich",
+     "html": "<p>The previous one ounce purchase limit had been in place since adult-use cannabis sales began in Massachusetts.</p><p>As the regulated cannabis market has grown and matured, lawmakers recognized that many consumers wanted the convenience of purchasing larger quantities during a single visit instead of making multiple trips.</p><p>The updated <strong>Massachusetts cannabis purchase limit</strong> provides greater flexibility while maintaining safeguards for responsible adult use.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "What Counts Toward the Massachusetts Cannabis Purchase Limit?"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Many customers wonder how different cannabis products count toward the daily purchase limit.</p><p>The <strong>Massachusetts cannabis purchase limit</strong> applies to the combined total of cannabis products purchased during a single day.</p><p>Popular product categories include:</p>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Flower"
+    },
+    {
+     "t": "rich",
+     "html": "<p><a href=\"/categories/flower/\">Cannabis flower</a> remains the most popular product purchased by recreational consumers. Flower is measured by weight and counts toward the two ounce daily purchase limit.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Pre-Rolls"
+    },
+    {
+     "t": "rich",
+     "html": "<p><a href=\"/categories/pre-rolls/\">Pre-rolls</a> are simply ready to enjoy cannabis flower and also count toward your daily flower purchase limit.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Edibles"
+    },
+    {
+     "t": "rich",
+     "html": "<p><a href=\"/categories/edibles/\">Cannabis infused gummies, chocolates, beverages</a>, and other edible products count toward the daily limit based on their THC content.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Concentrates"
+    },
+    {
+     "t": "rich",
+     "html": "<p><a href=\"/categories/concentrates/\">Concentrates</a> include products such as:</p><ul><li>Live Resin</li><li>Live Rosin</li><li>Wax</li><li>Badder</li><li>Shatter</li></ul><p>These products are subject to the state’s concentrate purchase limits because of their higher cannabinoid potency.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Tinctures"
+    },
+    {
+     "t": "rich",
+     "html": "<p><a href=\"/categories/tinctures/\">Cannabis tinctures</a> provide a smoke free alternative and count toward your daily purchase limit based on their THC content.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Vape Products"
+    },
+    {
+     "t": "rich",
+     "html": "<p><a href=\"/categories/vaporizers/\">Disposable vape products and vape cartridges</a> are also included when calculating the legal purchase limit.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "What Has Not Changed?"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Although the <strong>Massachusetts cannabis purchase limit</strong> has increased, several important cannabis laws remain unchanged.</p><p>Adults must still:</p><ul><li>Be at least <strong>21 years old</strong> to purchase recreational cannabis.</li><li>Present a VALID government issued photo identification.</li><li>Consume cannabis only where permitted by law.</li><li>Never drive while impaired by cannabis.</li><li>Never transport cannabis across state lines, even into another legal cannabis state.</li></ul><p>Massachusetts law also continues to allow adults to possess up to <strong>10 ounces of cannabis at home</strong>, with any amount over two ounces stored in a locked or secured container.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "What This Means for Cape Cod Visitors"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Every year, thousands of visitors travel to Cape Cod to enjoy the <a href=\"/things-to-do-near-cape-cod-cannabis-in-wellfleet-ma/\">beaches, restaurants, outdoor recreation, and local attractions</a>.</p><p>For vacationers, the updated <strong>Massachusetts cannabis purchase limit</strong> for adult-use (recreational) means greater convenience. Instead of making multiple trips during a weeklong stay, eligible adults may be able to purchase everything they need during a single visit while remaining within Massachusetts law.</p><p>If you’re searching for a <strong>dispensary near me</strong> while visiting Cape Cod, understanding the current purchase limits can help make your shopping experience easier and more enjoyable.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Visit Cape Cod Cannabis in Wellfleet"
+    },
+    {
+     "t": "rich",
+     "html": "<p>At <strong>Cape Cod Cannabis, <a href=\"/directions/\">located on Rt. 6 in the South Wellfleet Shopping Plaza</a></strong>, we believe <a href=\"/intro-to-cannabis-101/\">education</a> is just as important as quality products.</p><p>Whether you’re shopping for:</p><ul><li><a href=\"/categories/flower/\">Premium flower</a></li><li><a href=\"/categories/pre-rolls/\">Pre-rolls</a></li><li><a href=\"/categories/edibles/\">Edibles</a></li><li><a href=\"/categories/concentrates/\">Concentrates</a></li><li><a href=\"/categories/tinctures/\">Tinctures</a></li><li><a href=\"/categories/vaporizers/\">Vape products</a></li><li><a href=\"/categories/cbd/\">CBD products</a></li></ul><p>Our knowledgeable Product Specialists <em>(Budtenders)</em> are happy to answer your questions about the <strong>Massachusetts cannabis purchase limit</strong>, <a href=\"/menu/\">cannabis products</a>, and current Massachusetts cannabis laws. <a href=\"/intro-to-cannabis-101/\">Visit our Intro to Cannabis 101 page</a> for more information.</p><p>If you’re looking for a trusted <strong>Cape Cod dispensary in Wellfleet</strong> or one of the best <strong>dispensaries on Cape Cod</strong>, we’re here to help you shop with confidence. <em><strong>Cape Cod Cannabis…Always worth the trip!</strong></em></p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Frequently Asked Questions"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "What is the Massachusetts cannabis purchase limit?"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Adults 21 and older may purchase up to <a href=\"/daily-purchase-limit-in-ma/\"><strong>2 ounces of cannabis flower or its legal equivalent</strong></a> from licensed<strong> recreational cannabis retailers</strong> in Massachusetts.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Does the purchase limit apply to all cannabis products?"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Yes. Flower, pre rolls, edibles, concentrates, tinctures, vape products, and other cannabis products all count toward the legal daily purchase limit based on Massachusetts regulations.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Can tourists buy cannabis in Massachusetts?"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Yes.<strong> Adults 21 and older with a VALID government issued photo ID</strong> may legally purchase recreational cannabis from licensed Massachusetts dispensaries.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Can I take cannabis home to another state?"
+    },
+    {
+     "t": "rich",
+     "html": "<p>No. Transporting cannabis across state lines remains illegal under federal law, even if cannabis is legal in both states.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Final Thoughts"
+    },
+    {
+     "t": "rich",
+     "html": "<p>The updated <strong>Massachusetts cannabis purchase limit</strong> (recreational) gives adult consumers more flexibility while continuing to support responsible cannabis use throughout the Commonwealth. Whether you’re a Massachusetts resident or visiting Cape Cod for a weekend getaway, understanding the current purchase limits helps ensure a safe, legal, and enjoyable dispensary experience.</p><p>At <strong>Cape Cod Cannabis</strong>, we’re proud to provide <a href=\"/intro-to-cannabis-101/\">trusted cannabis education</a> along with a carefully curated selection of premium flower, pre rolls, edibles, concentrates, tinctures, vape products, and CBD products. Visit our <a href=\"/directions/\"><strong>dispensary in Wellfleet</strong> </a>to learn more about Massachusetts cannabis laws and discover why Cape Cod Cannabis continues to be a trusted destination for cannabis education and quality products on Cape Cod.</p><p><img src=\"assets/source/5a5f9798-Canna-101-CCC-Logo-300x272.png\" alt=\"Cannabis 101: A Beginner's Guide to Cannabis from Cape Cod Cannabis in Wellfleet, MA\" width=\"300\" height=\"272\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/12/Canna-101-CCC-Logo-300x272.png?lossy=2&amp;strip=0&amp;webp=1\" data-master=\"assets/source/2119ffa4-Canna-101-CCC-Logo.png\"></p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Always worth the trip!"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "329af6c",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "postnav",
+     "prev": {
+      "srLabel": "Prev",
+      "title": "What Is CBD? A Beginner’s Guide",
+      "href": "/what-is-cbd-a-beginners-guide/"
+     },
+     "next": {
+      "title": "Massachusetts Cannabis Repeal: What Every Voter Should Know",
+      "srLabel": "Next",
+      "href": "/massachusetts-cannabis-repeal-2026/"
+     },
+     "ariaLabels": [
+      "Post Navigation"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": "9ba89d6",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "comments",
+     "note": "WordPress comment form; no comment backend in a static rebuild"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "comments": 1,
+  "heading": 21,
+  "meta": 1,
+  "postnav": 1,
+  "rich": 18
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [],
+  "aliasesResolved": [
+   {
+    "from": "https://capecodcannabis.com/2026/07/13/",
+    "to": "/2026/07/13/"
+   },
+   {
+    "from": "https://capecodcannabis.com/daily-purchase-limit-in-ma/",
+    "to": "/daily-purchase-limit-in-ma/"
+   },
+   {
+    "from": "/daily-purchase-limit-in-ma/",
+    "to": "/daily-purchase-limit-in-ma/"
+   },
+   {
+    "from": "/categories/flower",
+    "to": "/categories/flower/"
+   },
+   {
+    "from": "/categories/pre-rolls",
+    "to": "/categories/pre-rolls/"
+   },
+   {
+    "from": "/categories/edibles",
+    "to": "/categories/edibles/"
+   },
+   {
+    "from": "/categories/concentrates",
+    "to": "/categories/concentrates/"
+   },
+   {
+    "from": "/categories/tinctures",
+    "to": "/categories/tinctures/"
+   },
+   {
+    "from": "/categories/vaporizers",
+    "to": "/categories/vaporizers/"
+   },
+   {
+    "from": "https://capecodcannabis.com/things-to-do-near-cape-cod-cannabis-in-wellfleet-ma/",
+    "to": "/things-to-do-near-cape-cod-cannabis-in-wellfleet-ma/"
+   },
+   {
+    "from": "/directions",
+    "to": "/directions/"
+   },
+   {
+    "from": "https://capecodcannabis.com/intro-to-cannabis-101/",
+    "to": "/intro-to-cannabis-101/"
+   },
+   {
+    "from": "/categories/cbd",
+    "to": "/categories/cbd/"
+   },
+   {
+    "from": "/menu",
+    "to": "/menu/"
+   },
+   {
+    "from": "/intro-to-cannabis-101/",
+    "to": "/intro-to-cannabis-101/"
+   },
+   {
+    "from": "https://capecodcannabis.com/what-is-cbd-a-beginners-guide/",
+    "to": "/what-is-cbd-a-beginners-guide/"
+   },
+   {
+    "from": "https://capecodcannabis.com/massachusetts-cannabis-repeal-2026/",
+    "to": "/massachusetts-cannabis-repeal-2026/"
+   },
+   {
+    "from": "https://capecodcannabis.com/category/start-here/",
+    "to": "/category/start-here/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

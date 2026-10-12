@@ -1,0 +1,1534 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/categories/edibles/",
+ "sourceUrl": "https://capecodcannabis.com/categories/edibles/",
+ "requestedUrl": "https://capecodcannabis.com/categories/edibles",
+ "slug": "categories-edibles",
+ "kind": "category",
+ "wpTemplate": "category",
+ "derived": false,
+ "rawFile": "audit/raw/categories-edibles.html",
+ "rawSha256": "4fa3f3b0f5bb93da47ae0677f3417bdcd8d6c6446ae1b281949979f723d4f06f",
+ "regionKind": "body-minus-chrome",
+ "title": "Cannabis Edibles on Cape Cod | Cape Cod Cannabis",
+ "metaDescription": "Explore cannabis edibles at Cape Cod Cannabis in Wellfleet, MA, including THC gummies, chocolates, chews, drinks and more. Order online for pickup.",
+ "canonical": "https://capecodcannabis.com/categories/edibles/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "Cannabis Edibles on Cape Cod | Cape Cod Cannabis",
+  "description": "Explore cannabis edibles at Cape Cod Cannabis in Wellfleet, MA, including THC gummies, chocolates, chews, drinks and more. Order online for pickup.",
+  "url": "https://capecodcannabis.com/categories/edibles/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2026-09-29T16:21:11-04:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2025/02/Edibles-Featured-Image-1200-x-628-3_geo.png",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/2025/02/Edibles-Featured-Image-1200-x-628-3_geo.png",
+  "image:width": "1200",
+  "image:height": "628",
+  "image:alt": "Shop Edibles at Cape Cod Cannabis Dispensary near me on Cape Cod in Wellfleet, MA",
+  "image:type": "image/png"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438",
+  "published_time": "2025-02-11T17:25:11-05:00",
+  "modified_time": "2026-09-29T16:21:11-04:00"
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "Cannabis Edibles on Cape Cod | Cape Cod Cannabis",
+  "description": "Explore cannabis edibles at Cape Cod Cannabis in Wellfleet, MA, including THC gummies, chocolates, chews, drinks and more. Order online for pickup.",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2025/02/Edibles-Featured-Image-1200-x-628-3_geo.png"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Place",
+     "@id": "https://capecodcannabis.com/#place",
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.916265712481554",
+      "longitude": "-69.98840341462632"
+     },
+     "hasMap": "https://www.google.com/maps/search/?api=1&amp;query=41.916265712481554,-69.98840341462632",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     }
+    },
+    {
+     "@type": [
+      "LocalBusiness",
+      "Organization"
+     ],
+     "@id": "https://capecodcannabis.com/#organization",
+     "name": "Cape Cod Cannabis in Wellfleet - Best dispensary on Cape Cod.",
+     "url": "https://capecodcannabis.com",
+     "sameAs": [
+      "https://www.facebook.com/profile.php?id=100077867156438",
+      "https://twitter.com/capecodcanna"
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "logo": {
+      "@type": "ImageObject",
+      "@id": "https://capecodcannabis.com/#logo",
+      "url": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "contentUrl": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "caption": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+      "inLanguage": "en-US",
+      "width": "700",
+      "height": "500"
+     },
+     "openingHours": [
+      "Mo,Tu,We,Th,Fr,Sa,Su 8:00 - 8:00"
+     ],
+     "description": "Welcome to Cape Cod Cannabis, recognized by many as the Best Dispensary on Cape Cod, located in Wellfleet. Conveniently situated in the Route 6 shopping plaza in South Wellfleet, we are a trusted destination for both locals and visitors traveling from Provincetown, Truro, Wellfleet, Eastham, Orleans, Brewster, Dennis, Harwich, Chatham, Yarmouth, Sandwich and across the Cape and beyond.\n\nCape Cod Cannabis, your go-to cannabis haven, offers a carefully curated selection of high quality products, including flower, pre-rolls, edibles, vaporizers, concentrates, tinctures, topicals, CBD, accessories, and more. With a focus on education, selection, and a welcoming experience, we make it easy to explore and find what works best for you whether you are visiting the Cape or live here year round.",
+     "location": {
+      "@id": "https://capecodcannabis.com/#place"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/#logo"
+     },
+     "telephone": "+1-774-383-3133"
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://capecodcannabis.com/#website",
+     "url": "https://capecodcannabis.com",
+     "name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+     "alternateName": "Cape Cod Cannabis | Wellfleet's Top Rated Cannabis Store on Cape Cod",
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "https://capecodcannabis.com/wp-content/uploads/2025/02/Edibles-Featured-Image-1200-x-628-3_geo.png",
+     "url": "https://capecodcannabis.com/wp-content/uploads/2025/02/Edibles-Featured-Image-1200-x-628-3_geo.png",
+     "width": "1200",
+     "height": "628",
+     "caption": "Shop Edibles at Cape Cod Cannabis Dispensary near me on Cape Cod in Wellfleet, MA",
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/categories/edibles/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/categories/",
+        "name": "Categories"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "3",
+       "item": {
+        "@id": "https://capecodcannabis.com/categories/edibles/",
+        "name": "Edibles"
+       }
+      }
+     ]
+    },
+    {
+     "@type": "WebPage",
+     "@id": "https://capecodcannabis.com/categories/edibles/#webpage",
+     "url": "https://capecodcannabis.com/categories/edibles/",
+     "name": "Cannabis Edibles on Cape Cod | Cape Cod Cannabis",
+     "datePublished": "2025-02-11T17:25:11-05:00",
+     "dateModified": "2026-09-29T16:21:11-04:00",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2025/02/Edibles-Featured-Image-1200-x-628-3_geo.png"
+     },
+     "inLanguage": "en-US",
+     "breadcrumb": {
+      "@id": "https://capecodcannabis.com/categories/edibles/#breadcrumb"
+     }
+    },
+    {
+     "@type": "Person",
+     "@id": "https://capecodcannabis.com/categories/edibles/#author",
+     "name": "rrh_admin",
+     "image": {
+      "@type": "ImageObject",
+      "@id": "https://secure.gravatar.com/avatar/444a770f84c54c4c5cfaa3a2b8dd7994e0cf5817132852c6035420600d47d473?s=96&amp;d=mm&amp;r=g",
+      "url": "https://secure.gravatar.com/avatar/444a770f84c54c4c5cfaa3a2b8dd7994e0cf5817132852c6035420600d47d473?s=96&amp;d=mm&amp;r=g",
+      "caption": "rrh_admin",
+      "inLanguage": "en-US"
+     },
+     "sameAs": [
+      "https://capecodcannabis.com"
+     ],
+     "worksFor": {
+      "@id": "https://capecodcannabis.com/#organization"
+     }
+    },
+    {
+     "@type": "Article",
+     "headline": "Buy Cannabis Edibles on Cape Cod | Cape Cod Cannabis and save today at Cape Cod Cannabis Recreational",
+     "keywords": "edibles",
+     "datePublished": "2025-02-11T17:25:11-05:00",
+     "dateModified": "2026-09-29T16:21:11-04:00",
+     "author": {
+      "@id": "https://capecodcannabis.com/categories/edibles/#author",
+      "name": "rrh_admin"
+     },
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "description": "Shop our wide selection of marijuana Edibles and other cannabis products at Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA | Dispensary near me on Cape Cod.",
+     "name": "Buy Cannabis Edibles on Cape Cod | Cape Cod Cannabis and save today at Cape Cod Cannabis Recreational",
+     "@id": "https://capecodcannabis.com/categories/edibles/#richSnippet",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/categories/edibles/#webpage"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2025/02/Edibles-Featured-Image-1200-x-628-3_geo.png"
+     },
+     "inLanguage": "en-US",
+     "mainEntityOfPage": {
+      "@id": "https://capecodcannabis.com/categories/edibles/#webpage"
+     }
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "h1": "Shop Cannabis Edibles for sale in Wellfleet, MA",
+ "h1Source": {
+  "count": 1,
+  "visible": 1,
+  "hidden": 0
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Categories",
+   "href": "/categories/"
+  },
+  {
+   "label": "Edibles",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "visible",
+ "breadcrumbsSeparator": " / ",
+ "breadcrumbsLabel": "breadcrumbs",
+ "breadcrumbsInRegion": true,
+ "section": "Shop Menu",
+ "sections": [
+  {
+   "n": 0,
+   "id": "d92a52c",
+   "doc": "section#11803",
+   "cont": true,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "Shop Cannabis Edibles for sale in Wellfleet, MA"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "3880bc4d",
+   "doc": "single-post#13166",
+   "blocks": [
+    {
+     "t": "posts",
+     "kind": "posts.classic",
+     "items": [
+      {
+       "title": "Gummies",
+       "href": "/categories/edibles/gummies/"
+      },
+      {
+       "title": "Drinks",
+       "href": "/categories/edibles/drinks/"
+      },
+      {
+       "title": "Chocolates",
+       "href": "/categories/edibles/chocolates/"
+      },
+      {
+       "title": "Chews",
+       "href": "/categories/edibles/chews/"
+      },
+      {
+       "title": "Capsules & Tablets",
+       "href": "/categories/edibles/capsules-tablets/"
+      },
+      {
+       "title": "Live Rosin Gummies",
+       "href": "/categories/edibles/live-rosin-gummies/"
+      },
+      {
+       "title": "Live Resin Gummies",
+       "href": "/categories/edibles/live-resin-gummies/"
+      }
+     ]
+    },
+    {
+     "t": "divider"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "194d015",
+   "doc": "single-post#13166",
+   "hiddenAll": true,
+   "dev": [],
+   "blocks": [
+    {
+     "t": "products",
+     "source": "joint",
+     "widget": "slider",
+     "via": "widget",
+     "params": {
+      "category": "FLOWER",
+      "weights": "1oz",
+      "pricemax": "115",
+      "sort": "Price: Low to High",
+      "limit": 15
+     },
+     "filters": [
+      {
+       "field": "category",
+       "values": [
+        "FLOWER"
+       ],
+       "type": "any"
+      },
+      {
+       "field": "variants.option",
+       "values": [
+        "1oz"
+       ],
+       "type": "any"
+      },
+      {
+       "field": "variants.price",
+       "values": [
+        {
+         "name": "Price",
+         "to": 115
+        }
+       ],
+       "type": "any"
+      }
+     ],
+     "sort": [
+      {
+       "field": "lowestPrice",
+       "direction": "asc"
+      }
+     ],
+     "limit": 15,
+     "label": null,
+     "clientRendered": true,
+     "dev": [],
+     "hiddenAll": true
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": "b235c69",
+   "doc": "wp-post#120791",
+   "dev": [
+    "widescreen",
+    "desktop",
+    "tablet"
+   ],
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><em>Shop the best edibles on Cape Cod – gummies, chocolates, beverages, and more available at <strong>Cape Cod Cannabis</strong> in Wellfleet. </em>Our dispensary, Wellfleet’s first, carries a wide range of infused treats in various THC and CBD ratios. Whether you’re new to edibles or a seasoned consumer, we’ve got the perfect dose and flavor to match your vibe. Shop online and pick up in-store—convenient, discreet, and delicious.</p>",
+     "dev": [
+      "widescreen",
+      "desktop",
+      "tablet"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "id": "3215772",
+   "doc": "wp-post#120791",
+   "hiddenAll": true,
+   "dev": [],
+   "blocks": [
+    {
+     "t": "carousel",
+     "kind": "nested",
+     "editorTitles": [
+      "Mix N Match",
+      "Live Rosin Gummies"
+     ],
+     "settings": {
+      "autoplay": "yes",
+      "autoplay_speed": 2500,
+      "slides_to_show": "1",
+      "slides_to_scroll": "1"
+     },
+     "slides": [
+      {
+       "blocks": [
+        {
+         "t": "image",
+         "ref": "assets/source/9534b94a-Mix-n-Match-Edibles-Web-Banner-1580x200-2-rkxrjo89joorqv6cy468oj12qkc0l8y8nwg4duu5sg.png",
+         "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/elementor/thumbs/Mix-n-Match-Edibles-Web-Banner-1580x200-2-rkxrjo89joorqv6cy468oj12qkc0l8y8nwg4duu5sg.png?lossy=2&strip=0&webp=1",
+         "alt": "Mix & Match Edible Bundles and save at Cape Cod Cannabis in Wellfleet, MA",
+         "titleAttr": "Mix & Match Edible Bundles and save at Cape Cod Cannabis in Wellfleet, MA",
+         "href": "/offers/edibles-2-for-10-off-4-for-20-off/",
+         "dev": []
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "image",
+         "ref": "assets/source/a983b057-Blue-Live-Rosin-Gummies-banner-ad-1580-x-200-2-1.png",
+         "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/02/Blue-Live-Rosin-Gummies-banner-ad-1580-x-200-2-1.png?lossy=2&strip=0&webp=1",
+         "alt": "Shop Live Rosin Gummies Bundle and save at Cape Cod Cannabis in Wellfleet!",
+         "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+         "w": 1580,
+         "h": 200,
+         "href": "/offers/gummies-live-rosin-3-for-60-5-for-75/",
+         "dev": []
+        }
+       ]
+      }
+     ],
+     "ariaLabels": [
+      "Carousel",
+      "1 of 2",
+      "2 of 2"
+     ],
+     "dev": [],
+     "hiddenAll": true
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "id": "b83b1e6",
+   "doc": "wp-post#120791",
+   "hiddenAll": true,
+   "dev": [],
+   "blocks": [
+    {
+     "t": "carousel",
+     "kind": "nested",
+     "editorTitles": [
+      "Live Rosin",
+      "1906",
+      "Zzzonked"
+     ],
+     "settings": {
+      "autoplay": "yes",
+      "autoplay_speed": 2500,
+      "slides_to_show": "3",
+      "slides_to_scroll": "1"
+     },
+     "slides": [
+      {
+       "blocks": [
+        {
+         "t": "image",
+         "ref": null,
+         "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/10/3a53dcb1-08ce-4120-ae22-5b8a5c98ecd4.jpeg.jpeg?lossy=2&strip=0&webp=1",
+         "missing": "download-failed",
+         "alt": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+         "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+         "href": "/offers/live-rosin-gummies-3-for-60-5-for-75/",
+         "dev": []
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "image",
+         "ref": null,
+         "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/10/5748de80-6ac7-4ed9-bb68-7a917d9087ff.jpeg.jpeg?lossy=2&strip=0&webp=1",
+         "missing": "download-failed",
+         "alt": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+         "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+         "href": "/offers/1906-zonked-kanha-double-baked-bundle/",
+         "dev": []
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "image",
+         "ref": null,
+         "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/10/657623f6-44a2-4e92-bdcf-68208f03682c.jpeg.jpeg?lossy=2&strip=0&webp=1",
+         "missing": "download-failed",
+         "alt": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+         "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+         "href": "/offers/500mg-syrups-3-for-99/",
+         "hrefStatus": "dead",
+         "dev": []
+        }
+       ]
+      }
+     ],
+     "ariaLabels": [
+      "Carousel",
+      "1 of 3",
+      "2 of 3",
+      "3 of 3"
+     ],
+     "dev": [],
+     "hiddenAll": true
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "id": "8add92e",
+   "doc": "wp-post#120791",
+   "dev": [
+    "widescreen"
+   ],
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>*Bundle pricing is only in-store and will not reflect on website or on pre-orders! Only products listed in each bundle applies!</p>",
+     "dev": [
+      "widescreen"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "id": "1fce022c",
+   "doc": "wp-post#120791",
+   "hiddenAll": true,
+   "dev": [],
+   "blocks": [
+    {
+     "t": "products",
+     "source": "joint",
+     "widget": "slider",
+     "via": "widget",
+     "params": {
+      "category": "EDIBLES",
+      "subcategory": "GUMMIES",
+      "pricemin": "7",
+      "pricemax": "12.50",
+      "sort": "CBD: Low to High",
+      "limit": "25"
+     },
+     "filters": [
+      {
+       "field": "category",
+       "values": [
+        "EDIBLES"
+       ],
+       "type": "any"
+      },
+      {
+       "field": "subCategory",
+       "values": [
+        "GUMMIES"
+       ],
+       "type": "any"
+      },
+      {
+       "field": "variants.price",
+       "values": [
+        {
+         "name": "Price",
+         "from": 7
+        }
+       ],
+       "type": "any"
+      },
+      {
+       "field": "variants.price",
+       "values": [
+        {
+         "name": "Price",
+         "to": 12.5
+        }
+       ],
+       "type": "any"
+      }
+     ],
+     "sort": [
+      {
+       "field": "potencyCbdRangeHigh",
+       "direction": "asc"
+      }
+     ],
+     "limit": 25,
+     "label": null,
+     "clientRendered": true,
+     "dev": [],
+     "hiddenAll": true
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "id": "21d8124",
+   "doc": "wp-post#120791",
+   "blocks": [
+    {
+     "t": "products",
+     "source": "joint",
+     "widget": "menu",
+     "via": "widget",
+     "params": {
+      "category": "EDIBLES",
+      "sort": "Price: High to Low",
+      "limit": 20
+     },
+     "filters": [
+      {
+       "field": "category",
+       "values": [
+        "EDIBLES"
+       ],
+       "type": "any"
+      }
+     ],
+     "sort": [
+      {
+       "field": "lowestPrice",
+       "direction": "desc"
+      }
+     ],
+     "limit": 20,
+     "label": null,
+     "clientRendered": true
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "id": "0a76027",
+   "doc": "wp-post#120791",
+   "hiddenAll": true,
+   "dev": [],
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Edible FAQ's",
+     "dev": [],
+     "hiddenAll": true
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "id": "1281364",
+   "doc": "wp-post#120791",
+   "hiddenAll": true,
+   "dev": [],
+   "blocks": [
+    {
+     "t": "faq",
+     "kind": "nested-accordion",
+     "items": [
+      {
+       "q": "What edible dosage is recommended for visitors new to cannabis?",
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>For beginners we recommend starting with 2.5–5mg of THC and waiting before consuming more. Speak with our team member to learn more about our product catalog at Cape Cod Cannabis in Wellfleet. </p>",
+         "dev": []
+        }
+       ]
+      },
+      {
+       "q": "What types of edibles does Cape Cod Cannabis in Wellfleet sell?",
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Cape Cod Cannabis offers a rotating selection of Massachusetts-made edibles, including:</p><ul><li><p>Gummies</p></li><li><p>Chocolates</p></li><li><p>Baked goods</p></li><li><p>Cannabis-infused beverages</p></li><li><p>Low-dose and high-dose options</p></li></ul><p>Availability may change based on season and demand.</p>",
+         "dev": []
+        }
+       ]
+      },
+      {
+       "q": "Do you sell vegan or allergen-friendly edibles?",
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Some edible options are vegan or made without common allergens. Availability varies, and our team members at Cape Cod Cannabis can help you review ingredient information.</p>",
+         "dev": []
+        }
+       ]
+      },
+      {
+       "q": "Why buy cannabis edibles from Cape Cod Cannabis in Wellfleet?",
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>We offer:</p><ul><li><p>Licensed, lab-tested Massachusetts edibles</p></li><li><p>A wide variety of dosing options</p></li><li><p>Friendly, educational guidance</p></li><li><p>Convenient access for all on the Cape! </p></li></ul>",
+         "dev": []
+        }
+       ]
+      }
+     ],
+     "ariaLabels": [
+      "Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys"
+     ],
+     "dev": [],
+     "hiddenAll": true
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "id": "0846090",
+   "doc": "wp-post#120791",
+   "blocks": [
+    {
+     "t": "faq",
+     "kind": "nested-accordion",
+     "items": [
+      {
+       "q": "CLICK TO VIEW CANNABIS EDIBLES FAQ'S",
+       "blocks": [
+        {
+         "t": "faq",
+         "kind": "nested-accordion",
+         "items": [
+          {
+           "q": "What edible dosage is recommended for visitors new to cannabis?",
+           "blocks": [
+            {
+             "t": "rich",
+             "html": "<p>For beginners we recommend starting with 2.5–5mg of THC and waiting before consuming more. Speak with our team member to learn more about our product catalog at Cape Cod Cannabis in Wellfleet. </p>"
+            }
+           ]
+          },
+          {
+           "q": "What types of edibles does Cape Cod Cannabis in Wellfleet sell?",
+           "blocks": [
+            {
+             "t": "rich",
+             "html": "<p>Cape Cod Cannabis offers a rotating selection of Massachusetts-made edibles, including:</p><p>– Gummies</p><p>– Chocolates</p><p>– Baked goods</p><p>– Cannabis-infused beverages</p><p>– Low-dose and high-dose options</p><p>*Availability may change based on season and demand.</p>"
+            }
+           ]
+          },
+          {
+           "q": "Do you sell vegan or allergen-friendly edibles?",
+           "blocks": [
+            {
+             "t": "rich",
+             "html": "<p>Some edible options are vegan or made without common allergens. Availability varies, and our team members at Cape Cod Cannabis can help you review ingredient information.</p>"
+            }
+           ]
+          },
+          {
+           "q": "Why buy cannabis edibles from Cape Cod Cannabis in Wellfleet?",
+           "blocks": [
+            {
+             "t": "rich",
+             "html": "<p>We offer:</p><p>– Licensed, lab-tested Massachusetts edibles</p><p>– A wide variety of dosing options</p><p>– Friendly and educational guidance</p><p>– Convenient access for anyone on Cape<br>(Rt. 6 Shopping Plaza in South Wellfleet)</p>"
+            }
+           ]
+          }
+         ],
+         "ariaLabels": [
+          "Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "catalog": [
+  {
+   "section": "194d015",
+   "widget": "slider",
+   "label": null,
+   "filters": [
+    {
+     "field": "category",
+     "values": [
+      "FLOWER"
+     ],
+     "type": "any"
+    },
+    {
+     "field": "variants.option",
+     "values": [
+      "1oz"
+     ],
+     "type": "any"
+    },
+    {
+     "field": "variants.price",
+     "values": [
+      {
+       "name": "Price",
+       "to": 115
+      }
+     ],
+     "type": "any"
+    }
+   ],
+   "sort": [
+    {
+     "field": "lowestPrice",
+     "direction": "asc"
+    }
+   ],
+   "limit": 15,
+   "params": {
+    "category": "FLOWER",
+    "weights": "1oz",
+    "pricemax": "115",
+    "sort": "Price: Low to High",
+    "limit": 15
+   },
+   "hiddenAll": true
+  },
+  {
+   "section": "1fce022c",
+   "widget": "slider",
+   "label": null,
+   "filters": [
+    {
+     "field": "category",
+     "values": [
+      "EDIBLES"
+     ],
+     "type": "any"
+    },
+    {
+     "field": "subCategory",
+     "values": [
+      "GUMMIES"
+     ],
+     "type": "any"
+    },
+    {
+     "field": "variants.price",
+     "values": [
+      {
+       "name": "Price",
+       "from": 7
+      }
+     ],
+     "type": "any"
+    },
+    {
+     "field": "variants.price",
+     "values": [
+      {
+       "name": "Price",
+       "to": 12.5
+      }
+     ],
+     "type": "any"
+    }
+   ],
+   "sort": [
+    {
+     "field": "potencyCbdRangeHigh",
+     "direction": "asc"
+    }
+   ],
+   "limit": 25,
+   "params": {
+    "category": "EDIBLES",
+    "subcategory": "GUMMIES",
+    "pricemin": "7",
+    "pricemax": "12.50",
+    "sort": "CBD: Low to High",
+    "limit": "25"
+   },
+   "hiddenAll": true
+  },
+  {
+   "section": "21d8124",
+   "widget": "menu",
+   "label": null,
+   "filters": [
+    {
+     "field": "category",
+     "values": [
+      "EDIBLES"
+     ],
+     "type": "any"
+    }
+   ],
+   "sort": [
+    {
+     "field": "lowestPrice",
+     "direction": "desc"
+    }
+   ],
+   "limit": 20,
+   "params": {
+    "category": "EDIBLES",
+    "sort": "Price: High to Low",
+    "limit": 20
+   }
+  }
+ ],
+ "blockCounts": {
+  "carousel": 2,
+  "divider": 1,
+  "faq": 3,
+  "heading": 2,
+  "image": 5,
+  "posts": 1,
+  "products": 3,
+  "rich": 10
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [
+   {
+    "section": "b235c69",
+    "t": "rich",
+    "dev": [
+     "widescreen",
+     "desktop",
+     "tablet"
+    ],
+    "text": "shop the best edibles on cape cod – gummies, chocolates, beverages, and more available at cape cod cannabis in wellfleet. our dispensary, wellfleet's first, carries a wide range of infused treats in various thc and cbd ratios. whether you'r"
+   },
+   {
+    "section": "8add92e",
+    "t": "rich",
+    "dev": [
+     "widescreen"
+    ],
+    "text": "*bundle pricing is only in-store and will not reflect on website or on pre-orders! only products listed in each bundle applies!"
+   }
+  ],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [
+   {
+    "href": "/offers/edibles-2-for-10-off-4-for-20-off/",
+    "from": "https://capecodcannabis.com/offers/edibles-2-for-10-off-4-for-20-off/",
+    "status": "blocked"
+   },
+   {
+    "href": "/offers/gummies-live-rosin-3-for-60-5-for-75/",
+    "from": "/offers/gummies-live-rosin-3-for-60-5-for-75/",
+    "status": "blocked"
+   },
+   {
+    "href": "/offers/live-rosin-gummies-3-for-60-5-for-75/",
+    "from": "/offers/live-rosin-gummies-3-for-60-5-for-75/",
+    "status": "blocked"
+   },
+   {
+    "href": "/offers/1906-zonked-kanha-double-baked-bundle/",
+    "from": "/offers/1906-zonked-kanha-double-baked-bundle/",
+    "status": "blocked"
+   },
+   {
+    "href": "/offers/500mg-syrups-3-for-99/",
+    "from": "/offers/500mg-syrups-3-for-99/",
+    "status": "dead"
+   }
+  ],
+  "aliasesResolved": [
+   {
+    "from": "https://capecodcannabis.com/categories/edibles/gummies/",
+    "to": "/categories/edibles/gummies/"
+   },
+   {
+    "from": "https://capecodcannabis.com/categories/edibles/drinks/",
+    "to": "/categories/edibles/drinks/"
+   },
+   {
+    "from": "https://capecodcannabis.com/categories/edibles/chocolates/",
+    "to": "/categories/edibles/chocolates/"
+   },
+   {
+    "from": "https://capecodcannabis.com/categories/edibles/chews/",
+    "to": "/categories/edibles/chews/"
+   },
+   {
+    "from": "https://capecodcannabis.com/categories/edibles/capsules-tablets/",
+    "to": "/categories/edibles/capsules-tablets/"
+   },
+   {
+    "from": "https://capecodcannabis.com/categories/edibles/live-rosin-gummies/",
+    "to": "/categories/edibles/live-rosin-gummies/"
+   },
+   {
+    "from": "https://capecodcannabis.com/categories/edibles/live-resin-gummies/",
+    "to": "/categories/edibles/live-resin-gummies/"
+   },
+   {
+    "from": "https://capecodcannabis.com/categories/",
+    "to": "/categories/"
+   }
+  ],
+  "imagesMissing": [
+   {
+    "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/10/3a53dcb1-08ce-4120-ae22-5b8a5c98ecd4.jpeg.jpeg?lossy=2&strip=0&webp=1",
+    "missing": "download-failed"
+   },
+   {
+    "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/10/5748de80-6ac7-4ed9-bb68-7a917d9087ff.jpeg.jpeg?lossy=2&strip=0&webp=1",
+    "missing": "download-failed"
+   },
+   {
+    "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/10/657623f6-44a2-4e92-bdcf-68208f03682c.jpeg.jpeg?lossy=2&strip=0&webp=1",
+    "missing": "download-failed"
+   }
+  ],
+  "h1InRich": 0
+ }
+}

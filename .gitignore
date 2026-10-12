@@ -18,3 +18,5 @@ Thumbs.db
 /tools/tests/proj-*/
 /tools/tests/brk-*/
 /tools/tests/qa-fixture/report-*.json
+# dist/ is generated and reproducible (node src/build.mjs); a preview is published from a copy, never from here.
+/dist/

@@ -1,0 +1,36 @@
+/* stub.css - minimal layout for the stub theme (PIPELINE-SITE; lane H1 rework); the real theme replaces it. */
+@font-face { font-family: "Roboto"; font-style: normal; font-weight: 100 900; font-display: swap; src: url("asset:fonts/roboto-normal-latin.woff2") format("woff2"); }
+:root { --ink: #1b2a33; --paper: #ffffff; --muted: #5b6b75; --line: #d7e0e5; --accent: #015375; --star: #b8860b; color-scheme: light; }
+* { box-sizing: border-box; }
+body { margin: 0; font: 16px/1.5 "Roboto", system-ui, sans-serif; color: var(--ink); background: var(--paper); }
+img { max-width: 100%; height: auto; }
+a { color: var(--accent); }
+.skip { position: absolute; left: -9999px; } .skip:focus { left: 8px; top: 8px; background: #fff; padding: 8px; z-index: 10; }
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
+.site-header, main, .site-footer { max-width: 1200px; margin: 0 auto; padding: 16px; }
+.site-header .logo img { width: 120px; }
+.site-header ul { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 4px 16px; }
+.site-header ul ul { display: block; padding-left: 16px; }
+.strip ul { overflow-x: auto; flex-wrap: nowrap; }
+.nav-toggle { width: 32px; height: 32px; border: 1px solid var(--line); background: #fff; border-radius: 6px; cursor: pointer; }
+.nav-toggle::before { content: "\2630"; }
+.breadcrumbs p { margin: 0 0 12px; color: var(--muted); }
+.site-footer { border-top: 1px solid var(--line); display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }
+.img-missing { display: block; background: repeating-linear-gradient(45deg, #eef2f4, #eef2f4 8px, #e3e9ec 8px, #e3e9ec 16px); min-height: 80px; aspect-ratio: 16/9; }
+.posts, .gallery, .product-list { list-style: none; padding: 0; display: grid; gap: 16px; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); }
+.gallery .title, .gallery .caption { display: block; }
+.pagination a, .pagination span { margin-right: 8px; }
+.button { display: inline-block; padding: 8px 16px; border: 1px solid var(--accent); border-radius: 8px; text-decoration: none; }
+.chip { display: inline-block; padding: 2px 8px; border: 1px solid var(--line); border-radius: 999px; }
+.stars { display: inline-block; min-width: 5em; height: 1em; margin-right: 6px; vertical-align: -0.1em; background: linear-gradient(90deg, var(--star) 0 100%); -webkit-mask: repeating-linear-gradient(90deg, #000 0 0.8em, transparent 0.8em 1em); mask: repeating-linear-gradient(90deg, #000 0 0.8em, transparent 0.8em 1em); }
+.review p { margin: 0; } .review .text { margin-top: 4px; } .review { padding: 12px 0; border-bottom: 1px solid var(--line); }
+.review .author { font-weight: 600; }
+.snapshot { color: var(--muted); }
+.hotspot details { margin: 4px 0; }
+iframe { width: 100%; min-height: 320px; border: 0; }
+.age-gate { max-width: 420px; text-align: center; }
+.age-gate::backdrop { background: rgba(0, 0, 0, .7); }
+.age-error, .age-cookies { color: #8a1c1c; font-weight: 600; }
+.popup { max-width: min(92vw, 640px); padding: 16px; }
+.popup::backdrop { background: rgba(0, 0, 0, .6); }
+.popup-close { text-align: right; margin: 8px 0 0; }

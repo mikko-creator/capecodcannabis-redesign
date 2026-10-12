@@ -1,0 +1,950 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/event/cna-pop-up-event/",
+ "sourceUrl": "https://capecodcannabis.com/event/cna-pop-up-event/",
+ "requestedUrl": "https://capecodcannabis.com/event/cna-pop-up-event",
+ "slug": "event-cna-pop-up-event",
+ "kind": "event",
+ "wpTemplate": "event",
+ "derived": false,
+ "rawFile": "audit/raw/event-cna-pop-up-event.html",
+ "rawSha256": "688e7f9745780f101362a48bc3422af1a44a904d93e6c66b38791d781212ce0f",
+ "regionKind": "body-minus-chrome",
+ "title": "CNA Pop-Up Event | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+ "metaDescription": "Every cannabis harvest is different. Even with premium genetics and expert cultivation methods, environmental factors and phenotype variation can lead to",
+ "canonical": "https://capecodcannabis.com/event/cna-pop-up-event/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "CNA Pop-Up Event | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "Every cannabis harvest is different. Even with premium genetics and expert cultivation methods, environmental factors and phenotype variation can lead to",
+  "url": "https://capecodcannabis.com/event/cna-pop-up-event/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2026-07-01T13:56:34-04:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2024/03/CCC-generic-pop-up-logo_200px.png",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/2024/03/CCC-generic-pop-up-logo_200px.png",
+  "image:width": "200",
+  "image:height": "200",
+  "image:alt": "Cape Cod Cannabis Pop-Up Event",
+  "image:type": "image/png"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438",
+  "tag": [
+   "cape cod cannabis",
+   "flower",
+   "gummies",
+   "live rosin",
+   "pop-up",
+   "pop-up event",
+   "pre-rolls"
+  ]
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "CNA Pop-Up Event | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "Every cannabis harvest is different. Even with premium genetics and expert cultivation methods, environmental factors and phenotype variation can lead to",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2024/03/CCC-generic-pop-up-logo_200px.png"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/event/cna-pop-up-event/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/events-calendar/",
+        "name": "Events"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "3",
+       "item": {
+        "@id": "https://capecodcannabis.com/event/cna-pop-up-event/",
+        "name": "CNA Pop-Up Event"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  },
+  [
+   {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "CNA Pop-Up Event",
+    "description": "&lt;p&gt;Learn more about CNA Stores brands Tumble &amp; Toke and Claravita products. Quality flower, pre-rolls, and fast-acting Live Rosin gummies and more... &nbsp; &nbsp; Tumble &amp; Toke Flower &amp; Pre-Rolls [&hellip;]&lt;/p&gt;\\n",
+    "image": "https://capecodcannabis.com/wp-content/uploads/2024/03/CCC-generic-pop-up-logo_200px.png",
+    "url": "https://capecodcannabis.com/event/cna-pop-up-event/",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "startDate": "2026-04-17T16:00:00-04:00",
+    "endDate": "2026-04-17T18:00:00-04:00",
+    "location": {
+     "@type": "Place",
+     "name": "Cape Cod Cannabis",
+     "description": "",
+     "url": "",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressLocality": "Wellfleet",
+      "addressRegion": "MA",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "telephone": "774-383-3133",
+     "sameAs": "https://www.capecodcannabis.com"
+    },
+    "performer": "Organization"
+   }
+  ]
+ ],
+ "h1": "CNA Pop-Up Event",
+ "h1Source": {
+  "count": 1,
+  "visible": 1,
+  "hidden": 0
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Events",
+   "href": "/events-calendar/"
+  },
+  {
+   "label": "CNA Pop-Up Event",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "jsonld",
+ "section": null,
+ "sections": [
+  {
+   "n": 0,
+   "id": "4d8f4efa",
+   "doc": "tec_event_single_dynamic#92071",
+   "blocks": [
+    {
+     "t": "event-field",
+     "field": "calendar_link",
+     "text": "« All Events",
+     "links": [
+      {
+       "label": "« All Events",
+       "href": "/events-calendar/"
+      }
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "status",
+     "text": "This event has passed."
+    },
+    {
+     "t": "event-field",
+     "field": "title",
+     "text": "CNA Pop-Up Event",
+     "level": 1
+    },
+    {
+     "t": "event-field",
+     "field": "datetime",
+     "text": "April 17, 2026\n@ 4:00 pm\n- 6:00 pm"
+    },
+    {
+     "t": "image",
+     "ref": "assets/source/3f6a76d9-CCC-generic-pop-up-logo_200px.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2024/03/CCC-generic-pop-up-logo_200px.png?lossy=2&strip=0&webp=1",
+     "alt": "Cape Cod Cannabis Pop-Up Event",
+     "w": 200,
+     "h": 200,
+     "kind": "event-image"
+    },
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "Learn more about CNA Stores brands Tumble & Toke and Claravita products. Quality flower, pre-rolls, and fast-acting Live Rosin gummies and more…"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Tumble & Toke Flower & Pre-Rolls"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Every cannabis harvest is different. Even with premium genetics and expert cultivation methods, environmental factors and phenotype variation can lead to slight differences in bud size, cannabinoid content, or visual appearance. While these lots may fall short of our strict top-shelf standards, they still produce flavorful, effective flower that’s ideal for everyday use.</p><p><p><img alt=\"Super Silver Haze OG image 0\" width=\"170\" height=\"170\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://images.dutchie.com/b0b9e58a28a38399ef490ed8f3e1a7f9\" data-missing=\"not-inventoried\"><img alt=\"Tropicana Cherry image 0\" width=\"171\" height=\"171\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://images.dutchie.com/e379125f486f36400b8d3da3df02f8b8\" data-missing=\"not-inventoried\"></p></p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p><a href=\"/brands/tumble-toke/\"><strong>Click here to shop Tumble &amp; Toke products!</strong></a></p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Claravita Edibles, Flower & Pre-Rolls"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Through extensive research and development, we, as both consumers and producers, have perfected our infused gummies to achieve the perfect balance of effects. With the support and input of our community here in Massachusetts, we’ve fine-tuned our gummies to bring positive results to the market. We can’t wait for you to experience them.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Locally Grown Veteran Owned"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Now, we’re thrilled to announce the newest addition to the Claravita family line: our top-quality cannabis flower. Sourced from our locally grown, veteran-owned operation in Amesbury, Massachusetts, our top-shelf cannabis flower embodies our commitment to excellence and sustainability.</p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p><p><img alt=\"Wildberry | Lullaby Lights | 1:1 THC : CBN | Live Rosin | Fast-Acting | 10pk/20serv image 0\" width=\"175\" height=\"175\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://images.dutchie.com/ee7902552abf87c6c381371a83d66cd5\" data-missing=\"not-inventoried\"> <img alt=\"Gas GPT | 5pk | 0.5g image 0\" width=\"175\" height=\"175\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://images.dutchie.com/354fe45807d5da36a3b89900254ef337\" data-missing=\"not-inventoried\"> <img alt=\"24K x Peaches image 0\" width=\"175\" height=\"175\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://images.dutchie.com/4275a24a66841a9c891c01124c9c763a\" data-missing=\"not-inventoried\"> <img alt=\"Strawberry Syrup image 0\" width=\"172\" height=\"172\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://images.dutchie.com/23aa3264c13ef9dd8243155a6537e5f7\" data-missing=\"not-inventoried\"></p> </p><p><a href=\"/brands/claravita/\"><strong>Click here to shop Claravita products!</strong></a></p>"
+    },
+    {
+     "t": "event-field",
+     "field": "venue",
+     "text": "Cape Cod Cannabis\n1446 US-6\nWellfleet,MA02667United States\n+ Google Map\n774-383-3133\nView Venue Website",
+     "links": [
+      {
+       "label": "+ Google Map",
+       "href": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=1446+US-6+Wellfleet+MA+02667+United+States"
+      },
+      {
+       "label": "774-383-3133",
+       "href": "tel:774-383-3133"
+      },
+      {
+       "label": "View Venue Website",
+       "href": "/"
+      }
+     ],
+     "ariaLabels": [
+      "Venue location map"
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "tags",
+     "text": "Tags:\ncape cod cannabis,\nflower,\ngummies,\nlive rosin,\npop-up,\npop-up event,\npre-rolls",
+     "links": [
+      {
+       "label": "cape cod cannabis",
+       "href": "/tag/cape-cod-cannabis/"
+      },
+      {
+       "label": "flower",
+       "href": "/tag/flower/"
+      },
+      {
+       "label": "gummies",
+       "href": "/tag/gummies/"
+      },
+      {
+       "label": "live rosin",
+       "href": "/tag/live-rosin/"
+      },
+      {
+       "label": "pop-up",
+       "href": "/tag/pop-up/"
+      },
+      {
+       "label": "pop-up event",
+       "href": "/tag/pop-up-event/"
+      },
+      {
+       "label": "pre-rolls",
+       "href": "/tag/pre-rolls/"
+      }
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "export",
+     "text": "Add to calendar\nGoogle Calendar\niCalendar\nOutlook 365\nOutlook Live",
+     "links": [
+      {
+       "label": "Google Calendar",
+       "href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20260417T160000/20260417T180000&text=CNA%20Pop-Up%20Event&details=%3Ch4%3E%3Cstrong%3ELearn+more+about+CNA+Stores+brands+Tumble+%26amp%3B+Toke+and+Claravita+products.+Quality+flower%2C+pre-rolls%2C+and+fast-acting+Live+Rosin+gummies+and+more...%3C%2Fstrong%3E%3C%2Fh4%3E%26nbsp%3B%26nbsp%3B%3Ch3%3E%3Cstrong%3ETumble+%26amp%3B+Toke+Flower+%26amp%3B+Pre-Rolls%3C%2Fstrong%3E%3C%2Fh3%3EEvery+cannabis+harvest+is+different.+Even+with+premium+genetics+and+expert+cultivation+methods%2C+environmental+factors+and+phenotype+variation+can+lead+to+slight+differences+in+bud+size%2C+cannabinoid+content%2C+or+visual+appearance.+While+these+lots+may+fall+short+of+our+strict+top-shelf+standards%2C+they+still+produce+flavorful%2C+effective+flower+that%E2%80%99s+ideal+for+everyday+use.%26nbsp%3B%3Ccenter%3E%3Cimg+class%3D%22alignnone%22+src%3D%22https%3A%2F%2Fimages.dutchie.com%2Fb0b9e58a28a38399ef490ed8f3e1a7f9%22+alt%3D%22Super+Silver+Haze+OG+image+0%22+width%3D%22170%22+height%3D%22170%22+%2F%3E%3Cimg+class%3D%22alignnone%22+src%3D%22https%3A%2F%2Fimages.dutchie.com%2Fe379125f486f36400b8d3da3df02f8b8%22+alt%3D%22Tropicana+Cherry+image+0%22+width%3D%22171%22+height%3D%22171%22+%2F%3E%3C%2Fcenter%3E%3Ch3%3E%3C%2Fh3%3E%3Ca+href%3D%22%2Fbrand+%28View+Full+event+Description+Here%3A+https%3A%2F%2Fcapecodcannabis.com%2Fevent%2Fcna-pop-up-event%2F%29&location=Cape%20Cod%20Cannabis,%201446%20US-6,%20Wellfleet,%20MA,%2002667,%20United%20States&trp=false&ctz=America/New_York&sprop=website:https://capecodcannabis.com"
+      },
+      {
+       "label": "iCalendar",
+       "href": "/event/cna-pop-up-event/?ical=1"
+      },
+      {
+       "label": "Outlook 365",
+       "href": "https://outlook.office.com/owa/?path=/calendar/action/compose&rrv=addevent&startdt=2026-04-17T16%3A00%3A00-04%3A00&enddt=2026-04-17T18%3A00%3A00-04%3A00&location=Cape%20Cod%20Cannabis,%201446%20US-6,%20Wellfleet,%20MA,%2002667,%20United%20States&subject=CNA%20Pop-Up%20Event&body=Learn%20more%20about%20CNA%20Stores%20brands%20Tumble%20%26amp%3B%20Toke%20and%20Claravita%20products.%20Quality%20flower%2C%20pre-rolls%2C%20and%20fast-acting%20Live%20Rosin%20gummies%20and%20more...%26nbsp%3B%26nbsp%3BTumble%20%26amp%3B%20Toke%20Flower%20%26amp%3B%20Pre-RollsEvery%20cannabis%20harvest%20is%20different.%20Even%20with%20premium%20genetics%20and%20expert%20cultivation%20methods%2C%20environmental%20factors%20and%20phenotype%20variation%20can%20lead%20to%20slight%20differences%20in%20bud%20size%2C%20cannabinoid%20content%2C%20or%20visual%20appearance.%20While%20these%20lots%20may%20fall%20short%20of%20our%20strict%20top-shelf%20standards%2C%20they%20still%20produce%20flavorful%2C%20effective%20flower%20that%E2%80%99s%20ideal%20for%20everyday%20use.%26nbsp%3BClick%20here%20to%20shop%20Tumble%20%26amp%3B%20Toke%20products%21%26nbsp%3B%26nbsp%3B%26nbsp%3BClaravita%20Edibles%2C%20Flower%20%26amp%3B%20Pre-RollsThrough%20extensive%20research%20and%20development%2C%20we%2C%20as%20both%20consumers%20and%20producers%2C%20have%20perfected%20our%20infused%20gummies%20to%20achieve%20the%20perfect%20balance%20of%20effects.%20With%20the%20%20%28View%20Full%20Event%20Description%20Here%3A%20https%3A%2F%2Fcapecodcannabis.com%2Fevent%2Fcna-pop-up-event%2F%29"
+      },
+      {
+       "label": "Outlook Live",
+       "href": "https://outlook.live.com/owa/?path=/calendar/action/compose&rrv=addevent&startdt=2026-04-17T16%3A00%3A00-04%3A00&enddt=2026-04-17T18%3A00%3A00-04%3A00&location=Cape%20Cod%20Cannabis,%201446%20US-6,%20Wellfleet,%20MA,%2002667,%20United%20States&subject=CNA%20Pop-Up%20Event&body=Learn%20more%20about%20CNA%20Stores%20brands%20Tumble%20%26amp%3B%20Toke%20and%20Claravita%20products.%20Quality%20flower%2C%20pre-rolls%2C%20and%20fast-acting%20Live%20Rosin%20gummies%20and%20more...%26nbsp%3B%26nbsp%3BTumble%20%26amp%3B%20Toke%20Flower%20%26amp%3B%20Pre-RollsEvery%20cannabis%20harvest%20is%20different.%20Even%20with%20premium%20genetics%20and%20expert%20cultivation%20methods%2C%20environmental%20factors%20and%20phenotype%20variation%20can%20lead%20to%20slight%20differences%20in%20bud%20size%2C%20cannabinoid%20content%2C%20or%20visual%20appearance.%20While%20these%20lots%20may%20fall%20short%20of%20our%20strict%20top-shelf%20standards%2C%20they%20still%20produce%20flavorful%2C%20effective%20flower%20that%E2%80%99s%20ideal%20for%20everyday%20use.%26nbsp%3BClick%20here%20to%20shop%20Tumble%20%26amp%3B%20Toke%20products%21%26nbsp%3B%26nbsp%3B%26nbsp%3BClaravita%20Edibles%2C%20Flower%20%26amp%3B%20Pre-RollsThrough%20extensive%20research%20and%20development%2C%20we%2C%20as%20both%20consumers%20and%20producers%2C%20have%20perfected%20our%20infused%20gummies%20to%20achieve%20the%20perfect%20balance%20of%20effects.%20With%20the%20%20%28View%20Full%20Event%20Description%20Here%3A%20https%3A%2F%2Fcapecodcannabis.com%2Fevent%2Fcna-pop-up-event%2F%29"
+      }
+     ],
+     "ariaLabels": [
+      "View links to add events to your calendar"
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "navigation",
+     "text": "Treeworks Pop-Up\nBoutiq Pop-Up Event",
+     "links": [
+      {
+       "label": "Treeworks Pop-Up",
+       "href": "/event/treeworks-pop-up-2/"
+      },
+      {
+       "label": "Boutiq Pop-Up Event",
+       "href": "/event/boutiq-pop-up-event/"
+      }
+     ],
+     "ariaLabels": [
+      "Events"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "a7bb484",
+   "doc": "tec_event_single_dynamic#92071",
+   "hiddenAll": true,
+   "dev": [],
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/3f6a76d9-CCC-generic-pop-up-logo_200px.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2024/03/CCC-generic-pop-up-logo_200px.png?lossy=2&strip=0&webp=1",
+     "alt": "Cape Cod Cannabis Pop-Up Event",
+     "w": 200,
+     "h": 200,
+     "kind": "event-image",
+     "dev": [],
+     "hiddenAll": true
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "c7b579f",
+   "doc": "tec_event_single_dynamic#92071",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/c0c34846-CCC_Logo_650px-geo-tag-r9v1ohpw5zerbd7bkhgpgccbma2ezjddi6xfhghm0u.jpg",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/elementor/thumbs/CCC_Logo_650px-geo-tag-r9v1ohpw5zerbd7bkhgpgccbma2ezjddi6xfhghm0u.jpg?lossy=2&strip=0&webp=1",
+     "alt": "Cape Cod Cannabis Recreational Dispensary near me in Wellfleet, MA ... it's worth the trip!",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary near me in Wellfleet, MA … it’s worth the trip!"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": null,
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong><em>Cape Cod Cannabis…always worth the trip!</em></strong></p>"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "event-field": 8,
+  "heading": 4,
+  "image": 3,
+  "rich": 6
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "tec-loading-spinner",
+    "text": "Loading Events",
+    "reason": "The Events Calendar AJAX loading spinner (plugin runtime UI, origin wp-content gif); declared in removals.json"
+   },
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [],
+  "aliasesResolved": [
+   {
+    "from": "https://capecodcannabis.com/events-calendar/",
+    "to": "/events-calendar/"
+   },
+   {
+    "from": "/brands/tumble-toke/",
+    "to": "/brands/tumble-toke/"
+   },
+   {
+    "from": "/brands/claravita/",
+    "to": "/brands/claravita/"
+   },
+   {
+    "from": "https://capecodcannabis.com/event/cna-pop-up-event/?ical=1",
+    "to": "/event/cna-pop-up-event/?ical=1"
+   },
+   {
+    "from": "https://capecodcannabis.com/event/treeworks-pop-up-2/",
+    "to": "/event/treeworks-pop-up-2/"
+   },
+   {
+    "from": "https://capecodcannabis.com/event/boutiq-pop-up-event/",
+    "to": "/event/boutiq-pop-up-event/"
+   }
+  ],
+  "imagesMissing": [
+   {
+    "srcUrl": "https://images.dutchie.com/b0b9e58a28a38399ef490ed8f3e1a7f9",
+    "missing": "not-inventoried"
+   },
+   {
+    "srcUrl": "https://images.dutchie.com/e379125f486f36400b8d3da3df02f8b8",
+    "missing": "not-inventoried"
+   },
+   {
+    "srcUrl": "https://images.dutchie.com/ee7902552abf87c6c381371a83d66cd5",
+    "missing": "not-inventoried"
+   },
+   {
+    "srcUrl": "https://images.dutchie.com/354fe45807d5da36a3b89900254ef337",
+    "missing": "not-inventoried"
+   },
+   {
+    "srcUrl": "https://images.dutchie.com/4275a24a66841a9c891c01124c9c763a",
+    "missing": "not-inventoried"
+   },
+   {
+    "srcUrl": "https://images.dutchie.com/23aa3264c13ef9dd8243155a6537e5f7",
+    "missing": "not-inventoried"
+   }
+  ],
+  "h1InRich": 0
+ }
+}

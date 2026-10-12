@@ -4,7 +4,7 @@
   "targetUrl": "https://capecodcannabis.com/",
   "origin": "https://capecodcannabis.com",
   "createdAt": "2026-10-12T00:09:39.500Z",
-  "updatedAt": "2026-10-12T00:49:32.946Z",
+  "updatedAt": "2026-10-12T01:05:18.461Z",
   "config": {
     "maxPages": 8000,
     "concurrency": 2,
@@ -42,9 +42,9 @@
       "note": "745 pages extracted"
     },
     "assets": {
-      "status": "pending",
-      "at": null,
-      "note": ""
+      "status": "partial",
+      "at": "2026-10-12T01:05:18.460Z",
+      "note": "2051/2246 assets on disk"
     },
     "capture": {
       "status": "pending",

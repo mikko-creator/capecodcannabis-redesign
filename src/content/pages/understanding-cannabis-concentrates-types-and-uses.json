@@ -1,0 +1,965 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/understanding-cannabis-concentrates-types-and-uses/",
+ "sourceUrl": "https://capecodcannabis.com/understanding-cannabis-concentrates-types-and-uses/",
+ "requestedUrl": "https://capecodcannabis.com/understanding-cannabis-concentrates-types-and-uses",
+ "slug": "understanding-cannabis-concentrates-types-and-uses",
+ "kind": "blog-post",
+ "wpTemplate": "post",
+ "derived": false,
+ "rawFile": "audit/raw/understanding-cannabis-concentrates-types-and-uses.html",
+ "rawSha256": "d97f9d2f415b53ae40e5785de808349b5c66bcfd80fc3416e0e0053e374de9fe",
+ "regionKind": "body-minus-chrome",
+ "title": "Understanding Cannabis Concentrates: Types and Uses | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+ "metaDescription": "In the cannabis industry, concentrates are potent extracts of the cannabis plant that contain high levels of cannabinoids like THC or CBD. There are several",
+ "canonical": "https://capecodcannabis.com/understanding-cannabis-concentrates-types-and-uses/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "Understanding Cannabis Concentrates: Types and Uses | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "In the cannabis industry, concentrates are potent extracts of the cannabis plant that contain high levels of cannabinoids like THC or CBD. There are several",
+  "url": "https://capecodcannabis.com/understanding-cannabis-concentrates-types-and-uses/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2026-06-30T12:04:20-04:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2024/08/Cannabis-Concentrates-banner-1024x683.jpg",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/2024/08/Cannabis-Concentrates-banner-1024x683.jpg",
+  "image:width": "800",
+  "image:height": "534",
+  "image:alt": "Cannabis Concentrates",
+  "image:type": "image/jpeg"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438",
+  "tag": [
+   "cannabis concentrate",
+   "cannabis dispensary in Wellfleet",
+   "cannabis dispensary near me",
+   "cape cod cannabis",
+   "concentrates",
+   "dabs",
+   "ma",
+   "shatter",
+   "wax"
+  ],
+  "section": "Cannabis 101",
+  "published_time": "2024-08-16T13:27:54-04:00",
+  "modified_time": "2026-06-30T12:04:20-04:00"
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "Understanding Cannabis Concentrates: Types and Uses | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "In the cannabis industry, concentrates are potent extracts of the cannabis plant that contain high levels of cannabinoids like THC or CBD. There are several",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2024/08/Cannabis-Concentrates-banner-1024x683.jpg",
+  "label1": "Written by",
+  "data1": "rrh_clientadmin",
+  "label2": "Time to read",
+  "data2": "2 minutes"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Place",
+     "@id": "https://capecodcannabis.com/#place",
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.916265712481554",
+      "longitude": "-69.98840341462632"
+     },
+     "hasMap": "https://www.google.com/maps/search/?api=1&amp;query=41.916265712481554,-69.98840341462632",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     }
+    },
+    {
+     "@type": [
+      "LocalBusiness",
+      "Organization"
+     ],
+     "@id": "https://capecodcannabis.com/#organization",
+     "name": "Cape Cod Cannabis in Wellfleet - Best dispensary on Cape Cod.",
+     "url": "https://capecodcannabis.com",
+     "sameAs": [
+      "https://www.facebook.com/profile.php?id=100077867156438",
+      "https://twitter.com/capecodcanna"
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "logo": {
+      "@type": "ImageObject",
+      "@id": "https://capecodcannabis.com/#logo",
+      "url": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "contentUrl": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "caption": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+      "inLanguage": "en-US",
+      "width": "700",
+      "height": "500"
+     },
+     "openingHours": [
+      "Mo,Tu,We,Th,Fr,Sa,Su 8:00 - 8:00"
+     ],
+     "description": "Welcome to Cape Cod Cannabis, recognized by many as the Best Dispensary on Cape Cod, located in Wellfleet. Conveniently situated in the Route 6 shopping plaza in South Wellfleet, we are a trusted destination for both locals and visitors traveling from Provincetown, Truro, Wellfleet, Eastham, Orleans, Brewster, Dennis, Harwich, Chatham, Yarmouth, Sandwich and across the Cape and beyond.\n\nCape Cod Cannabis, your go-to cannabis haven, offers a carefully curated selection of high quality products, including flower, pre-rolls, edibles, vaporizers, concentrates, tinctures, topicals, CBD, accessories, and more. With a focus on education, selection, and a welcoming experience, we make it easy to explore and find what works best for you whether you are visiting the Cape or live here year round.",
+     "location": {
+      "@id": "https://capecodcannabis.com/#place"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/#logo"
+     },
+     "telephone": "+1-774-383-3133"
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://capecodcannabis.com/#website",
+     "url": "https://capecodcannabis.com",
+     "name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+     "alternateName": "Cape Cod Cannabis | Wellfleet's Top Rated Cannabis Store on Cape Cod",
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "https://capecodcannabis.com/wp-content/uploads/2024/08/Cannabis-Concentrates-banner.jpg",
+     "url": "https://capecodcannabis.com/wp-content/uploads/2024/08/Cannabis-Concentrates-banner.jpg",
+     "width": "2560",
+     "height": "1707",
+     "caption": "Cannabis Concentrates",
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/understanding-cannabis-concentrates-types-and-uses/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/category/cannabis-101/",
+        "name": "Cannabis 101"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "3",
+       "item": {
+        "@id": "https://capecodcannabis.com/understanding-cannabis-concentrates-types-and-uses/",
+        "name": "Understanding Cannabis Concentrates: Types and Uses"
+       }
+      }
+     ]
+    },
+    {
+     "@type": "WebPage",
+     "@id": "https://capecodcannabis.com/understanding-cannabis-concentrates-types-and-uses/#webpage",
+     "url": "https://capecodcannabis.com/understanding-cannabis-concentrates-types-and-uses/",
+     "name": "Understanding Cannabis Concentrates: Types and Uses | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "datePublished": "2024-08-16T13:27:54-04:00",
+     "dateModified": "2026-06-30T12:04:20-04:00",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2024/08/Cannabis-Concentrates-banner.jpg"
+     },
+     "inLanguage": "en-US",
+     "breadcrumb": {
+      "@id": "https://capecodcannabis.com/understanding-cannabis-concentrates-types-and-uses/#breadcrumb"
+     }
+    },
+    {
+     "@type": "Person",
+     "@id": "https://capecodcannabis.com/understanding-cannabis-concentrates-types-and-uses/#author",
+     "name": "rrh_clientadmin",
+     "image": {
+      "@type": "ImageObject",
+      "@id": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "url": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "caption": "rrh_clientadmin",
+      "inLanguage": "en-US"
+     },
+     "worksFor": {
+      "@id": "https://capecodcannabis.com/#organization"
+     }
+    },
+    {
+     "@type": "Article",
+     "headline": "Understanding Cannabis Concentrates: Types and Uses | Cape Cod Cannabis Recreational Dispensary in",
+     "keywords": "concentrates",
+     "datePublished": "2024-08-16T13:27:54-04:00",
+     "dateModified": "2026-06-30T12:04:20-04:00",
+     "articleSection": "Cannabis 101, Start Here",
+     "author": {
+      "@id": "https://capecodcannabis.com/understanding-cannabis-concentrates-types-and-uses/#author",
+      "name": "rrh_clientadmin"
+     },
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "description": "In the cannabis industry, concentrates are potent extracts of the cannabis plant that contain high levels of cannabinoids like THC or CBD. There are several",
+     "name": "Understanding Cannabis Concentrates: Types and Uses | Cape Cod Cannabis Recreational Dispensary in",
+     "@id": "https://capecodcannabis.com/understanding-cannabis-concentrates-types-and-uses/#richSnippet",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/understanding-cannabis-concentrates-types-and-uses/#webpage"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2024/08/Cannabis-Concentrates-banner.jpg"
+     },
+     "inLanguage": "en-US",
+     "mainEntityOfPage": {
+      "@id": "https://capecodcannabis.com/understanding-cannabis-concentrates-types-and-uses/#webpage"
+     }
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "h1": "Understanding Cannabis Concentrates: Types and Uses",
+ "h1Source": {
+  "count": 1,
+  "visible": 1,
+  "hidden": 0
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Cannabis 101",
+   "href": "/category/cannabis-101/"
+  },
+  {
+   "label": "Understanding Cannabis Concentrates: Types and Uses",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "visible",
+ "breadcrumbsSeparator": " / ",
+ "breadcrumbsLabel": "breadcrumbs",
+ "breadcrumbsInRegion": true,
+ "section": null,
+ "sections": [
+  {
+   "n": 0,
+   "id": "3f1093a4",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "Understanding Cannabis Concentrates: Types and Uses"
+    },
+    {
+     "t": "meta",
+     "items": [
+      {
+       "text": "August 16, 2024",
+       "href": "/2024/08/16/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "d93b261",
+   "doc": "wp-post#103963",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/ed5fd8a0-Dabbing-Temp-Guide-1080x1080-1-qvf3oqf4ayeaf4k88aqfbj3mhd92o6q3a3nuhml0is.jpg",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/elementor/thumbs/Dabbing-Temp-Guide-1080x1080-1-qvf3oqf4ayeaf4k88aqfbj3mhd92o6q3a3nuhml0is.jpg?lossy=2&strip=0&webp=1",
+     "alt": "Dabbing Temperature Guide from Cape Cod Cannabis in Wellfleet. It's worth the trip!",
+     "titleAttr": "Dabbing Temperature Guide from Cape Cod Cannabis in Wellfleet. It’s worth the trip!"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "374d657a",
+   "doc": "wp-post#103963",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>In the cannabis industry, concentrates are potent extracts of the cannabis plant that contain high levels of cannabinoids like THC or CBD. There are several types of cannabis concentrates, each with unique properties and methods of consumption. Here are some of the most common types:</p><p><strong>1. Shatter</strong></p><p> <strong>Texture:</strong> Glass-like, brittle.</p><p> <strong>Production:</strong> Made using solvents like butane or CO2, then purged to remove the solvent.</p><p> <strong>Potency:</strong> High THC content.</p><p> <strong>Consumption:</strong> Typically used in dabbing.</p><p><strong>2. Wax</strong></p><p> <strong> Texture:</strong> Soft, waxy, can be crumbly or sticky.</p><p> <strong>Production:</strong> Similar to shatter but agitated during the extraction process, resulting in a softer consistency.</p><p> <strong>Potency:</strong> High THC content.</p><p> <strong>Consumption:</strong> Dabbed, vaporized, or added to joints.</p><p><strong>3. Budder/Badder</strong></p><p> <strong> Texture:</strong> Creamy, butter-like consistency.</p><p> <strong> Production:</strong> Whipped during the purging process to achieve a smooth texture.</p><p> <strong>Potency:</strong> High THC content.</p><p> <strong>Consumption:</strong> Dabbed or vaporized.</p><p><strong>4. Crumble</strong></p><p><strong> Texture:</strong> Dry, crumbly.</p><p> <strong>Production:</strong> Similar to wax but purged at a lower temperature for a longer time, creating a drier consistency.</p><p> <strong>Potency:</strong> High THC content.</p><p> <strong> Consumption:</strong> Dabbed or added to joints or bowls.</p><p><strong>5. Live Resin</strong></p><p> <strong> Texture:</strong> Varies from sauce-like to waxy.</p><p> <strong>Production:</strong> Made from fresh, flash-frozen cannabis plants, preserving terpenes and flavors.</p><p> <strong> Potency:</strong> High THC content with rich terpene profile.</p><p> <strong> Consumption:</strong> Dabbed or vaporized.</p><p><strong>6. Rosin</strong></p><p><strong>Texture:</strong> Varies, can be shatter-like or waxy.</p><p><strong>Production:</strong> Solventless method using heat and pressure to extract cannabinoids and terpenes.</p><p><strong>Potency:</strong> High, but slightly less than solvent-based concentrates.</p><p><strong>Consumption:</strong> Dabbed or vaporized.</p>"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": "321c19a",
+   "doc": "wp-post#103963",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/a75ea845-Concentrates-1-768x283.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2024/08/Concentrates-1-768x283.png?lossy=2&strip=0&webp=1",
+     "master": "assets/source/7338b502-Concentrates-1.png",
+     "alt": "Concentrates",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 768,
+     "h": 283
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "id": "faa00a7",
+   "doc": "wp-post#103963",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/6ddec6ef-Concentrates-2-768x308.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2024/08/Concentrates-2-768x308.png?lossy=2&strip=0&webp=1",
+     "master": "assets/source/25e60b2a-Concentrates-2.png",
+     "alt": "Concentrates",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 768,
+     "h": 308
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "id": "904659c",
+   "doc": "wp-post#103963",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/48e56096-Concentrates-3-768x268.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2024/08/Concentrates-3-768x268.png?lossy=2&strip=0&webp=1",
+     "master": "assets/source/842e4f46-Concentrates-3.png",
+     "alt": "Concentrates",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 768,
+     "h": 268
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "id": "1933104",
+   "doc": "wp-post#103963",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong>7. Hash (Bubble Hash)</strong></p><p><strong>Texture:</strong> Powdery to sticky, depending on quality.</p><p><strong>Production:</strong> Made by separating trichomes from the plant material, often using ice water or dry sift methods.</p><p><strong>Potency:</strong> Medium to high THC content.</p><p><strong>Consumption:</strong> Smoked, vaporized, or added to joints.</p><p><strong>8. Distillate</strong></p><p><strong>Texture:</strong> Thick, clear, viscous oil.</p><p><strong>Production:</strong> Refined through distillation to isolate specific cannabinoids like THC or CBD.</p><p><strong>Potency:</strong> Extremely high, often upwards of 90% THC.</p><p><strong>Consumption:</strong> Used in vape cartridges, edibles, or dabbed.</p><p><strong>9. Crystalline (THC-A Crystals)</strong></p><p><strong>Texture:</strong> Crystal-like, powdery.</p><p><strong>Production:</strong> Through a process of isolation and refinement to create pure THC-A crystals.</p><p><strong>Potency:</strong> Up to 99% THC-A.</p><p><strong>Consumption:</strong> Dabbed or added to other cannabis products.</p><p><strong>10. Sauce</strong></p><p><strong>Texture:</strong> Sticky, viscous, with visible crystalline structures.</p><p><strong>Production:</strong> Extracted using hydrocarbons, resulting in a mix of high-terpene extract and THC-A crystals.</p><p><strong>Potency:</strong> High THC content with a robust terpene profile.</p><p><strong>Consumption:</strong> Dabbed or vaporized.</p><p>Each type of concentrate offers a different experience, from the flavor profile to the intensity of effects, and is chosen based on personal preference and intended use.</p>"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "id": "de02d41",
+   "doc": "wp-post#103963",
+   "blocks": [
+    {
+     "t": "button",
+     "label": "Shop Concentrates",
+     "href": "/categories/concentrates/"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "id": "329af6c",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "postnav",
+     "prev": {
+      "srLabel": "Prev",
+      "title": "What is Live Rosin?",
+      "href": "/what-is-live-rosin/"
+     },
+     "next": {
+      "title": "Exploring Wellfleet, MA: A Hidden Gem on Cape Cod",
+      "srLabel": "Next",
+      "href": "/exploring-wellfleet-ma-cape-cod/"
+     },
+     "ariaLabels": [
+      "Post Navigation"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "id": "9ba89d6",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "comments",
+     "note": "WordPress comment form; no comment backend in a static rebuild"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "button": 1,
+  "comments": 1,
+  "heading": 1,
+  "image": 4,
+  "meta": 1,
+  "postnav": 1,
+  "rich": 2
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [],
+  "aliasesResolved": [
+   {
+    "from": "https://capecodcannabis.com/2024/08/16/",
+    "to": "/2024/08/16/"
+   },
+   {
+    "from": "/categories/concentrates/",
+    "to": "/categories/concentrates/"
+   },
+   {
+    "from": "https://capecodcannabis.com/what-is-live-rosin/",
+    "to": "/what-is-live-rosin/"
+   },
+   {
+    "from": "https://capecodcannabis.com/exploring-wellfleet-ma-cape-cod/",
+    "to": "/exploring-wellfleet-ma-cape-cod/"
+   },
+   {
+    "from": "https://capecodcannabis.com/category/cannabis-101/",
+    "to": "/category/cannabis-101/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

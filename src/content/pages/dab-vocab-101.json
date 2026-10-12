@@ -1,0 +1,934 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/dab-vocab-101/",
+ "sourceUrl": "https://capecodcannabis.com/dab-vocab-101/",
+ "requestedUrl": "https://capecodcannabis.com/dab-vocab-101",
+ "slug": "dab-vocab-101",
+ "kind": "blog-post",
+ "wpTemplate": "post",
+ "derived": false,
+ "rawFile": "audit/raw/dab-vocab-101.html",
+ "rawSha256": "28f9b9199e0245c88e8b697ef34a7e92932a376e4fdcd0b653807ccbdac37d68",
+ "regionKind": "body-minus-chrome",
+ "title": "DAB Vocab 101 | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+ "metaDescription": "Dab Vocab - ICE WATER HASH - Made when trichomes are separated from fresh frozen plant material using nothing but ice, water and filter bags. Also referred to as bubble hash, it is usually dabbed but can also be mixed with flower and smoked.",
+ "canonical": "https://capecodcannabis.com/dab-vocab-101/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "DAB Vocab 101 | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "Dab Vocab - ICE WATER HASH - Made when trichomes are separated from fresh frozen plant material using nothing but ice, water and filter bags. Also referred to as bubble hash, it is usually dabbed but can also be mixed with flower and smoked.",
+  "url": "https://capecodcannabis.com/dab-vocab-101/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2025-05-26T16:31:37-04:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2023/07/dab_vocab-1024x459.png",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/2023/07/dab_vocab-1024x459.png",
+  "image:width": "800",
+  "image:height": "359",
+  "image:alt": "Dab Vocab",
+  "image:type": "image/png"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438",
+  "tag": [
+   "cannabis concentrates",
+   "cape cod cannabis",
+   "dab",
+   "dab vocab",
+   "dab vocabulary"
+  ],
+  "section": "Cannabis 101",
+  "published_time": "2023-07-26T18:06:47-04:00",
+  "modified_time": "2025-05-26T16:31:37-04:00"
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "DAB Vocab 101 | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "Dab Vocab - ICE WATER HASH - Made when trichomes are separated from fresh frozen plant material using nothing but ice, water and filter bags. Also referred to as bubble hash, it is usually dabbed but can also be mixed with flower and smoked.",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2023/07/dab_vocab-1024x459.png",
+  "label1": "Written by",
+  "data1": "rrh_clientadmin",
+  "label2": "Time to read",
+  "data2": "6 minutes"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Place",
+     "@id": "https://capecodcannabis.com/#place",
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.916265712481554",
+      "longitude": "-69.98840341462632"
+     },
+     "hasMap": "https://www.google.com/maps/search/?api=1&amp;query=41.916265712481554,-69.98840341462632",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     }
+    },
+    {
+     "@type": [
+      "LocalBusiness",
+      "Organization"
+     ],
+     "@id": "https://capecodcannabis.com/#organization",
+     "name": "Cape Cod Cannabis in Wellfleet - Best dispensary on Cape Cod.",
+     "url": "https://capecodcannabis.com",
+     "sameAs": [
+      "https://www.facebook.com/profile.php?id=100077867156438",
+      "https://twitter.com/capecodcanna"
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "logo": {
+      "@type": "ImageObject",
+      "@id": "https://capecodcannabis.com/#logo",
+      "url": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "contentUrl": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "caption": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+      "inLanguage": "en-US",
+      "width": "700",
+      "height": "500"
+     },
+     "openingHours": [
+      "Mo,Tu,We,Th,Fr,Sa,Su 8:00 - 8:00"
+     ],
+     "description": "Welcome to Cape Cod Cannabis, recognized by many as the Best Dispensary on Cape Cod, located in Wellfleet. Conveniently situated in the Route 6 shopping plaza in South Wellfleet, we are a trusted destination for both locals and visitors traveling from Provincetown, Truro, Wellfleet, Eastham, Orleans, Brewster, Dennis, Harwich, Chatham, Yarmouth, Sandwich and across the Cape and beyond.\n\nCape Cod Cannabis, your go-to cannabis haven, offers a carefully curated selection of high quality products, including flower, pre-rolls, edibles, vaporizers, concentrates, tinctures, topicals, CBD, accessories, and more. With a focus on education, selection, and a welcoming experience, we make it easy to explore and find what works best for you whether you are visiting the Cape or live here year round.",
+     "location": {
+      "@id": "https://capecodcannabis.com/#place"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/#logo"
+     },
+     "telephone": "+1-774-383-3133"
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://capecodcannabis.com/#website",
+     "url": "https://capecodcannabis.com",
+     "name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+     "alternateName": "Cape Cod Cannabis | Wellfleet's Top Rated Cannabis Store on Cape Cod",
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "https://capecodcannabis.com/wp-content/uploads/2023/07/dab_vocab.png",
+     "url": "https://capecodcannabis.com/wp-content/uploads/2023/07/dab_vocab.png",
+     "width": "2934",
+     "height": "1316",
+     "caption": "Dab Vocab",
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/dab-vocab-101/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/category/cannabis-101/",
+        "name": "Cannabis 101"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "3",
+       "item": {
+        "@id": "https://capecodcannabis.com/dab-vocab-101/",
+        "name": "DAB Vocab 101"
+       }
+      }
+     ]
+    },
+    {
+     "@type": "WebPage",
+     "@id": "https://capecodcannabis.com/dab-vocab-101/#webpage",
+     "url": "https://capecodcannabis.com/dab-vocab-101/",
+     "name": "DAB Vocab 101 | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "datePublished": "2023-07-26T18:06:47-04:00",
+     "dateModified": "2025-05-26T16:31:37-04:00",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2023/07/dab_vocab.png"
+     },
+     "inLanguage": "en-US",
+     "breadcrumb": {
+      "@id": "https://capecodcannabis.com/dab-vocab-101/#breadcrumb"
+     }
+    },
+    {
+     "@type": "Person",
+     "@id": "https://capecodcannabis.com/dab-vocab-101/#author",
+     "name": "rrh_clientadmin",
+     "image": {
+      "@type": "ImageObject",
+      "@id": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "url": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "caption": "rrh_clientadmin",
+      "inLanguage": "en-US"
+     },
+     "worksFor": {
+      "@id": "https://capecodcannabis.com/#organization"
+     }
+    },
+    {
+     "@type": "Article",
+     "headline": "DAB Vocab 101 | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA | Cape Cod's Best Recreational",
+     "keywords": "dab, dab vocab",
+     "datePublished": "2023-07-26T18:06:47-04:00",
+     "dateModified": "2025-05-26T16:31:37-04:00",
+     "articleSection": "Cannabis 101",
+     "author": {
+      "@id": "https://capecodcannabis.com/dab-vocab-101/#author",
+      "name": "rrh_clientadmin"
+     },
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "description": "Dab Vocab - ICE WATER HASH - Made when trichomes are separated from fresh frozen plant material using nothing but ice, water and filter bags. Also referred to as bubble hash, it is usually dabbed but can also be mixed with flower and smoked.",
+     "name": "DAB Vocab 101 | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA | Cape Cod's Best Recreational",
+     "@id": "https://capecodcannabis.com/dab-vocab-101/#richSnippet",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/dab-vocab-101/#webpage"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2023/07/dab_vocab.png"
+     },
+     "inLanguage": "en-US",
+     "mainEntityOfPage": {
+      "@id": "https://capecodcannabis.com/dab-vocab-101/#webpage"
+     }
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "h1": "DAB Vocab 101",
+ "h1Source": {
+  "count": 1,
+  "visible": 1,
+  "hidden": 0
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Cannabis 101",
+   "href": "/category/cannabis-101/"
+  },
+  {
+   "label": "DAB Vocab 101",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "visible",
+ "breadcrumbsSeparator": " / ",
+ "breadcrumbsLabel": "breadcrumbs",
+ "breadcrumbsInRegion": true,
+ "section": null,
+ "sections": [
+  {
+   "n": 0,
+   "id": "3f1093a4",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "DAB Vocab 101"
+    },
+    {
+     "t": "meta",
+     "items": [
+      {
+       "text": "July 26, 2023",
+       "href": "/2023/07/26/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "1be748f",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "DAB Vocab"
+    },
+    {
+     "t": "heading",
+     "level": 5,
+     "text": "Concentrates clarified. Extracts explained."
+    },
+    {
+     "t": "rich",
+     "html": "<p> </p><p><strong>FRESH FROZEN – </strong>The process of freezing Cannabis plant material right after harvesting it, typically with dry ice, to preserve trichomes for concentrate extraction.</p><p><strong>ICE WATER HASH – </strong>Made when trichomes are separated from fresh frozen plant material using nothing but ice, water and filter bags. Also referred to as bubble hash, it is usually dabbed but can also be mixed with flower and smoked.</p><p><strong>FULL MELT – </strong>The highest grade of ice water hash, usually rated at five or six stars. Fully melts and leaves very little to no residue or char on the banger.</p><p><strong>STAR SYSTEM – </strong>What stars are we talking about here, you say? Ice water hash is rated on a scale of one to six stars based on quality and meltability, with one being the lowest quality and six being the highest.</p><p><strong>FLAG OF HASH – </strong>Pressing out water hash using parchment paper into a flag shape in order to dab it off a nail.</p><p><strong>TRADITIONAL HASHISH – </strong>Produced for centuries in countries such as Morocco, Afghanistan, Nepal and India, traditional hashish is made by either separating the trichomes from a live plant with one’s hands (charas) or by agitating dried, cured plant material over a screen (dry-sift), then compressing the collected resin to form a solid brick or ball of concentrate that is typically brown in color.</p><p><strong>PIATTELLA – </strong>Six star bubble hash that’s been washed and cured using a unique process that preserves resin. It has a consistency similar to soft fudge and can be cut with a knife.</p><p><strong><a href=\"/categories/concentrates/rosin/\" data-link=\"dead\">LIVE ROSIN</a> – </strong>Solventless hash oil made by using water and ice to agitate the trichomes off of the fresh frozen plant material, which is then placed into a rosin press that uses heat and pressure to extract the rosin.</p><p><strong>FRESH PRESS – </strong>Rosin that goes directly from the parchment paper it was pressed onto and into the jar. Tends to have a glassy, stretchy consistency like taffy.</p><p><strong>COLD CURE – </strong>Fresh-pressed rosin that has been stored in a jar, cured at low temperatures, and agitated until it has more of a batter-like consistency.</p><p><strong>FULL SPECTRUM EXTRACTS – </strong>Includes all compounds of the Cannabis plant such as cannabinoids, terpenes and flavonoids, rather than isolating just one specific compound.</p><p><strong><a href=\"/categories/concentrates/wax/\">WAX</a> – </strong>An umbrella term used to describe concentrates that appear soft and waxy in appearance. Typically extracted using butane or hydrocarbon solvents, and comes in a variety of forms referred to as butter/badder, honey-comb, crumble, sugar and more.</p><p><strong>BHO – </strong>Butane Hash Oil, or a form of concentrates extracted using butane, and available in various consistencies. Excess butane is purged using a vacuum oven.</p><p><strong>DISTILLATE – </strong>An extract made with a distillation process that separates all materials and compounds from one specific cannabinoid, often THC. Can be used to dab or vaporize, but is most often found in edibles, topicals, vape cartridges and other products.</p><p><strong><a href=\"/categories/concentrates/diamonds-2/\">DIAMONDS</a> – </strong>Cannabinoids which have been purified and isolated to form crystalline solids that look like diamonds.</p><p><strong>FECO – </strong>Full Extract Cannabis Oil. A dark, tar-like extract made by soaking plant matter in a solvent – typically grain alcohol. Often used for severe pain relief. Some-times referred to as Phoenix Tears or Rick Simpson Oil (RSO), after the Canadian engineer and Cannabis advocate who helped popularize its medical use to treat tumors and other cancers.</p><p><strong><a href=\"/categories/concentrates/shatter-2/\">SHATTER</a> – </strong>Named for its glass-like consistency that tends to crack or shatter when broken, typically gold or amber in color.</p><p><strong>HASH HOLE – </strong>Also referred to as a “donut,” hash holes are rolled with a snake of hash rosin surrounded by flower. As the flower and rosin burn together it creates a perfect ring of hash resembling a donut, with bubbling rosin in the hole.</p><p><strong>JAM – </strong>Bubble hash that has been pressed and heated until the microcrystals of THCa separate from the terps in the rosin, creating a jam-like consistency with small chunks of crystals.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "PRODUCING CONCENTRATES"
+    },
+    {
+     "t": "rich",
+     "html": "<p> </p><p><strong>EXTRACTION – </strong>The process of removing the resin from fresh frozen plant material to make a concentrate.</p><p><strong>SOLVENT – </strong>Extraction methods can use solvents, such as butane or CO2, to create products like BHO or CO2 extracts.</p><p><strong>SOLVENTLESS – </strong>Extraction methods not dependent on solvents can use techniques involving ice and water, or heat and pressure, to remove oils. This is used to create products like rosin or traditional hashish.</p><p><strong>SQUISHING – </strong>Also called “pressing,” this is the process of using a rosin press to apply heat and pressure in order to “squish” live rosin out of the plant material.</p><p><strong><a href=\"/categories/concentrates/live-resin/\">RESIN</a> – </strong>A sticky substance found in trichomes that can be collected or extracted from the plant to make various forms of concentrates.</p><p><strong>MICRON SCREEN – </strong>A series of mesh screens that allow trichomes to fall through to each successive screen while producing hash.</p><p><strong>MICRON GRADE – </strong>Refers to the fineness of a micron screen. Common micron screens for making hash are 73, 90 and 140 microns. The higher the number, the finer the mesh.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "KNOW THE LINGO"
+    },
+    {
+     "t": "rich",
+     "html": "<p> </p><p><strong>HEAD STASH – </strong>Your personal, private reserve stash of those extra special or rare terps you don’t want to share. “My roommate better not have smoked that jar from my head stash while I wasn’t home.”</p><p><strong>HEADIE – </strong>A piece of glass you’re proud to pull up to the sesh with. “Hey man, can I take a dab of this fire off your new headie?”</p><p><strong>GLOB – </strong>A dab of epic-sized proportions. “I need a giant glob after the day I’ve had.”</p><p><strong>710 – </strong>The dab version of 420. And if you haven’t gotten it yet, “710” spells “OIL” upside down and backwards. “What event are we pulling up to for 7/10 this year?”</p><p><strong>WOOK – </strong>A hippie who likes to take a lot of dabs and hang out at music festivals to see jam bands. “Wow, there sure were a lot of wooks on lot at the Grateful Dead show last night.”</p><p> </p><p> </p>"
+    },
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "SMOKING CONCENTRATES"
+    },
+    {
+     "t": "rich",
+     "html": "<p> </p><p><strong>DAB RIG – </strong>A water pipe that is used to inhale Cannabis concentrates.</p><p><strong><a href=\"/brands/puffco/\">E-RIG</a> – </strong>A device that electronically heats a nail for dabbing rather than using a torch. Learn more about Focus V, one of the innovators in eRig technology, in this month’s issue or at LeafMagazines.com</p><p><strong>NAIL – </strong>An attachment that connects to the downstem of a rig, like a bowl in a bong, to hold and heat up the concentrate.</p><p><strong><a href=\"/?s=banger\">BANGER</a> – </strong>A bucket-shaped attachment on a rig to dab concentrates off of, made in a variety of materials, sizes and designs.</p><p><strong>QUARTZ – </strong>A common material used to make bangers that can withstand high temperatures for longer periods of time, making it the most common and ideal material for taking dabs off of.</p><p><strong>TERP SLURPER – </strong>A style of quartz banger with a dish attached to the bottom, invented by glass legend JP Toro. When a concentrate is heated up and melts, holes in the bottom of the banger allow oil to seep out into the dish, enhancing flavor and minimizing waste.</p><p><strong>CARB CAP – </strong>A device that seals around the banger to help regulate the amount and direction of air going to the nail on a dab rig.</p><p><strong><a href=\"/categories/accessories/dab-tools/\">DABBER</a> – </strong>A tool that is used to scoop up dabs and place them on a banger.</p><p><strong>DAB MAT – </strong>A mat made of non-stick material that is placed underneath a rig when dabbing to protect the glass and keep it in place.</p><p><strong>TERP PEARL – </strong>Small balls that spin around the bottom of the banger while dabbing to distribute the concentrate and heat evenly.</p><p><strong>TORCH – </strong>A device filled with butane that is used to heat the nail of a dab rig to high temperatures.</p><p><strong>ISO – </strong>Referred to simply as “iso,” isopropyl alcohol is great for getting sticky resin off surfaces and is used to disinfect and clean dab tools and rigs between uses.</p><p><em>by KATHERINE WOLF @KATADELLIC for LEAF NATION | ILLUSTRATIONS by MATT JACKSON</em> @ACTIONMATTJACKSON – JULY 2023 EDITION – LEAF MAGAZINES.</p><p><img src=\"assets/source/65303433-Dabbing-Temp-Guide-1080x1080-1.jpg\" alt=\"Dabbing Temperature Guide from Cape Cod Cannabis in Wellfleet. It's worth the trip!\" width=\"800\" height=\"800\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2023/07/Dabbing-Temp-Guide-1080x1080-1.jpg?lossy=2&amp;strip=0&amp;webp=1\"></p>"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "329af6c",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "postnav",
+     "prev": {
+      "srLabel": "Prev",
+      "title": "Recreational Benefits of Using Cannabis",
+      "href": "/recreational-benefits-of-using-cannabis/"
+     },
+     "next": {
+      "title": "What is Green Wednesday?",
+      "srLabel": "Next",
+      "href": "/what-is-green-wednesday/"
+     },
+     "ariaLabels": [
+      "Post Navigation"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": "9ba89d6",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "comments",
+     "note": "WordPress comment form; no comment backend in a static rebuild"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "comments": 1,
+  "heading": 6,
+  "meta": 1,
+  "postnav": 1,
+  "rich": 4
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [
+   {
+    "href": "/categories/concentrates/rosin/",
+    "from": "/categories/concentrates/rosin/",
+    "status": "dead"
+   }
+  ],
+  "aliasesResolved": [
+   {
+    "from": "https://capecodcannabis.com/2023/07/26/",
+    "to": "/2023/07/26/"
+   },
+   {
+    "from": "/categories/concentrates/wax/",
+    "to": "/categories/concentrates/wax/"
+   },
+   {
+    "from": "/categories/concentrates/diamonds/",
+    "to": "/categories/concentrates/diamonds-2/"
+   },
+   {
+    "from": "/categories/concentrates/shatter/",
+    "to": "/categories/concentrates/shatter-2/"
+   },
+   {
+    "from": "/categories/concentrates/live-resin/",
+    "to": "/categories/concentrates/live-resin/"
+   },
+   {
+    "from": "/brands/puffco/",
+    "to": "/brands/puffco/"
+   },
+   {
+    "from": "/categories/accessories/dab-tools/",
+    "to": "/categories/accessories/dab-tools/"
+   },
+   {
+    "from": "https://capecodcannabis.com/recreational-benefits-of-using-cannabis/",
+    "to": "/recreational-benefits-of-using-cannabis/"
+   },
+   {
+    "from": "https://capecodcannabis.com/what-is-green-wednesday/",
+    "to": "/what-is-green-wednesday/"
+   },
+   {
+    "from": "https://capecodcannabis.com/category/cannabis-101/",
+    "to": "/category/cannabis-101/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

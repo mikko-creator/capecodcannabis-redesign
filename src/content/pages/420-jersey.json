@@ -1,0 +1,986 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/420-jersey/",
+ "sourceUrl": "https://capecodcannabis.com/420-jersey/",
+ "requestedUrl": "https://capecodcannabis.com/420-jersey",
+ "slug": "420-jersey",
+ "kind": "standard-page",
+ "wpTemplate": "page",
+ "derived": false,
+ "rawFile": "audit/raw/420-jersey.html",
+ "rawSha256": "c66c14977e97bbd7b7692eb0e51ed6bf2b549e3773908125fe4e7f9a2a7416ef",
+ "regionKind": "main",
+ "title": "LIMITED EDITION Cape Cod Cannabis \"420\" Baseball Jersey | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA |",
+ "metaDescription": "LIMITED EDITION Cape Cod Cannabis \"420\" Baseball Jersey | Celebrate 4/20 the right way with our limited-edition Cape Cod Cannabis custom baseball jersey —",
+ "canonical": "https://capecodcannabis.com/420-jersey/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "LIMITED EDITION Cape Cod Cannabis \"420\" Baseball Jersey | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA |",
+  "description": "LIMITED EDITION Cape Cod Cannabis \"420\" Baseball Jersey | Celebrate 4/20 the right way with our limited-edition Cape Cod Cannabis custom baseball jersey —",
+  "url": "https://capecodcannabis.com/420-jersey/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2026-09-01T08:39:12-04:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2026/03/CCC-420-Jersey-FINAL-2b-1080x1080-1.png",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/2026/03/CCC-420-Jersey-FINAL-2b-1080x1080-1.png",
+  "image:width": "1080",
+  "image:height": "1080",
+  "image:alt": "Get your own LIMITED EDITION Cape Cod Cannabis \"420\" Baseball Jersey ... with YOUR NAME on the back!",
+  "image:type": "image/png"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438"
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "LIMITED EDITION Cape Cod Cannabis \"420\" Baseball Jersey | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA |",
+  "description": "LIMITED EDITION Cape Cod Cannabis \"420\" Baseball Jersey | Celebrate 4/20 the right way with our limited-edition Cape Cod Cannabis custom baseball jersey —",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2026/03/CCC-420-Jersey-FINAL-2b-1080x1080-1.png",
+  "label1": "Time to read",
+  "data1": "1 minute"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/420-jersey/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/420-jersey/",
+        "name": "LIMITED EDITION Cape Cod Cannabis &#8220;420&#8221; Baseball Jersey"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "h1": "Get your LIMITED EDITION Custom CCC \"420\" Baseball Jersey!",
+ "h1Source": {
+  "count": 1,
+  "visible": 1,
+  "hidden": 0
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "LIMITED EDITION Cape Cod Cannabis “420” Baseball Jersey",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "visible",
+ "breadcrumbsSeparator": " / ",
+ "breadcrumbsLabel": "breadcrumbs",
+ "breadcrumbsInRegion": true,
+ "section": "Shop Menu",
+ "sections": [
+  {
+   "n": 0,
+   "id": "4e76ff54",
+   "doc": "section#11803",
+   "cont": true,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "Get your LIMITED EDITION Custom CCC \"420\" Baseball Jersey!"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "b944e34",
+   "doc": "wp-page#155086",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Pick up in-store or shipped to anywhere in the U.S.A."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "14ea41a",
+   "doc": "wp-page#155086",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/9e89daf9-Custom-CCC-420-Baseball-Jersey-WEB-8.5-x-11-FINAL-2-768x994.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/09/Custom-CCC-420-Baseball-Jersey-WEB-8.5-x-11-FINAL-2-768x994.png?lossy=2&strip=0&webp=1",
+     "master": "assets/source/6d2e7b6b-Custom-CCC-420-Baseball-Jersey-WEB-8.5-x-11-FINAL-2.png",
+     "alt": "Get your own custom & limited edition Cape Cod Cannabis 5th Anniversary “420” baseball jersey today!",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 768,
+     "h": 994
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": "f8c1332",
+   "doc": "wp-page#155086",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "LIMITED EDITION! 5th Anniversary offer for only $89.00 (MSRP $129)!"
+    },
+    {
+     "t": "heading",
+     "level": 5,
+     "text": "Can be picked up in-store OR shipped anywhere in the U.S.A."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "id": "9806462",
+   "doc": "wp-page#155086",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/1c112d69-mastercard-amex-visa-mastercard-american-express-300x77.jpg",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/03/mastercard-amex-visa-mastercard-american-express-300x77.jpg?lossy=2&strip=0&webp=1",
+     "master": "assets/source/8dda955f-mastercard-amex-visa-mastercard-american-express.jpg",
+     "alt": "Visa - Mastercard - American Express Accepted",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 300,
+     "h": 77
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "id": "cacd503",
+   "doc": "wp-page#155086",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/3975f8aa-apple-google-amazon-pay-rk9jk6d8t5rr8hnvqnf73jjjio1us2a2okihfy8k7m.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/elementor/thumbs/apple-google-amazon-pay-rk9jk6d8t5rr8hnvqnf73jjjio1us2a2okihfy8k7m.png?lossy=2&strip=0&webp=1",
+     "alt": "Amazon Pay - Apple Pay - Google Pay Accepted on the Blue Tail Apparel & Merch website.",
+     "titleAttr": "Amazon Pay – Apple Pay – Google Pay Accepted on the Blue Tail Apparel & Merch website."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "id": "c61fc28",
+   "doc": "wp-page#155086",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>*Major credit cards accepted on our <a href=\"https://bluetail.cc/\" target=\"_blank\" rel=\"noopener\">BlueTail.cc</a> eCommerce website.</p>"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "id": "48a27b0",
+   "doc": "wp-page#155086",
+   "blocks": [
+    {
+     "t": "button",
+     "label": "BUY YOUR MEN'S JERSEY!",
+     "href": "https://bluetail.cc/product/custom-ccc-420-mens-baseball-jersey/",
+     "target": "_blank"
+    },
+    {
+     "t": "button",
+     "label": "BUY YOUR WOMEN'S JERSEY!",
+     "href": "https://bluetail.cc/product/custom-ccc-420-womens-baseball-jersey/",
+     "target": "_blank"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "id": "7c2b344",
+   "doc": "wp-page#155086",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>*See Men’s &amp; Women’s size chart below.</p>"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "id": "4bd819b",
+   "doc": "wp-page#155086",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "Processing Time"
+    },
+    {
+     "t": "heading",
+     "level": 5,
+     "text": "7-9 business days"
+    },
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "Shipping Time"
+    },
+    {
+     "t": "heading",
+     "level": 5,
+     "text": "Standard Shipping: 8-10 business days"
+    },
+    {
+     "t": "rich",
+     "html": "<p>(*Approximate times.)</p>"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "id": "073393a",
+   "doc": "wp-page#155086",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Custom Cape Cod Cannabis “420” Baseball Jersey"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Celebrate 4/20 the right way with our <strong>limited-edition Cape Cod Cannabis custom baseball jersey</strong> — fully stitched, professionally embroidered, and made to order with your name and number. Built for real Cape Cod Cannabis fans who want something better than basic merch. Quantities are limited, so lock yours in now, rep the culture, and rock a piece of 4/20 you’ll actually wear again and again.</p><p>Every stitch is carefully embroidered for a professional and eye-catching look.</p><p>Order your LIMITED EDITION Custom Cape Cod Cannabis “420” baseball jersey with embroidery today and experience the thrill of wearing a truly personalized piece of cannabis apparel.</p><p><strong>Each custom baseball jersey is meticulously personalized with the following features:</strong></p><ul><li><strong>Material: 100% polyester</strong></li><li><strong>Jersey with stitched tackle twill name &amp; number</strong></li><li><strong>Moisture-wicking fabric has spongy handle, good draping property and elasticity as well as good dimensional stability and wrinkle-resistance</strong></li><li><strong>Breathable &amp; quick-drying</strong></li><li><strong>Athletic cut &amp; exquisite stitching not easy to fall off</strong></li><li><strong>Rounded droptail hem</strong></li><li><strong>Full-button front</strong></li><li><strong>Tagless collar offers clean comfort</strong></li><li><strong>Machine wash, do not tumble dry</strong></li></ul>"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "id": "c946955",
+   "doc": "wp-page#155086",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "LIMITED EDITION! 5th Anniversary offer for only $89.00 (MSRP $129)!"
+    },
+    {
+     "t": "heading",
+     "level": 5,
+     "text": "Can be picked up in-store OR shipped anywhere in the U.S.A."
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "id": "b0fb18d",
+   "doc": "wp-page#155086",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Men’s Size Guide"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "id": "0bef831",
+   "doc": "wp-page#155086",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/396c5e80-Mens-Size_Guide-1-768x752.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/02/Mens-Size_Guide-1-768x752.png?lossy=2&strip=0&webp=1",
+     "master": "assets/source/136a5b4c-Mens-Size_Guide-1.png",
+     "alt": "Men&apos;s Size Guide",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 768,
+     "h": 752
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "id": "10a3b80",
+   "doc": "wp-page#155086",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Women’s Size Guide"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "id": "53d5251",
+   "doc": "wp-page#155086",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/97f3df05-Womens-Size_Guide-1-768x787.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/02/Womens-Size_Guide-1-768x787.png?lossy=2&strip=0&webp=1",
+     "master": "assets/source/2cf9f8de-Womens-Size_Guide-1.png",
+     "alt": "Women&apos;s Size Guide",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 768,
+     "h": 787
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "id": "4fcb5c7",
+   "doc": "wp-page#155086",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/1c112d69-mastercard-amex-visa-mastercard-american-express-300x77.jpg",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/03/mastercard-amex-visa-mastercard-american-express-300x77.jpg?lossy=2&strip=0&webp=1",
+     "master": "assets/source/8dda955f-mastercard-amex-visa-mastercard-american-express.jpg",
+     "alt": "Visa - Mastercard - American Express Accepted",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 300,
+     "h": 77
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "id": "063e52e",
+   "doc": "wp-page#155086",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/3975f8aa-apple-google-amazon-pay-rk9jk6d8t5rr8hnvqnf73jjjio1us2a2okihfy8k7m.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/elementor/thumbs/apple-google-amazon-pay-rk9jk6d8t5rr8hnvqnf73jjjio1us2a2okihfy8k7m.png?lossy=2&strip=0&webp=1",
+     "alt": "Amazon Pay - Apple Pay - Google Pay Accepted on the Blue Tail Apparel & Merch website.",
+     "titleAttr": "Amazon Pay – Apple Pay – Google Pay Accepted on the Blue Tail Apparel & Merch website."
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "id": "466ddc0",
+   "doc": "wp-page#155086",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>*Major credit cards accepted on our <a href=\"https://bluetail.cc/\" target=\"_blank\" rel=\"noopener\">BlueTail.cc</a> eCommerce website.</p>"
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "id": "f061995",
+   "doc": "wp-page#155086",
+   "blocks": [
+    {
+     "t": "button",
+     "label": "BUY YOUR MEN'S JERSEY!",
+     "href": "https://bluetail.cc/product/custom-ccc-420-mens-baseball-jersey/",
+     "target": "_blank"
+    },
+    {
+     "t": "button",
+     "label": "BUY YOUR WOMEN'S JERSEY!",
+     "href": "https://bluetail.cc/product/custom-ccc-420-womens-baseball-jersey/",
+     "target": "_blank"
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "id": "f60b278",
+   "doc": "wp-page#155086",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "Processing Time"
+    },
+    {
+     "t": "heading",
+     "level": 5,
+     "text": "7-9 business days"
+    },
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "Shipping Time"
+    },
+    {
+     "t": "heading",
+     "level": 5,
+     "text": "Standard Shipping: 8-10 business days"
+    },
+    {
+     "t": "rich",
+     "html": "<p>(*Approximate times.)</p>"
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "id": "554de02",
+   "doc": "wp-page#155086",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong>NOTE:</strong> *Women’s baseball jerseys have a slim fit. For a standard fit, size up; for extra comfort, choose a looser size. <strong>We are UNABLE to ACCEPT RETURNS/EXCHANGES ON CUSTOM ORDERS. SORRY, NO REFUNDS.</strong> 4XL+ size will incur an additional small fee. <strong>Can be picked up in-store OR shipped anywhere in the U.S.A.</strong></p>"
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "id": "173a5bd",
+   "doc": "wp-page#155086",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/ab17e58d-5th-Anniversary-Logo-2.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/03/5th-Anniversary-Logo-2.png?lossy=2&strip=0&webp=1",
+     "alt": "Join us in celebration of our 5th Anniversary on Friday April 17, 2026 and on Monday April 20, 2026 for 420 and take advantage of great offers from Cape Cod Cannabis in Wellfleet, MA",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 353,
+     "h": 286
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "button": 4,
+  "heading": 17,
+  "image": 8,
+  "rich": 7
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [],
+  "links": [],
+  "aliasesResolved": [],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

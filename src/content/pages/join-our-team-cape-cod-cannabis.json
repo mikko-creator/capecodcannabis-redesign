@@ -1,0 +1,1277 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/join-our-team-cape-cod-cannabis/",
+ "sourceUrl": "https://capecodcannabis.com/join-our-team-cape-cod-cannabis/",
+ "requestedUrl": "https://capecodcannabis.com/join-our-team-cape-cod-cannabis",
+ "slug": "join-our-team-cape-cod-cannabis",
+ "kind": "standard-page",
+ "wpTemplate": "page",
+ "derived": false,
+ "rawFile": "audit/raw/join-our-team-cape-cod-cannabis.html",
+ "rawSha256": "b002c0262b499828cc7d29283990f28a5490b85ec3bf380acbaf514a021286bc",
+ "regionKind": "main",
+ "title": "Join Our Team at Cape Cod Cannabis Dispensary in Wellfleet",
+ "metaDescription": "Join Our Team! Browse open positions & complete an application today. Join our rockstar team who are passionate about cannabis & customers.",
+ "canonical": "https://capecodcannabis.com/join-our-team-cape-cod-cannabis/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "Join Our Team at Cape Cod Cannabis Dispensary in Wellfleet",
+  "description": "Join Our Team! Browse open positions & complete an application today. Join our rockstar team who are passionate about cannabis & customers.",
+  "url": "https://capecodcannabis.com/join-our-team-cape-cod-cannabis/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2026-09-07T11:36:17-04:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2022/04/IMG_7184-2-1024x682.webp",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/2022/04/IMG_7184-2-1024x682.webp",
+  "image:alt": "Join Our Team"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438"
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "Join Our Team at Cape Cod Cannabis Dispensary in Wellfleet",
+  "description": "Join Our Team! Browse open positions & complete an application today. Join our rockstar team who are passionate about cannabis & customers.",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2022/04/IMG_7184-2-1024x682.webp",
+  "label1": "Time to read",
+  "data1": "10 minutes"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/join-our-team-cape-cod-cannabis/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/join-our-team-cape-cod-cannabis/",
+        "name": "Join Our Team"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Security",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "<p><b style=\"background-color: var( --e-global-color-secondary ); color: var( --e-global-color-5e25e5b ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: var( --e-global-typography-text-font-size ); font-style: var( --e-global-typography-text-font-style ); text-transform: var( --e-global-typography-text-text-transform );\">Required for the Job:</b></p><p> </p><ul><li>21+</li><li>Valid Driver’s License</li><li>Demonstrate attention to detail</li><li>Organized and tidy</li><li>Excellent time management skills</li><li>Clear communicator that can receive and deliver verbal and written messages</li><li>Understand and comply with all compliance and regulatory requirements</li><li>Willingness to learn new skills and adapt to change</li><li>Showcases confidence, positive attitude, and solution-driven approach to challenges</li><li>Comfortable using computers</li><li>Excellent customer service skills</li><li>Embraced new experiences and meeting people</li><li>Reliably commute to Wellfleet, Massachusetts</li></ul><div><span style=\"background-color: transparent; color: var( --e-global-color-5e25e5b ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-style: var( --e-global-typography-text-font-style ); text-transform: var( --e-global-typography-text-text-transform );\"><b> </b></span></div><p><b>Responsibilities:</b></p><p> </p><ul><li>Greet all customers and visitors who arrive on-premises as the first-point-of-contact</li><li>Maintain a safe shopping environment for customers and employees</li><li>Follow and enforce all applicable town, state laws, and CCC (Cannabis Control Commission) regulations</li><li>Check that identification is valid, government-issued, and proof of age</li><li>Monitor security cameras to observe activity on the interior and exterior of the store</li><li>Work to prevent loitering, trespassing, and consumption on the premises</li><li>Escalate security threats to appropriate authorities as necessary, and as appropriate</li><li>Ensure that the reception area floors and surfaces are clean and sanitized regularly</li><li>Stay informed of sales activities, events, and specials</li><li>Display professional and courteous verbal and non-verbal communication with customers and visitors</li><li>Maintain a calm and welcoming environment</li></ul><p> </p><p><em><strong>After being selected you must pass all required background checks and obtain the necessary State certification prior to commencing work.</strong></em></p><p> </p><p>Job Types: Full-time and Part-time<br />Wellfleet, MA</p>"
+     }
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Product Specialist/Budtender",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "<p><strong>Description:</strong></p><p>As a Product Specialist, you will assist and guide customers through their retail experience, <span style=\"background-color: var( --e-global-color-secondary ); color: var( --e-global-color-5e25e5b ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: var( --e-global-typography-text-font-size ); font-style: var( --e-global-typography-text-font-style ); font-weight: var( --e-global-typography-text-font-weight ); text-transform: var( --e-global-typography-text-text-transform );\">while accurately and efficiently processing transactions in accordance with </span></p><p><span style=\"background-color: var( --e-global-color-secondary ); color: var( --e-global-color-5e25e5b ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: var( --e-global-typography-text-font-size ); font-style: var( --e-global-typography-text-font-style ); font-weight: var( --e-global-typography-text-font-weight ); text-transform: var( --e-global-typography-text-text-transform );\">all rules and </span><span style=\"background-color: var( --e-global-color-secondary ); color: var( --e-global-color-5e25e5b ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: var( --e-global-typography-text-font-size ); font-style: var( --e-global-typography-text-font-style ); font-weight: var( --e-global-typography-text-font-weight ); text-transform: var( --e-global-typography-text-text-transform );\">regulations put forth by Cape Cod Cannabis and the Cannabis Control Commission.</span></p><p><b>Required for the Job:</b></p><ul><li>21+</li><li>Valid Driver’s License</li><li>Demonstrate attention to detail</li><li>Organized and tidy</li><li>Excellent time management skills</li></ul><ul><li>Clear communicator that can receive and deliver verbal and written messages</li><li>Understand and comply with all compliance and regulatory requirements</li><li>Willingness to learn new skills and adapt to change</li><li>Showcases confidence, positive attitude, and solution-driven approach to challenges</li><li>Comfortable using computers</li><li>Excellent customer service skills</li><li>Embraced new experiences and meeting people</li><li>Reliably commute to Wellfleet, Massachusetts</li></ul><p><b> </b></p><p><b>Qualifications to be an excellent Product Specialist:</b></p><ul><li>Minimum 2 years experience with customer service in a fast-paced retail environment</li><li>Strong attention to detail and ability to solve and resolve problems in a calm,</li><li>Professional, and courteous manner</li><li>Exceptional customer service skills</li><li>Personal interest in the cannabis industry and enthusiasm for learning</li><li>Dynamic interpersonal and communication skills</li><li>A highly self-motivated and ethical individual</li></ul><div> </div><div><div><b>Responsibilities:</b></div><div><ul><li>Educate and assist customers in making product selections</li><li>Maintain awareness of the current menu, programs, pricing, and deals</li><li>Display outstanding customer service while accurately and efficiently processing transactions</li></ul></div><div><ul><li>Exhibit patience and exceptional listening skills</li><li>Complete sales and ensure the information on each transaction is accurately reflected in the POS software;</li><li>Ensure compliance of operations with the State laws and Company’s policies and procedures</li><li>Maintain high ethical standards and professionalism</li><li>May be required to lift up to 40 pounds</li><li>After being selected you must pass all required background checks and obtain necessary</li><li>State certification prior to commencing work.</li></ul><div> </div><div><p>Job Types: Full-time and Part-time</p><p>Wellfleet, MA</p></div></div></div>"
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Security",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "<p><b style=\"background-color: var( --e-global-color-secondary ); color: var( --e-global-color-5e25e5b ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: var( --e-global-typography-text-font-size ); font-style: var( --e-global-typography-text-font-style ); text-transform: var( --e-global-typography-text-text-transform );\">Required for the Job:</b></p><ul><li>21+</li><li>Valid Driver’s License</li><li>Demonstrate attention to detail</li><li>Organized and tidy</li><li>Excellent time management skills</li><li>Clear communicator that can receive and deliver verbal and written messages</li><li>Understand and comply with all compliance and regulatory requirements</li><li>Willingness to learn new skills and adapt to change</li><li>Showcases confidence, positive attitude, and solution-driven approach to challenges</li><li>Comfortable using computers</li><li>Excellent customer service skills</li><li>Embraced new experiences and meeting people</li><li>Reliably commute to Wellfleet, Massachusetts</li></ul><div><span style=\"background-color: transparent; color: var( --e-global-color-5e25e5b ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-style: var( --e-global-typography-text-font-style ); text-transform: var( --e-global-typography-text-text-transform );\"><b> </b></span></div><p><b>Responsibilities:</b></p><ul><li>Greet all customers and visitors who arrive on-premises as the first-point-of-contact</li><li>Maintain a safe shopping environment for customers and employees</li><li>Follow and enforce all applicable town, state laws, and CCC (Commonwealth Cannabis Commission) regulations</li><li>Check that identification is valid, government-issued, and proof of age</li><li>Monitor security cameras to observe activity on the interior and exterior of the store</li><li>Work to prevent loitering, trespassing, and consumption on the premises</li><li>Escalate security threats to appropriate authorities as necessary, and as appropriate</li><li>Ensure that the reception area floors and surfaces are clean and sanitized regularly</li><li>Stay informed of sales activities, events, and specials</li><li>Display professional and courteous verbal and non-verbal communication with customers and visitors</li><li>Maintain a calm and welcoming environment</li></ul><p> </p><p>After being selected you must pass all required background checks and obtain the necessary State</p><p>certification prior to commencing work.</p><p> </p><p>Job Types: Full-time and Part-time</p><p>Wellfleet, MA</p>"
+     }
+    }
+   ]
+  }
+ ],
+ "h1": "Join Our Team",
+ "h1Source": {
+  "count": 1,
+  "visible": 1,
+  "hidden": 0
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Join Our Team",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "jsonld",
+ "section": "About",
+ "sections": [
+  {
+   "n": 0,
+   "id": "7da4ea18",
+   "doc": "wp-page#14206",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "Join Our Team"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "7834678",
+   "doc": "wp-page#14206",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Open Positions"
+    },
+    {
+     "t": "faq",
+     "kind": "toggle",
+     "items": [
+      {
+       "q": "Security",
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><b>Required for the Job:</b></p><ul><li>21+</li><li>Valid Driver’s License</li><li>Demonstrate attention to detail</li><li>Organized and tidy</li><li>Excellent time management skills</li><li>Clear communicator that can receive and deliver verbal and written messages</li><li>Understand and comply with all compliance and regulatory requirements</li><li>Willingness to learn new skills and adapt to change</li><li>Showcases confidence, positive attitude, and solution-driven approach to challenges</li><li>Comfortable using computers</li><li>Excellent customer service skills</li><li>Embraced new experiences and meeting people</li><li>Reliably commute to Wellfleet, Massachusetts</li></ul>"
+        },
+        {
+         "t": "rich",
+         "html": "<p><b>Responsibilities:</b></p><ul><li>Greet all customers and visitors who arrive on-premises as the first-point-of-contact</li><li>Maintain a safe shopping environment for customers and employees</li><li>Follow and enforce all applicable town, state laws, and CCC (Cannabis Control Commission) regulations</li><li>Check that identification is valid, government-issued, and proof of age</li><li>Monitor security cameras to observe activity on the interior and exterior of the store</li><li>Work to prevent loitering, trespassing, and consumption on the premises</li><li>Escalate security threats to appropriate authorities as necessary, and as appropriate</li><li>Ensure that the reception area floors and surfaces are clean and sanitized regularly</li><li>Stay informed of sales activities, events, and specials</li><li>Display professional and courteous verbal and non-verbal communication with customers and visitors</li><li>Maintain a calm and welcoming environment</li></ul><p><em><strong>After being selected you must pass all required background checks and obtain the necessary State certification prior to commencing work.</strong></em></p><p>Job Types: Full-time and Part-time<br>Wellfleet, MA</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "216a4ae",
+   "doc": "wp-page#14206",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>(Click to above view dropdown)</p>"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": "035ac27",
+   "doc": "wp-page#14206",
+   "hiddenAll": true,
+   "dev": [],
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Open Positions",
+     "dev": [],
+     "hiddenAll": true
+    },
+    {
+     "t": "faq",
+     "kind": "toggle",
+     "items": [
+      {
+       "q": "Product Specialist/Budtender",
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><strong>Description:</strong></p><p>As a Product Specialist, you will assist and guide customers through their retail experience, while accurately and efficiently processing transactions in accordance with </p><p>all rules and regulations put forth by Cape Cod Cannabis and the Cannabis Control Commission.</p><p><b>Required for the Job:</b></p><ul><li>21+</li><li>Valid Driver’s License</li><li>Demonstrate attention to detail</li><li>Organized and tidy</li><li>Excellent time management skills</li></ul><ul><li>Clear communicator that can receive and deliver verbal and written messages</li><li>Understand and comply with all compliance and regulatory requirements</li><li>Willingness to learn new skills and adapt to change</li><li>Showcases confidence, positive attitude, and solution-driven approach to challenges</li><li>Comfortable using computers</li><li>Excellent customer service skills</li><li>Embraced new experiences and meeting people</li><li>Reliably commute to Wellfleet, Massachusetts</li></ul><p> </p><p><b>Qualifications to be an excellent Product Specialist:</b></p><ul><li>Minimum 2 years experience with customer service in a fast-paced retail environment</li><li>Strong attention to detail and ability to solve and resolve problems in a calm,</li><li>Professional, and courteous manner</li><li>Exceptional customer service skills</li><li>Personal interest in the cannabis industry and enthusiasm for learning</li><li>Dynamic interpersonal and communication skills</li><li>A highly self-motivated and ethical individual</li></ul>"
+        },
+        {
+         "t": "rich",
+         "html": "<b>Responsibilities:</b>"
+        },
+        {
+         "t": "rich",
+         "html": "<ul><li>Educate and assist customers in making product selections</li><li>Maintain awareness of the current menu, programs, pricing, and deals</li><li>Display outstanding customer service while accurately and efficiently processing transactions</li></ul>"
+        },
+        {
+         "t": "rich",
+         "html": "<ul><li>Exhibit patience and exceptional listening skills</li><li>Complete sales and ensure the information on each transaction is accurately reflected in the POS software;</li><li>Ensure compliance of operations with the State laws and Company’s policies and procedures</li><li>Maintain high ethical standards and professionalism</li><li>May be required to lift up to 40 pounds</li><li>After being selected you must pass all required background checks and obtain necessary</li><li>State certification prior to commencing work.</li></ul>"
+        },
+        {
+         "t": "rich",
+         "html": "<p>Job Types: Full-time and Part-time</p><p>Wellfleet, MA</p>"
+        }
+       ]
+      },
+      {
+       "q": "Security",
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><b>Required for the Job:</b></p><ul><li>21+</li><li>Valid Driver’s License</li><li>Demonstrate attention to detail</li><li>Organized and tidy</li><li>Excellent time management skills</li><li>Clear communicator that can receive and deliver verbal and written messages</li><li>Understand and comply with all compliance and regulatory requirements</li><li>Willingness to learn new skills and adapt to change</li><li>Showcases confidence, positive attitude, and solution-driven approach to challenges</li><li>Comfortable using computers</li><li>Excellent customer service skills</li><li>Embraced new experiences and meeting people</li><li>Reliably commute to Wellfleet, Massachusetts</li></ul>"
+        },
+        {
+         "t": "rich",
+         "html": "<p><b>Responsibilities:</b></p><ul><li>Greet all customers and visitors who arrive on-premises as the first-point-of-contact</li><li>Maintain a safe shopping environment for customers and employees</li><li>Follow and enforce all applicable town, state laws, and CCC (Commonwealth Cannabis Commission) regulations</li><li>Check that identification is valid, government-issued, and proof of age</li><li>Monitor security cameras to observe activity on the interior and exterior of the store</li><li>Work to prevent loitering, trespassing, and consumption on the premises</li><li>Escalate security threats to appropriate authorities as necessary, and as appropriate</li><li>Ensure that the reception area floors and surfaces are clean and sanitized regularly</li><li>Stay informed of sales activities, events, and specials</li><li>Display professional and courteous verbal and non-verbal communication with customers and visitors</li><li>Maintain a calm and welcoming environment</li></ul><p>After being selected you must pass all required background checks and obtain the necessary State</p><p>certification prior to commencing work.</p><p>Job Types: Full-time and Part-time</p><p>Wellfleet, MA</p>"
+        }
+       ]
+      }
+     ],
+     "dev": [],
+     "hiddenAll": true
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "id": "a3dd908",
+   "doc": "wp-page#14206",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Want To Join Our Team?"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Cape Cod Cannabis is hiring! We are looking for talented and motivated individuals to join our team in Wellfleet. Full and Part-time positions available. Apply today! Email your resume to <a href=\"mailto:hr@capecodcannabis.com\" target=\"_blank\" rel=\"nofollow noopener\" title=\"Email HR at Cape Cod Cannabis\">hr@capecodcannabis.com</a> or apply via the online form.</p>"
+    },
+    {
+     "t": "image",
+     "ref": "assets/source/967c6523-IMG_7184-2-1024x682.webp",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2022/04/IMG_7184-2-1024x682.webp?lossy=2&strip=0&webp=1",
+     "master": "assets/source/516bebba-IMG_7184-2.webp",
+     "alt": "Cape Cod Cannabis",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 800,
+     "h": 533
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Apply to work with the Cape Cod Cannabis team today!"
+    },
+    {
+     "t": "form",
+     "name": "Application Form",
+     "fields": [
+      {
+       "tag": "input",
+       "type": "text",
+       "name": "form_fields[name]",
+       "label": "Name",
+       "placeholder": "Name",
+       "required": true
+      },
+      {
+       "tag": "input",
+       "type": "email",
+       "name": "form_fields[email]",
+       "label": "Email",
+       "placeholder": "Email",
+       "required": true
+      },
+      {
+       "tag": "input",
+       "type": "tel",
+       "name": "form_fields[field_950b57f]",
+       "label": "Phone",
+       "placeholder": "(999) 999-9999",
+       "required": true
+      },
+      {
+       "tag": "input",
+       "type": "text",
+       "name": "form_fields[field_df4f3c1]",
+       "label": "What position are you applying for?",
+       "placeholder": "Position",
+       "required": true
+      },
+      {
+       "tag": "input",
+       "type": "file",
+       "name": "form_fields[field_73cb947]",
+       "label": "Your Resume",
+       "required": true
+      },
+      {
+       "tag": "input",
+       "type": "checkbox",
+       "name": "form_fields[field_37e6993]",
+       "label": "Age Verification",
+       "options": [
+        {
+         "label": "I confirm that I am at least 21 years old",
+         "value": "I confirm that I am at least 21 years old"
+        }
+       ]
+      },
+      {
+       "tag": "input",
+       "type": "checkbox",
+       "name": "form_fields[field_6805965]",
+       "label": "Privacy",
+       "options": [
+        {
+         "label": "I allow Cape Cod Cannabis to review and process my information and understand that it will not be shared with 3rd parties without my consent",
+         "value": "I allow Cape Cod Cannabis to review and process my information and understand that it will not be shared with 3rd parties without my consent"
+        }
+       ]
+      },
+      {
+       "tag": "button",
+       "type": "submit",
+       "label": "Apply"
+      }
+     ],
+     "submit": "Apply",
+     "ariaLabels": [
+      "Application Form"
+     ]
+    },
+    {
+     "t": "rich",
+     "html": "<p>By clicking the “Apply” button you agree to our privacy policy</p>"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "id": "b0c6bb8",
+   "doc": "wp-page#14206",
+   "hiddenAll": true,
+   "dev": [],
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Our Team",
+     "dev": [],
+     "hiddenAll": true
+    },
+    {
+     "t": "divider",
+     "dev": [],
+     "hiddenAll": true
+    },
+    {
+     "t": "rich",
+     "html": "<p>Apply today and work with a rockstar team who are passionate about helping customers find premium cannabis products that fit their needs.</p>",
+     "dev": [],
+     "hiddenAll": true
+    },
+    {
+     "t": "gallery",
+     "kind": "image-carousel",
+     "settings": {
+      "autoplay": "yes",
+      "autoplay_speed": 5000
+     },
+     "items": [
+      {
+       "image": {
+        "ref": "assets/source/1a05e30a-IMG_5994-pncvp79hmriquxolw4zjxnqgdndkrkcbobm8k8cadk.webp",
+        "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/elementor/thumbs/IMG_5994-pncvp79hmriquxolw4zjxnqgdndkrkcbobm8k8cadk.webp?lossy=2&strip=0&webp=1",
+        "alt": "Shawn | Security",
+        "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA"
+       },
+       "caption": "Shawn"
+      },
+      {
+       "image": {
+        "ref": "assets/source/5de1498e-IMG_7110-2-pncvp87btlk16jn8qne6i5hwz18xz9g20g9q1iaw7c.webp",
+        "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/elementor/thumbs/IMG_7110-2-pncvp87btlk16jn8qne6i5hwz18xz9g20g9q1iaw7c.webp?lossy=2&strip=0&webp=1",
+        "alt": "Casandra | Product Specialist",
+        "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA"
+       },
+       "caption": "Casandra"
+      },
+      {
+       "image": {
+        "ref": "assets/source/2c7d680b-Jackson-e1650653133690-pnr3otold50tieq15t4bj04j7y95y1lusdvaz9l9c8.webp",
+        "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/elementor/thumbs/Jackson-e1650653133690-pnr3otold50tieq15t4bj04j7y95y1lusdvaz9l9c8.webp?lossy=2&strip=0&webp=1",
+        "alt": "Jackson | Marketing Administrator",
+        "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA"
+       },
+       "caption": "Jackson"
+      },
+      {
+       "image": {
+        "ref": "assets/source/03a85a17-Larysa-pncvpa3079mltrkifo7fn50u5szoenniopkp0283uw.webp",
+        "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/elementor/thumbs/Larysa-pncvpa3079mltrkifo7fn50u5szoenniopkp0283uw.webp?lossy=2&strip=0&webp=1",
+        "alt": "Larysa | General Manager",
+        "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA"
+       },
+       "caption": "Larysa"
+      },
+      {
+       "image": {
+        "ref": "assets/source/21b428fc-Morgan-pncvpb0ue3nw5dj5a6m27msar6v1mcr90u86hc6poo.webp",
+        "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/elementor/thumbs/Morgan-pncvpb0ue3nw5dj5a6m27msar6v1mcr90u86hc6poo.webp?lossy=2&strip=0&webp=1",
+        "alt": "Morgan | Inventory Manager",
+        "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA"
+       },
+       "caption": "Morgan"
+      },
+      {
+       "image": {
+        "ref": "assets/source/8f1e1ccd-Untitled_design_3-pncvpcwirrqgslgez7fbcmb7xyls1qypp3j5fw3xc8.webp",
+        "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/elementor/thumbs/Untitled_design_3-pncvpcwirrqgslgez7fbcmb7xyls1qypp3j5fw3xc8.webp?lossy=2&strip=0&webp=1",
+        "alt": "Rich | Product Specialist",
+        "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA"
+       },
+       "caption": "Rich"
+      },
+      {
+       "image": {
+        "ref": "assets/source/a4ce7f2d-IMG_9973-3-px9p7jrppmr7ww6kqnp99yb8gzmgvyiydmqojie6q0.jpg",
+        "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/elementor/thumbs/IMG_9973-3-px9p7jrppmr7ww6kqnp99yb8gzmgvyiydmqojie6q0.jpg?lossy=2&strip=0&webp=1",
+        "alt": "Sophia | Product Specialist",
+        "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA"
+       },
+       "caption": "Sophia"
+      }
+     ],
+     "ariaLabels": [
+      "Image Carousel",
+      "1 of 7",
+      "2 of 7",
+      "3 of 7",
+      "4 of 7",
+      "5 of 7",
+      "6 of 7",
+      "7 of 7"
+     ],
+     "dev": [],
+     "hiddenAll": true
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "id": "40863ee9",
+   "doc": "wp-page#14206",
+   "hiddenAll": true,
+   "dev": [],
+   "blocks": [
+    {
+     "t": "embed",
+     "kind": "instagram-feed",
+     "src": null,
+     "note": "Smash Balloon feed; the static HTML held only an admin-only error",
+     "dev": [],
+     "hiddenAll": true
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "id": "a5a0860",
+   "doc": "wp-page#14206",
+   "blocks": [
+    {
+     "t": "faq",
+     "kind": "nested-accordion",
+     "items": [
+      {
+       "q": "WHY CAPE COD CANNABIS",
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 3,
+         "text": "⭐ Serving Cape Cod Since 2021"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "text": "⭐ 900+ Google Reviews"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "text": "⭐ 4.9★ Rating"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "text": "Trusted by Cape Cod Residents and Visitors Since 2021"
+        },
+        {
+         "t": "rich",
+         "html": "<p>Choosing a cannabis dispensary is about more than finding the closest location. It’s about finding knowledgeable people, quality products, and a place you can trust.</p><p>Since <strong>opening in 2021</strong>, Cape Cod Cannabis has proudly served Cape Cod residents and visitors with a commitment to education, exceptional customer service, and responsible cannabis retail. <a href=\"/directions/\">Conveniently located in the Route 6 shopping plaza in South Wellfleet</a>, we welcome customers from Provincetown to Sandwich and beyond, and everywhere in between.</p><p>Whether you’re visiting Cape Cod for a weekend getaway or you’re a year-round resident, our goal is simple: provide a welcoming, informative, and comfortable shopping experience while helping every customer make confident, informed cannabis decisions.</p>"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "text": "Why Trust Cape Cod Cannabis?"
+        },
+        {
+         "t": "rich",
+         "html": "<p>At Cape Cod Cannabis, trust is earned through consistency, transparency, and a genuine commitment to our customers.</p><p>We believe every customer deserves friendly service, knowledgeable guidance, and access to quality recreational cannabis products in a welcoming environment. Whether you’re exploring cannabis for the first time or have years of experience, our team is here to answer your questions, explain your options, and help you find products that best fit your preferences.</p><p>Since 2021, we’ve built lasting relationships with thousands of customers by focusing on education before recommendations, honesty before sales, and exceptional service during every visit.</p>"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "text": "By the Numbers"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "text": "Established"
+        },
+        {
+         "t": "heading",
+         "level": 5,
+         "text": "2018"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "text": "Open Since"
+        },
+        {
+         "t": "heading",
+         "level": 5,
+         "text": "2021"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "text": "Google Rating"
+        },
+        {
+         "t": "heading",
+         "level": 5,
+         "text": "4.9 Stars ⭐⭐⭐⭐⭐"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "text": "Google Reviews"
+        },
+        {
+         "t": "heading",
+         "level": 5,
+         "text": "900+"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "text": "Customers Served"
+        },
+        {
+         "t": "heading",
+         "level": 5,
+         "text": "Thousands of satisfied customers"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "text": "Product Categories"
+        },
+        {
+         "t": "rich",
+         "html": "<p><strong><a href=\"/categories/flower/\">Flower</a> • <a href=\"/categories/pre-rolls/\">Pre-Rolls</a> • <a href=\"/categories/edibles/\">Edibles</a> • <a href=\"/categories/vaporizers/\">Vaporizers</a> • <a href=\"/categories/concentrates/\">Concentrates</a> • <a href=\"/categories/tinctures/\">Tinctures</a> • <a href=\"/categories/topicals/\">Topicals</a> • <a href=\"/categories/cbd/\">CBD</a> • <a href=\"/categories/seeds/\">Seeds</a> • <a href=\"/categories/accessories/\">Accessories</a> • <a href=\"/categories/merch/\">Apparel</a></strong></p>"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "text": "Online Ordering"
+        },
+        {
+         "t": "heading",
+         "level": 5,
+         "text": "Available for pre-ordering"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "text": "In-Store Pickup"
+        },
+        {
+         "t": "heading",
+         "level": 5,
+         "text": "Available"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "text": "Parking"
+        },
+        {
+         "t": "heading",
+         "level": 5,
+         "text": "Free On-Site Parking"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "text": "Open"
+        },
+        {
+         "t": "heading",
+         "level": 5,
+         "text": "Daily, Year-Round"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "text": "What Our Customers Say"
+        },
+        {
+         "t": "rich",
+         "html": "<p>Our customers consistently describe their experience at Cape Cod Cannabis as friendly, welcoming, and informative.</p><p>Across hundreds of Google reviews, customers frequently mention:</p><ul><li>Friendly and welcoming staff</li><li>Knowledgeable product recommendations</li><li>One of Cape Cod’s largest selections of cannabis products</li><li>A comfortable experience for first-time visitors</li><li>Convenient Route 6 location with free parking</li><li>Easy online ordering and in-store pickup</li><li>Professional, educational approach to cannabis</li><li>Great product variety and value</li><li>Helpful guidance without pressure</li><li>A shopping experience that’s always worth the trip</li></ul><p>These recurring themes reflect the experience we strive to provide every day.</p>"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "text": "Education First"
+        },
+        {
+         "t": "rich",
+         "html": "<p><a href=\"/intro-to-cannabis-101/\">Responsible and informative education</a> is at the heart of everything we do.</p><p>Cannabis affects everyone differently, which is why we believe informed customers make better decisions. Our knowledgeable team takes the time to answer questions, explain products, discuss different consumption methods, and help customers understand the differences between flower, pre-rolls, edibles, vaporizers, concentrates, tinctures, CBD products, seeds, and more. We also offer <a href=\"/intro-to-cannabis-101/\">our Intro to Cannabis 101 page</a> for your reference.</p><p>Whether you’re new to cannabis or an experienced consumer, we’re committed to providing clear, honest information so you can shop with confidence.</p>"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "text": "Serving Cape Cod and beyond…"
+        },
+        {
+         "t": "rich",
+         "html": "<p>Cape Cod Cannabis proudly serves customers from across Cape Cod and beyond, including:</p><ul><li>Provincetown</li><li>Truro</li><li>Wellfleet</li><li>Eastham</li><li>Orleans</li><li>Brewster</li><li>Harwich</li><li>Chatham</li><li>Dennis</li><li>Yarmouth</li><li>Hyannis</li><li>Barnstable</li><li>Mashpee</li><li>Falmouth</li><li>Sandwich</li></ul><p>We also welcome thousands of visitors who make Cape Cod Cannabis a stop during their Cape Cod vacation. <a href=\"/directions/\">Conveniently located directly on Route 6 in the South Wellfleet shopping plaza</a>, we’re easy to find with plenty of free parking.</p>"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "text": "Our Commitment"
+        },
+        {
+         "t": "rich",
+         "html": "<p>We’re committed to operating responsibly while providing a safe, welcoming, and educational environment for every customer.</p><p>Our commitment includes:</p><ul><li>Providing quality, licensed <a href=\"/menu/\">recreational cannabis products</a></li><li>Helping customers make informed purchasing decisions</li><li>Promoting responsible cannabis consumption</li><li>Supporting our local Cape Cod community</li><li>Maintaining a clean, professional, and welcoming retail environment</li><li>Continuously expanding our knowledge to better serve our customers</li></ul><p>Every customer interaction is an opportunity to build trust, answer questions, and provide an exceptional experience.</p>"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "text": "Why It’s Always Worth the Trip"
+        },
+        {
+         "t": "rich",
+         "html": "<p>Cape Cod Cannabis has become a trusted destination for both Cape Cod residents and visitors seeking quality recreational cannabis products, knowledgeable guidance, and outstanding customer service.</p><p>Whether you’re traveling from a neighboring town or making Cape Cod part of your vacation, we invite you to discover why so many customers continue to choose Cape Cod Cannabis year after year.</p><p>From our extensive product selection and friendly team to our convenient South Wellfleet location, we’re committed to providing an experience that’s informative, welcoming, and always worth the trip.</p><p>We look forward to welcoming you soon.</p>"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "text": "Cape Cod Cannabis…Always Worth the Trip."
+        }
+       ]
+      }
+     ],
+     "ariaLabels": [
+      "Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys"
+     ]
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "divider": 1,
+  "embed": 1,
+  "faq": 3,
+  "form": 1,
+  "gallery": 1,
+  "heading": 37,
+  "image": 1,
+  "rich": 21
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "smash-balloon-admin-error",
+    "text": "This error message is only visible to WordPress admins Error: No feed with the ID 1 found. Please go to the Instagram Feed settings page to create a feed.",
+    "reason": "admin-only plugin error message (removals.json)"
+   }
+  ],
+  "links": [],
+  "aliasesResolved": [
+   {
+    "from": "/directions",
+    "to": "/directions/"
+   },
+   {
+    "from": "/categories/flower",
+    "to": "/categories/flower/"
+   },
+   {
+    "from": "/categories/pre-rolls",
+    "to": "/categories/pre-rolls/"
+   },
+   {
+    "from": "/categories/edibles",
+    "to": "/categories/edibles/"
+   },
+   {
+    "from": "/categories/vaporizers",
+    "to": "/categories/vaporizers/"
+   },
+   {
+    "from": "/categories/concentrates",
+    "to": "/categories/concentrates/"
+   },
+   {
+    "from": "/categories/tinctures",
+    "to": "/categories/tinctures/"
+   },
+   {
+    "from": "/categories/topicals",
+    "to": "/categories/topicals/"
+   },
+   {
+    "from": "/categories/cbd",
+    "to": "/categories/cbd/"
+   },
+   {
+    "from": "/categories/seeds",
+    "to": "/categories/seeds/"
+   },
+   {
+    "from": "/categories/accessories",
+    "to": "/categories/accessories/"
+   },
+   {
+    "from": "/categories/merch",
+    "to": "/categories/merch/"
+   },
+   {
+    "from": "/intro-to-cannabis-101",
+    "to": "/intro-to-cannabis-101/"
+   },
+   {
+    "from": "/menu",
+    "to": "/menu/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

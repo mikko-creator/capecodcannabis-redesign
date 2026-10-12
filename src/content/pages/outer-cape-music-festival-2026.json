@@ -1,0 +1,939 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/outer-cape-music-festival-2026/",
+ "sourceUrl": "https://capecodcannabis.com/outer-cape-music-festival-2026/",
+ "requestedUrl": "https://capecodcannabis.com/outer-cape-music-festival-2026",
+ "slug": "outer-cape-music-festival-2026",
+ "kind": "blog-post",
+ "wpTemplate": "post",
+ "derived": false,
+ "rawFile": "audit/raw/outer-cape-music-festival-2026.html",
+ "rawSha256": "df3f5d05a7d962188b95738b74d967e3c2ddbc8f59a598b56d6f3929d2015275",
+ "regionKind": "body-minus-chrome",
+ "title": "Outer Cape Music Festival 2026 | Labor Day Weekend Live Music in Wellfleet, MA",
+ "metaDescription": "Discover the Outer Cape Music Festival in Wellfleet, MA on Labor Day Weekend 2026 featuring Baha Men, Electro Gix, local bands, and live music for charity.",
+ "canonical": "https://capecodcannabis.com/outer-cape-music-festival-2026/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "Outer Cape Music Festival 2026 | Labor Day Weekend Live Music in Wellfleet, MA",
+  "description": "Discover the Outer Cape Music Festival in Wellfleet, MA on Labor Day Weekend 2026 featuring Baha Men, Electro Gix, local bands, and live music for charity.",
+  "url": "https://capecodcannabis.com/outer-cape-music-festival-2026/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2026-09-01T09:38:58-04:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2026/07/OCMF-1920x250-1.png",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/2026/07/OCMF-1920x250-1.png",
+  "image:width": "1920",
+  "image:height": "250",
+  "image:alt": "Get your tickets now for The Outer Cape Music Festival 2026 is in Wellfleet in September Labor Day Weekend - Cape Cod Cannabis in Wellfleet!",
+  "image:type": "image/png"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438",
+  "tag": [
+   "Labor Day Weekend 2026",
+   "outer cape music festival",
+   "wellfleet music event 2026"
+  ],
+  "section": "Cape Cod Lifestyle",
+  "published_time": "2026-07-29T16:54:08-04:00",
+  "modified_time": "2026-09-01T09:38:58-04:00"
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "Outer Cape Music Festival 2026 | Labor Day Weekend Live Music in Wellfleet, MA",
+  "description": "Discover the Outer Cape Music Festival in Wellfleet, MA on Labor Day Weekend 2026 featuring Baha Men, Electro Gix, local bands, and live music for charity.",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2026/07/OCMF-1920x250-1.png",
+  "label1": "Written by",
+  "data1": "rrh_clientadmin",
+  "label2": "Time to read",
+  "data2": "4 minutes"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Place",
+     "@id": "https://capecodcannabis.com/#place",
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.916265712481554",
+      "longitude": "-69.98840341462632"
+     },
+     "hasMap": "https://www.google.com/maps/search/?api=1&amp;query=41.916265712481554,-69.98840341462632",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     }
+    },
+    {
+     "@type": [
+      "LocalBusiness",
+      "Organization"
+     ],
+     "@id": "https://capecodcannabis.com/#organization",
+     "name": "Cape Cod Cannabis in Wellfleet - Best dispensary on Cape Cod.",
+     "url": "https://capecodcannabis.com",
+     "sameAs": [
+      "https://www.facebook.com/profile.php?id=100077867156438",
+      "https://twitter.com/capecodcanna"
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "logo": {
+      "@type": "ImageObject",
+      "@id": "https://capecodcannabis.com/#logo",
+      "url": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "contentUrl": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "caption": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+      "inLanguage": "en-US",
+      "width": "700",
+      "height": "500"
+     },
+     "openingHours": [
+      "Mo,Tu,We,Th,Fr,Sa,Su 8:00 - 8:00"
+     ],
+     "description": "Welcome to Cape Cod Cannabis, recognized by many as the Best Dispensary on Cape Cod, located in Wellfleet. Conveniently situated in the Route 6 shopping plaza in South Wellfleet, we are a trusted destination for both locals and visitors traveling from Provincetown, Truro, Wellfleet, Eastham, Orleans, Brewster, Dennis, Harwich, Chatham, Yarmouth, Sandwich and across the Cape and beyond.\n\nCape Cod Cannabis, your go-to cannabis haven, offers a carefully curated selection of high quality products, including flower, pre-rolls, edibles, vaporizers, concentrates, tinctures, topicals, CBD, accessories, and more. With a focus on education, selection, and a welcoming experience, we make it easy to explore and find what works best for you whether you are visiting the Cape or live here year round.",
+     "location": {
+      "@id": "https://capecodcannabis.com/#place"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/#logo"
+     },
+     "telephone": "+1-774-383-3133"
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://capecodcannabis.com/#website",
+     "url": "https://capecodcannabis.com",
+     "name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+     "alternateName": "Cape Cod Cannabis | Wellfleet's Top Rated Cannabis Store on Cape Cod",
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "https://capecodcannabis.com/wp-content/uploads/2026/07/OCMF-1920x250-1.png",
+     "url": "https://capecodcannabis.com/wp-content/uploads/2026/07/OCMF-1920x250-1.png",
+     "width": "1920",
+     "height": "250",
+     "caption": "Get your tickets now for The Outer Cape Music Festival 2026 is in Wellfleet in September Labor Day Weekend - Cape Cod Cannabis in Wellfleet!",
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/outer-cape-music-festival-2026/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/category/cape-cod-lifestyle/",
+        "name": "Cape Cod Lifestyle"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "3",
+       "item": {
+        "@id": "https://capecodcannabis.com/outer-cape-music-festival-2026/",
+        "name": "Outer Cape Music Festival 2026"
+       }
+      }
+     ]
+    },
+    {
+     "@type": "WebPage",
+     "@id": "https://capecodcannabis.com/outer-cape-music-festival-2026/#webpage",
+     "url": "https://capecodcannabis.com/outer-cape-music-festival-2026/",
+     "name": "Outer Cape Music Festival 2026 | Labor Day Weekend Live Music in Wellfleet, MA",
+     "datePublished": "2026-07-29T16:54:08-04:00",
+     "dateModified": "2026-09-01T09:38:58-04:00",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2026/07/OCMF-1920x250-1.png"
+     },
+     "inLanguage": "en-US",
+     "breadcrumb": {
+      "@id": "https://capecodcannabis.com/outer-cape-music-festival-2026/#breadcrumb"
+     }
+    },
+    {
+     "@type": "Person",
+     "@id": "https://capecodcannabis.com/outer-cape-music-festival-2026/#author",
+     "name": "rrh_clientadmin",
+     "image": {
+      "@type": "ImageObject",
+      "@id": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "url": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "caption": "rrh_clientadmin",
+      "inLanguage": "en-US"
+     },
+     "worksFor": {
+      "@id": "https://capecodcannabis.com/#organization"
+     }
+    },
+    {
+     "@type": "Article",
+     "headline": "Outer Cape Music Festival 2026 | Labor Day Weekend Live Music in Wellfleet, MA | Cape Cod's Best",
+     "keywords": "Outer Cape Music Festival, wellfleet",
+     "datePublished": "2026-07-29T16:54:08-04:00",
+     "dateModified": "2026-09-01T09:38:58-04:00",
+     "articleSection": "Cape Cod Lifestyle, Inside Cape Cod Cannabis",
+     "author": {
+      "@id": "https://capecodcannabis.com/outer-cape-music-festival-2026/#author",
+      "name": "rrh_clientadmin"
+     },
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "description": "Discover the Outer Cape Music Festival in Wellfleet, MA on Labor Day Weekend 2026 featuring Baha Men, Electro Gix, local bands, and live music for charity.",
+     "name": "Outer Cape Music Festival 2026 | Labor Day Weekend Live Music in Wellfleet, MA | Cape Cod's Best",
+     "@id": "https://capecodcannabis.com/outer-cape-music-festival-2026/#richSnippet",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/outer-cape-music-festival-2026/#webpage"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2026/07/OCMF-1920x250-1.png"
+     },
+     "inLanguage": "en-US",
+     "mainEntityOfPage": {
+      "@id": "https://capecodcannabis.com/outer-cape-music-festival-2026/#webpage"
+     }
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "h1": "Outer Cape Music Festival 2026",
+ "h1Source": {
+  "count": 2,
+  "visible": 2,
+  "hidden": 0,
+  "note": "source has several visible h1s; the first is primary, the rest carry demote:true"
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Cape Cod Lifestyle",
+   "href": "/category/cape-cod-lifestyle/"
+  },
+  {
+   "label": "Outer Cape Music Festival 2026",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "visible",
+ "breadcrumbsSeparator": " / ",
+ "breadcrumbsLabel": "breadcrumbs",
+ "breadcrumbsInRegion": true,
+ "section": null,
+ "sections": [
+  {
+   "n": 0,
+   "id": "3f1093a4",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "Outer Cape Music Festival 2026"
+    },
+    {
+     "t": "meta",
+     "items": [
+      {
+       "text": "July 29, 2026",
+       "href": "/2026/07/29/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "2034bbc9",
+   "doc": "wp-post#203784",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "Outer Cape Music Festival 2026 Returns to Wellfleet Labor Day Weekend",
+     "demote": true
+    },
+    {
+     "t": "rich",
+     "html": "<p><a href=\"https://www.outercapemusicfest.com/\" target=\"_blank\" rel=\"noopener\"><img src=\"assets/source/d5b5f4ba-outer-cape-music-festival-updated-768x1024.png\" alt=\"Outer Cape Music Festival - Labor Day Weekend, Sept. 5th &amp; 6th 2026 at the Wellfleet Pier. Cape Cod Cannabis is a proud sponsor!\" width=\"768\" height=\"1024\" title=\"The Outer Cape Music Festival 2026 is in Wellfleet in September Labor Day Weekend!\" data-source-url=\"https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/08/outer-cape-music-festival-updated-768x1024.png?lossy=2&amp;strip=0&amp;webp=1\" data-master=\"assets/source/e4cde6aa-outer-cape-music-festival-updated.png\"></a></p><p>Looking for one of the <strong>best Labor Day Weekend events on Cape Cod</strong>? The <strong>Outer Cape Music Festival</strong> returns to <strong>Wellfleet Pier</strong> on <strong>Saturday, September 5 and Sunday, September 6, 2026</strong>, bringing two days of live music, local talent, food, and community together for a great cause.</p><p>With performances from nationally recognized artists, rising regional bands, and local favorites, the festival has become one of the premier live music events on the Outer Cape. Even better, <strong>100% of all festival profits benefit local charities (see list below)</strong>, making it a weekend that supports both great music and the Cape Cod community.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Saturday, September 5 Features Electro Gix"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Saturday’s headliner, <strong>Electro Gix</strong>, delivers an energetic blend of classic rock, dance hits, pop favorites, and crowd-pleasing anthems that keep audiences on their feet. Known throughout New England for their high-energy performances, Electro Gix is a festival favorite that brings excitement from the first song to the encore.</p><p>Sharing the stage throughout the day are an impressive lineup of talented regional musicians, including:</p><ul><li><strong>40 Thieves and Friends</strong></li><li><strong>The Boston Naturals</strong></li><li><strong>Natalia Bonfini Band</strong></li><li><strong>Club 9 Ball</strong></li><li><strong>Matt Devlin</strong></li></ul><p>Together, these artists offer a mix of rock, blues, Americana, soul, and original music that showcases the incredible talent found throughout Cape Cod and New England.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Sunday, September"
+    },
+    {
+     "t": "rich",
+     "html": "<p>The Sunday lineup features an outstanding collection of Cape Cod musicians and regional favorites, including:</p><ul><li><strong>Crooked Coast</strong></li><li><strong>Bar Maids</strong></li><li><strong>Kami Lyle and Friends featuring Joey and Johnny Spampinato, Barbara Blazedell, and Tim Utt</strong></li><li><strong>Watch Your Step</strong></li></ul><p>From reggae and rock to blues, Americana, and contemporary originals, Sunday’s lineup offers something for music lovers of every age.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "More Than Just Great Music"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Beyond the performances, the Outer Cape Music Festival offers a vibrant waterfront atmosphere where visitors can enjoy local food, refreshments, and the unique charm of historic Wellfleet Harbor.</p><p>Whether you’re a Cape Cod local or visiting for Labor Day Weekend, the festival is an excellent opportunity to experience the region’s thriving music scene while supporting local nonprofit organizations.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Make a Weekend of It in Wellfleet"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Labor Day Weekend is one of the best times to visit the Outer Cape. Before or after the festival, spend time exploring Wellfleet’s beautiful beaches, art galleries, local shops, restaurants, and scenic harbor.</p><p>If you’re <strong>21 or older</strong>, stop by <strong>Cape Cod Cannabis</strong>, conveniently located just minutes from Wellfleet Pier. Our knowledgeable team is happy to help you explore premium flower, pre-rolls, edibles, vape products, concentrates, tinctures, CBD products, and more before enjoying the weekend’s festivities. Please consume responsibly and always follow Massachusetts cannabis laws.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Plan Your Labor Day Weekend"
+    },
+    {
+     "t": "rich",
+     "html": "<p>The <strong>Outer Cape Music Festival 2026</strong> promises an unforgettable weekend of live entertainment, community spirit, and charitable giving in one of Cape Cod’s most beautiful waterfront settings.</p><p>Mark your calendar for <strong>September 5 &amp; 6, 2026</strong>, gather your friends and family, and experience one of the <strong>best live music festivals on Cape Cod</strong>.</p><p>For tickets and additional festival information, visit <a href=\"https://outercapemusicfest.com\" target=\"_blank\" rel=\"noopener\"><strong>outercapemusicfest.com</strong></a>.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "100% of festival profits are donated to charity."
+    },
+    {
+     "t": "rich",
+     "html": "<p>The 2026 beneficiaries are:</p><ul><li><strong>Lower Cape Outreach Council</strong> – Provides emergency food, clothing, financial assistance, and long-term self-sufficiency programs for residents of the eight Lower Cape towns.</li><li><strong>The Eastham/Orleans Elks Veterans Fund</strong> – Supports veterans, active military members, and their families through programs focused on employment, housing, health care, education, and military family assistance.</li><li><strong>The Lily House (Wellfleet)</strong> – A nonprofit community home that provides compassionate hospice and end-of-life care for terminally ill residents and support for their families.</li><li><strong>Friends of the Eastham Council on Aging – The Way Home Fund</strong> – Helps fund senior center programs, fitness classes, meals, transportation, educational opportunities, and other services for older adults in the Eastham community.</li><li><strong>Outer Cape Music Scholarship</strong> – Provides local children with access to music education by helping cover the cost of instruments and music lessons for families in need.</li><li><strong>Boston Children’s Hospital</strong> – Supports pediatric care, medical research, and family-centered services. The festival organizers note this charity holds special personal significance to their family.</li><li><strong>Wellfleet Food Pantry</strong> – Helps combat food insecurity by providing groceries and essential food supplies to Wellfleet residents and families experiencing hardship.</li></ul><p>These local and regional organizations reflect the festival’s mission of supporting the Outer Cape community while celebrating live music. Attending the festival not only offers a weekend of entertainment but also helps fund programs that provide food assistance, veteran services, hospice care, senior programs, music education, and pediatric healthcare.</p><hr>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Visit Cape Cod Cannabis Before the Festival"
+    },
+    {
+     "t": "rich",
+     "html": "<p>As a <strong>proud sponsor of the 2026 Outer Cape Music Festival</strong>, Cape Cod Cannabis is excited to support one of the Outer Cape’s premier Labor Day Weekend events and the local organizations that benefit from it.</p><p>Before heading to Wellfleet Pier, <a href=\"/directions/\"><strong>stop by Cape Cod Cannabis at 1446 US-6 in the South Wellfleet Shopping Center</strong></a>, conveniently located just minutes from the festival. Explore one of Cape Cod’s largest selections of premium flower, pre-rolls, edibles, vape products, concentrates, tinctures, CBD products, and accessories. Whether you’re visiting Cape Cod for the weekend or you’re a local attending the festival, our knowledgeable team is here to help you find the products that best fit your preferences.</p><p><strong>Please remember:</strong> Cannabis consumption is not permitted at the festival or in public places. Consume responsibly and always follow Massachusetts cannabis laws.</p>"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "329af6c",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "postnav",
+     "prev": {
+      "srLabel": "Prev",
+      "title": "Massachusetts Cannabis Repeal: What Every Voter Should Know",
+      "href": "/massachusetts-cannabis-repeal-2026/"
+     },
+     "next": {
+      "title": "End of Summer on Cape Cod 2026 & Why September is one of the best times to visit",
+      "srLabel": "Next",
+      "href": "/end-of-summer-on-cape-cod-2026/"
+     },
+     "ariaLabels": [
+      "Post Navigation"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": "9ba89d6",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "comments",
+     "note": "WordPress comment form; no comment backend in a static rebuild"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "comments": 1,
+  "heading": 9,
+  "meta": 1,
+  "postnav": 1,
+  "rich": 8
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [],
+  "aliasesResolved": [
+   {
+    "from": "https://capecodcannabis.com/2026/07/29/",
+    "to": "/2026/07/29/"
+   },
+   {
+    "from": "/directions",
+    "to": "/directions/"
+   },
+   {
+    "from": "https://capecodcannabis.com/massachusetts-cannabis-repeal-2026/",
+    "to": "/massachusetts-cannabis-repeal-2026/"
+   },
+   {
+    "from": "https://capecodcannabis.com/end-of-summer-on-cape-cod-2026/",
+    "to": "/end-of-summer-on-cape-cod-2026/"
+   },
+   {
+    "from": "https://capecodcannabis.com/category/cape-cod-lifestyle/",
+    "to": "/category/cape-cod-lifestyle/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

@@ -1,0 +1,1308 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/what-is-a-cannabis-moonrock/",
+ "sourceUrl": "https://capecodcannabis.com/what-is-a-cannabis-moonrock/",
+ "requestedUrl": "https://capecodcannabis.com/what-is-a-cannabis-moonrock",
+ "slug": "what-is-a-cannabis-moonrock",
+ "kind": "blog-post",
+ "wpTemplate": "post",
+ "derived": false,
+ "rawFile": "audit/raw/what-is-a-cannabis-moonrock.html",
+ "rawSha256": "df4683d4a593ab9a35fbebacad7ba78f5fbddf3decfbdad6ac21cae5fb3c040b",
+ "regionKind": "body-minus-chrome",
+ "title": "What Is a Cannabis Moonrock? Cannabis Flower, Concentrate & Kief",
+ "metaDescription": "What is a cannabis moonrock? Learn how cannabis flower, concentrate and kief are combined to create moonrocks, the anatomy, plus what consumers should know.",
+ "canonical": "https://capecodcannabis.com/what-is-a-cannabis-moonrock/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "What Is a Cannabis Moonrock? Cannabis Flower, Concentrate & Kief",
+  "description": "What is a cannabis moonrock? Learn how cannabis flower, concentrate and kief are combined to create moonrocks, the anatomy, plus what consumers should know.",
+  "url": "https://capecodcannabis.com/what-is-a-cannabis-moonrock/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2026-09-29T13:13:55-04:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2026/09/Moonrock-Banner-1920x250-1.png",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/2026/09/Moonrock-Banner-1920x250-1.png",
+  "image:width": "1920",
+  "image:height": "250",
+  "image:alt": "What is a cannabis moonrock? Check out our Anatomy of a Moonrock and shop for moonrocks at Cape Cod Cannabis in Wellfleet!",
+  "image:type": "image/png"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438",
+  "tag": [
+   "cannabis moonrock",
+   "cape cod cannabis",
+   "concentrate",
+   "distillate",
+   "flower",
+   "infused",
+   "kief",
+   "moonrocks",
+   "what is a cannabis moonrock"
+  ],
+  "section": "Cannabis 101",
+  "published_time": "2026-09-16T13:27:10-04:00",
+  "modified_time": "2026-09-29T13:13:55-04:00"
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "What Is a Cannabis Moonrock? Cannabis Flower, Concentrate & Kief",
+  "description": "What is a cannabis moonrock? Learn how cannabis flower, concentrate and kief are combined to create moonrocks, the anatomy, plus what consumers should know.",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2026/09/Moonrock-Banner-1920x250-1.png",
+  "label1": "Written by",
+  "data1": "rrh_clientadmin",
+  "label2": "Time to read",
+  "data2": "6 minutes"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Place",
+     "@id": "https://capecodcannabis.com/#place",
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.916265712481554",
+      "longitude": "-69.98840341462632"
+     },
+     "hasMap": "https://www.google.com/maps/search/?api=1&amp;query=41.916265712481554,-69.98840341462632",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     }
+    },
+    {
+     "@type": [
+      "LocalBusiness",
+      "Organization"
+     ],
+     "@id": "https://capecodcannabis.com/#organization",
+     "name": "Cape Cod Cannabis in Wellfleet - Best dispensary on Cape Cod.",
+     "url": "https://capecodcannabis.com",
+     "sameAs": [
+      "https://www.facebook.com/profile.php?id=100077867156438",
+      "https://twitter.com/capecodcanna"
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "logo": {
+      "@type": "ImageObject",
+      "@id": "https://capecodcannabis.com/#logo",
+      "url": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "contentUrl": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "caption": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+      "inLanguage": "en-US",
+      "width": "700",
+      "height": "500"
+     },
+     "openingHours": [
+      "Mo,Tu,We,Th,Fr,Sa,Su 8:00 - 8:00"
+     ],
+     "description": "Welcome to Cape Cod Cannabis, recognized by many as the Best Dispensary on Cape Cod, located in Wellfleet. Conveniently situated in the Route 6 shopping plaza in South Wellfleet, we are a trusted destination for both locals and visitors traveling from Provincetown, Truro, Wellfleet, Eastham, Orleans, Brewster, Dennis, Harwich, Chatham, Yarmouth, Sandwich and across the Cape and beyond.\n\nCape Cod Cannabis, your go-to cannabis haven, offers a carefully curated selection of high quality products, including flower, pre-rolls, edibles, vaporizers, concentrates, tinctures, topicals, CBD, accessories, and more. With a focus on education, selection, and a welcoming experience, we make it easy to explore and find what works best for you whether you are visiting the Cape or live here year round.",
+     "location": {
+      "@id": "https://capecodcannabis.com/#place"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/#logo"
+     },
+     "telephone": "+1-774-383-3133"
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://capecodcannabis.com/#website",
+     "url": "https://capecodcannabis.com",
+     "name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+     "alternateName": "Cape Cod Cannabis | Wellfleet's Top Rated Cannabis Store on Cape Cod",
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "ImageObject",
+     "@id": "https://capecodcannabis.com/wp-content/uploads/2026/09/Moonrock-Banner-1920x250-1.png",
+     "url": "https://capecodcannabis.com/wp-content/uploads/2026/09/Moonrock-Banner-1920x250-1.png",
+     "width": "1920",
+     "height": "250",
+     "caption": "What is a cannabis moonrock? Check out our Anatomy of a Moonrock and shop for moonrocks at Cape Cod Cannabis in Wellfleet!",
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/what-is-a-cannabis-moonrock/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/category/cannabis-101/",
+        "name": "Cannabis 101"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "3",
+       "item": {
+        "@id": "https://capecodcannabis.com/what-is-a-cannabis-moonrock/",
+        "name": "Cannabis Moonrocks: What on Earth Are These Things?"
+       }
+      }
+     ]
+    },
+    {
+     "@type": "WebPage",
+     "@id": "https://capecodcannabis.com/what-is-a-cannabis-moonrock/#webpage",
+     "url": "https://capecodcannabis.com/what-is-a-cannabis-moonrock/",
+     "name": "What Is a Cannabis Moonrock? Cannabis Flower, Concentrate &amp; Kief",
+     "datePublished": "2026-09-16T13:27:10-04:00",
+     "dateModified": "2026-09-29T13:13:55-04:00",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/#website"
+     },
+     "primaryImageOfPage": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2026/09/Moonrock-Banner-1920x250-1.png"
+     },
+     "inLanguage": "en-US",
+     "breadcrumb": {
+      "@id": "https://capecodcannabis.com/what-is-a-cannabis-moonrock/#breadcrumb"
+     }
+    },
+    {
+     "@type": "Person",
+     "@id": "https://capecodcannabis.com/what-is-a-cannabis-moonrock/#author",
+     "name": "rrh_clientadmin",
+     "image": {
+      "@type": "ImageObject",
+      "@id": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "url": "https://secure.gravatar.com/avatar/3699cf8f4c13e56d18522f2472db5e4454da2fb54da5f90dab294fff47b26482?s=96&amp;d=mm&amp;r=g",
+      "caption": "rrh_clientadmin",
+      "inLanguage": "en-US"
+     },
+     "worksFor": {
+      "@id": "https://capecodcannabis.com/#organization"
+     }
+    },
+    {
+     "@type": "Article",
+     "headline": "What Is a Cannabis Moonrock? Cannabis Flower, Concentrate &amp; Kief | Cape Cod's Best Recreational",
+     "keywords": "what is a cannabis moonrock, cannabis moonrock, anatomy of a moonrock, cape cod cannabis",
+     "datePublished": "2026-09-16T13:27:10-04:00",
+     "dateModified": "2026-09-29T13:13:55-04:00",
+     "articleSection": "Cannabis 101, Start Here",
+     "author": {
+      "@id": "https://capecodcannabis.com/what-is-a-cannabis-moonrock/#author",
+      "name": "rrh_clientadmin"
+     },
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "description": "What is a cannabis moonrock? Learn how cannabis flower, concentrate and kief are combined to create moonrocks, the anatomy, plus what consumers should know.",
+     "name": "What Is a Cannabis Moonrock? Cannabis Flower, Concentrate &amp; Kief | Cape Cod's Best Recreational",
+     "@id": "https://capecodcannabis.com/what-is-a-cannabis-moonrock/#richSnippet",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/what-is-a-cannabis-moonrock/#webpage"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/wp-content/uploads/2026/09/Moonrock-Banner-1920x250-1.png"
+     },
+     "inLanguage": "en-US",
+     "mainEntityOfPage": {
+      "@id": "https://capecodcannabis.com/what-is-a-cannabis-moonrock/#webpage"
+     }
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "h1": "Cannabis Moonrocks: What on Earth Are These Things?",
+ "h1Source": {
+  "count": 2,
+  "visible": 2,
+  "hidden": 0,
+  "note": "source has several visible h1s; the first is primary, the rest carry demote:true"
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Cannabis 101",
+   "href": "/category/cannabis-101/"
+  },
+  {
+   "label": "Cannabis Moonrocks: What on Earth Are These Things?",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "visible",
+ "breadcrumbsSeparator": " / ",
+ "breadcrumbsLabel": "breadcrumbs",
+ "breadcrumbsInRegion": true,
+ "section": null,
+ "sections": [
+  {
+   "n": 0,
+   "id": "3f1093a4",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "Cannabis Moonrocks: What on Earth Are These Things?"
+    },
+    {
+     "t": "meta",
+     "items": [
+      {
+       "text": "September 16, 2026",
+       "href": "/2026/09/16/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "7d5018f",
+   "doc": "wp-post#229155",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "What is a cannabis moonrock?",
+     "demote": true
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "172902b",
+   "doc": "wp-post#229155",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong>Cannabis moonrocks are a premium product in the cannabis industry, known for their high potency and unique composition.</strong> A cannabis moonrock is typically made by coating cannabis flower with cannabis concentrate and then covering it in kief. The result combines three cannabis components — flower, concentrate and kief — into one infused flower product.</p>"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": "5fcbe24",
+   "doc": "wp-post#229155",
+   "dev": [
+    "widescreen",
+    "desktop",
+    "tablet"
+   ],
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 6,
+     "text": "Hover over HOTSPOTS (+) for more information.",
+     "dev": [
+      "widescreen",
+      "desktop",
+      "tablet"
+     ]
+    },
+    {
+     "t": "hotspot",
+     "image": {
+      "ref": "assets/source/5e15e572-moonrocks2-qrcdthd918icz7vmkk6l2ncjv71ghw1o3su9h43vo4.jpg",
+      "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/elementor/thumbs/moonrocks2-qrcdthd918icz7vmkk6l2ncjv71ghw1o3su9h43vo4.jpg?lossy=2&strip=0&webp=1",
+      "alt": "Moonrocks",
+      "titleAttr": "Moonrocks"
+     },
+     "items": [
+      {
+       "label": "Flower",
+       "tipHtml": "<p>Flower (also known as bud) is <b>the smokable part of a Cannabis plant</b>. Similar to plants like Willow and Kiwi, Cannabis plants are either male or female. The female Cannabis plant is the only one that produces the flowers, while the male plants produce the pollen necessary to create seeds.</p>"
+      },
+      {
+       "label": "Concentrate",
+       "tipHtml": "<p><b>A viscous, golden liquid created by refining cannabis resin</b>. Distillation allows the processor to isolate a desired compound from the cannabis plant and leave behind undesirable plant material. Distillates are commonly used in vape cartridges and can also be used in edibles, topicals, and other products.</p>"
+      },
+      {
+       "label": "Kief",
+       "tipHtml": "<p><strong>Kief</strong>, sometimes transliterated as keef, also known as \"Dust\" and \"Chief\" a.k.a cannabis crystals among other names, refers to the pure and clean collection of loose cannabis trichomes, which are accumulated by being sifted from cannabis flowers or buds with a mesh screen or sieve.</p>"
+      }
+     ],
+     "dev": [
+      "widescreen",
+      "desktop",
+      "tablet"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "id": "db31014",
+   "doc": "wp-post#229155",
+   "dev": [
+    "mobile_extra",
+    "mobile"
+   ],
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/82d80da0-moonrocks-768x768.jpeg",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2024/07/moonrocks-768x768.jpeg?lossy=2&strip=0&webp=1",
+     "master": "assets/source/ca08cf11-moonrocks.jpeg",
+     "alt": "Anatomy of a Moonrock",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 768,
+     "h": 768,
+     "dev": [
+      "mobile_extra",
+      "mobile"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "id": "2d86819",
+   "doc": "wp-post#229155",
+   "hiddenAll": true,
+   "blocks": [
+    {
+     "t": "button",
+     "label": "SHOP MOONROCKS",
+     "href": "/?s=moonrocks",
+     "dev": [],
+     "hiddenAll": true
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "id": "ae4f09d",
+   "doc": "wp-post#229155",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "What Is A Cannabis Moonrock?"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Cannabis moonrocks are a combination of several cannabis products, creating a potent and flavorful experience. They typically consist of:</p><p>1. <strong>Flower:</strong> High-quality cannabis buds form the core of moonrocks. The flower is usually chosen for its high THC content and aromatic profile.</p><p>2. <strong>Concentrate:</strong> The cannabis buds are dipped or coated in hash oil or another type of cannabis concentrate. This sticky layer adds an extra layer of potency. *<strong>Distillate may be used as the concentrate in some products</strong>.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Concentrate vs. Distillates"
+    },
+    {
+     "t": "rich",
+     "html": "<p>2b. <strong>Cannabis concentrate</strong> is a broad category of concentrated cannabis extracts. <strong>Distillate</strong> is a highly refined type of cannabis extract produced through additional processing intended to concentrate particular cannabinoids. Depending on the formulation, terpenes or other ingredients may also be present.</p><p>3. <strong>Kief:</strong> After being coated in concentrate, the buds are rolled in kief. Kief is the collection of trichomes, or the resin glands of the cannabis plant, which contain high concentrations of cannabinoids and terpenes. The kief coating gives moonrocks their signature frosty appearance.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Characteristics"
+    },
+    {
+     "t": "rich",
+     "html": "<p>– <strong>Potency:</strong> Because moonrocks combine flower with concentrated cannabis extracts and kief, they can contain substantially higher cannabinoid concentrations than conventional cannabis flower. Potency varies by product, so consumers should review the product label and testing information before use.</p><p>– <strong>Flavor and Aroma:</strong> The use of high-quality cannabis flower and concentrates means that moonrocks often have a rich and complex flavor and aroma profile. The terpenes from the flower and concentrate, along with the kief, contribute to a multi-layered sensory experience.</p><p>– <strong>Appearance:</strong> Moonrocks are visually distinctive, often appearing as lumpy, dense nuggets with a sticky, oily exterior and a powdery coating of kief. They have a frosted look due to the kief.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Usage"
+    },
+    {
+     "t": "rich",
+     "html": "<p>– <strong>Consumption Method:</strong> Moonrocks are best consumed using a glass pipe or bong due to their sticky and dense nature. Breaking them down with a grinder is not recommended as it can cause loss of kief and concentrate. Instead, they should be broken apart by hand.</p><p>– <strong>Why are Moonrocks considered high-potency Cannabis?</strong> Because moonrocks combine cannabis flower, concentrate and kief, they can contain higher concentrations of cannabinoids than traditional flower. Individual experiences vary based on the specific product, cannabinoid and terpene profile, amount consumed and individual tolerance.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Considerations"
+    },
+    {
+     "t": "rich",
+     "html": "<p>–<strong> Price:</strong> Due to the high-quality ingredients and the intensive production process, moonrocks tend to be more expensive than regular cannabis flower.</p><p>– <strong>Dosage:</strong> Because of their high potency, users should start with a small amount to gauge their tolerance and avoid consuming too much at once.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Summary"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Cannabis moonrocks are a premium, high-potency product made by coating cannabis buds in distillate (or concentrate) and rolling them in kief. They offer a unique and intense experience, characterized by strong effects and rich flavors.</p><p>Because moonrocks may contain higher concentrations of THC than conventional flower, adults who are unfamiliar with high-potency cannabis should review the product label carefully, begin conservatively and ask a knowledgeable budtender if they have questions about the product.</p>"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "id": "ba96dfc",
+   "doc": "wp-post#229155",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Moonrocks / Infused Bud"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "id": "5c07db4",
+   "doc": "wp-post#229155",
+   "dev": [
+    "tablet",
+    "mobile_extra",
+    "mobile"
+   ],
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>Scroll left-right to view products</p>",
+     "dev": [
+      "tablet",
+      "mobile_extra",
+      "mobile"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "id": "f7d7cae",
+   "doc": "wp-post#229155",
+   "blocks": [
+    {
+     "t": "products",
+     "source": "joint",
+     "widget": "slider",
+     "via": "widget",
+     "params": {
+      "menutype": "RECREATIONAL",
+      "category": "FLOWER",
+      "subcategory": "INFUSED_BUD",
+      "sort": "Brand",
+      "limit": 15
+     },
+     "filters": [
+      {
+       "field": "menuType",
+       "values": [
+        "RECREATIONAL"
+       ],
+       "type": "any"
+      },
+      {
+       "field": "category",
+       "values": [
+        "FLOWER"
+       ],
+       "type": "any"
+      },
+      {
+       "field": "subCategory",
+       "values": [
+        "INFUSED_BUD"
+       ],
+       "type": "any"
+      }
+     ],
+     "sort": [
+      {
+       "field": "brandName",
+       "direction": "asc"
+      }
+     ],
+     "limit": 15,
+     "label": null,
+     "clientRendered": true
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "id": "d9daaf2",
+   "doc": "wp-post#229155",
+   "blocks": [
+    {
+     "t": "button",
+     "label": "Shop Moonrocks",
+     "href": "/menu/?sort=relevance&s=moonrocks"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "id": "335353c",
+   "doc": "wp-post#229155",
+   "blocks": [
+    {
+     "t": "faq",
+     "kind": "nested-accordion",
+     "items": [
+      {
+       "q": "CLICK TO VIEW FAQ'S",
+       "blocks": [
+        {
+         "t": "faq",
+         "kind": "nested-accordion",
+         "items": [
+          {
+           "q": "What is a cannabis moonrock?",
+           "blocks": [
+            {
+             "t": "rich",
+             "html": "<p>A cannabis moonrock is an infused cannabis product typically made from three components: cannabis flower, cannabis concentrate and kief. The flower is coated with concentrate and covered in kief, creating a product that can contain higher concentrations of cannabinoids than traditional flower.</p>"
+            }
+           ]
+          },
+          {
+           "q": "What are moonrocks made of?",
+           "blocks": [
+            {
+             "t": "rich",
+             "html": "<p>Cannabis Flower + Concentrate + Kief. <em>*Distillate is sometime used instead of concentrate.</em></p>"
+            }
+           ]
+          },
+          {
+           "q": "What is Kief?",
+           "blocks": [
+            {
+             "t": "rich",
+             "html": "<p>Kief is the collection of tiny, resinous trichomes that naturally form on cannabis flower. These trichomes contain cannabinoids and terpenes and can separate from the plant material during handling or processing. In a cannabis moonrock, kief is typically used as the outer coating, sticking to the layer of cannabis concentrate surrounding the flower.</p>"
+            }
+           ]
+          },
+          {
+           "q": "How are cannabis moonrocks typically consumed?",
+           "blocks": [
+            {
+             "t": "rich",
+             "html": "<p>Cannabis moonrocks are typically broken into small pieces by hand and consumed using a pipe, bowl or similar smoking device. Because moonrocks are dense and coated with cannabis concentrate and kief, they can be sticky and difficult to grind. Consumers should review the product label and potency information before use and start with a small amount, especially if they are unfamiliar with high potency cannabis products.</p>"
+            }
+           ]
+          },
+          {
+           "q": "Where can I find moonrocks on Cape Cod?",
+           "blocks": [
+            {
+             "t": "rich",
+             "html": "<p>Product availability changes frequently. Adults 21+ can check the current <a href=\"/menu/\">Cape Cod Cannabis menu online</a> to see available moonrocks and other infused cannabis products at our recreational dispensary in Wellfleet, Massachusetts.</p>"
+            }
+           ]
+          }
+         ],
+         "ariaLabels": [
+          "Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "id": "dea0d6e",
+   "doc": "wp-post#229155",
+   "blocks": [
+    {
+     "t": "button",
+     "label": "Learn more about Cannabis 101",
+     "href": "/intro-to-cannabis-101/"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "id": "329af6c",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "postnav",
+     "prev": {
+      "srLabel": "Prev",
+      "title": "Best CBD Store on Cape Cod",
+      "href": "/best-cbd-store-on-cape-cod/"
+     },
+     "ariaLabels": [
+      "Post Navigation"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "id": "9ba89d6",
+   "doc": "single-post#6157",
+   "blocks": [
+    {
+     "t": "comments",
+     "note": "WordPress comment form; no comment backend in a static rebuild"
+    }
+   ]
+  }
+ ],
+ "catalog": [
+  {
+   "section": "f7d7cae",
+   "widget": "slider",
+   "label": null,
+   "filters": [
+    {
+     "field": "menuType",
+     "values": [
+      "RECREATIONAL"
+     ],
+     "type": "any"
+    },
+    {
+     "field": "category",
+     "values": [
+      "FLOWER"
+     ],
+     "type": "any"
+    },
+    {
+     "field": "subCategory",
+     "values": [
+      "INFUSED_BUD"
+     ],
+     "type": "any"
+    }
+   ],
+   "sort": [
+    {
+     "field": "brandName",
+     "direction": "asc"
+    }
+   ],
+   "limit": 15,
+   "params": {
+    "menutype": "RECREATIONAL",
+    "category": "FLOWER",
+    "subcategory": "INFUSED_BUD",
+    "sort": "Brand",
+    "limit": 15
+   }
+  }
+ ],
+ "blockCounts": {
+  "button": 3,
+  "comments": 1,
+  "faq": 2,
+  "heading": 10,
+  "hotspot": 1,
+  "image": 1,
+  "meta": 1,
+  "postnav": 1,
+  "products": 1,
+  "rich": 13
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [
+   {
+    "section": "5fcbe24",
+    "t": "heading",
+    "dev": [
+     "widescreen",
+     "desktop",
+     "tablet"
+    ],
+    "text": "hover over hotspots (+) for more information."
+   },
+   {
+    "section": "5fcbe24",
+    "t": "hotspot",
+    "dev": [
+     "widescreen",
+     "desktop",
+     "tablet"
+    ],
+    "text": "moonrocks / moonrocks / flower / flower (also known as bud) is the smokable part of a cannabis plant. similar to plants like willow and kiwi, cannabis plants are either male or female. the female cannabis plant is the only one that produces"
+   },
+   {
+    "section": "5c07db4",
+    "t": "rich",
+    "dev": [
+     "tablet",
+     "mobile_extra",
+     "mobile"
+    ],
+    "text": "scroll left-right to view products"
+   },
+   {
+    "section": "db31014",
+    "t": "image",
+    "dev": [
+     "mobile_extra",
+     "mobile"
+    ],
+    "text": "anatomy of a moonrock / cape cod cannabis recreational dispensary in wellfleet, ma"
+   }
+  ],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [],
+  "aliasesResolved": [
+   {
+    "from": "https://capecodcannabis.com/2026/09/16/",
+    "to": "/2026/09/16/"
+   },
+   {
+    "from": "/menu/?sort=relevance&s=moonrocks",
+    "to": "/menu/?sort=relevance&s=moonrocks"
+   },
+   {
+    "from": "/menu",
+    "to": "/menu/"
+   },
+   {
+    "from": "/intro-to-cannabis-101",
+    "to": "/intro-to-cannabis-101/"
+   },
+   {
+    "from": "https://capecodcannabis.com/best-cbd-store-on-cape-cod/",
+    "to": "/best-cbd-store-on-cape-cod/"
+   },
+   {
+    "from": "https://capecodcannabis.com/category/cannabis-101/",
+    "to": "/category/cannabis-101/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

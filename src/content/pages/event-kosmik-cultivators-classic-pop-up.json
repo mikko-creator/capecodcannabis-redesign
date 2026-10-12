@@ -1,0 +1,943 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/event/kosmik-cultivators-classic-pop-up/",
+ "sourceUrl": "https://capecodcannabis.com/event/kosmik-cultivators-classic-pop-up/",
+ "requestedUrl": "https://capecodcannabis.com/event/kosmik-cultivators-classic-pop-up",
+ "slug": "event-kosmik-cultivators-classic-pop-up",
+ "kind": "event",
+ "wpTemplate": "event",
+ "derived": false,
+ "rawFile": "audit/raw/event-kosmik-cultivators-classic-pop-up.html",
+ "rawSha256": "714ab1707d2d76ee5f360eb3f16f0ed1af0700525ecdbfa0ed434f1ac9c54635",
+ "regionKind": "body-minus-chrome",
+ "title": "Kosmik & Cultivators Classic Pop-Up | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+ "metaDescription": "Join us to learn more about Kosmik and Cultivators Classic (CClassic). Explore gummies, concentrates, vapes at this educational Pop-Up at Cape Cod Cannabis.",
+ "canonical": "https://capecodcannabis.com/event/kosmik-cultivators-classic-pop-up/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "Kosmik & Cultivators Classic Pop-Up | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "Join us to learn more about Kosmik and Cultivators Classic (CClassic). Explore gummies, concentrates, vapes at this educational Pop-Up at Cape Cod Cannabis.",
+  "url": "https://capecodcannabis.com/event/kosmik-cultivators-classic-pop-up/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2026-07-23T12:14:19-04:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2024/05/kosmik-cclassic-uncut-banner-e1784817619700.jpg",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/2024/05/kosmik-cclassic-uncut-banner-e1784817619700.jpg",
+  "image:width": "1653",
+  "image:height": "300",
+  "image:alt": "Kosmik, CClassic and Uncut Brands",
+  "image:type": "image/jpeg"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438",
+  "tag": [
+   "cannabis concentrate",
+   "cannabis dispensary in Wellfleet",
+   "cannabis dispensary near me",
+   "cartridges",
+   "cultivators classic",
+   "edibles",
+   "kosmik",
+   "pop-up",
+   "pop-up event",
+   "pre-rolls",
+   "regenerative llc",
+   "wellfleet dispensary"
+  ]
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "Kosmik & Cultivators Classic Pop-Up | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "Join us to learn more about Kosmik and Cultivators Classic (CClassic). Explore gummies, concentrates, vapes at this educational Pop-Up at Cape Cod Cannabis.",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2024/05/kosmik-cclassic-uncut-banner-e1784817619700.jpg"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/event/kosmik-cultivators-classic-pop-up/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/events-calendar/",
+        "name": "Events"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "3",
+       "item": {
+        "@id": "https://capecodcannabis.com/event/kosmik-cultivators-classic-pop-up/",
+        "name": "Kosmik &#038; Cultivators Classic Pop-Up"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  },
+  [
+   {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "Kosmik &#038; Cultivators Classic Pop-Up",
+    "description": "&lt;p&gt;Join us for the Kosmik and Cultivators Classic Pop-Up to learn more about each brand, explore their selection of gummies, concentrates, vape products, and more. Ask questions about cannabinoids, terpenes, [&hellip;]&lt;/p&gt;\\n",
+    "image": "https://capecodcannabis.com/wp-content/uploads/2024/05/Regenerative-Logo_200px.png",
+    "url": "https://capecodcannabis.com/event/kosmik-cultivators-classic-pop-up/",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "startDate": "2026-08-07T16:00:00-04:00",
+    "endDate": "2026-08-07T18:00:00-04:00",
+    "location": {
+     "@type": "Place",
+     "name": "Cape Cod Cannabis",
+     "description": "",
+     "url": "",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressLocality": "Wellfleet",
+      "addressRegion": "MA",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "telephone": "774-383-3133",
+     "sameAs": "https://www.capecodcannabis.com"
+    },
+    "performer": "Organization"
+   }
+  ]
+ ],
+ "h1": "Kosmik & Cultivators Classic Pop-Up",
+ "h1Source": {
+  "count": 1,
+  "visible": 1,
+  "hidden": 0
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Events",
+   "href": "/events-calendar/"
+  },
+  {
+   "label": "Kosmik & Cultivators Classic Pop-Up",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "jsonld",
+ "section": null,
+ "sections": [
+  {
+   "n": 0,
+   "id": "4d8f4efa",
+   "doc": "tec_event_single_dynamic#92071",
+   "blocks": [
+    {
+     "t": "event-field",
+     "field": "calendar_link",
+     "text": "« All Events",
+     "links": [
+      {
+       "label": "« All Events",
+       "href": "/events-calendar/"
+      }
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "status",
+     "text": "This event has passed."
+    },
+    {
+     "t": "event-field",
+     "field": "title",
+     "text": "Kosmik & Cultivators Classic Pop-Up",
+     "level": 1
+    },
+    {
+     "t": "event-field",
+     "field": "datetime",
+     "text": "August 7, 2026\n@ 4:00 pm\n- 6:00 pm"
+    },
+    {
+     "t": "image",
+     "ref": "assets/source/3b8b11ca-Regenerative-Logo_200px.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2024/05/Regenerative-Logo_200px.png?lossy=2&strip=0&webp=1",
+     "alt": "Regenerative, LLC",
+     "w": 200,
+     "h": 188,
+     "kind": "event-image"
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Join us for the Kosmik and Cultivators Classic Pop-Up"
+    },
+    {
+     "t": "rich",
+     "html": "<p>to learn more about each brand, explore their selection of gummies, concentrates, vape products, and more. Ask questions about cannabinoids, terpenes, product effects, and recommended uses. Whether you’re new to these brands or already a fan, it’s a great opportunity to expand your cannabis knowledge.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "Regenerative, LLC is a Massachusetts’ premier, licensed cannabis cultivator and manufacturer, based in Uxbridge."
+    },
+    {
+     "t": "rich",
+     "html": "<p>The name Regenerative stems from the pursuit of growing in true living soil also known as regenerative farming. As a result, the difference in the quality of their product cannot be understated – the combination of organic practices, sun-grown, and directly in soil is truly the way cannabis was meant to be grown.</p><p>They offer high-quality, sustainably sun-grown cannabis products, proudly cultivating in our Tier 10 outdoor facility. They have 14 active hoop houses alongside our outdoor field in full bloom, and a product manufacturing lab. They take pride in our environmentally conscious techniques, growing in true organic soil.</p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p><img src=\"assets/source/715999fb-kosmik-cclassic-uncut-banner-e1784817619700-1024x186.jpg\" alt=\"Kosmik, CClassic and Uncut Brands\" width=\"800\" height=\"145\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2024/05/kosmik-cclassic-uncut-banner-e1784817619700-1024x186.jpg?lossy=2&amp;strip=0&amp;webp=1\" data-master=\"assets/source/cd2b7ef0-kosmik-cclassic-uncut-banner-e1784817619700.jpg\"></p><p><a href=\"/brands/kosmik-brands/\"><strong>Click here to shop Kosmik products!</strong></a></p><p><a href=\"/brands/cclassic/\"><strong>Click here to shop Cultivators Classic products!</strong></a></p>"
+    },
+    {
+     "t": "event-field",
+     "field": "venue",
+     "text": "Cape Cod Cannabis\n1446 US-6\nWellfleet,MA02667United States\n+ Google Map\n774-383-3133\nView Venue Website",
+     "links": [
+      {
+       "label": "+ Google Map",
+       "href": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=1446+US-6+Wellfleet+MA+02667+United+States"
+      },
+      {
+       "label": "774-383-3133",
+       "href": "tel:774-383-3133"
+      },
+      {
+       "label": "View Venue Website",
+       "href": "/"
+      }
+     ],
+     "ariaLabels": [
+      "Venue location map"
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "categories",
+     "text": "Categories:\nPop-Ups",
+     "links": [
+      {
+       "label": "Pop-Ups",
+       "href": "/events-calendar/category/pop-ups/"
+      }
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "tags",
+     "text": "Tags:\ncannabis concentrate,\ncannabis dispensary in Wellfleet,\ncannabis dispensary near me,\ncartridges,\ncultivators classic,\nedibles,\nkosmik,\npop-up,\npop-up event,\npre-rolls,\nregenerative llc,\nwellfleet dispensary",
+     "links": [
+      {
+       "label": "cannabis concentrate",
+       "href": "/tag/cannabis-concentrate/"
+      },
+      {
+       "label": "cannabis dispensary in Wellfleet",
+       "href": "/tag/cannabis-dispensary-in-wellfleet/"
+      },
+      {
+       "label": "cannabis dispensary near me",
+       "href": "/tag/cannabis-dispensary-near-me/"
+      },
+      {
+       "label": "cartridges",
+       "href": "/tag/cartridges/"
+      },
+      {
+       "label": "cultivators classic",
+       "href": "/tag/cultivators-classic/"
+      },
+      {
+       "label": "edibles",
+       "href": "/tag/edibles/"
+      },
+      {
+       "label": "kosmik",
+       "href": "/tag/kosmik/"
+      },
+      {
+       "label": "pop-up",
+       "href": "/tag/pop-up/"
+      },
+      {
+       "label": "pop-up event",
+       "href": "/tag/pop-up-event/"
+      },
+      {
+       "label": "pre-rolls",
+       "href": "/tag/pre-rolls/"
+      },
+      {
+       "label": "regenerative llc",
+       "href": "/tag/regenerative-llc/"
+      },
+      {
+       "label": "wellfleet dispensary",
+       "href": "/tag/wellfleet-dispensary/"
+      }
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "export",
+     "text": "Add to calendar\nGoogle Calendar\niCalendar\nOutlook 365\nOutlook Live",
+     "links": [
+      {
+       "label": "Google Calendar",
+       "href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20260807T160000/20260807T180000&text=Kosmik%20%26%23038%3B%20Cultivators%20Classic%20Pop-Up&details=%3Ch3%3EJoin+us+for+the+Kosmik+and+Cultivators+Classic+Pop-Up%3C%2Fh3%3Eto+learn+more+about+each+brand%2C+explore+their+selection+of+gummies%2C+concentrates%2C+vape+products%2C+and+more.+Ask+questions+about+cannabinoids%2C+terpenes%2C+product+effects%2C+and+recommended+uses.+Whether+you%27re+new+to+these+brands+or+already+a+fan%2C+it%27s+a+great+opportunity+to+expand+your+cannabis+knowledge.%26nbsp%3B%3Ch4%3ERegenerative%2C+LLC+is+a+Massachusetts%27+premier%2C+licensed+cannabis+cultivator+and+manufacturer%2C+based+in+Uxbridge.%3C%2Fh4%3EThe+name+Regenerative+stems+from+the+pursuit+of+growing+in+true+living+soil+also+known+as+regenerative+farming.+As+a+result%2C+the+difference+in+the+quality+of+their+product+cannot+be+understated+%E2%80%93+the+combination+of+organic+practices%2C+sun-grown%2C+and+directly+in+soil+is+truly+the+way+cannabis+was+meant+to+be+grown.%26nbsp%3BThey+offer+high-quality%2C+sustainably+sun-grown+cannabis+products%2C+proudly+cultivating+in+our+Tier+10+outdoor+facility.+They+have+14+active+hoop+houses+alongside+our++%28View+Full+event+Description+Here%3A+https%3A%2F%2Fcapecodcannabis.com%2Fevent%2Fkosmik-cultivators-classic-pop-up%2F%29&location=Cape%20Cod%20Cannabis,%201446%20US-6,%20Wellfleet,%20MA,%2002667,%20United%20States&trp=false&ctz=America/New_York&sprop=website:https://capecodcannabis.com"
+      },
+      {
+       "label": "iCalendar",
+       "href": "/event/kosmik-cultivators-classic-pop-up/?ical=1"
+      },
+      {
+       "label": "Outlook 365",
+       "href": "https://outlook.office.com/owa/?path=/calendar/action/compose&rrv=addevent&startdt=2026-08-07T16%3A00%3A00-04%3A00&enddt=2026-08-07T18%3A00%3A00-04%3A00&location=Cape%20Cod%20Cannabis,%201446%20US-6,%20Wellfleet,%20MA,%2002667,%20United%20States&subject=Kosmik%20%26%20Cultivators%20Classic%20Pop-Up&body=Join%20us%20for%20the%20Kosmik%20and%20Cultivators%20Classic%20Pop-Upto%20learn%20more%20about%20each%20brand%2C%20explore%20their%20selection%20of%20gummies%2C%20concentrates%2C%20vape%20products%2C%20and%20more.%20Ask%20questions%20about%20cannabinoids%2C%20terpenes%2C%20product%20effects%2C%20and%20recommended%20uses.%20Whether%20you%27re%20new%20to%20these%20brands%20or%20already%20a%20fan%2C%20it%27s%20a%20great%20opportunity%20to%20expand%20your%20cannabis%20knowledge.%26nbsp%3BRegenerative%2C%20LLC%20is%20a%20Massachusetts%27%20premier%2C%20licensed%20cannabis%20cultivator%20and%20manufacturer%2C%20based%20in%20Uxbridge.The%20name%20Regenerative%20stems%20from%20the%20pursuit%20of%20growing%20in%20true%20living%20soil%20also%20known%20as%20regenerative%20farming.%20As%20a%20result%2C%20the%20difference%20in%20the%20quality%20of%20their%20product%20cannot%20be%20understated%20%E2%80%93%20the%20combination%20of%20organic%20practices%2C%20sun-grown%2C%20and%20directly%20in%20soil%20is%20truly%20the%20way%20cannabis%20was%20meant%20to%20be%20grown.%26nbsp%3BThey%20offer%20high-quality%2C%20sustainably%20sun-grown%20cannabis%20products%2C%20proudly%20cultivating%20i%20%28View%20Full%20Event%20Description%20Here%3A%20https%3A%2F%2Fcapecodcannabis.com%2Fevent%2Fkosmik-cultivators-classic-pop-up%2F%29"
+      },
+      {
+       "label": "Outlook Live",
+       "href": "https://outlook.live.com/owa/?path=/calendar/action/compose&rrv=addevent&startdt=2026-08-07T16%3A00%3A00-04%3A00&enddt=2026-08-07T18%3A00%3A00-04%3A00&location=Cape%20Cod%20Cannabis,%201446%20US-6,%20Wellfleet,%20MA,%2002667,%20United%20States&subject=Kosmik%20%26%20Cultivators%20Classic%20Pop-Up&body=Join%20us%20for%20the%20Kosmik%20and%20Cultivators%20Classic%20Pop-Upto%20learn%20more%20about%20each%20brand%2C%20explore%20their%20selection%20of%20gummies%2C%20concentrates%2C%20vape%20products%2C%20and%20more.%20Ask%20questions%20about%20cannabinoids%2C%20terpenes%2C%20product%20effects%2C%20and%20recommended%20uses.%20Whether%20you%27re%20new%20to%20these%20brands%20or%20already%20a%20fan%2C%20it%27s%20a%20great%20opportunity%20to%20expand%20your%20cannabis%20knowledge.%26nbsp%3BRegenerative%2C%20LLC%20is%20a%20Massachusetts%27%20premier%2C%20licensed%20cannabis%20cultivator%20and%20manufacturer%2C%20based%20in%20Uxbridge.The%20name%20Regenerative%20stems%20from%20the%20pursuit%20of%20growing%20in%20true%20living%20soil%20also%20known%20as%20regenerative%20farming.%20As%20a%20result%2C%20the%20difference%20in%20the%20quality%20of%20their%20product%20cannot%20be%20understated%20%E2%80%93%20the%20combination%20of%20organic%20practices%2C%20sun-grown%2C%20and%20directly%20in%20soil%20is%20truly%20the%20way%20cannabis%20was%20meant%20to%20be%20grown.%26nbsp%3BThey%20offer%20high-quality%2C%20sustainably%20sun-grown%20cannabis%20products%2C%20proudly%20cultivating%20i%20%28View%20Full%20Event%20Description%20Here%3A%20https%3A%2F%2Fcapecodcannabis.com%2Fevent%2Fkosmik-cultivators-classic-pop-up%2F%29"
+      }
+     ],
+     "ariaLabels": [
+      "View links to add events to your calendar"
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "navigation",
+     "text": "Eureka Vapor Pop-Up Event\nWana Pop-Up",
+     "links": [
+      {
+       "label": "Eureka Vapor Pop-Up Event",
+       "href": "/event/eureka-vapor-pop-up-event-2/"
+      },
+      {
+       "label": "Wana Pop-Up",
+       "href": "/event/wana-pop-up-4/"
+      }
+     ],
+     "ariaLabels": [
+      "Events"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "a7bb484",
+   "doc": "tec_event_single_dynamic#92071",
+   "hiddenAll": true,
+   "dev": [],
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/3b8b11ca-Regenerative-Logo_200px.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2024/05/Regenerative-Logo_200px.png?lossy=2&strip=0&webp=1",
+     "alt": "Regenerative, LLC",
+     "w": 200,
+     "h": 188,
+     "kind": "event-image",
+     "dev": [],
+     "hiddenAll": true
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "c7b579f",
+   "doc": "tec_event_single_dynamic#92071",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/c0c34846-CCC_Logo_650px-geo-tag-r9v1ohpw5zerbd7bkhgpgccbma2ezjddi6xfhghm0u.jpg",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/elementor/thumbs/CCC_Logo_650px-geo-tag-r9v1ohpw5zerbd7bkhgpgccbma2ezjddi6xfhghm0u.jpg?lossy=2&strip=0&webp=1",
+     "alt": "Cape Cod Cannabis Recreational Dispensary near me in Wellfleet, MA ... it's worth the trip!",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary near me in Wellfleet, MA … it’s worth the trip!"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": null,
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong><em>Cape Cod Cannabis…always worth the trip!</em></strong></p>"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "event-field": 9,
+  "heading": 2,
+  "image": 3,
+  "rich": 4
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "tec-loading-spinner",
+    "text": "Loading Events",
+    "reason": "The Events Calendar AJAX loading spinner (plugin runtime UI, origin wp-content gif); declared in removals.json"
+   },
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [],
+  "aliasesResolved": [
+   {
+    "from": "https://capecodcannabis.com/events-calendar/",
+    "to": "/events-calendar/"
+   },
+   {
+    "from": "https://capecodcannabis.com/brands/kosmik-brands/",
+    "to": "/brands/kosmik-brands/"
+   },
+   {
+    "from": "https://capecodcannabis.com/brands/cclassic/",
+    "to": "/brands/cclassic/"
+   },
+   {
+    "from": "https://capecodcannabis.com/event/kosmik-cultivators-classic-pop-up/?ical=1",
+    "to": "/event/kosmik-cultivators-classic-pop-up/?ical=1"
+   },
+   {
+    "from": "https://capecodcannabis.com/event/eureka-vapor-pop-up-event-2/",
+    "to": "/event/eureka-vapor-pop-up-event-2/"
+   },
+   {
+    "from": "https://capecodcannabis.com/event/wana-pop-up-4/",
+    "to": "/event/wana-pop-up-4/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

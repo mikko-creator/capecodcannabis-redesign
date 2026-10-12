@@ -1,0 +1,909 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/event/cali-blaze-pop-up-event/",
+ "sourceUrl": "https://capecodcannabis.com/event/cali-blaze-pop-up-event/",
+ "requestedUrl": "https://capecodcannabis.com/event/cali-blaze-pop-up-event",
+ "slug": "event-cali-blaze-pop-up-event",
+ "kind": "event",
+ "wpTemplate": "event",
+ "derived": false,
+ "rawFile": "audit/raw/event-cali-blaze-pop-up-event.html",
+ "rawSha256": "e65d055bb0bb0a3efaedc7ceeced8199926d159f2dc57ad8f6c70def1f189428",
+ "regionKind": "body-minus-chrome",
+ "title": "Cali-Blaze Pop-Up Event | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+ "metaDescription": "From potent pre-rolls / infused pre-rolls and infused buds to delicious disposables, their offerings are designed to enhance your cannabis experience. Whether",
+ "canonical": "https://capecodcannabis.com/event/cali-blaze-pop-up-event/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "Cali-Blaze Pop-Up Event | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "From potent pre-rolls / infused pre-rolls and infused buds to delicious disposables, their offerings are designed to enhance your cannabis experience. Whether",
+  "url": "https://capecodcannabis.com/event/cali-blaze-pop-up-event/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2026-02-20T13:51:35-05:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2026/02/High-Quality-Logo-2048x800-1-1024x400.png",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/2026/02/High-Quality-Logo-2048x800-1-1024x400.png",
+  "image:width": "800",
+  "image:height": "313",
+  "image:alt": "Cali-Blaze - Cape Cod Cannabis in Wellfleet, MA",
+  "image:type": "image/png"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438",
+  "tag": [
+   "cali blaze",
+   "cannabis",
+   "cape cod cannabis",
+   "infused pre-rolls",
+   "pop-up",
+   "pop-up event",
+   "pop-ups",
+   "pre-rolls"
+  ]
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "Cali-Blaze Pop-Up Event | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "From potent pre-rolls / infused pre-rolls and infused buds to delicious disposables, their offerings are designed to enhance your cannabis experience. Whether",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2026/02/High-Quality-Logo-2048x800-1-1024x400.png"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/event/cali-blaze-pop-up-event/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/events-calendar/",
+        "name": "Events"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "3",
+       "item": {
+        "@id": "https://capecodcannabis.com/event/cali-blaze-pop-up-event/",
+        "name": "Cali-Blaze Pop-Up Event"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  },
+  [
+   {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "Cali-Blaze Pop-Up Event",
+    "description": "&lt;p&gt;Join us on Friday March 6, 2026 from 4pm - 6pm and learn more about Cali-Blaze products. &nbsp; From potent pre-rolls / infused pre-rolls and infused buds to delicious disposables, [&hellip;]&lt;/p&gt;\\n",
+    "image": "https://capecodcannabis.com/wp-content/uploads/2026/02/High-Quality-Logo-2048x800-1.png",
+    "url": "https://capecodcannabis.com/event/cali-blaze-pop-up-event/",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "startDate": "2026-03-06T04:00:00-05:00",
+    "endDate": "2026-03-06T18:00:00-05:00",
+    "location": {
+     "@type": "Place",
+     "name": "Cape Cod Cannabis",
+     "description": "",
+     "url": "",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressLocality": "Wellfleet",
+      "addressRegion": "MA",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "telephone": "774-383-3133",
+     "sameAs": "https://www.capecodcannabis.com"
+    },
+    "performer": "Organization"
+   }
+  ]
+ ],
+ "h1": "Cali-Blaze Pop-Up Event",
+ "h1Source": {
+  "count": 1,
+  "visible": 1,
+  "hidden": 0
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Events",
+   "href": "/events-calendar/"
+  },
+  {
+   "label": "Cali-Blaze Pop-Up Event",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "jsonld",
+ "section": null,
+ "sections": [
+  {
+   "n": 0,
+   "id": "4d8f4efa",
+   "doc": "tec_event_single_dynamic#92071",
+   "blocks": [
+    {
+     "t": "event-field",
+     "field": "calendar_link",
+     "text": "« All Events",
+     "links": [
+      {
+       "label": "« All Events",
+       "href": "/events-calendar/"
+      }
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "status",
+     "text": "This event has passed."
+    },
+    {
+     "t": "event-field",
+     "field": "title",
+     "text": "Cali-Blaze Pop-Up Event",
+     "level": 1
+    },
+    {
+     "t": "event-field",
+     "field": "datetime",
+     "text": "March 6, 2026\n@ 4:00 am\n- 6:00 pm"
+    },
+    {
+     "t": "image",
+     "ref": "assets/source/5dd1f70a-High-Quality-Logo-2048x800-1-768x300.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/02/High-Quality-Logo-2048x800-1-768x300.png?lossy=2&strip=0&webp=1",
+     "master": "assets/source/72d8bf14-High-Quality-Logo-2048x800-1.png",
+     "alt": "Cali-Blaze - Cape Cod Cannabis in Wellfleet, MA",
+     "w": 768,
+     "h": 300,
+     "kind": "event-image"
+    },
+    {
+     "t": "heading",
+     "level": 4,
+     "text": "Join us on Friday March 6, 2026 from 4pm – 6pm and learn more about Cali-Blaze products."
+    },
+    {
+     "t": "rich",
+     "html": "<p>From potent pre-rolls / infused pre-rolls and infused buds to delicious disposables, their offerings are designed to enhance your cannabis experience. Whether you’re a seasoned connoisseur or a curious newcomer, Cali-Blaze aims to be your go-to choice for all things cannabis, showcasing the best products that reflect our commitment to quality and innovation.</p><p><img src=\"assets/source/408d29b5-CaliblazeWebsiteAssets-1-1-1.png\" alt=\"Shop Cali Blaze Infused Buds at Cape Cod Cannabis in Wellfleet, MA\" width=\"685\" height=\"258\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/02/CaliblazeWebsiteAssets-1-1-1.png?lossy=2&amp;strip=0&amp;webp=1\"></p>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Why Choose Cali-Blaze?"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Each product is crafted with care, using the finest ingredients to deliver exceptional flavor and potency. Whether you’re looking for a quick smoke on the go or a more leisurely experience, our diverse range allows you to choose the perfect product to suit your lifestyle.</p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p><a href=\"/brands/cali-blaze/\"><strong>Shop Cali-Blaze products now!</strong></a></p>"
+    },
+    {
+     "t": "event-field",
+     "field": "venue",
+     "text": "Cape Cod Cannabis\n1446 US-6\nWellfleet,MA02667United States\n+ Google Map\n774-383-3133\nView Venue Website",
+     "links": [
+      {
+       "label": "+ Google Map",
+       "href": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=1446+US-6+Wellfleet+MA+02667+United+States"
+      },
+      {
+       "label": "774-383-3133",
+       "href": "tel:774-383-3133"
+      },
+      {
+       "label": "View Venue Website",
+       "href": "/"
+      }
+     ],
+     "ariaLabels": [
+      "Venue location map"
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "tags",
+     "text": "Tags:\ncali blaze,\ncannabis,\ncape cod cannabis,\ninfused pre-rolls,\npop-up,\npop-up event,\npop-ups,\npre-rolls",
+     "links": [
+      {
+       "label": "cali blaze",
+       "href": "/tag/cali-blaze/"
+      },
+      {
+       "label": "cannabis",
+       "href": "/tag/cannabis/"
+      },
+      {
+       "label": "cape cod cannabis",
+       "href": "/tag/cape-cod-cannabis/"
+      },
+      {
+       "label": "infused pre-rolls",
+       "href": "/tag/infused-pre-rolls/"
+      },
+      {
+       "label": "pop-up",
+       "href": "/tag/pop-up/"
+      },
+      {
+       "label": "pop-up event",
+       "href": "/tag/pop-up-event/"
+      },
+      {
+       "label": "pop-ups",
+       "href": "/tag/pop-ups/"
+      },
+      {
+       "label": "pre-rolls",
+       "href": "/tag/pre-rolls/"
+      }
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "export",
+     "text": "Add to calendar\nGoogle Calendar\niCalendar\nOutlook 365\nOutlook Live",
+     "links": [
+      {
+       "label": "Google Calendar",
+       "href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20260306T040000/20260306T180000&text=Cali-Blaze%20Pop-Up%20Event&details=%3Ch4%3E%3Cstrong%3EJoin+us+on+Friday+March+6%2C+2026+from+4pm+-+6pm+and+learn+more+about+Cali-Blaze+products%3Ci%3E.%3C%2Fi%3E%3C%2Fstrong%3E%3C%2Fh4%3E%26nbsp%3BFrom+potent+pre-rolls+%2F+infused+pre-rolls+and+infused+buds+to+delicious+disposables%2C+their+offerings+are+designed+to+enhance+your+cannabis+experience.+Whether+you%E2%80%99re+a+seasoned+connoisseur+or+a+curious+newcomer%2C+Cali-Blaze+aims+to+be+your+go-to+choice+for+all+things+cannabis%2C+showcasing+the+best+products+that+reflect+our+commitment+to+quality+and+innovation.%26nbsp%3B%3Cp+style%3D%22text-align%3A+center%3B%22%3E%3Cimg+class%3D%22alignnone+wp-image-156005+size-full%22+src%3D%22https%3A%2F%2Fcapecodcannabis.com%2Fwp-content%2Fuploads%2F2026%2F02%2FCaliblazeWebsiteAssets-1-1-1.png%22+alt%3D%22Shop+Cali+Blaze+Infused+Buds+at+Cape+Cod+Cannabis+in+Wellfleet%2C+MA%22+width%3D%22685%22+height%3D%22258%22+%2F%3E%3C%2Fp%3E+%26nbsp%3B%3Cdiv+class%3D%22elementor-element+elementor-element-f929ac3+sty-doman-head+elementor-widget+elementor-widget-heading+animated+fadeIn%22+data-id%3D%22f929ac3%22+data-element_type%3D%22widget%22+data-settings%3D%22%7B%26quot%3B_an+%28View+Full+event+Description+Here%3A+https%3A%2F%2Fcapecodcannabis.com%2Fevent%2Fcali-blaze-pop-up-event%2F%29&location=Cape%20Cod%20Cannabis,%201446%20US-6,%20Wellfleet,%20MA,%2002667,%20United%20States&trp=false&ctz=America/New_York&sprop=website:https://capecodcannabis.com"
+      },
+      {
+       "label": "iCalendar",
+       "href": "/event/cali-blaze-pop-up-event/?ical=1"
+      },
+      {
+       "label": "Outlook 365",
+       "href": "https://outlook.office.com/owa/?path=/calendar/action/compose&rrv=addevent&startdt=2026-03-06T04%3A00%3A00-05%3A00&enddt=2026-03-06T18%3A00%3A00-05%3A00&location=Cape%20Cod%20Cannabis,%201446%20US-6,%20Wellfleet,%20MA,%2002667,%20United%20States&subject=Cali-Blaze%20Pop-Up%20Event&body=Join%20us%20on%20Friday%20March%206%2C%202026%20from%204pm%20-%206pm%20and%20learn%20more%20about%20Cali-Blaze%20products.%26nbsp%3BFrom%20potent%20pre-rolls%20%2F%20infused%20pre-rolls%20and%20infused%20buds%20to%20delicious%20disposables%2C%20their%20offerings%20are%20designed%20to%20enhance%20your%20cannabis%20experience.%20Whether%20you%E2%80%99re%20a%20seasoned%20connoisseur%20or%20a%20curious%20newcomer%2C%20Cali-Blaze%20aims%20to%20be%20your%20go-to%20choice%20for%20all%20things%20cannabis%2C%20showcasing%20the%20best%20products%20that%20reflect%20our%20commitment%20to%20quality%20and%20innovation.%26nbsp%3B%3Cp%20style%3D%22text-align%3A%20center%3B%22%3E%3C%2Fp%3E%26nbsp%3BWhy%20Choose%20Cali-Blaze%3FEach%20product%20is%20crafted%20with%20care%2C%20using%20the%20finest%20ingredients%20to%20deliver%20exceptional%20flavor%20and%20potency.%20Whether%20you%E2%80%99re%20looking%20for%20a%20quick%20smoke%20on%20the%20go%20or%20a%20more%20leisurely%20experience%2C%20our%20diverse%20range%20allows%20you%20to%20choose%20the%20perfect%20product%20to%20suit%20your%20lifestyle.%26nbsp%3B%26nbsp%3BShop%20Cali-Blaze%20products%20now%21%26nbsp%3B"
+      },
+      {
+       "label": "Outlook Live",
+       "href": "https://outlook.live.com/owa/?path=/calendar/action/compose&rrv=addevent&startdt=2026-03-06T04%3A00%3A00-05%3A00&enddt=2026-03-06T18%3A00%3A00-05%3A00&location=Cape%20Cod%20Cannabis,%201446%20US-6,%20Wellfleet,%20MA,%2002667,%20United%20States&subject=Cali-Blaze%20Pop-Up%20Event&body=Join%20us%20on%20Friday%20March%206%2C%202026%20from%204pm%20-%206pm%20and%20learn%20more%20about%20Cali-Blaze%20products.%26nbsp%3BFrom%20potent%20pre-rolls%20%2F%20infused%20pre-rolls%20and%20infused%20buds%20to%20delicious%20disposables%2C%20their%20offerings%20are%20designed%20to%20enhance%20your%20cannabis%20experience.%20Whether%20you%E2%80%99re%20a%20seasoned%20connoisseur%20or%20a%20curious%20newcomer%2C%20Cali-Blaze%20aims%20to%20be%20your%20go-to%20choice%20for%20all%20things%20cannabis%2C%20showcasing%20the%20best%20products%20that%20reflect%20our%20commitment%20to%20quality%20and%20innovation.%26nbsp%3B%3Cp%20style%3D%22text-align%3A%20center%3B%22%3E%3C%2Fp%3E%26nbsp%3BWhy%20Choose%20Cali-Blaze%3FEach%20product%20is%20crafted%20with%20care%2C%20using%20the%20finest%20ingredients%20to%20deliver%20exceptional%20flavor%20and%20potency.%20Whether%20you%E2%80%99re%20looking%20for%20a%20quick%20smoke%20on%20the%20go%20or%20a%20more%20leisurely%20experience%2C%20our%20diverse%20range%20allows%20you%20to%20choose%20the%20perfect%20product%20to%20suit%20your%20lifestyle.%26nbsp%3B%26nbsp%3BShop%20Cali-Blaze%20products%20now%21%26nbsp%3B"
+      }
+     ],
+     "ariaLabels": [
+      "View links to add events to your calendar"
+     ]
+    },
+    {
+     "t": "event-field",
+     "field": "navigation",
+     "text": "Sluggers Hit Pop-Up Event\nTreeworks Pop-Up",
+     "links": [
+      {
+       "label": "Sluggers Hit Pop-Up Event",
+       "href": "/event/sluggers-hit-pop-up-event/"
+      },
+      {
+       "label": "Treeworks Pop-Up",
+       "href": "/event/treeworks-pop-up-2/"
+      }
+     ],
+     "ariaLabels": [
+      "Events"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "a7bb484",
+   "doc": "tec_event_single_dynamic#92071",
+   "hiddenAll": true,
+   "dev": [],
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/72d8bf14-High-Quality-Logo-2048x800-1.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/02/High-Quality-Logo-2048x800-1.png?lossy=2&strip=0&webp=1",
+     "alt": "Cali-Blaze - Cape Cod Cannabis in Wellfleet, MA",
+     "w": 2048,
+     "h": 800,
+     "kind": "event-image",
+     "dev": [],
+     "hiddenAll": true
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "c7b579f",
+   "doc": "tec_event_single_dynamic#92071",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/c0c34846-CCC_Logo_650px-geo-tag-r9v1ohpw5zerbd7bkhgpgccbma2ezjddi6xfhghm0u.jpg",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/elementor/thumbs/CCC_Logo_650px-geo-tag-r9v1ohpw5zerbd7bkhgpgccbma2ezjddi6xfhghm0u.jpg?lossy=2&strip=0&webp=1",
+     "alt": "Cape Cod Cannabis Recreational Dispensary near me in Wellfleet, MA ... it's worth the trip!",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary near me in Wellfleet, MA … it’s worth the trip!"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": null,
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong><em>Cape Cod Cannabis…always worth the trip!</em></strong></p>"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "event-field": 8,
+  "heading": 2,
+  "image": 3,
+  "rich": 4
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "tec-loading-spinner",
+    "text": "Loading Events",
+    "reason": "The Events Calendar AJAX loading spinner (plugin runtime UI, origin wp-content gif); declared in removals.json"
+   },
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [],
+  "aliasesResolved": [
+   {
+    "from": "https://capecodcannabis.com/events-calendar/",
+    "to": "/events-calendar/"
+   },
+   {
+    "from": "https://capecodcannabis.com/brands/cali-blaze/",
+    "to": "/brands/cali-blaze/"
+   },
+   {
+    "from": "https://capecodcannabis.com/event/cali-blaze-pop-up-event/?ical=1",
+    "to": "/event/cali-blaze-pop-up-event/?ical=1"
+   },
+   {
+    "from": "https://capecodcannabis.com/event/sluggers-hit-pop-up-event/",
+    "to": "/event/sluggers-hit-pop-up-event/"
+   },
+   {
+    "from": "https://capecodcannabis.com/event/treeworks-pop-up-2/",
+    "to": "/event/treeworks-pop-up-2/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

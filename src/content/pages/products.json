@@ -1,0 +1,968 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/products/",
+ "sourceUrl": "https://capecodcannabis.com/products/",
+ "requestedUrl": "https://capecodcannabis.com/products",
+ "slug": "products",
+ "kind": "products-index",
+ "wpTemplate": "archive-products",
+ "derived": false,
+ "rawFile": "audit/raw/products.html",
+ "rawSha256": "0709fb0a28aac72c02bb8e578bb4caa31749e648e3fe3b83ab4b222878f807d7",
+ "regionKind": "body-minus-chrome",
+ "title": "Shop Cannabis Products | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+ "metaDescription": "Shop Cannabis Products | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA |",
+ "canonical": "https://capecodcannabis.com/products/",
+ "robots": "follow, index",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "Shop Cannabis Products | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "Shop Cannabis Products | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA |",
+  "url": "https://capecodcannabis.com/products/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438"
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "Shop Cannabis Products | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+  "description": "Shop Cannabis Products | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA |",
+  "site": "@capecodcanna"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "Place",
+     "@id": "https://capecodcannabis.com/#place",
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.916265712481554",
+      "longitude": "-69.98840341462632"
+     },
+     "hasMap": "https://www.google.com/maps/search/?api=1&amp;query=41.916265712481554,-69.98840341462632",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     }
+    },
+    {
+     "@type": "LocalBusiness",
+     "@id": "https://capecodcannabis.com/#organization",
+     "name": "Cape Cod Cannabis in Wellfleet - Best dispensary on Cape Cod.",
+     "url": "https://capecodcannabis.com",
+     "sameAs": [
+      "https://www.facebook.com/profile.php?id=100077867156438",
+      "https://twitter.com/capecodcanna"
+     ],
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1446 US-6",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02667",
+      "addressCountry": "United States"
+     },
+     "logo": {
+      "@type": "ImageObject",
+      "@id": "https://capecodcannabis.com/#logo",
+      "url": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "contentUrl": "https://capecodcannabis.com/wp-content/uploads/2022/01/CCC-Logo.webp",
+      "caption": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+      "inLanguage": "en-US",
+      "width": "700",
+      "height": "500"
+     },
+     "openingHours": [
+      "Mo,Tu,We,Th,Fr,Sa,Su 8:00 - 8:00"
+     ],
+     "description": "Welcome to Cape Cod Cannabis, recognized by many as the Best Dispensary on Cape Cod, located in Wellfleet. Conveniently situated in the Route 6 shopping plaza in South Wellfleet, we are a trusted destination for both locals and visitors traveling from Provincetown, Truro, Wellfleet, Eastham, Orleans, Brewster, Dennis, Harwich, Chatham, Yarmouth, Sandwich and across the Cape and beyond.\n\nCape Cod Cannabis, your go-to cannabis haven, offers a carefully curated selection of high quality products, including flower, pre-rolls, edibles, vaporizers, concentrates, tinctures, topicals, CBD, accessories, and more. With a focus on education, selection, and a welcoming experience, we make it easy to explore and find what works best for you whether you are visiting the Cape or live here year round.",
+     "location": {
+      "@id": "https://capecodcannabis.com/#place"
+     },
+     "image": {
+      "@id": "https://capecodcannabis.com/#logo"
+     },
+     "telephone": "+1-774-383-3133"
+    },
+    {
+     "@type": "WebSite",
+     "@id": "https://capecodcannabis.com/#website",
+     "url": "https://capecodcannabis.com",
+     "name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+     "alternateName": "Cape Cod Cannabis | Wellfleet's Top Rated Cannabis Store on Cape Cod",
+     "publisher": {
+      "@id": "https://capecodcannabis.com/#organization"
+     },
+     "inLanguage": "en-US"
+    },
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/products/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/products/",
+        "name": "Products"
+       }
+      }
+     ]
+    },
+    {
+     "@type": "CollectionPage",
+     "@id": "https://capecodcannabis.com/products/#webpage",
+     "url": "https://capecodcannabis.com/products/",
+     "name": "Shop Cannabis Products | Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "isPartOf": {
+      "@id": "https://capecodcannabis.com/#website"
+     },
+     "inLanguage": "en-US",
+     "breadcrumb": {
+      "@id": "https://capecodcannabis.com/products/#breadcrumb"
+     }
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "h1": "Shop Cannabis Products For Sale in Wellfleet, MA",
+ "h1Source": {
+  "count": 1,
+  "visible": 1,
+  "hidden": 0
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Products",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "visible",
+ "breadcrumbsSeparator": " / ",
+ "breadcrumbsLabel": "breadcrumbs",
+ "breadcrumbsInRegion": true,
+ "section": "Shop Menu",
+ "sections": [
+  {
+   "n": 0,
+   "id": "72c3befe",
+   "doc": "section#11803",
+   "cont": true,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "Shop Cannabis Products For Sale in Wellfleet, MA"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "14baddd",
+   "doc": "archive#13755",
+   "dev": [
+    "widescreen"
+   ],
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>Note: In the context of cannabis, “primary” and “secondary” terpenes refer to their concentration and influence on a strain’s characteristics, specifically its taste, aroma, and effects. Primary terpenes are the most dominant and play a significant role in shaping a strain’s profile, while secondary terpenes contribute in smaller amounts, adding layers and nuances to the overall experience. <strong>*Terpene percentage values in each product should give you a better understanding of its profile.</strong></p>",
+     "dev": [
+      "widescreen"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "b6a50ab",
+   "doc": "archive#13755",
+   "dev": [
+    "widescreen"
+   ],
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong>*Terpene percentage values in each product should give you a better understanding of its profile.</strong></p>",
+     "dev": [
+      "widescreen"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": "20fdc5b3",
+   "doc": "archive#13755",
+   "blocks": [
+    {
+     "t": "posts",
+     "kind": "archive-posts.archive_cards",
+     "items": [
+      {
+       "title": "Claravita Maui Waui | Popcorn",
+       "href": "/products/flower-popcorn-half-ounce-claravita-maui-waui-sdh-14g-for-sale-wellfleet-ma/",
+       "excerpt": "Flavor: Citrus, Fruity, Pineapple, Sweet Dominate Terpenes: Myrcene (Earthy, Relaxing), Caryophyllene (Spicy, Calming), Limonene (Citrus, Uplifting) Effects: Happy, Calming, Uplifting, Relaxing May Relieve: Low mood, Stress, Tension, Discomfort",
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "Garcia Hand Picked Caps Frozen Lemons",
+       "href": "/products/flower-ounce-ghp-caps-frozen-lemons-sdh-28g-for-sale-wellfleet-ma/",
+       "excerpt": "Lineage: Freezerburn x Lemon Fire Flavor: Pungent, Tart, Citrus, Pine, Sweet Dominate Terpenes: Terpinolene (Herbal, Energizing), Ocimene (Sweet, Uplifting), Caryophyllene (Spicy, Calming) Effects: Calming, Uplifting, Energizing May Relieve: Stress, Low",
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "Strane Atomic Grapefruit",
+       "href": "/products/strane-flower-half-ounce-strane-atomic-grapefruit-sdh-14g-for-sale-wellfleet-ma/",
+       "excerpt": "Lineage: Grapefruit Chem x THC Bomb Flavor: Citrus, Earthy, Pungent, Sour, Grapefruit, Gassy Dominate Terpenes: Limonene (Citrus, Uplifting), Myrcene (Earthy, Relaxing), Caryophyllene (Spicy, Calming) Effects: Calming, Uplifting, Relaxing, Happy, Euphoric<br",
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "Garcia Hand Picked Caps Frozen Lemons",
+       "href": "/products/flower-half-ounce-ghp-caps-frozen-lemons-sdh-14g-for-sale-wellfleet-ma/",
+       "excerpt": "Lineage: Freezerburn x Lemon Fire Flavor: Pungent, Tart, Citrus, Pine, Sweet Dominate Terpenes: Terpinolene (Herbal, Energizing), Ocimene (Sweet, Uplifting), Caryophyllene (Spicy, Calming) Effects: Calming, Uplifting, Energizing May Relieve: Stress, Low",
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "Strane Atomic Grapefruit",
+       "href": "/products/strane-flower-ounce-strane-atomic-grapefruit-sdh-28g-for-sale-wellfleet-ma/",
+       "excerpt": "Lineage: Grapefruit Chem x THC Bomb Flavor: Citrus, Earthy, Pungent, Sour, Grapefruit, Gassy Dominate Terpenes: Limonene (Citrus, Uplifting), Myrcene (Earthy, Relaxing), Caryophyllene (Spicy, Calming) Effects: Calming, Uplifting, Relaxing, Happy, Euphoric<br",
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "Garcia Hand Picked Caps Frozen Lemons",
+       "href": "/products/flower-ghp-caps-frozen-lemons-sdh-3-5g-for-sale-wellfleet-ma/",
+       "excerpt": "Lineage: Freezerburn x Lemon Fire Flavor: Pungent, Tart, Citrus, Pine, Sweet Dominate Terpenes: Terpinolene (Herbal, Energizing), Ocimene (Sweet, Uplifting), Caryophyllene (Spicy, Calming) Effects: Calming, Uplifting, Energizing May Relieve: Stress, Low",
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "Strane Red Velvet Runtz #9 | Grower’s Series",
+       "href": "/products/flower-strane-growers-series-red-velvet-runtz-9-sdh-3-5g-for-sale-wellfleet-ma/",
+       "excerpt": "Lineage: Red Velvet x Runtz Flavor: Citrus, Lavender, Hops, Chamomile Dominate Terpenes: Limonene (Citrus, Uplifting), Caryophyllene (Spicy, Calming), Linalool (Floral, Soothing) Effects: Happy, Euphoric, Uplifting, Calming, Soothing May Relieve: Stress,",
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "Strane Gumbo Limbo #35 | Grower’s Series",
+       "href": "/products/flower-strane-growers-series-gumbo-limbo-35-hybrid-3-5g-for-sale-wellfleet-ma/",
+       "excerpt": "Lineage: Swampwater Fumez x Infinity Linx Flavor: Citrus, Cinnamon, Hops, Lavander, Woody, Earthy Dominate Terpenes: Limonene (Citrus, Uplifting), Caryophyllene (Spicy, Calming), Myrcene (Earthy, Relaxing) Effects: Relaxing, Uplifting, Calming, Balanced May",
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "Hellavated Wicked Pickle",
+       "href": "/products/cartridge-hellavated-wicked-pickle-hybrid-1g-for-sale-wellfleet-ma/",
+       "excerpt": "Flavor: Pickle, Tart, Earthy, Citrus Dominate Terpenes: Pinene (Pine, Focused), Myrcene (Earthy, Relaxed), Limonene (Citrus, Uplifting) Effects: Uplifting, Relaxing, Focused, Creative, Balanced May Relieve: Low mood, Stress, Tension, Mental fatigue,",
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "Cape Cod Cannabis Sticker | Cape Cod Cannabis Tie-Dye Edition | 3″ x 3″",
+       "href": "/products/cape-cod-cannabis-sticker-cape-cod-cannabis-tie-dye-edition-3-x-3-for-sale-wellfleet-ma/",
+       "excerpt": "Cape Cod Cannabis Tie-Dye Edition Sticker Bring a little Cape Cod color wherever you go with our Cape Cod Cannabis Tie-Dye Edition Sticker. This vibrant 3″ round design combines our",
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "Health Circle Chicken N’ Waffles",
+       "href": "/products/health-circle-pre-roll-health-circle-chicken-n-waffles-hybrid-1g-for-sale-wellfleet-ma/",
+       "excerpt": "Flavor: Citrus, Flora, Sweet, Dominate Terpenes: Limonene (Citrus, Uplifting), Caryophyllene (Spicy, Calming), Linalool (Floral, Soothing) Effects: Soothing, Uplifting, Calming, Inspiring, Creative May Relieve: Discomfort, Stress, Low mood, Anxiety",
+       "more": "Shop Now ⭢"
+      },
+      {
+       "title": "Health Circle Papayamosa",
+       "href": "/products/health-circle-flower-health-circle-papayamosa-hybrid-3-5g-for-sale-wellfleet-ma/",
+       "excerpt": "Flavor: Citrus, Earthy, Pine Dominate Terpenes: Limonene (Citrus, Uplifting), Myrcene (Earthy, Relaxing), Pinene (Pine, Focused) Effects: Uplifting, Focused, Relaxing, Calming May Relieve: Tension, Restlessness, Mental fatigue, Stress, Low mood",
+       "more": "Shop Now ⭢"
+      }
+     ],
+     "pagination": {
+      "text": "Page1 Page2 Page3 Page4 Page5 Page6 Page7 Page8 Page9 Page10 Page11 Page12 Page13 Page14 Page15 Page16 Page17 Page18 Page19 Page20 Page21 Page22 Page23 Page24 Page25",
+      "links": [
+       {
+        "label": "Page2",
+        "href": "/products/page/2/"
+       },
+       {
+        "label": "Page3",
+        "href": "/products/page/3/"
+       },
+       {
+        "label": "Page4",
+        "href": "/products/page/4/"
+       },
+       {
+        "label": "Page5",
+        "href": "/products/page/5/"
+       },
+       {
+        "label": "Page6",
+        "href": "/products/page/6/"
+       },
+       {
+        "label": "Page7",
+        "href": "/products/page/7/"
+       },
+       {
+        "label": "Page8",
+        "href": "/products/page/8/"
+       },
+       {
+        "label": "Page9",
+        "href": "/products/page/9/"
+       },
+       {
+        "label": "Page10",
+        "href": "/products/page/10/"
+       },
+       {
+        "label": "Page11",
+        "href": "/products/page/11/"
+       },
+       {
+        "label": "Page12",
+        "href": "/products/page/12/"
+       },
+       {
+        "label": "Page13",
+        "href": "/products/page/13/"
+       },
+       {
+        "label": "Page14",
+        "href": "/products/page/14/"
+       },
+       {
+        "label": "Page15",
+        "href": "/products/page/15/"
+       },
+       {
+        "label": "Page16",
+        "href": "/products/page/16/"
+       },
+       {
+        "label": "Page17",
+        "href": "/products/page/17/"
+       },
+       {
+        "label": "Page18",
+        "href": "/products/page/18/"
+       },
+       {
+        "label": "Page19",
+        "href": "/products/page/19/"
+       },
+       {
+        "label": "Page20",
+        "href": "/products/page/20/"
+       },
+       {
+        "label": "Page21",
+        "href": "/products/page/21/"
+       },
+       {
+        "label": "Page22",
+        "href": "/products/page/22/"
+       },
+       {
+        "label": "Page23",
+        "href": "/products/page/23/"
+       },
+       {
+        "label": "Page24",
+        "href": "/products/page/24/"
+       },
+       {
+        "label": "Page25",
+        "href": "/products/page/25/"
+       }
+      ]
+     },
+     "loadMore": {
+      "maxPage": 489
+     },
+     "ariaLabels": [
+      "Read more about Claravita Maui Waui | Popcorn",
+      "Read more about Garcia Hand Picked Caps Frozen Lemons",
+      "Read more about Strane Atomic Grapefruit",
+      "Read more about Strane Red Velvet Runtz #9 | Grower’s Series",
+      "Read more about Strane Gumbo Limbo #35 | Grower’s Series",
+      "Read more about Hellavated Wicked Pickle",
+      "Read more about Cape Cod Cannabis Sticker | Cape Cod Cannabis Tie-Dye Edition | 3″ x 3″",
+      "Read more about Health Circle Chicken N’ Waffles",
+      "Read more about Health Circle Papayamosa",
+      "Pagination"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "id": "2f6cd56",
+   "doc": "archive#13755",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>*Cannabis is for use only by adults 21 years of age or older. All information contained herein is for educational purposes only. None of this information should be interpreted as medical or treatment advice for any person or condition. Always consult with a licensed physician in all matters regarding your health. <a href=\"/disclaimer/\">View our Disclaimer</a>.</p>"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "heading": 1,
+  "posts": 1,
+  "rich": 3
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [
+   {
+    "section": "14baddd",
+    "t": "rich",
+    "dev": [
+     "widescreen"
+    ],
+    "text": "note: in the context of cannabis, \"primary\" and \"secondary\" terpenes refer to their concentration and influence on a strain's characteristics, specifically its taste, aroma, and effects. primary terpenes are the most dominant and play a sig"
+   },
+   {
+    "section": "b6a50ab",
+    "t": "rich",
+    "dev": [
+     "widescreen"
+    ],
+    "text": "*terpene percentage values in each product should give you a better understanding of its profile."
+   }
+  ],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [
+   {
+    "what": "wp-defender-honeypot",
+    "text": "Secret Link",
+    "reason": "inline display:none in the source (invisible on every device)"
+   }
+  ],
+  "links": [],
+  "aliasesResolved": [
+   {
+    "from": "/disclaimer",
+    "to": "/disclaimer/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

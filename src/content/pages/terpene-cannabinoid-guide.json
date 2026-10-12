@@ -1,0 +1,1794 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/terpene-cannabinoid-guide/",
+ "sourceUrl": "https://capecodcannabis.com/terpene-cannabinoid-guide/",
+ "requestedUrl": "https://capecodcannabis.com/terpene-cannabinoid-guide",
+ "slug": "terpene-cannabinoid-guide",
+ "kind": "standard-page",
+ "wpTemplate": "page",
+ "derived": false,
+ "rawFile": "audit/raw/terpene-cannabinoid-guide.html",
+ "rawSha256": "19db8f4a910314732c483bf9ffdb89a04354c68a194959f793616358fdc0b9ce",
+ "regionKind": "main",
+ "title": "Terpene & Cannabinoid Guide 101 | Cape Cod Cannabis Wellfleet",
+ "metaDescription": "Cape Cod Cannabis offers our Terpene Guide to help explain what a terpene is, where it comes from and how it interacts with other compounds and more.",
+ "canonical": "https://capecodcannabis.com/terpene-cannabinoid-guide/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "Terpene & Cannabinoid Guide 101 | Cape Cod Cannabis Wellfleet",
+  "description": "Cape Cod Cannabis offers our Terpene Guide to help explain what a terpene is, where it comes from and how it interacts with other compounds and more.",
+  "url": "https://capecodcannabis.com/terpene-cannabinoid-guide/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2026-03-09T10:24:04-04:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2025/05/The_Cannabis_Terpiodic_Table.png",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/2025/05/The_Cannabis_Terpiodic_Table.png",
+  "image:width": "1250",
+  "image:height": "845",
+  "image:alt": "The Cannabis Terpiodic Table provided by EYBNA - Cape Cod Cannabis in Wellfleet, MA",
+  "image:type": "image/png"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438"
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "Terpene & Cannabinoid Guide 101 | Cape Cod Cannabis Wellfleet",
+  "description": "Cape Cod Cannabis offers our Terpene Guide to help explain what a terpene is, where it comes from and how it interacts with other compounds and more.",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2025/05/The_Cannabis_Terpiodic_Table.png",
+  "label1": "Time to read",
+  "data1": "23 minutes"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/terpene-cannabinoid-guide/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/terpene-cannabinoid-guide/",
+        "name": "Terpene &#038; Cannabinoid Guide"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "h1": "Terpene & Cannabinoid Guide",
+ "h1Source": {
+  "count": 1,
+  "visible": 1,
+  "hidden": 0
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Terpene & Cannabinoid Guide",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "jsonld",
+ "section": "Cannabis 101",
+ "sections": [
+  {
+   "n": 0,
+   "id": "65e99de3",
+   "doc": "wp-page#74068",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "Terpene & Cannabinoid Guide"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "56e83ec",
+   "doc": "wp-page#74068",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong>What is a Terpene? What is a Cannabinoid? What is the Entourage Effect?</strong> Cape Cod Cannabis offers our Terpene &amp; Cannabinoid Guide to help explain what terpenes and cannabinoids are, where they come from and how they interact with other compounds to form the entourage effect along with the potential benefits. <strong>Click on sections below for more information.</strong></p>"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "c033a48",
+   "doc": "wp-page#74068",
+   "blocks": [
+    {
+     "t": "faq",
+     "kind": "nested-accordion",
+     "items": [
+      {
+       "q": "LEARN ABOUT TERPENES",
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 2,
+         "text": "What is a Terpene and where does it come from in the cannabis plant?"
+        },
+        {
+         "t": "rich",
+         "html": "<p>Terpenes are a large and diverse class of organic compounds produced by a variety of plants, including cannabis, conifers, and citrus trees. They are responsible for the distinctive flavors and aromas of many plants and have been used in traditional medicine for their potential therapeutic effects. In plants, terpenes serve several functions, including attracting pollinators and repelling predators.</p><p>In the context of cannabis, terpenes are often associated with the plant’s aromatic profile, commonly referred to as the “terpene profile” or “terpene profile.” Cannabis strains can have different terpene profiles, contributing to the unique scent and flavor of each strain. Some common terpenes found in cannabis include:</p><ul><li><strong><a href=\"/terpenes/beta-myrcene/\">Myrcene</a>:</strong> Known for its earthy and musky aroma, myrcene is believed to have relaxing and sedative effects. It’s also found in hops, mangoes, and lemongrass.</li></ul><ul><li><strong><a href=\"/terpenes/limonene/\">Limonene</a>:</strong> This terpene has a citrusy scent and is found in citrus fruits. Limonene is associated with potential mood-enhancing and stress-relieving effects.</li></ul><ul><li><p><strong><a href=\"/terpenes/alpha-pinene/\">Pinene</a>:</strong> As the name suggests, pinene has a pine-like aroma. It’s found in pine trees and is believed to have anti-inflammatory properties. There are two types of pinene: alpha-pinene and beta-pinene.</p></li></ul><ul><li><p><strong><a href=\"/terpenes/linalool/\">Linalool</a>:</strong> Linalool has a floral scent and is present in lavender, mint, and cinnamon. It is associated with potential relaxing and anti-anxiety effects.</p></li></ul><ul><li><p><strong><a href=\"/terpenes/humulene/\">Humulene</a>:</strong> With an earthy and woody aroma, humulene is found in hops, sage, and ginseng. It is sometimes considered to have anti-inflammatory properties.</p></li></ul><ul><li><p><strong><a href=\"/terpenes/caryophyllene/\">Caryophyllene</a>:</strong> This terpene has a spicy and peppery aroma and is found in black pepper, cloves, and cinnamon. Caryophyllene is unique because it can also interact with cannabinoid receptors in the body’s endocannabinoid system.</p></li></ul><p>A good <b>terpene percentage</b> in cannabis that supports the <b>entourage effect</b> typically falls within the range of <b>1% to 4%</b> of the total weight of the flower or concentrate. Here’s a breakdown:</p><ul><li><p><b>1–2% total terpenes</b>: Mild aroma/flavor and moderate contribution to the entourage effect.</p></li><li><p><b>2–4% total terpenes</b>: Considered a robust terpene profile—often associated with enhanced effects, stronger aroma, and greater synergy with cannabinoids like THC and CBD.</p></li><li><p><b>4%+</b>: Quite high—typically found in well-cured, premium flower or live resin products. These can deliver a very noticeable entourage effect.</p></li></ul><p>Terpenes are not unique to cannabis; they are present in a wide range of plants and contribute to the overall sensory experience of various fruits, flowers, and herbs. In addition to their role in aroma and flavor, terpenes are being studied for their potential therapeutic properties, both individually and in conjunction with cannabinoids like THC and CBD.</p><p>Terpenes in the cannabis plant, like in many other plants, are produced in the glandular trichomes. Trichomes are small, hair-like structures that are most concentrated on the flowers (buds) of the cannabis plant, but they can also be found on other parts of the plant, including the leaves and stems. </p><p>There are more than 100 different terpenes that have been identified in cannabis. Each cannabis strain has a unique combination and concentration of terpenes, contributing to its distinct aroma, flavor, and potentially influencing its effects. While some terpenes are more commonly found in certain strains, the overall terpene profile can vary widely.</p><p>The glandular trichomes contain resin glands that produce a mixture of cannabinoids (such as THC and CBD) and terpenes. Terpenes are synthesized in these glands through the same metabolic pathways that produce cannabinoids. The combination of cannabinoids and terpenes in the resin glands gives cannabis its distinctive aroma, flavor, and potential therapeutic effects.</p><p>During the flowering stage of the cannabis plant’s life cycle, trichome production increases, and the terpene content becomes more prominent. As the plant matures, the concentration and composition of terpenes can change. Factors such as genetics, growing conditions, and environmental factors also influence the terpene profile of a cannabis strain.</p><p>Harvesting and processing methods can impact the preservation of terpenes. Some methods, such as low-temperature drying and careful handling of the plant material, are employed to retain the maximum terpene content in the final product. Additionally, the extraction of essential oils from cannabis, often used in the production of concentrates and extracts, can isolate and concentrate terpenes for various applications.</p>"
+        }
+       ]
+      }
+     ],
+     "ariaLabels": [
+      "Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": "035b7f5",
+   "doc": "wp-page#74068",
+   "blocks": [
+    {
+     "t": "faq",
+     "kind": "nested-accordion",
+     "items": [
+      {
+       "q": "THE CANNABIS TERPIODIC TABLE",
+       "blocks": [
+        {
+         "t": "image",
+         "ref": "assets/source/7af8d763-The_Cannabis_Terpiodic_Table-1024x692.png",
+         "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/05/The_Cannabis_Terpiodic_Table-1024x692.png?lossy=2&strip=0&webp=1",
+         "master": "assets/source/3d4798a6-The_Cannabis_Terpiodic_Table.png",
+         "alt": "The Cannabis Terpiodic Table provided by EYBNA - Cape Cod Cannabis in Wellfleet, MA",
+         "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+         "w": 800,
+         "h": 541,
+         "href": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/05/The_Cannabis_Terpiodic_Table.png?lossy=2&strip=0&webp=1"
+        }
+       ]
+      }
+     ],
+     "ariaLabels": [
+      "Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "id": "72c0ccdb",
+   "doc": "wp-page#74068",
+   "dev": [
+    "widescreen"
+   ],
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "What is a Terpene and where does it come from in the cannabis plant?",
+     "dev": [
+      "widescreen"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "id": "4c5a340",
+   "doc": "wp-page#74068",
+   "blocks": [
+    {
+     "t": "faq",
+     "kind": "nested-accordion",
+     "items": [
+      {
+       "q": "TOP 10 PRIMARY TERPENES",
+       "blocks": [
+        {
+         "t": "image",
+         "ref": "assets/source/9da44245-Myrcene-765x330-1b.png",
+         "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/04/Myrcene-765x330-1b.png?lossy=2&strip=0&webp=1",
+         "alt": "Shop Myrcene Terpenes at Cape Cod Cannabis in Wellfleet, MA",
+         "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+         "w": 765,
+         "h": 330,
+         "href": "/terpenes/beta-myrcene/"
+        },
+        {
+         "t": "image",
+         "ref": "assets/source/708b92f4-Limonene-765x330-2b.png",
+         "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/04/Limonene-765x330-2b.png?lossy=2&strip=0&webp=1",
+         "alt": "Shop Limonene Terpenes at Cape Cod Cannabis in Wellfleet, MA",
+         "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+         "w": 765,
+         "h": 330,
+         "href": "/terpenes/limonene/"
+        },
+        {
+         "t": "image",
+         "ref": "assets/source/0308ce02-Pinene-765x330-3b.png",
+         "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/04/Pinene-765x330-3b.png?lossy=2&strip=0&webp=1",
+         "alt": "Shop Pinene Terpenes at Cape Cod Cannabis in Wellfleet, MA",
+         "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+         "w": 765,
+         "h": 330,
+         "href": "/terpenes/alpha-pinene/"
+        },
+        {
+         "t": "image",
+         "ref": "assets/source/eb0c24e2-Caryophyllene-765x330-4b.png",
+         "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/04/Caryophyllene-765x330-4b.png?lossy=2&strip=0&webp=1",
+         "alt": "Shop Caryophyllene Terpenes at Cape Cod Cannabis in Wellfleet, MA",
+         "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+         "w": 765,
+         "h": 330,
+         "href": "/terpenes/caryophyllene/"
+        },
+        {
+         "t": "image",
+         "ref": "assets/source/5e35eed9-Humulene-765x330-6b.png",
+         "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/04/Humulene-765x330-6b.png?lossy=2&strip=0&webp=1",
+         "alt": "Shop Humulene Terpenes at Cape Cod Cannabis in Wellfleet, MA",
+         "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+         "w": 765,
+         "h": 330,
+         "href": "/terpenes/humulene/"
+        },
+        {
+         "t": "image",
+         "ref": "assets/source/86e9a96a-Terpinolene-765x330-7b.png",
+         "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/04/Terpinolene-765x330-7b.png?lossy=2&strip=0&webp=1",
+         "alt": "Shop Terpinolene Terpenes at Cape Cod Cannabis in Wellfleet, MA",
+         "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+         "w": 765,
+         "h": 330,
+         "href": "/terpenes/terpinolene/"
+        },
+        {
+         "t": "image",
+         "ref": "assets/source/a9e75c02-Ocimene-765x330-8b.png",
+         "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/04/Ocimene-765x330-8b.png?lossy=2&strip=0&webp=1",
+         "alt": "Shop Ocimene Terpenes at Cape Cod Cannabis in Wellfleet, MA",
+         "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+         "w": 765,
+         "h": 330,
+         "href": "/terpenes/ocimene/"
+        },
+        {
+         "t": "image",
+         "ref": "assets/source/54d109f5-Linalool-765x330-5b.png",
+         "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/04/Linalool-765x330-5b.png?lossy=2&strip=0&webp=1",
+         "alt": "Shop Linalool Terpenes at Cape Cod Cannabis in Wellfleet, MA",
+         "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+         "w": 765,
+         "h": 330,
+         "href": "/terpenes/linalool/"
+        },
+        {
+         "t": "image",
+         "ref": "assets/source/48727a56-Geraniol-765x330-9b.png",
+         "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/04/Geraniol-765x330-9b.png?lossy=2&strip=0&webp=1",
+         "alt": "Shop Geraniol Terpenes at Cape Cod Cannabis in Wellfleet, MA",
+         "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+         "w": 765,
+         "h": 330,
+         "href": "/terpenes/geraniol/"
+        },
+        {
+         "t": "image",
+         "ref": "assets/source/98593750-Bisabolol-765x330-9b.png",
+         "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/04/Bisabolol-765x330-9b.png?lossy=2&strip=0&webp=1",
+         "alt": "Shop Bisabolol Terpenes at Cape Cod Cannabis in Wellfleet, MA",
+         "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+         "w": 765,
+         "h": 330,
+         "href": "/terpenes/bisabolol-2/"
+        }
+       ]
+      }
+     ],
+     "ariaLabels": [
+      "Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "id": null,
+   "doc": "wp-page#74068",
+   "blocks": [
+    {
+     "t": "button",
+     "label": "Shop by Terpene",
+     "href": "/terpenes/"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "id": "0e96b0f",
+   "doc": "wp-page#74068",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "What is a Cannabinoid?"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "id": "9d3c1a4",
+   "doc": "wp-page#74068",
+   "blocks": [
+    {
+     "t": "faq",
+     "kind": "nested-accordion",
+     "items": [
+      {
+       "q": "LEARN ABOUT CANNABINOIDS",
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 2,
+         "text": "What is a Cannabinoid and where does it come from in the cannabis plant?"
+        },
+        {
+         "t": "rich",
+         "html": "<p>Cannabinoids are naturally occurring compounds found in the cannabis plant. These chemical substances interact with the body’s <b>endocannabinoid system (ECS)</b>—a complex cell-signaling network that helps regulate vital functions like: </p><ul><li><p>Mood</p></li><li><p>Appetite</p></li><li><p>Sleep</p></li><li><p>Pain perception</p></li><li><p>Memory</p></li><li><p>Immune function</p></li></ul><p>There are over <b>100 known cannabinoids</b>, each with its own effects and potential benefits. The most well-known cannabinoids are <b>THC (tetrahydrocannabinol)</b> and <b>CBD (cannabidiol)</b>, but the cannabis plant contains many others worth exploring.</p>"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "text": "How Cannabinoids Work in the Body"
+        },
+        {
+         "t": "rich",
+         "html": "<p>The <b>endocannabinoid system (ECS)</b> has two primary receptors:</p><ul><li><p><b>CB1 receptors</b>: Found mainly in the brain and central nervous system</p></li><li><p><b>CB2 receptors</b>: Found in the immune system and peripheral organs</p></li></ul><p>Cannabinoids interact with these receptors to help maintain homeostasis—or balance—within the body.</p>"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "text": "Natural and Synthetic Cannabinoids"
+        },
+        {
+         "t": "rich",
+         "html": "<ul><li><p><b>Phytocannabinoids</b>: Naturally produced by the cannabis plant</p></li><li><p><b>Endocannabinoids</b>: Produced by the human body (e.g., anandamide)</p></li><li><p><b>Synthetic cannabinoids</b>: Lab-created compounds that mimic natural cannabinoids, such as:</p><ul><li><p>Marinol (Dronabinol) – This is a <b>pharmaceutical-grade synthetic THC</b> used to treat nausea and vomiting in chemotherapy patients and to stimulate appetite in people with AIDS. It’s FDA-approved and taken orally in capsule form.</p></li><li><p>Cesamet (Nabilone) – Another prescription synthetic cannabinoid, Cesamet is used for treating severe nausea and vomiting caused by chemotherapy. Like Marinol, it’s <b>formulated to mimic THC</b> but has a slightly different chemical structure.</p></li></ul></li></ul>"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "text": "Choosing the Right Product"
+        },
+        {
+         "t": "rich",
+         "html": "<p><b>Cannabinoid-based products</b> come in a wide range of forms. Depending on your goals, you might prefer:</p><ul><li><p><a href=\"/categories/flower/\"><b>Flower</b></a> – Full-spectrum, fast-acting</p></li><li><a href=\"/categories/pre-rolls/\">Pre-Rolls</a> – Convenient, portable, fast-acting</li><li><p><a href=\"/categories/vaporizers/\"><b>Vapes</b></a> – Convenient, portable, quick onset</p></li><li><p><a href=\"/categories/tinctures/\"><b>Tinctures</b></a> – Precise dosing, discreet use</p></li><li><p><a href=\"/categories/edibles/\"><b>Edibles</b></a> – Longer-lasting effects</p></li><li><p><a href=\"/categories/concentrates/\"><b>Concentrates</b></a> – Highly potent extracts like <b>wax, shatter, live resin, rosin</b>, and <b>distillate</b></p><ul><li><p>Ideal for experienced users seeking stronger, faster effects</p></li><li><p>Used for <b>dabbing</b>, <b>vape cartridges</b>, or <b>infusing other products</b></p></li></ul></li><li><p><a href=\"/categories/topicals/\"><b>Topicals</b></a> – Targeted, non-psychoactive relief</p></li><li><p><a href=\"/categories/cbd/\"><b>CBD Products</b></a> – Available in <b>oils, capsules, gummies, topicals</b>, and <b>beverages</b></p><ul><li><p>Non-intoxicating and widely used for <b>stress, anxiety, inflammation</b>, and <b>general wellness</b></p></li><li><p>Perfect for daytime use or those looking to avoid THC</p></li></ul></li></ul><p><b>Pro tip:</b> Always <b>start low and go slow</b>, especially when trying THC-rich products.</p>"
+        }
+       ]
+      }
+     ],
+     "ariaLabels": [
+      "Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "id": "0ddc9e1",
+   "doc": "wp-page#74068",
+   "blocks": [
+    {
+     "t": "faq",
+     "kind": "nested-accordion",
+     "items": [
+      {
+       "q": "TOP 9 CANNABINOIDS",
+       "blocks": [
+        {
+         "t": "image",
+         "ref": "assets/source/e804dafc-THCA-765x330-9b-1.png",
+         "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/04/THCA-765x330-9b-1.png?lossy=2&strip=0&webp=1",
+         "alt": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+         "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+         "w": 765,
+         "h": 330,
+         "href": "/cannabinoids/thca-%ce%b49-tetrahydrocannabinolic-acid/"
+        },
+        {
+         "t": "image",
+         "ref": "assets/source/48566b12-THC-Delta-9-765x330-1c.png",
+         "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/04/THC-Delta-9-765x330-1c.png?lossy=2&strip=0&webp=1",
+         "alt": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+         "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+         "w": 765,
+         "h": 330,
+         "href": "/cannabinoids/thc-d9-delta-9-tetrahydrocannabinol/"
+        },
+        {
+         "t": "image",
+         "ref": "assets/source/3447f272-CBD-765x330-2b.png",
+         "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/04/CBD-765x330-2b.png?lossy=2&strip=0&webp=1",
+         "alt": "Shop CBD Cannabinoids at Cape Cod Cannabis in Wellfleet, MA",
+         "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+         "w": 765,
+         "h": 330,
+         "href": "/categories/cbd/"
+        },
+        {
+         "t": "image",
+         "ref": "assets/source/222903a1-CBN-765x330-4b.png",
+         "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/04/CBN-765x330-4b.png?lossy=2&strip=0&webp=1",
+         "alt": "Shop CBN Cannabinoids at Cape Cod Cannabis in Wellfleet, MA",
+         "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+         "w": 765,
+         "h": 330,
+         "href": "/cannabinoids/cbn-cannabinol/"
+        },
+        {
+         "t": "image",
+         "ref": "assets/source/5b3f0718-CBG-765x330-3b.png",
+         "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/04/CBG-765x330-3b.png?lossy=2&strip=0&webp=1",
+         "alt": "Shop CBG Cannabinoids at Cape Cod Cannabis in Wellfleet, MA",
+         "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+         "w": 765,
+         "h": 330,
+         "href": "/cannabinoids/cbg-cannabigerol/"
+        },
+        {
+         "t": "image",
+         "ref": "assets/source/d37e4f11-CBDV-765x330-7b.png",
+         "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/04/CBDV-765x330-7b.png?lossy=2&strip=0&webp=1",
+         "alt": "Shop CBDV Cannabinoids at Cape Cod Cannabis in Wellfleet, MA",
+         "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+         "w": 765,
+         "h": 330,
+         "href": "/cannabinoids/cbdv-cannabidivarin/"
+        },
+        {
+         "t": "image",
+         "ref": "assets/source/9489d6b8-THCV-765x330-6b.png",
+         "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/04/THCV-765x330-6b.png?lossy=2&strip=0&webp=1",
+         "alt": "Shop THCV Cannabinoids at Cape Cod Cannabis in Wellfleet, MA",
+         "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+         "w": 765,
+         "h": 330,
+         "href": "/cannabinoids/thcv-tetrahydrocannabivarin/"
+        },
+        {
+         "t": "image",
+         "ref": "assets/source/b80edb82-CBC-765x330-4b.png",
+         "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/05/CBC-765x330-4b.png?lossy=2&strip=0&webp=1",
+         "alt": "Shop CBC Cannabinoids at Cape Cod Cannabis in Wellfleet, MA",
+         "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+         "w": 765,
+         "h": 330,
+         "href": "/cannabinoids/cbc-cannabichromene/"
+        },
+        {
+         "t": "image",
+         "ref": "assets/source/1dcd7a64-CBDA-765x330-8b.png",
+         "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/04/CBDA-765x330-8b.png?lossy=2&strip=0&webp=1",
+         "alt": "Shop CBDA Cannabinoids at Cape Cod Cannabis in Wellfleet, MA",
+         "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+         "w": 765,
+         "h": 330,
+         "href": "/cannabinoids/cbda-cannabidiolic-acid/"
+        }
+       ]
+      }
+     ],
+     "ariaLabels": [
+      "Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "id": null,
+   "doc": "wp-page#74068",
+   "blocks": [
+    {
+     "t": "button",
+     "label": "Shop by Cannabinoid",
+     "href": "/cannabinoids/"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "id": "11073cc",
+   "doc": "wp-page#74068",
+   "dev": [
+    "widescreen"
+   ],
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>Cannabinoids are naturally occurring compounds found in the cannabis plant. These chemical substances interact with the body’s <b>endocannabinoid system (ECS)</b>—a complex cell-signaling network that helps regulate vital functions like: </p><ul><li><p>Mood</p></li><li><p>Appetite</p></li><li><p>Sleep</p></li><li><p>Pain perception</p></li><li><p>Memory</p></li><li><p>Immune function</p></li></ul><p>There are over <b>100 known cannabinoids</b>, each with its own effects and potential benefits. The most well-known cannabinoids are <b>THC (tetrahydrocannabinol)</b> and <b>CBD (cannabidiol)</b>, but the cannabis plant contains many others worth exploring.</p>",
+     "dev": [
+      "widescreen"
+     ]
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "How Cannabinoids Work in the Body",
+     "dev": [
+      "widescreen"
+     ]
+    },
+    {
+     "t": "rich",
+     "html": "<p>The <b>endocannabinoid system (ECS)</b> has two primary receptors:</p><ul><li><p><b>CB1 receptors</b>: Found mainly in the brain and central nervous system</p></li><li><p><b>CB2 receptors</b>: Found in the immune system and peripheral organs</p></li></ul><p>Cannabinoids interact with these receptors to help maintain homeostasis—or balance—within the body.</p>",
+     "dev": [
+      "widescreen"
+     ]
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Natural and Synthetic Cannabinoids",
+     "dev": [
+      "widescreen"
+     ]
+    },
+    {
+     "t": "rich",
+     "html": "<ul><li><p><b>Phytocannabinoids</b>: Naturally produced by the cannabis plant</p></li><li><p><b>Endocannabinoids</b>: Produced by the human body (e.g., anandamide)</p></li><li><p><b>Synthetic cannabinoids</b>: Lab-created compounds that mimic natural cannabinoids, such as:</p><ul><li><p>Marinol (Dronabinol) – This is a <b>pharmaceutical-grade synthetic THC</b> used to treat nausea and vomiting in chemotherapy patients and to stimulate appetite in people with AIDS. It’s FDA-approved and taken orally in capsule form.</p></li><li><p>Cesamet (Nabilone) – Another prescription synthetic cannabinoid, Cesamet is used for treating severe nausea and vomiting caused by chemotherapy. Like Marinol, it’s <b>formulated to mimic THC</b> but has a slightly different chemical structure.</p></li></ul></li></ul>",
+     "dev": [
+      "widescreen"
+     ]
+    },
+    {
+     "t": "heading",
+     "level": 3,
+     "text": "Choosing the Right Product",
+     "dev": [
+      "widescreen"
+     ]
+    },
+    {
+     "t": "rich",
+     "html": "<p><b>Cannabinoid-based products</b> come in a wide range of forms. Depending on your goals, you might prefer:</p><ul><li><p><a href=\"/categories/flower/\"><b>Flower</b></a> – Full-spectrum, fast-acting</p></li><li><p><a href=\"/categories/vaporizers/\"><b>Vapes</b></a> – Convenient, portable, quick onset</p></li><li><p><a href=\"/categories/tinctures/\"><b>Tinctures</b></a> – Precise dosing, discreet use</p></li><li><p><a href=\"/categories/edibles/\"><b>Edibles</b></a> – Longer-lasting effects</p></li><li><p><a href=\"/categories/concentrates/\"><b>Concentrates</b></a> – Highly potent extracts like <b>wax, shatter, live resin, rosin</b>, and <b>distillate</b></p><ul><li><p>Ideal for experienced users seeking stronger, faster effects</p></li><li><p>Used for <b>dabbing</b>, <b>vape cartridges</b>, or <b>infusing other products</b></p></li></ul></li><li><p><a href=\"/categories/topicals/\"><b>Topicals</b></a> – Targeted, non-psychoactive relief</p></li><li><p><a href=\"/categories/cbd/\"><b>CBD Products</b></a> – Available in <b>oils, capsules, gummies, topicals</b>, and <b>beverages</b></p><ul><li><p>Non-intoxicating and widely used for <b>stress, anxiety, inflammation</b>, and <b>general wellness</b></p></li><li><p>Perfect for daytime use or those looking to avoid THC</p></li></ul></li></ul><p><b>Pro tip:</b> Always <b>start low and go slow</b>, especially when trying THC-rich products.</p>",
+     "dev": [
+      "widescreen"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "id": "10c4681",
+   "doc": "wp-page#74068",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "What is the cannabis Entourage Effect?"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "id": "248f42d",
+   "doc": "wp-page#74068",
+   "dev": [
+    "widescreen"
+   ],
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/f8bea914-Entourage-Effect-Graphic_1920x1080-768x432.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2023/11/Entourage-Effect-Graphic_1920x1080-768x432.png?lossy=2&strip=0&webp=1",
+     "master": "assets/source/e4fff4cc-Entourage-Effect-Graphic_1920x1080.png",
+     "alt": "The Entourage Effect",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 768,
+     "h": 432,
+     "dev": [
+      "widescreen"
+     ]
+    },
+    {
+     "t": "rich",
+     "html": "<p>The entourage effect is a concept in cannabis pharmacology that suggests that the combination of various compounds found in the cannabis plant, including cannabinoids and terpenes, works together synergistically to produce a collective therapeutic effect that is greater than the sum of their individual effects. In other words, the interaction between different components of the cannabis plant may enhance or modify the overall therapeutic outcomes.</p><p>The entourage effect is often used to explain why whole-plant extracts or full-spectrum cannabis products, which contain a broader range of cannabinoids and terpenes, may have different or more pronounced effects compared to isolated compounds (e.g., pure THC or CBD). Proponents of the entourage effect argue that the presence of multiple cannabinoids and terpenes in their natural ratios may create a more balanced and effective therapeutic outcome.</p><p><strong>Here are some key components involved in the entourage effect:</strong></p><p><strong>1. <a href=\"/cannabinoids/\">Cannabinoids</a>:</strong> THC (tetrahydrocannabinol) and CBD (cannabidiol) are the most well-known cannabinoids, but there are many others present in the cannabis plant, each with its potential effects.</p><p><strong>2. <a href=\"/terpenes/\">Terpenes</a>:</strong> These aromatic compounds contribute to the flavor and scent of cannabis and may have their own therapeutic properties. The combination of specific terpenes with cannabinoids is thought to influence the overall experience and effects.</p><p><strong>3. Flavonoids:</strong> These are another group of compounds found in cannabis (as well as in many other plants) that have antioxidant and anti-inflammatory properties. Flavonoids may also contribute to the entourage effect.</p><p>Research on the entourage effect is still ongoing, and the mechanisms behind how different compounds interact in the body are complex and not fully understood. While some studies support the idea of the entourage effect, more research is needed to determine its extent and significance in different therapeutic applications.</p><p>It’s important to note that individual responses to cannabis can vary, and what works well for one person may not have the same effects for another. The entourage effect is a topic of interest in the field of medical cannabis, as researchers and clinicians seek to optimize therapeutic outcomes and understand the complexities of the plant’s chemical composition.</p>",
+     "dev": [
+      "widescreen"
+     ]
+    },
+    {
+     "t": "heading",
+     "level": 5,
+     "text": "Who coined the phrase “Entourage Effect”?",
+     "dev": [
+      "widescreen"
+     ]
+    },
+    {
+     "t": "rich",
+     "html": "<p>The term “entourage effect” was coined by Israeli scientists Raphael Mechoulam and S. Ben-Shabat in 1998. Raphael Mechoulam is a renowned organic chemist who is often referred to as the “father of cannabis research.” Mechoulam, along with his colleague S. Ben-Shabat, published a paper in the European Journal of Pharmacology titled “An entourage effect: inactive endogenous fatty acid glycerol esters enhance 2-arachidonoyl-glycerol cannabinoid activity.”</p><p>In this seminal paper, Mechoulam and Ben-Shabat proposed the concept of the entourage effect, suggesting that the combined action of various compounds in the cannabis plant, including cannabinoids and terpenes, might produce a more significant and synergistic effect than the effects of individual compounds in isolation. They specifically explored how certain fatty acid glycerol esters enhanced the activity of the endocannabinoid 2-arachidonoyl-glycerol.</p><p>The entourage effect has since become a widely discussed and researched concept in the field of cannabis pharmacology. It has implications for understanding the therapeutic potential of whole-plant cannabis extracts, where multiple cannabinoids and terpenes are present in their natural ratios. The idea is that these compounds work together to create a more balanced and effective therapeutic outcome compared to isolated cannabinoids or synthetic compounds.</p>",
+     "dev": [
+      "widescreen"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "id": "1ea158f",
+   "doc": "wp-page#74068",
+   "blocks": [
+    {
+     "t": "faq",
+     "kind": "nested-accordion",
+     "items": [
+      {
+       "q": "LEARN ABOUT ENTOURAGE EFFECT",
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><img src=\"assets/source/7266feed-Entourage-Effect-Graphic_1920x1080-768x432-1.webp\" alt=\"High THC and the Entourage Effect\" width=\"768\" height=\"432\" title=\"Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA\" data-source-url=\"https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2024/10/Entourage-Effect-Graphic_1920x1080-768x432-1.webp?lossy=2&amp;strip=0&amp;webp=1\"></p><p>The entourage effect is a concept in cannabis pharmacology that suggests that the combination of various compounds found in the cannabis plant, including cannabinoids and terpenes, works together synergistically to produce a collective therapeutic effect that is greater than the sum of their individual effects. In other words, the interaction between different components of the cannabis plant may enhance or modify the overall therapeutic outcomes.</p><p>The entourage effect is often used to explain why whole-plant extracts or full-spectrum cannabis products, which contain a broader range of cannabinoids and terpenes, may have different or more pronounced effects compared to isolated compounds (e.g., pure THC or CBD). Proponents of the entourage effect argue that the presence of multiple cannabinoids and terpenes in their natural ratios may create a more balanced and effective therapeutic outcome.</p><p><strong>Here are some key components involved in the entourage effect:</strong></p><p><strong>1. <a href=\"/cannabinoids/\">Cannabinoids</a>:</strong> THC (tetrahydrocannabinol) and CBD (cannabidiol) are the most well-known cannabinoids, but there are many others present in the cannabis plant, each with its potential effects.</p><p><strong>2. <a href=\"/terpenes/\">Terpenes</a>:</strong> These aromatic compounds contribute to the flavor and scent of cannabis and may have their own therapeutic properties. The combination of specific terpenes with cannabinoids is thought to influence the overall experience and effects.</p><p><strong>3. Flavonoids:</strong> These are another group of compounds found in cannabis (as well as in many other plants) that have antioxidant and anti-inflammatory properties. Flavonoids may also contribute to the entourage effect.</p><p>Research on the entourage effect is still ongoing, and the mechanisms behind how different compounds interact in the body are complex and not fully understood. While some studies support the idea of the entourage effect, more research is needed to determine its extent and significance in different therapeutic applications.</p><p>It’s important to note that individual responses to cannabis can vary, and what works well for one person may not have the same effects for another. The entourage effect is a topic of interest in the field of medical cannabis, as researchers and clinicians seek to optimize therapeutic outcomes and understand the complexities of the plant’s chemical composition.</p>"
+        },
+        {
+         "t": "heading",
+         "level": 5,
+         "text": "Who coined the phrase “Entourage Effect”?"
+        },
+        {
+         "t": "rich",
+         "html": "<p>The term “entourage effect” was coined by Israeli scientists Raphael Mechoulam and S. Ben-Shabat in 1998. Raphael Mechoulam is a renowned organic chemist who is often referred to as the “father of cannabis research.” Mechoulam, along with his colleague S. Ben-Shabat, published a paper in the European Journal of Pharmacology titled “An entourage effect: inactive endogenous fatty acid glycerol esters enhance 2-arachidonoyl-glycerol cannabinoid activity.”</p><p>In this seminal paper, Mechoulam and Ben-Shabat proposed the concept of the entourage effect, suggesting that the combined action of various compounds in the cannabis plant, including cannabinoids and terpenes, might produce a more significant and synergistic effect than the effects of individual compounds in isolation. They specifically explored how certain fatty acid glycerol esters enhanced the activity of the endocannabinoid 2-arachidonoyl-glycerol.</p><p>The entourage effect has since become a widely discussed and researched concept in the field of cannabis pharmacology. It has implications for understanding the therapeutic potential of whole-plant cannabis extracts, where multiple cannabinoids and terpenes are present in their natural ratios. The idea is that these compounds work together to create a more balanced and effective therapeutic outcome compared to isolated cannabinoids or synthetic compounds. </p>"
+        }
+       ]
+      }
+     ],
+     "ariaLabels": [
+      "Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "id": "4522515",
+   "doc": "wp-page#74068",
+   "dev": [
+    "widescreen"
+   ],
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "Popular Terpenes",
+     "dev": [
+      "widescreen"
+     ]
+    },
+    {
+     "t": "image",
+     "ref": "assets/source/c7f5c082-Terpene_Chart_Leafly.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2023/11/Terpene_Chart_Leafly.png?lossy=2&strip=0&webp=1",
+     "alt": "Terpene Chart provided by Leafly",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 754,
+     "h": 428,
+     "dev": [
+      "widescreen"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "id": "183bcc4",
+   "doc": "wp-page#74068",
+   "dev": [
+    "widescreen"
+   ],
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>Click on the terpenes below to see their individual Aromas, Entourage and potential benefits.</p>",
+     "dev": [
+      "widescreen"
+     ]
+    },
+    {
+     "t": "faq",
+     "kind": "nested-accordion",
+     "items": [
+      {
+       "q": "Bisabolol",
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><strong>Aroma:</strong> Chamomille<br><strong>Entourage:</strong> Anti-Inflammatory, Anti-Microbial, Pain Relief, Anti-Irritant, Stress and Anxiety Relief</p>",
+         "dev": [
+          "widescreen"
+         ]
+        }
+       ]
+      },
+      {
+       "q": "Borneol",
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><strong>Aroma:</strong> Ginger, Rosemary, Sage, Thyme<br><strong>Entourage:</strong> Anti-Inflammatory, Pain Relief, Stress and Anxiety Relief</p>",
+         "dev": [
+          "widescreen"
+         ]
+        }
+       ]
+      },
+      {
+       "q": "Camphene",
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><strong>Aroma:</strong> Cintronella, Rosemary, Sage, Fir, Neroli Blossom<br><strong>Entourage:</strong> Antioxidant, Antibacterial, Anti-Fungal, Respiratory Relief, Anti-Congestion</p>",
+         "dev": [
+          "widescreen"
+         ]
+        }
+       ]
+      },
+      {
+       "q": "Caryophyllene",
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><strong>Aroma:</strong> Black Pepper, Cinnamon, Hops, Oregano, Cloves<br><strong>Entourage:</strong> Anti-Inflammatory, Antioxidant, Stress and Anxiety Relief, Pain Relief, Anti-Fungal</p>",
+         "dev": [
+          "widescreen"
+         ]
+        }
+       ]
+      },
+      {
+       "q": "Eucalyptol",
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><strong>Aroma:</strong> Eucalyptus, Tea Tree, Sweet Basil, Cardamom, Bay Leaves<br><strong>Entourage:</strong> Anti-Inflammatory, Antioxidant, Anti-Fungal, Stress and Anxiety Relief</p>",
+         "dev": [
+          "widescreen"
+         ]
+        }
+       ]
+      },
+      {
+       "q": "Geraniol",
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><strong>Aroma:</strong> Peach, Lemon, Blackberry, Coriander, Rose Oil<br><strong>Entourage:</strong> Anti-Inflammatory, Antioxidant, Antibacterial, Anti-Fungal, Neuroprotectant, Anti-Cancer</p>",
+         "dev": [
+          "widescreen"
+         ]
+        }
+       ]
+      },
+      {
+       "q": "Guaiol",
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><strong>Aroma:</strong> Tea Tree, Nutmeg, Apple, Cypress, Pine, Lilac<br><strong>Entourage:</strong> Anti-Inflammatory, Antioxidant, Antibacterial, Pain Relief</p>",
+         "dev": [
+          "widescreen"
+         ]
+        }
+       ]
+      },
+      {
+       "q": "Humulene",
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><strong>Aroma:</strong> Hops, Basil, Ginger, Clove, Ginseng, Sage<br><strong>Entourage:</strong> Anti-Inflammatory, Antibacterial, Antioxidant, Appetite Suppressant, Anti-Tumor</p>",
+         "dev": [
+          "widescreen"
+         ]
+        }
+       ]
+      }
+     ],
+     "ariaLabels": [
+      "Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys"
+     ],
+     "dev": [
+      "widescreen"
+     ]
+    },
+    {
+     "t": "faq",
+     "kind": "nested-accordion",
+     "items": [
+      {
+       "q": "Limonene",
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><strong>Aroma:</strong> Lemon, Lime, Orange, Celery, Juniper, Citrus<br><strong>Entourage:</strong> Stress and Anxiety Relief, Mood Elevation, Pain Relief, Antioxidant, Antibacterial, Digestion</p>",
+         "dev": [
+          "widescreen"
+         ]
+        }
+       ]
+      },
+      {
+       "q": "Linalool",
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><strong>Aroma:</strong> Lavender, Sage, Birchwood, Sweet Orange, Coriander, Cilantro<br><strong>Entourage:</strong> Decongestant, Anti-Inflammatory, Sedative, Stress and Anxiety Relief, Pain Relief, Anti-Epileptic, Anti-Psychotic</p>",
+         "dev": [
+          "widescreen"
+         ]
+        }
+       ]
+      },
+      {
+       "q": "Myrcene",
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><strong>Aroma:</strong> Mango, Hops, Thyme, Lemongrass, Bay Leaves, Cardamom<br><strong>Entourage:</strong> Anti-Inflammatory, Sedative, Relaxing, Pain Relief</p>",
+         "dev": [
+          "widescreen"
+         ]
+        }
+       ]
+      },
+      {
+       "q": "Nerolidol",
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><strong>Aroma:</strong> Jasmine, Tea Tree, Lavendar, Lemongrass, Ginger<br><strong>Entourage:</strong> Anti-Inflammatory, Antioxidant, Anti-Parasitic, Sedative, Stress and Anxiety Relief</p>",
+         "dev": [
+          "widescreen"
+         ]
+        }
+       ]
+      },
+      {
+       "q": "Ocimene",
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><strong>Aroma:</strong> Mint, Kumquats, Orchids, Parsley, Basil<br><strong>Entourage:</strong> Uplifting, Anti-Inflammatory, Antioxidant, Decongestant, Antibacterial, Anti-Convulsant</p>",
+         "dev": [
+          "widescreen"
+         ]
+        }
+       ]
+      },
+      {
+       "q": "Pinene",
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><strong>Aroma:</strong> Pine Trees, Rosemary, Dill, Ginger<br><strong>Entourage:</strong> Anti-Inflammatory, Memory Aid, Pain Relief, Stress and Anxiety Relief, Anti-Microbial, Anti-Depressant</p>",
+         "dev": [
+          "widescreen"
+         ]
+        }
+       ]
+      },
+      {
+       "q": "Pulegone",
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><strong>Aroma:</strong> Catnip, Peppermint, Rosemary, Ginseng, Spearmint<br><strong>Entourage:</strong> Stress and Anxiety Relief, Pain Relief, Sedative, Anti-Inflammatory</p>",
+         "dev": [
+          "widescreen"
+         ]
+        }
+       ]
+      },
+      {
+       "q": "Terpinolene",
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><strong>Aroma:</strong> Tea Tree, Cumin, Nutmeg, Apple, Lilac, Mint<br><strong>Entourage:</strong> Antibacterial, Antioxidant, Sedative (on its own), Energizing (when paired with THC), Gastrointestinal Aid</p>",
+         "dev": [
+          "widescreen"
+         ]
+        }
+       ]
+      }
+     ],
+     "ariaLabels": [
+      "Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys"
+     ],
+     "dev": [
+      "widescreen"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "id": "be80b34",
+   "doc": "wp-page#74068",
+   "dev": [
+    "widescreen"
+   ],
+   "blocks": [
+    {
+     "t": "button",
+     "label": "Shop by Terpene",
+     "href": "/terpenes/",
+     "dev": [
+      "widescreen"
+     ]
+    },
+    {
+     "t": "button",
+     "label": "Shop by Cannabinoid",
+     "href": "/cannabinoids/",
+     "dev": [
+      "widescreen"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "id": "2cdf7dc",
+   "doc": "wp-page#74068",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>Please visit our <a href=\"/intro-to-cannabis-101/\">Intro to Cannabis</a> page for more information.</p>"
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "id": "20a87a5",
+   "doc": "wp-page#74068",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>*Cannabis is for use only by adults 21 years of age or older. All information contained herein is for educational purposes only. None of this information should be interpreted as medical or treatment advice for any person or condition. Always consult with a licensed physician in all matters regarding your health. <a href=\"/disclaimer/\">View our Disclaimer</a>.</p>"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "button": 4,
+  "faq": 8,
+  "heading": 15,
+  "image": 22,
+  "rich": 33
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [
+   {
+    "section": "72c0ccdb",
+    "t": "heading",
+    "dev": [
+     "widescreen"
+    ],
+    "text": "what is a terpene and where does it come from in the cannabis plant?"
+   },
+   {
+    "section": "11073cc",
+    "t": "rich",
+    "dev": [
+     "widescreen"
+    ],
+    "text": "cannabinoids are naturally occurring compounds found in the cannabis plant. these chemical substances interact with the body's endocannabinoid system (ecs)—a complex cell-signaling network that helps regulate vital functions like: / mood / "
+   },
+   {
+    "section": "11073cc",
+    "t": "heading",
+    "dev": [
+     "widescreen"
+    ],
+    "text": "how cannabinoids work in the body"
+   },
+   {
+    "section": "11073cc",
+    "t": "rich",
+    "dev": [
+     "widescreen"
+    ],
+    "text": "the endocannabinoid system (ecs) has two primary receptors: / cb1 receptors: found mainly in the brain and central nervous system / cb2 receptors: found in the immune system and peripheral organs / cannabinoids interact with these receptors"
+   },
+   {
+    "section": "11073cc",
+    "t": "heading",
+    "dev": [
+     "widescreen"
+    ],
+    "text": "natural and synthetic cannabinoids"
+   },
+   {
+    "section": "11073cc",
+    "t": "rich",
+    "dev": [
+     "widescreen"
+    ],
+    "text": "phytocannabinoids: naturally produced by the cannabis plant / endocannabinoids: produced by the human body (e.g., anandamide) / synthetic cannabinoids: lab-created compounds that mimic natural cannabinoids, such as: / marinol (dronabinol) –"
+   },
+   {
+    "section": "11073cc",
+    "t": "heading",
+    "dev": [
+     "widescreen"
+    ],
+    "text": "choosing the right product"
+   },
+   {
+    "section": "11073cc",
+    "t": "rich",
+    "dev": [
+     "widescreen"
+    ],
+    "text": "cannabinoid-based products come in a wide range of forms. depending on your goals, you might prefer: / flower – full-spectrum, fast-acting / vapes – convenient, portable, quick onset / tinctures – precise dosing, discreet use / edibles – lo"
+   },
+   {
+    "section": "248f42d",
+    "t": "image",
+    "dev": [
+     "widescreen"
+    ],
+    "text": "the entourage effect / cape cod cannabis recreational dispensary in wellfleet, ma"
+   },
+   {
+    "section": "248f42d",
+    "t": "rich",
+    "dev": [
+     "widescreen"
+    ],
+    "text": "the entourage effect is a concept in cannabis pharmacology that suggests that the combination of various compounds found in the cannabis plant, including cannabinoids and terpenes, works together synergistically to produce a collective ther"
+   },
+   {
+    "section": "248f42d",
+    "t": "heading",
+    "dev": [
+     "widescreen"
+    ],
+    "text": "who coined the phrase \"entourage effect\"?"
+   },
+   {
+    "section": "248f42d",
+    "t": "rich",
+    "dev": [
+     "widescreen"
+    ],
+    "text": "the term \"entourage effect\" was coined by israeli scientists raphael mechoulam and s. ben-shabat in 1998. raphael mechoulam is a renowned organic chemist who is often referred to as the \"father of cannabis research.\" mechoulam, along with h"
+   },
+   {
+    "section": "4522515",
+    "t": "heading",
+    "dev": [
+     "widescreen"
+    ],
+    "text": "popular terpenes"
+   },
+   {
+    "section": "4522515",
+    "t": "image",
+    "dev": [
+     "widescreen"
+    ],
+    "text": "terpene chart provided by leafly / cape cod cannabis recreational dispensary in wellfleet, ma"
+   },
+   {
+    "section": "183bcc4",
+    "t": "rich",
+    "dev": [
+     "widescreen"
+    ],
+    "text": "click on the terpenes below to see their individual aromas, entourage and potential benefits."
+   },
+   {
+    "section": "183bcc4",
+    "t": "faq",
+    "dev": [
+     "widescreen"
+    ],
+    "text": "bisabolol / aroma: chamomille / entourage: anti-inflammatory, anti-microbial, pain relief, anti-irritant, stress and anxiety relief / borneol / aroma: ginger, rosemary, sage, thyme / entourage: anti-inflammatory, pain relief, stress and anx"
+   },
+   {
+    "section": "183bcc4",
+    "t": "faq",
+    "dev": [
+     "widescreen"
+    ],
+    "text": "limonene / aroma: lemon, lime, orange, celery, juniper, citrus / entourage: stress and anxiety relief, mood elevation, pain relief, antioxidant, antibacterial, digestion / linalool / aroma: lavender, sage, birchwood, sweet orange, coriander"
+   },
+   {
+    "section": "be80b34",
+    "t": "button",
+    "dev": [
+     "widescreen"
+    ],
+    "text": "shop by terpene"
+   },
+   {
+    "section": "be80b34",
+    "t": "button",
+    "dev": [
+     "widescreen"
+    ],
+    "text": "shop by cannabinoid"
+   }
+  ],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [],
+  "links": [],
+  "aliasesResolved": [
+   {
+    "from": "/terpenes/beta-myrcene/",
+    "to": "/terpenes/beta-myrcene/"
+   },
+   {
+    "from": "/terpenes/limonene/",
+    "to": "/terpenes/limonene/"
+   },
+   {
+    "from": "/terpenes/alpha-pinene/",
+    "to": "/terpenes/alpha-pinene/"
+   },
+   {
+    "from": "/terpenes/linalool/",
+    "to": "/terpenes/linalool/"
+   },
+   {
+    "from": "/terpenes/humulene/",
+    "to": "/terpenes/humulene/"
+   },
+   {
+    "from": "/terpenes/caryophyllene/",
+    "to": "/terpenes/caryophyllene/"
+   },
+   {
+    "from": "/terpenes/caryophyllene",
+    "to": "/terpenes/caryophyllene/"
+   },
+   {
+    "from": "/terpenes/humulene",
+    "to": "/terpenes/humulene/"
+   },
+   {
+    "from": "/terpenes/terpinolene",
+    "to": "/terpenes/terpinolene/"
+   },
+   {
+    "from": "/terpenes/ocimene",
+    "to": "/terpenes/ocimene/"
+   },
+   {
+    "from": "/terpenes/linalool",
+    "to": "/terpenes/linalool/"
+   },
+   {
+    "from": "/terpenes/geraniol",
+    "to": "/terpenes/geraniol/"
+   },
+   {
+    "from": "/terpenes/bisabolol-2/",
+    "to": "/terpenes/bisabolol-2/"
+   },
+   {
+    "from": "/terpenes",
+    "to": "/terpenes/"
+   },
+   {
+    "from": "/categories/flower",
+    "to": "/categories/flower/"
+   },
+   {
+    "from": "/categories/pre-rolls/",
+    "to": "/categories/pre-rolls/"
+   },
+   {
+    "from": "/categories/vaporizers",
+    "to": "/categories/vaporizers/"
+   },
+   {
+    "from": "/categories/tinctures",
+    "to": "/categories/tinctures/"
+   },
+   {
+    "from": "/categories/edibles",
+    "to": "/categories/edibles/"
+   },
+   {
+    "from": "/categories/concentrates",
+    "to": "/categories/concentrates/"
+   },
+   {
+    "from": "/categories/topicals",
+    "to": "/categories/topicals/"
+   },
+   {
+    "from": "/categories/cbd",
+    "to": "/categories/cbd/"
+   },
+   {
+    "from": "/cannabinoids/thca-%ce%b49-tetrahydrocannabinolic-acid/",
+    "to": "/cannabinoids/thca-%ce%b49-tetrahydrocannabinolic-acid/"
+   },
+   {
+    "from": "/cannabinoids/thc-d9-delta-9-tetrahydrocannabinol/",
+    "to": "/cannabinoids/thc-d9-delta-9-tetrahydrocannabinol/"
+   },
+   {
+    "from": "/categories/cbd/",
+    "to": "/categories/cbd/"
+   },
+   {
+    "from": "/cannabinoids/cbn-cannabinol/",
+    "to": "/cannabinoids/cbn-cannabinol/"
+   },
+   {
+    "from": "/cannabinoids/cbg-cannabigerol/",
+    "to": "/cannabinoids/cbg-cannabigerol/"
+   },
+   {
+    "from": "/cannabinoids/cbdv-cannabidivarin/",
+    "to": "/cannabinoids/cbdv-cannabidivarin/"
+   },
+   {
+    "from": "/cannabinoids/thcv-tetrahydrocannabivarin/",
+    "to": "/cannabinoids/thcv-tetrahydrocannabivarin/"
+   },
+   {
+    "from": "/cannabinoids/cbc-cannabichromene/",
+    "to": "/cannabinoids/cbc-cannabichromene/"
+   },
+   {
+    "from": "/cannabinoids/cbda-cannabidiolic-acid/",
+    "to": "/cannabinoids/cbda-cannabidiolic-acid/"
+   },
+   {
+    "from": "/cannabinoids",
+    "to": "/cannabinoids/"
+   },
+   {
+    "from": "https://capecodcannabis.com/intro-to-cannabis-101/",
+    "to": "/intro-to-cannabis-101/"
+   },
+   {
+    "from": "https://capecodcannabis.com/disclaimer",
+    "to": "/disclaimer/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}

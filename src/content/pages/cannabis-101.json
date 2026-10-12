@@ -1,0 +1,822 @@
+{
+ "schema": "ccc-reforge/page@1",
+ "path": "/cannabis-101/",
+ "sourceUrl": "https://capecodcannabis.com/cannabis-101/",
+ "requestedUrl": "https://capecodcannabis.com/cannabis-101",
+ "slug": "cannabis-101",
+ "kind": "standard-page",
+ "wpTemplate": "page",
+ "derived": false,
+ "rawFile": "audit/raw/cannabis-101.html",
+ "rawSha256": "0f47b87eec9be195339f40fcd46daf0e06fcdc9959ed4937e586684885e6f2db",
+ "regionKind": "main",
+ "title": "Cannabis 101 at Cape Cod Cannabis | Cape Cod, MA",
+ "metaDescription": "Learn from Cannabis 101 - from Strains, Cannabinoids, and Terpenes to Method and Benefits, you will find everything you need to make a great purchase.",
+ "canonical": "https://capecodcannabis.com/cannabis-101/",
+ "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+ "og": {
+  "locale": "en_US",
+  "type": "article",
+  "title": "Cannabis 101 at Cape Cod Cannabis | Cape Cod, MA",
+  "description": "Learn from Cannabis 101 - from Strains, Cannabinoids, and Terpenes to Method and Benefits, you will find everything you need to make a great purchase.",
+  "url": "https://capecodcannabis.com/cannabis-101/",
+  "site_name": "Cape Cod Cannabis Recreational Dispensary is the Best Dispensary on Cape Cod",
+  "updated_time": "2025-02-26T13:48:12-05:00",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2023/11/type-method-effects-dose-chart.png",
+  "image:secure_url": "https://capecodcannabis.com/wp-content/uploads/2023/11/type-method-effects-dose-chart.png",
+  "image:width": "1590",
+  "image:height": "291",
+  "image:alt": "Cannabis 101",
+  "image:type": "image/png"
+ },
+ "article": {
+  "publisher": "https://www.facebook.com/profile.php?id=100077867156438"
+ },
+ "twitter": {
+  "card": "summary_large_image",
+  "title": "Cannabis 101 at Cape Cod Cannabis | Cape Cod, MA",
+  "description": "Learn from Cannabis 101 - from Strains, Cannabinoids, and Terpenes to Method and Benefits, you will find everything you need to make a great purchase.",
+  "site": "@capecodcanna",
+  "creator": "@capecodcanna",
+  "image": "https://capecodcannabis.com/wp-content/uploads/2023/11/type-method-effects-dose-chart.png",
+  "label1": "Time to read",
+  "data1": "2 minutes"
+ },
+ "jsonLd": [
+  {
+   "@context": "https://schema.org",
+   "@graph": [
+    {
+     "@type": "BreadcrumbList",
+     "@id": "https://capecodcannabis.com/cannabis-101/#breadcrumb",
+     "itemListElement": [
+      {
+       "@type": "ListItem",
+       "position": "1",
+       "item": {
+        "@id": "https://capecodcannabis.com",
+        "name": "Home"
+       }
+      },
+      {
+       "@type": "ListItem",
+       "position": "2",
+       "item": {
+        "@id": "https://capecodcannabis.com/cannabis-101/",
+        "name": "Cannabis 101"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org/",
+   "@type": "LocalBusiness",
+   "@id": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic/stores/5164",
+   "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5164-CCC-Logo-Footer.png",
+   "url": "https://capecodcannabis.com/?utm_source=gmb&utm_medium=organic",
+   "name": "Cape Cod Cannabis Recreational Dispensary",
+   "email": "info@capecodcannabis.com",
+   "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+   "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+   "alternateName": [
+    "Dispensary",
+    "Cannabis Shop",
+    "Cannabis Dispensary",
+    "Weed Dispensary",
+    "Marijuana Dispensary",
+    "Recreational Dispensary",
+    "Medical Marijuana Dispensary"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "41.9162662",
+    "longitude": "-69.9883627"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Wellfleet"
+    }
+   ],
+   "priceRange": "$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash",
+   "keywords": [
+    "Dispensaries",
+    "Dispensary",
+    "Cannabis",
+    "Weed",
+    "Marijuana",
+    "Marijuana Dispensaries",
+    "Flower",
+    "Pot Shop",
+    "Edibles",
+    "THC gummies",
+    "CBX weed",
+    "Recreational Marijuana",
+    "Recreational Dispensary",
+    "Adult-Use Dispensary",
+    "Wellfleet Dispensary",
+    "Wellfleet Weed",
+    "Wellfleet Dispensary",
+    "Dispensary Near Me",
+    "Best Dispensary in Wellfleet"
+   ],
+   "knowsAbout": [
+    {
+     "@type": "Thing",
+     "name": "cannabis strains",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+    },
+    {
+     "@type": "Thing",
+     "name": "indica",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+    },
+    {
+     "@type": "Thing",
+     "name": "sativa",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+    },
+    {
+     "@type": "Thing",
+     "name": "edibles",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+    },
+    {
+     "@type": "Thing",
+     "name": "cannabis concentrates",
+     "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+    },
+    {
+     "@type": "Thing",
+     "name": "og kush",
+     "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+    },
+    {
+     "@type": "Thing",
+     "name": "thc",
+     "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+    }
+   ],
+   "sameAs": [
+    "https://www.facebook.com/107188521043656/",
+    "https://twitter.com/capecodcanna",
+    "https://www.linkedin.com/company/cape-cod-cannabis/",
+    "https://www.yelp.com/biz/cape-cod-cannabis-wellfleet?adjust_creative=6OEfCBqQ19aG-KaXzjp7NQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=6OEfCBqQ19aG-KaXzjp7NQ",
+    "https://maps.google.com/?cid=16836187975150648782"
+   ],
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SUNDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "MONDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "TUESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "WEDNESDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "THURSDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "FRIDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    },
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": "SATURDAY",
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "967"
+   },
+   "review": [
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Lyn Clements"
+     },
+     "reviewBody": "Hannah was the icing on the cake of our experience. Sad that we live in the Berkshires because we would make you our store of choice.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Mike Korenich"
+     },
+     "reviewBody": "Quick, efficient. Pointed out some specials I was eligible to  consider. Thanks!",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "James Kelly"
+     },
+     "reviewBody": "Hannah always has a friendly smile to greet you with and excellent knowledge about the products and deals.",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Joseph Vitale"
+     },
+     "reviewBody": "Hannah is awesome",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    },
+    {
+     "@type": "Review",
+     "author": {
+      "@type": "Person",
+      "name": "Barry McKeon"
+     },
+     "reviewBody": "Very professional",
+     "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5"
+     }
+    }
+   ],
+   "telephone": "+17743833133"
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": [
+    "LocalBusiness",
+    "Store"
+   ],
+   "@id": "https://capecodcannabis.com/#localbusiness",
+   "name": "Cape Cod Cannabis",
+   "alternateName": "Cape Cod Cannabis Dispensary",
+   "url": "https://capecodcannabis.com/",
+   "description": "Cape Cod Cannabis is a licensed adult-use recreational cannabis dispensary located in Wellfleet, Massachusetts, in the South Wellfleet area of Cape Cod. Serving Cape Cod residents and visitors since 2021, Cape Cod Cannabis provides cannabis education, knowledgeable product guidance, online ordering, in-store pickup, free parking, and a welcoming shopping experience.",
+   "foundingDate": "2018",
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Retail Store Open Since",
+     "value": "2021"
+    }
+   ],
+   "slogan": "Always Worth the Trip!",
+   "telephone": "+1-774-383-3133",
+   "image": [
+    "https://capecodcannabis.com/wp-content/uploads/2022/05/CCC-Storefront.webp"
+   ],
+   "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1446 US-6",
+    "addressLocality": "Wellfleet",
+    "addressRegion": "MA",
+    "postalCode": "02667",
+    "addressCountry": "US"
+   },
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.916283126902506,
+    "longitude": -69.98835964200036
+   },
+   "openingHoursSpecification": [
+    {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "https://schema.org/Monday",
+      "https://schema.org/Tuesday",
+      "https://schema.org/Wednesday",
+      "https://schema.org/Thursday",
+      "https://schema.org/Friday",
+      "https://schema.org/Saturday",
+      "https://schema.org/Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "20:00"
+    }
+   ],
+   "priceRange": "$$",
+   "currenciesAccepted": "USD",
+   "paymentAccepted": "Cash, Debit Card, CanPay",
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Cape Cod, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Wellfleet, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Eastham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Truro, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Provincetown, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Orleans, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Yarmouth, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Brewster, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Harwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Chatham, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Sandwich, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Barnstable, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Hyannis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Dennis, Massachusetts"
+    },
+    {
+     "@type": "City",
+     "name": "Plymouth, Massachusetts"
+    }
+   ],
+   "knowsAbout": [
+    "Adult-use recreational cannabis",
+    "Cannabis education",
+    "Massachusetts cannabis laws",
+    "Responsible cannabis use",
+    "Cannabis flower",
+    "Pre-rolls",
+    "Cannabis edibles",
+    "Cannabis beverages",
+    "Cannabis vaporizers",
+    "Cannabis concentrates",
+    "Cannabis tinctures",
+    "Cannabis topicals",
+    "CBD products",
+    "Cannabis seeds",
+    "Cannabis accessories"
+   ],
+   "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Recreational Cannabis Products and Services",
+    "itemListElement": [
+     {
+      "@type": "OfferCatalog",
+      "name": "Cannabis Products",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Flower"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Pre-Rolls"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Edibles"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Beverages"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Vaporizers"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Concentrates"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Tinctures"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Topicals"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "CBD Products"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Seeds"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cannabis Accessories"
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Product",
+         "name": "Cape Cod Cannabis Apparel"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "OfferCatalog",
+      "name": "Customer Services",
+      "itemListElement": [
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Cannabis Education",
+         "description": "Approachable education about cannabis products, cannabinoids, terpenes, consumption methods, Massachusetts regulations, and responsible adult-use."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Product Guidance",
+         "description": "Knowledgeable assistance comparing cannabis products and understanding available options based on individual preferences and experience levels."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "First Time Visitor Assistance",
+         "description": "Friendly, pressure free guidance for adults visiting a recreational cannabis dispensary for the first time."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "Online Ordering",
+         "description": "Customers can browse the current online menu and reserve available products before visiting the South Wellfleet store."
+        }
+       },
+       {
+        "@type": "Offer",
+        "itemOffered": {
+         "@type": "Service",
+         "name": "In Store Pickup",
+         "description": "Online orders may be picked up at the Cape Cod Cannabis Route 6 location in South Wellfleet."
+        }
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "h1": "Cannabis 101",
+ "h1Source": {
+  "count": 1,
+  "visible": 1,
+  "hidden": 0
+ },
+ "breadcrumbs": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Cannabis 101",
+   "href": null
+  }
+ ],
+ "breadcrumbsSource": "jsonld",
+ "section": null,
+ "sections": [
+  {
+   "n": 0,
+   "id": "13bfd095",
+   "doc": "wp-page#13963",
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "text": "Cannabis 101"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "id": "3c4c026",
+   "doc": "wp-page#13963",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>Cannabis is a plant with unique essential oil: cannabinoids. Cannabinoids have a medicinal effect by imitating compounds our bodies naturally produce (endocannabinoids). There are over 85 cannabinoids in cannabis, but the main two that you should know about are:</p>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "THC"
+    },
+    {
+     "t": "rich",
+     "html": "<p>(DELTA-9-TETRAHYDROCANNABINOL)</p><p>THC is responsible for the psychoactive (“stoned”) effects. Commonly experienced effects include euphoria, relaxation, and “giggles”.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "CBD"
+    },
+    {
+     "t": "rich",
+     "html": "<p>(CANNABIDIOL)</p><p>CBD has little to no psychoactive effects and can balance or counteract the anxiety produced by THC. CBD can reduce anxiety, provide pain relief, suppress nausea, support cardiovascular health, and have anti-inflammatory properties.</p>"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "id": "d2368c2",
+   "doc": "wp-page#13963",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong>Did you know?</strong> <a href=\"/terpene-guide/\" data-link=\"dead\">Terpenes</a> are another oil of cannabis plant that contribute to the effect on your body. <a href=\"/terpene-guide/\" data-link=\"dead\">Most common terpenes are Pinene, Myrcene, Limonene, Caryophyllene, Linalool, Humulene</a>.</p><p>Cannabis can be classified into two categories based on its effects:</p>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "SATIVA"
+    },
+    {
+     "t": "rich",
+     "html": "<ul><li>Increases energy, focus, elevates mood, increases creativity.</li><li>Consumed during Daytime.</li></ul>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "text": "INDICA"
+    },
+    {
+     "t": "rich",
+     "html": "<ul><li>Relaxes and reduces stress, pain, and anxiety, promotes sleep and reduces inflammation.</li><li>Consumed at Nighttime.</li></ul>"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "id": "bb183cd",
+   "doc": "wp-page#13963",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><strong>Remember:</strong> Most cannabis strains are HYBRIDS and their effect fall somewhere between the two.</p><p>All products vary in their strength of effect on body and mid. Each person is unique and may experience cannabis differently. Read the packaging label for product laboratory results and consumption suggestions. Always start with a small dose and wait until getting another one.</p>"
+    },
+    {
+     "t": "rich",
+     "kind": "table",
+     "html": "<table><thead><tr><th scope=\"col\">Type</th><th scope=\"col\">Method</th><th scope=\"col\">Start With</th><th scope=\"col\">Effects Start</th><th scope=\"col\">Effects Last</th><th scope=\"col\">Wait Until Another Dose</th><th scope=\"col\">Benefits</th></tr></thead><tbody><tr><td>Flower</td><td>Smoking</td><td>One Inhalation</td><td>1 – 15 minutes</td><td>.5 – 2 hours</td><td>15 – 20 Minutes</td><td>Easy to control</td></tr><tr><td>Edible</td><td>Ingest</td><td>5mg or less, have food before</td><td>15 – 120 minutes</td><td>3 – 8 hours</td><td>2+ hours</td><td>No inhalation, longer lasting</td></tr><tr><td>Concentrate</td><td>Smoking, vaporizing</td><td>One Inhalation</td><td>1 – 15 minutes</td><td>.5 – 2 hours</td><td>15 – 20 minutes</td><td>Stronger effect</td></tr><tr><td>Tincture</td><td>Under Tounge</td><td>5mg or less</td><td>15 – 60 minutes</td><td>1 – 4 hours</td><td>30 – 60 minutes</td><td>No inhalation, longer lasting</td></tr><tr><td>Topical</td><td>Apply to skin</td><td>1 or 2 drops</td><td>20 – 120 minutes</td><td>1 – 4 hours</td><td>20 – 40 minutes</td><td>Targeted relief, no “high” feeling</td></tr></tbody></table>",
+     "dev": [
+      "widescreen",
+      "desktop",
+      "tablet",
+      "mobile_extra"
+     ]
+    },
+    {
+     "t": "rich",
+     "html": "<p>To choose the correct product you may consult with our Product Specialist who will recommend the best type of product and method of consumption based on your preference and desired effect.</p>"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "id": "6e5421d",
+   "doc": "wp-page#13963",
+   "blocks": [
+    {
+     "t": "image",
+     "ref": "assets/source/bc7d4590-type-method-effects-dose-chart-1024x187.png",
+     "srcUrl": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2023/11/type-method-effects-dose-chart-1024x187.png?lossy=2&strip=0&webp=1",
+     "master": "assets/source/d80a1552-type-method-effects-dose-chart.png",
+     "alt": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "titleAttr": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
+     "w": 800,
+     "h": 146,
+     "href": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2023/11/type-method-effects-dose-chart.png?lossy=2&strip=0&webp=1",
+     "dev": [
+      "widescreen",
+      "mobile_extra",
+      "mobile"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "id": "0dec859",
+   "doc": "wp-page#13963",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>EXPERIENCE LOG Use the template below to record your experience using different cannabis strains and products (line 1 is filed as an example):</p>",
+     "dev": [
+      "widescreen",
+      "desktop",
+      "tablet",
+      "mobile_extra"
+     ]
+    },
+    {
+     "t": "rich",
+     "html": "<table><tbody><tr><td><p>1</p></td><td><p>Date:</p><p><i>2/1/2021</i></p></td><td><p>Product:</p><p><i>Flower</i></p></td><td><p>Strain/Type:</p><p><i>Bubba Kush (Indica)</i></p></td><td><p>Method of Use:</p><p><i>Smoking</i></p></td></tr><tr><td><p>Dosage: <i>2 puffs</i></p></td><td><p>Effects: sleepy, happy, hungry</p></td><td><p>Onset: <i>3 mins</i></p></td><td><p>Duration: <i>1 hr</i></p></td></tr><tr><td><p>Notes: <i>sweet with a taste of coffee and chocolate</i></p></td></tr><tr><td><p>2</p></td><td><p>Date:</p></td><td><p>Product:</p></td><td><p>Strain/Type</p></td><td><p>Method of Use:</p></td></tr><tr><td><p>Dosage:</p></td><td><p>Effects:</p></td><td><p>Onset:</p></td><td><p>Duration:</p></td></tr><tr><td><p>Notes:</p></td></tr><tr><td><p>3</p></td><td><p>Date:</p></td><td><p>Product:</p></td><td><p>Strain/Type</p></td><td><p>Method of Use:</p></td></tr><tr><td><p>Dosage:</p></td><td><p>Effects:</p></td><td><p>Onset:</p></td><td><p>Duration:</p></td></tr><tr><td><p>Notes:</p></td></tr></tbody></table>",
+     "dev": [
+      "widescreen",
+      "desktop",
+      "tablet",
+      "mobile_extra"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "id": "fc249c2",
+   "doc": "wp-page#13963",
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "IMPORTANT INFORMATION ABOUT CANNABIS: <a href=\"/disclaimer/\">Disclaimer/MA Law</a>"
+    }
+   ]
+  }
+ ],
+ "catalog": null,
+ "blockCounts": {
+  "heading": 5,
+  "image": 1,
+  "rich": 12
+ },
+ "ledger": {
+  "collapsed": [],
+  "keptDeviceOnly": [
+   {
+    "section": "bb183cd",
+    "t": "rich",
+    "dev": [
+     "widescreen",
+     "desktop",
+     "tablet",
+     "mobile_extra"
+    ],
+    "text": "type / method / start with / effects start / effects last / wait until another dose / benefits / flower / smoking / one inhalation / 1 – 15 minutes / .5 – 2 hours / 15 – 20 minutes / easy to control / edible / ingest / 5mg or less, have foo"
+   },
+   {
+    "section": "0dec859",
+    "t": "rich",
+    "dev": [
+     "widescreen",
+     "desktop",
+     "tablet",
+     "mobile_extra"
+    ],
+    "text": "experience log use the template below to record your experience using different cannabis strains and products (line 1 is filed as an example):"
+   },
+   {
+    "section": "0dec859",
+    "t": "rich",
+    "dev": [
+     "widescreen",
+     "desktop",
+     "tablet",
+     "mobile_extra"
+    ],
+    "text": "1 / date: / 2/1/2021 / product: / flower / strain/type: / bubba kush (indica) / method of use: / smoking / dosage: 2 puffs / effects: sleepy, happy, hungry / onset: 3 mins / duration: 1 hr / notes: sweet with a taste of coffee and chocolate"
+   },
+   {
+    "section": "6e5421d",
+    "t": "image",
+    "dev": [
+     "widescreen",
+     "mobile_extra",
+     "mobile"
+    ],
+    "text": "cape cod cannabis recreational dispensary in wellfleet, ma / cape cod cannabis recreational dispensary in wellfleet, ma"
+   }
+  ],
+  "conflicts": [],
+  "unknown": [],
+  "widgetLoss": [],
+  "removed": [],
+  "links": [
+   {
+    "href": "/terpene-guide/",
+    "from": "https://capecodcannabis.com/terpene-guide/",
+    "status": "dead"
+   }
+  ],
+  "aliasesResolved": [
+   {
+    "from": "https://capecodcannabis.com/disclaimer/",
+    "to": "/disclaimer/"
+   }
+  ],
+  "imagesMissing": [],
+  "h1InRich": 0
+ }
+}
