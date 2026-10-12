@@ -1,6 +1,6 @@
 {
   "schema": "site-reforge/parity-report@1",
-  "generated": "2026-10-12T17:40:12.926Z",
+  "generated": "2026-10-12T18:18:33.708Z",
   "sourcePages": 745,
   "rebuiltFiles": 6733,
   "mappedPages": 745,
@@ -6018,11 +6018,11 @@
       "file": "index.html",
       "pageType": "home",
       "status": "DIFFERS",
-      "recall": 0.9523,
-      "missingWords": 185,
+      "recall": 0.9518,
+      "missingWords": 187,
       "longestMissingRun": 4,
       "sourceWords": 3924,
-      "rebuiltWords": 4683,
+      "rebuiltWords": 4679,
       "sourceH1": [
         "Cape Cod Cannabis Recreational Dispensary | Wellfleet, MA"
       ],
@@ -6030,7 +6030,7 @@
         "Cape Cod Cannabis Recreational Dispensary | Wellfleet, MA"
       ],
       "sourceLinks": 45,
-      "rebuiltLinks": 453,
+      "rebuiltLinks": 452,
       "findings": [
         {
           "severity": "major",
@@ -6041,7 +6041,7 @@
         {
           "severity": "minor",
           "code": "alt-missing",
-          "title": "23 image(s) without alt",
+          "title": "22 image(s) without alt",
           "detail": "index.html"
         }
       ]

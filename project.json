@@ -4,7 +4,7 @@
   "targetUrl": "https://capecodcannabis.com/",
   "origin": "https://capecodcannabis.com",
   "createdAt": "2026-10-12T00:09:39.500Z",
-  "updatedAt": "2026-10-12T17:41:41.190Z",
+  "updatedAt": "2026-10-12T18:21:15.826Z",
   "config": {
     "maxPages": 8000,
     "concurrency": 2,
@@ -108,17 +108,17 @@
     },
     "decontaminate": {
       "status": "done",
-      "at": "2026-10-12T17:41:28.948Z",
+      "at": "2026-10-12T18:21:03.825Z",
       "note": "CLEAN (0 traces)"
     },
     "parity": {
       "status": "fail",
-      "at": "2026-10-12T17:40:12.936Z",
+      "at": "2026-10-12T18:18:33.717Z",
       "note": "DRIFT — 1539 findings"
     },
     "fabrication": {
       "status": "fail",
-      "at": "2026-10-12T17:40:46.670Z",
+      "at": "2026-10-12T18:19:08.893Z",
       "note": "FABRICATION — 56 findings"
     },
     "pixeldiff": {
@@ -138,13 +138,13 @@
     },
     "gate": {
       "status": "fail",
-      "at": "2026-10-12T17:41:30.465Z",
+      "at": "2026-10-12T18:21:05.175Z",
       "note": "NOT-READY — 15/29 passing"
     },
     "package": {
       "status": "forced",
-      "at": "2026-10-12T17:41:41.190Z",
-      "note": "capecodcannabis-com-handoff-v20261012.zip — 14196 entries, 819743153 bytes"
+      "at": "2026-10-12T18:21:15.826Z",
+      "note": "capecodcannabis-com-handoff-v20261012.zip — 14202 entries, 821813326 bytes"
     }
   },
   "notes": []
