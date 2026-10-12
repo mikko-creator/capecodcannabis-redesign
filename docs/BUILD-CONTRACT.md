@@ -464,3 +464,50 @@ source of truth.
        - the age gate passes 78/78;
        - home at 1280x585@1.5: 1,160 KB before scroll and 1,537 KB after a full scroll excluding the loop video
          (before this revision: 1,363 and 2,752). CLS is 0 at 1280 and at 390.
+20. **Balanced textures and a generated hero (added 2026-10-13 by the orchestrator, on the operator's direction).**
+
+    After the calm revision the operator wrote: "now the background of the whole site is too minimalist, there should
+    be a balance that the site has some fun textures, but not oo much that it takes the attention away from the
+    content. Not a fan of the hero image, use higgsfield to generate a kickass Cape Cod themed image". This ruling
+    amends 4.19.
+
+    1. **Textures.** They are tokens in `tokens.css`, inline SVG with no extra downloads:
+       - sea-chart contours (ocean-ink, about 13% stroke; sky on navy);
+       - the brand's whale-tail scatter (7–10%);
+       - a fine harbour grain;
+       - a golden-hour glow;
+       - the footer's wave curve, used as a mask.
+    2. **Where they go.** Textures sit on alternate bands, in the gutters around opaque cards and never under text.
+       - Card field: contours and glow.
+       - Offers band: tails, with wavy edges top and bottom.
+       - Brand logos and Learn More: grain.
+       - Reviews: sky contours and glow, with wavy edges.
+       - VIP: tails.
+       - Visit: contours.
+       - Interior prose, shop copy and product pages: contours.
+       - Shop live-menu band: tails.
+       - Footer: sky contours.
+
+       Product rails, live panels and the intro stay plain.
+    3. **The hero is a Higgsfield illustration.** It shows a Cape Cod bay shore at golden hour: turquoise shallows,
+       S-curved sandbars, a dune bluff and a humpback whale tail. It was made on `marketing-studio/image/sunburst`,
+       text-to-image, 4k.
+       - **Desktop:** 16:9, request `4d23b3c3-f23a-424d-9698-b1942bab28f6`, master 2880x1620.
+       - **Phone:** 9:16, request `7751c804-5166-4dfb-bce3-da04d18d82a6`, master 1440x2560.
+
+       Both masters carry the IPTC AI label. The visible "AI illustration" tag sits at the hero's bottom right (4.17.4,
+       R-40). It is not a real place, landmark or store: it has no buildings, lighthouse, people, text or cannabis. Four
+       candidates were rejected and kept out of the build (`tmp/hero/rejected/`). The client's Uncle Tim's Bridge photo
+       is no longer used, and B20 (the kayaker) is moot.
+    4. **Weight (R-20).**
+       - Desktop hero: q72, 216 KB at 1920.
+       - Phone hero: q50 with a 1170 variant (241 KB, exactly 1.0 file px per device px at 390x844@3). A 100% compare
+         shows only slight softening of the grass.
+       - Home at 1280x585@1.5: 1,176 KB before scroll and 1,553 KB after excluding the loop. At 390x844@3: 1,139 and
+         1,746 KB.
+       - CLS is 0 at both windows.
+    5. **Gates on this build:**
+       - text parity recall 1, 0 missing, 0 added;
+       - link-check, build-check (AI label 192/192), product-guard, static checks, the R-46 scan, hover parity and C13
+         all pass;
+       - the age gate passes 78/78.

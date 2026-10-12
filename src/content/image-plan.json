@@ -371,41 +371,43 @@
   "slots": [
     {
       "id": "HERO-DESKTOP",
-      "file": "assets/derived/hero-uncle-tims-2600.jpg",
-      "ai": false,
-      "tag": false,
-      "w": 2600,
-      "h": 1729,
+      "file": "assets/generated/hero-capecod-desktop.jpg",
+      "ai": true,
+      "tag": true,
+      "w": 2880,
+      "h": 1620,
       "minW": 1920,
-      "focal": "50% 58%",
+      "focal": "62% 38%",
       "alt": "",
-      "liveAlt": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
-      "use": "Home hero backdrop at 701px and up (DESIGN-SPEC 6.9); decorative alt=\"\" per 6.9; full frame, kayaker kept (BUILD-CONTRACT 4.17.6)",
-      "source": "assets/source/bc393109-uncle-tims-bridge.jpeg (4032x2681), resized to 2600 wide with ffmpeg (lanczos), JPEG q>=90; no crop, no retouch",
-      "plannedFile": "assets/derived/hero-uncle-tims-2600.jpg",
+      "use": "Home hero backdrop at 701px and up (DESIGN-SPEC 6.9; BUILD-CONTRACT 4.20): an AI illustration of a Cape Cod bay shore, decorative alt=\"\", visible AI illustration tag",
+      "source": "Higgsfield REST marketing-studio/image/sunburst, text-to-image, 4k, 16:9, quality high, request 4d23b3c3-f23a-424d-9698-b1942bab28f6; 3840x2160 downscaled to 2880x1620 (tmp/hero/d-sun-B.png)",
       "review": {
         "verdict": "ACCEPT",
-        "reason": "Full frame of the client's Uncle Tim's Bridge photo resized to 2600x1729 (JPEG q~93 by DQT estimate); no crop, kayaker kept per BUILD-CONTRACT 4.17.6; no retouch."
-      }
+        "reason": "ACCEPT by eye (orchestrator, 2026-10-13): a generic Cape Cod bay shore at golden hour - turquoise shallows, sandbars, a dune bluff with beach grass, a humpback whale tail on the horizon; no people, no text, no marks or logos, no buildings, lighthouse or other real landmark, no cannabis, no candy look; the whale tail checked at 100% (plausible fluke and water). Chosen over 3 desktop and 1 portrait candidates (tmp/hero/rejected/)."
+      },
+      "previous": "assets/derived/hero-uncle-tims-2600.jpg (the client photo of Uncle Tim's Bridge; replaced at the operator's request, 2026-10-13)",
+      "quality": 72,
+      "qualityWhy": "R-20 decorative-image cap (250 KB): measured with cwebp on this master - 1920 variant 272 KB at q80, 214 KB at q72 (orchestrator, 2026-10-13)"
     },
     {
       "id": "HERO-PHONE",
-      "file": "assets/derived/hero-uncle-tims-portrait.jpg",
-      "ai": false,
-      "tag": false,
-      "w": 1170,
-      "h": 2232,
+      "file": "assets/generated/hero-capecod-phone.jpg",
+      "ai": true,
+      "tag": true,
+      "w": 1440,
+      "h": 2560,
       "minW": 1170,
       "focal": "50% 0%",
       "alt": "",
-      "liveAlt": "Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA",
-      "use": "Home hero backdrop at 700px and below (6.9): bridge and marsh fill the top 45% of the stage; decorative alt=\"\"",
-      "source": "assets/source/bc393109-uncle-tims-bridge.jpeg, portrait crop starting below the empty sky, ffmpeg crop only, JPEG q>=90",
-      "plannedFile": "assets/derived/hero-uncle-tims-portrait.jpg",
+      "use": "Home hero backdrop at 700px and below: the same bay-shore scene composed vertically; decorative alt=\"\", visible AI illustration tag",
+      "source": "Higgsfield REST marketing-studio/image/sunburst, text-to-image, 4k, 9:16, quality high, request 7751c804-5166-4dfb-bce3-da04d18d82a6; 2160x3840 downscaled to 1440x2560 (tmp/hero/p-sun-PB.png)",
       "review": {
         "verdict": "ACCEPT",
-        "reason": "Re-crop 1170x2232 at source resolution (x 330-1500, y 449-2681): aspect 0.524 matches the 390x744 CSS phone stage (100svh - 60 - 40), and 2232 px = 744 x 3 meets R-1 at 390x844@3 (the first 1188x2040 crop gave about 0.91). The source has only 1946 px below the tree line, so about 95 CSS px of sky remain at the very top; the island trees and the bridge deck fill the rest of the top 45% (red guide in tmp/img/hero-phone.jpg). Unaltered pixels; kayaker outside the crop."
-      }
+        "reason": "ACCEPT by eye (orchestrator, 2026-10-13): a generic Cape Cod bay shore at golden hour - turquoise shallows, sandbars, a dune bluff with beach grass, a humpback whale tail on the horizon; no people, no text, no marks or logos, no buildings, lighthouse or other real landmark, no cannabis, no candy look; the whale tail checked at 100% (plausible fluke and water). Chosen over 3 desktop and 1 portrait candidates (tmp/hero/rejected/)."
+      },
+      "previous": "assets/derived/hero-uncle-tims-portrait.jpg",
+      "quality": 50,
+      "qualityWhy": "R-20 decorative-image cap (250 KB): measured with cwebp on this master - the fine dune grass compresses poorly: 1170 variant 223 KB at q50 (452 KB at q80 for 1280); a 100% crop compare showed only slight softening, invisible at DPR 3 (tmp/tex/q/pq-compare.png)"
     },
     {
       "id": "POSTCARD",

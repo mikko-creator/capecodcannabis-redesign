@@ -449,3 +449,29 @@
 }
 @media (prefers-reduced-motion: reduce) { .loop-frame .loop__video { display: none; } }
 @media print { .loop-frame video { display: none; } }
+
+/* the hero photo is an AI illustration (BUILD-CONTRACT 4.20): its tag sits at the bottom right of the hero, clear of the
+   pane and the Google plate */
+.hero__ai { position: absolute; right: 14px; bottom: 14px; top: auto; left: auto; z-index: 2; }
+@media (max-width: 700px) { .hero__ai { right: 10px; bottom: 10px; } }
+
+/* ================================================================== balanced textures (operator, 2026-10-13)
+   "the background of the whole site is too minimalist, there should be a balance that the site has some fun textures,
+   but not too much that it takes the attention away from the content". Textures (tokens.css) sit on alternate bands, in
+   the gutters around opaque cards and never under text: sea-chart contours, the whale-tail scatter, a fine grain and the
+   golden-hour glow of the hero; the offers and reviews bands get wavy edges. Product rails, live panels and the intro
+   stay plain so the products and copy keep the focus. */
+.band--home.band--cats { background-image: radial-gradient(60% 90% at 0% 0%, var(--glow), transparent 62%), var(--tex-contour); background-repeat: no-repeat, repeat; background-size: auto, 480px 240px; }
+.band--home.band--offers { background-image: var(--tex-tails); background-size: 160px 128px; }
+.band--home.band--logos, .band--home.band--learn { background-image: var(--tex-grain); }
+.band--home.band--reviews { background-image: radial-gradient(55% 80% at 100% 0%, var(--glow), transparent 60%), var(--tex-contour-sky); background-repeat: no-repeat, repeat; background-size: auto, 480px 240px; }
+.band--home.band--vip { background-image: var(--tex-tails); background-size: 160px 128px; }
+.band--home.band--visit { background-image: var(--tex-contour); background-size: 480px 240px; }
+/* the wavy edges: each strip takes its own band's ground and texture (background: inherit) through the wave mask, and
+   overlaps the band above it - so the offers and reviews bands read with a wave on both edges */
+.band--home.band--offers::before, .band--home.band--offers + .band--home::before,
+.band--home.band--reviews::before, .band--home.band--reviews + .band--home::before {
+  content: ""; position: absolute; left: 0; right: 0; top: -26px; height: 28px; z-index: 1; pointer-events: none;
+  background: inherit; -webkit-mask: var(--wave-mask) center / 100% 100% no-repeat; mask: var(--wave-mask) center / 100% 100% no-repeat;
+}
+@media print { .band--home::before { display: none; } }

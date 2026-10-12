@@ -99,3 +99,24 @@ tint.
 
 **Result.** Home weight at 1280 fell to 1,160 KB before scroll and 1,537 KB after a full scroll, excluding the loop
 (it was 1,363 and 2,752). CLS is 0. All gates pass. The age gate passes 78/78.
+
+## Balanced textures and a generated hero (2026-10-13)
+
+After the calm revision, the operator found the site too minimalist. They also asked for a striking Cape Cod hero made
+with Higgsfield (BUILD-CONTRACT 4.20).
+
+**Textures.** Subtle, fun textures came back on alternate bands, only in the gutters around the white cards:
+- sea-chart contour lines;
+- the brand's whale-tail scatter;
+- a fine grain;
+- a golden-hour glow;
+- wavy edges on the offers and reviews bands.
+
+Product rails and panels stay plain.
+
+**The hero** is now a Higgsfield illustration (Marketing Studio Sunburst, 4K): a golden-hour Cape Cod bay with turquoise
+sandbars, dunes and a humpback whale tail. There are separate desktop and phone compositions, both with the AI label and
+the visible "AI illustration" tag. Four other candidates were reviewed and rejected.
+
+**Weight.** The hero images are encoded at 216 KB (desktop) and 241 KB (phone). Home is 1,176 KB before scroll and
+1,553 KB after at 1280. CLS is 0. All gates pass. The age gate passes 78/78.

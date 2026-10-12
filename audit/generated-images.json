@@ -890,6 +890,30 @@
         "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
         "at": "2026-10-12T05:45:29.370Z"
       }
+    },
+    {
+      "id": "HERO-DESKTOP",
+      "file": "assets/generated/hero-capecod-desktop.jpg",
+      "raw": "tmp/hero/d-sun-B.png",
+      "provider": "higgsfield",
+      "endpoint": "marketing-studio/image/sunburst",
+      "requestId": "4d23b3c3-f23a-424d-9698-b1942bab28f6",
+      "role": "Home hero backdrop, desktop (operator asked for a Higgsfield Cape Cod image, 2026-10-13)",
+      "alt": "",
+      "prompt": "Breathtaking elevated photograph of a Cape Cod bay shore at sunrise: crystal clear turquoise shallows and pale sandbars curving through the water, rippled tidal flats glowing with soft pink and gold light, a high bluff of golden dunes with beach grass along the right edge of the frame. In the distance, right of center, the tail of a humpback whale lifting from glassy water, catching the first light. Clean sky blue to warm horizon gradient. The left half of the frame is open calm water and sky with gentle texture only. Natural colors, high dynamic range, ultra sharp detail, editorial landscape photography for a premium travel magazine. No people, no houses, no lighthouse, no boats, no text, no logos, no watermark.",
+      "review": "ACCEPT by eye (orchestrator, 2026-10-13): a generic Cape Cod bay shore at golden hour - turquoise shallows, sandbars, a dune bluff with beach grass, a humpback whale tail on the horizon; no people, no text, no marks or logos, no buildings, lighthouse or other real landmark, no cannabis, no candy look; the whale tail checked at 100% (plausible fluke and water). Chosen over 3 desktop and 1 portrait candidates (tmp/hero/rejected/)."
+    },
+    {
+      "id": "HERO-PHONE",
+      "file": "assets/generated/hero-capecod-phone.jpg",
+      "raw": "tmp/hero/p-sun-PB.png",
+      "provider": "higgsfield",
+      "endpoint": "marketing-studio/image/sunburst",
+      "requestId": "7751c804-5166-4dfb-bce3-da04d18d82a6",
+      "role": "Home hero backdrop, phones",
+      "alt": "",
+      "prompt": "Vertical photograph of a Cape Cod bay shore at golden hour. Top half: open clear sky graded from soft sky blue to warm peach and gold near the horizon, with no strong detail. Just below the horizon, the tail of a humpback whale lifting from glassy water near the low sun, water dripping from it. Lower middle: crystal clear turquoise shallows and pale S-curved sandbars glowing pink and gold. Bottom: a golden dune bluff with windswept beach grass in sharp focus. Natural colors, high dynamic range, ultra sharp detail, editorial landscape photography for a premium travel magazine. No people, no houses, no lighthouse, no boats, no text, no logos, no watermark.",
+      "review": "ACCEPT by eye (orchestrator, 2026-10-13): a generic Cape Cod bay shore at golden hour - turquoise shallows, sandbars, a dune bluff with beach grass, a humpback whale tail on the horizon; no people, no text, no marks or logos, no buildings, lighthouse or other real landmark, no cannabis, no candy look; the whale tail checked at 100% (plausible fluke and water). Chosen over 3 desktop and 1 portrait candidates (tmp/hero/rejected/)."
     }
   ],
   "failures": [],
@@ -1616,6 +1640,26 @@
       "archivedAs": "tmp/img/rejected/MENU-CONC.1791783847370.jpg",
       "reason": "regenerated on review (--force)",
       "at": "2026-10-12T05:44:09.553Z"
+    },
+    {
+      "file": "tmp/hero/rejected/d-flare-A.png",
+      "provider": "higgsfield",
+      "reason": "not chosen (desktop, scene A (dunes and fence): good, but the whale tail sits at the pane edge at 1280); never shipped"
+    },
+    {
+      "file": "tmp/hero/rejected/d-sun-A.png",
+      "provider": "higgsfield",
+      "reason": "not chosen (desktop, scene A: strong, chosen B for the turquoise sandbars); never shipped"
+    },
+    {
+      "file": "tmp/hero/rejected/d-flare-B.png",
+      "provider": "higgsfield",
+      "reason": "not chosen (desktop, scene B on Flare: close second; Sunburst B has richer sandbars and the tail further right); never shipped"
+    },
+    {
+      "file": "tmp/hero/rejected/p-flare-PB.png",
+      "provider": "higgsfield",
+      "reason": "not chosen (portrait on Flare: good; Sunburst portrait matches the desktop pick); never shipped"
     }
   ],
   "kit": [
@@ -2842,5 +2886,11 @@
       "rejected": []
     }
   ],
-  "labelCheck": "node tools/ai-label.mjs verify assets/generated --control"
+  "labelCheck": "node tools/ai-label.mjs verify assets/generated --control",
+  "spendHiggsfield": {
+    "calls": 6,
+    "endpoint": "marketing-studio/image/{flare,sunburst} 4k",
+    "price": "token-priced: image output $30 per 1M tokens (POST /estimate); the API does not report the charge - about $0.2-0.5 per 4K image is UNVERIFIED; check the Higgsfield console",
+    "when": "2026-10-13"
+  }
 }

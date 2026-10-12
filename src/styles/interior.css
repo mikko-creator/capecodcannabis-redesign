@@ -118,3 +118,6 @@
 .iprose { background: var(--foam); }
 .iposts--calm { background: var(--c-white); }
 .i404__pane--calm { border-radius: var(--r-l); background: var(--c-white-a12); border: 1px solid var(--c-sky-a30); }
+
+/* balanced textures (operator, 2026-10-13): faint sea-chart contours behind prose */
+.iprose { background-image: var(--tex-contour); background-size: 480px 240px; }

@@ -254,3 +254,10 @@
 .shero--calm::after { content: none; }
 .pdp--calm, .pdp:not(.pdp--stub) { background: var(--foam); }
 .live-panel.surface { min-height: 0; }
+
+/* balanced textures (operator, 2026-10-13): the whale-tail scatter on the live-menu tint, contours behind copy and
+   product pages, the golden-hour glow on heroes without a photo */
+.shop-live--calm { background-image: var(--tex-tails); background-size: 160px 128px; }
+.shop-copy--calm { background-image: var(--tex-contour); background-size: 480px 240px; }
+.shero--calm { background-image: radial-gradient(60% 100% at 0% 0%, var(--glow), transparent 62%); }
+.pdp--calm, .pdp:not(.pdp--stub) { background-image: radial-gradient(55% 90% at 0% 0%, var(--glow), transparent 60%), var(--tex-contour); background-repeat: no-repeat, repeat; background-size: auto, 480px 240px; }

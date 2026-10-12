@@ -86,8 +86,10 @@ function heroH1(ctx, text) {
 /** the art-directed hero photo: HERO-PHONE through <source media> at 700px and below, HERO-DESKTOP otherwise (one
     request per device, never both) */
 function heroPicture(ctx) {
-  const wide = slotImg(ctx, 'HERO-DESKTOP', { alt: '', sizes: '100vw', loading: 'eager', fetchpriority: 'high', cls: 'hero__img' });
-  const tall = slotImg(ctx, 'HERO-PHONE', { alt: '', sizes: '100vw', cls: 'hero__img' });
+  /* tag:false here: the art-directed <picture> needs bare <img> markup; the AI tag is placed once on the hero (hero()) */
+  const wide = slotImg(ctx, 'HERO-DESKTOP', { alt: '', sizes: '100vw', loading: 'eager', fetchpriority: 'high', cls: 'hero__img', tag: false });
+  /* widths include 1170: a 390 CSS px phone at DPR 3 paints exactly 1170 device px (R-1 at 1.0, R-20 weight) */
+  const tall = slotImg(ctx, 'HERO-PHONE', { alt: '', sizes: '100vw', cls: 'hero__img', tag: false, widths: [640, 960, 1170] });
   const a = (re) => { const m = tall.match(re); return m ? m[1] : null; };
   const srcset = a(/\ssrcset="([^"]*)"/) || a(/\ssrc="([^"]*)"/);
   if (!/^<img\b/.test(wide) || !srcset) return wide;
@@ -101,7 +103,9 @@ function hero(ctx, { h1, award, badge, ctas, sign }) {
     + (sign ? '<p class="hero__sign script">' + ctx.esc(sign) + '</p>' : '')
     + protrusion(ctx, 'CUT-SEAGLASS', { cls: 'protrude--p1', sizes: '(max-width: 700px) 100px, (max-width: 1279px) 190px, 260px' }) + '</div>';
   return '<section class="hero" data-band="stage" aria-labelledby="h1">'
-    + '<div class="hero__media" aria-hidden="true"><div class="hero__layer" data-parallax=".08">' + heroPicture(ctx) + '</div></div>'
+    + '<div class="hero__media" aria-hidden="true"><div class="hero__layer" data-parallax=".08">' + heroPicture(ctx) + '</div>'
+    /* the hero photo is an AI illustration since 2026-10-13 (BUILD-CONTRACT 4.20): the visible tag (4.17.4, R-40) */
+    + ((slot('HERO-DESKTOP') || {}).ai ? '<span class="ai-tag hero__ai" aria-hidden="true">' + ctx.esc(LABELS.aiTag) + '</span>' : '') + '</div>'
     + '<div class="wrap hero__in">' + panel + (badge || '') + '</div>'
     + '</section>';
 }
