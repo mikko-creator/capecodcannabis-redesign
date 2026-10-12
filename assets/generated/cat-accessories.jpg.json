@@ -1,0 +1,38 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "CAT-ACCESSORIES",
+  "file": "assets/generated/cat-accessories.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "A plain clear glass storage jar, a round wooden grinder and a small pale ceramic tray arranged on weathered driftwood, bright airy daylight, minimal still life, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+  "input": {
+    "output_format": "jpeg",
+    "aspect_ratio": "4:3"
+  },
+  "seed": 1046613817,
+  "requestId": "01a12e89-061f-7d92-addf-3fa63efc488f",
+  "cutout": null,
+  "width": 2368,
+  "height": 1792,
+  "sha256": "22a863e7bcb5076f9e6f0560b08e5182389520e8a63bc1fb6c7646542cba5ee4",
+  "raw": "tmp/img/raw/CAT-ACCESSORIES.1791782102738.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-12T05:15:04.587Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "An empty clear glass jar, a wooden grinder and a white ceramic tray on weathered driftwood; no text, marks, people or smoke.",
+    "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+    "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+    "at": "2026-10-12T05:23:57.979Z"
+  },
+  "reviewHistory": [
+    {
+      "verdict": "ACCEPT",
+      "reason": "An empty clear glass jar, a wooden grinder and a white ceramic tray on weathered driftwood; no text, marks, people or smoke.",
+      "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+      "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+      "at": "2026-10-12T05:23:57.979Z"
+    }
+  ]
+}

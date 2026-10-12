@@ -1,0 +1,27 @@
+{
+  "tool": "tmp/img/loop.mjs (lane IMG)",
+  "slot": "LOOP-FLUKE-POSTER",
+  "file": "assets/generated/loop-fluke-poster.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (frame 0 of the AI-generated whale-fluke loop). Illustrative only.",
+  "origin": {
+    "provider": "Higgsfield",
+    "endpoint": "kling-video/v3.0-turbo/image-to-video",
+    "requestId": "c0e0997b-4fbe-4e37-904e-ee305411524b",
+    "prompt": "Cinemagraph-style calm shot: the humpback whale tail fluke stays raised just above the calm ocean surface while water streams and drips steadily from its trailing edge, small waves shimmer gently in warm golden-hour light, very slow subtle motion, locked-off static camera, no text, no people, no boats, no land",
+    "sourceStill": "tmp/panel/kit/whale-tail.jpg (fal flux-pro v1.1-ultra)",
+    "kitLoop": "tmp/panel/kit/whale-fluke-loop.mp4 (tools/make-loop.mjs, ACCEPTED in tmp/panel/kit/README.md)"
+  },
+  "derivation": "frame 0 of assets/generated/video/whale-fluke-loop.mp4, ffmpeg -q:v 2 (mjpeg), XMP embedded",
+  "width": 1920,
+  "height": 640,
+  "sha256": "2c8548347d40c6986fece1181e37a10e1f8963421de9387037597df2c0c334b5",
+  "label": "jpeg APP1 XMP",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "Poster = frame 0 of the MP4 (the page shows it first and under reduced motion or Save-Data): the fluke with drips over calm water at golden hour; no text or marks.",
+    "checks": "COMPLIANCE section 2 frame by frame (frames 0, 42 and 84 of the MP4, frames 0 and 84 of the WebM viewed): no people, boats, land, text, marks or mascot; calm motion",
+    "by": "lane IMG, by eye",
+    "at": "2026-10-12T05:35:09.758Z"
+  }
+}

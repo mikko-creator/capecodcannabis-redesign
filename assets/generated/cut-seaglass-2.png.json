@@ -1,0 +1,42 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "CUT-SEAGLASS-2",
+  "file": "assets/generated/cut-seaglass-2.png",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Three pieces of frosted tumbled sea glass with soft rounded matte edges, one cobalt blue, one pale green, one frosted white, isolated on plain white background, soft shadow, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+  "input": {
+    "output_format": "jpeg",
+    "aspect_ratio": "4:3"
+  },
+  "seed": 215515644,
+  "requestId": "01a12e8d-457c-7a22-be4e-f1886de5910d",
+  "cutout": {
+    "model": "fal-ai/birefnet/v2",
+    "requestId": "01a12e8d-7cdf-7642-96cb-a576f31cf452"
+  },
+  "width": 460,
+  "height": 348,
+  "sha256": "1d79a2b4c1619487a157c9af5e02730b222f48c63d183e3750127048ff438346",
+  "raw": "tmp/img/raw/CUT-SEAGLASS-2.1791782382479.jpg",
+  "attempt": 2,
+  "generatedAt": "2026-10-12T05:19:48.563Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "Attempt 2: three frosted tumbled pebbles of sea glass (cobalt, pale green, frosted white) with fine droplets, clean birefnet cut-out; no text or marks; decorative only.",
+    "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+    "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+    "at": "2026-10-12T05:21:22.612Z"
+  },
+  "reviewHistory": [
+    {
+      "verdict": "ACCEPT",
+      "reason": "Attempt 2: three frosted tumbled pebbles of sea glass (cobalt, pale green, frosted white) with fine droplets, clean birefnet cut-out; no text or marks; decorative only.",
+      "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+      "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+      "at": "2026-10-12T05:21:22.612Z"
+    }
+  ],
+  "derivation": "ffmpeg lanczos resize of the accepted birefnet cut-out to 460 px wide (2x the largest painted width, DESIGN-SPEC 5.3 / R-20), RGBA PNG; full-size cut-out kept at tmp/img/raw/cut-seaglass-2.fullsize.png"
+}

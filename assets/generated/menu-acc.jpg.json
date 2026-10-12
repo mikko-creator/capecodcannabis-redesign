@@ -1,0 +1,38 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "MENU-ACC",
+  "file": "assets/generated/menu-acc.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Overhead still life on pale linen of a neatly folded plain sea-blue sweatshirt seen from the back with the collar out of view, a plain sand-coloured cap, a round wooden herb grinder and a small empty clear glass jar, smooth blank fabric surfaces, bright soft daylight, minimal and tidy, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+  "input": {
+    "output_format": "jpeg",
+    "aspect_ratio": "4:3"
+  },
+  "seed": 3730468153,
+  "requestId": "01a12e8f-6b12-7b03-b457-bd0e30c46937",
+  "cutout": null,
+  "width": 2368,
+  "height": 1792,
+  "sha256": "95b4bb4f4540e2c69c19fa5b4f9220a5149acc6c9bd40e53f55c8b137768d205",
+  "raw": "tmp/img/raw/MENU-ACC.1791782523175.jpg",
+  "attempt": 3,
+  "generatedAt": "2026-10-12T05:22:05.742Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "Attempt 3: a folded plain light-blue sweatshirt (collar checked at full resolution: no tag, no print), a plain cap, a small wooden grinder and two empty clear glass jars on linen; no text, logos, labels or people.",
+    "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+    "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+    "at": "2026-10-12T05:23:11.447Z"
+  },
+  "reviewHistory": [
+    {
+      "verdict": "ACCEPT",
+      "reason": "Attempt 3: a folded plain light-blue sweatshirt (collar checked at full resolution: no tag, no print), a plain cap, a small wooden grinder and two empty clear glass jars on linen; no text, logos, labels or people.",
+      "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+      "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+      "at": "2026-10-12T05:23:11.447Z"
+    }
+  ]
+}

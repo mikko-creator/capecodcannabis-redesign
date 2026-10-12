@@ -50,6 +50,9 @@ const CRUMB_SEP = ' / ';
 let UID = 0;   // per-page counter for element ids (reset in renderPage / render404: deterministic)
 const uid = (p) => p + '-' + (++UID);
 const e = (ctx, s) => ctx.esc(s);
+/** screen-reader-only source text (BUILD-CONTRACT 4.18.3, model srOnly / labelSrOnly / buttonSrOnly / srPrefix):
+    kept for assistive technology, visually hidden by the .sr class */
+const sr = (inner, on = true) => (on ? '<span class="sr">' + inner + '</span>' : inner);
 const imgRef = (x) => x && (x.ref || x.src || x.srcUrl);
 const lines = (s) => String(s || '').split('\n').map((x) => x.trim()).filter(Boolean);
 const normSp = (s) => String(s || '').replace(/\s+/g, ' ').trim();
@@ -85,6 +88,13 @@ function toggledNav(ctx, cls, navLabel, toggleLabel, items) {
     + (toggleLabel ? '<button type="button" class="nav-toggle" aria-label="' + ctx.escAttr(toggleLabel) + '" aria-expanded="true" aria-controls="' + id + '"></button>' : '')
     + navList(ctx, items, id) + '</nav>';
 }
+/** a search form (header and search blocks): the label is the input's accessible name; a button whose source text was
+    screen-reader-only or only an aria-label (buttonSrOnly) keeps it inside .sr */
+function searchForm(b, ctx, index = null) {
+  /* index: ctx.searchIndex (the build's search index JSON), in data-src so the build relativizes it */
+  return '<form class="search" role="search" method="get" action="' + ctx.url(b.action || '/') + '"' + (index ? ' data-src="' + ctx.escAttr(index) + '"' : '') + '><input type="search" name="' + ctx.escAttr(b.field || 's') + '"' + (b.placeholder ? ' placeholder="' + ctx.escAttr(b.placeholder) + '"' : '') + (b.label ? ' aria-label="' + ctx.escAttr(b.label) + '"' : '') + '>'
+    + (b.button ? '<button type="submit">' + sr(e(ctx, b.button), !!b.buttonSrOnly) + '</button>' : '') + '</form>';
+}
 function header(ctx) {
   const h = ctx.nav || {};
   const logoRef = (h.logo && (h.logo.ref || h.logo.srcUrl)) || 'assets/brand/logo-agegate.png';
@@ -96,7 +106,7 @@ function header(ctx) {
     return toggledNav(ctx, 'strip', labs.find((l) => l !== 'Menu Toggle') || null, labs.includes('Menu Toggle') ? 'Menu Toggle' : null, s);
   }).join('');
   const sf = h.search;
-  const search = sf ? '<form class="search" role="search" method="get" action="' + ctx.url(sf.action || '/') + '"><input type="search" name="' + ctx.escAttr(sf.field || 's') + '"' + (sf.placeholder ? ' placeholder="' + ctx.escAttr(sf.placeholder) + '"' : '') + (sf.label ? ' aria-label="' + ctx.escAttr(sf.label) + '"' : '') + '>' + (sf.button ? '<button type="submit">' + e(ctx, sf.button) + '</button>' : '') + '</form>' : '';
+  const search = sf ? searchForm(sf, ctx, ctx.searchIndex || null) : '';
   /* "Menu" is the source header nav's aria-label (audit/raw/index.html), not stored in chrome.json */
   return '<header class="site-header" id="topBar">' + link(ctx, (h.logo && h.logo.href) || '/', logo, { class: 'logo' })
     + toggledNav(ctx, 'main-nav', 'Menu', h.toggleLabel || null, h.menu)
@@ -175,12 +185,12 @@ const stars = (ctx, label) => '<span class="stars" role="img" aria-label="' + ct
 function block(b, ctx) {
   switch (b.t) {
     case 'heading': {
-      const inner = b.href ? link(ctx, b.href, e(ctx, b.text)) : e(ctx, b.text);
+      const inner = sr(b.href ? link(ctx, b.href, e(ctx, b.text)) : e(ctx, b.text), !!b.srOnly);
       if (!b.level && b.as) { const tag = /^(p|div|span)$/.test(b.as) ? b.as : 'p'; return '<' + tag + ' class="heading-as">' + inner + '</' + tag + '>'; }
       const lv = Math.min(6, Math.max(1, +b.level || 2));
       return '<h' + lv + '>' + inner + '</h' + lv + '>';
     }
-    case 'rich': return '<div class="rich' + (b.kind === 'table' ? ' table' : '') + '">' + ctx.rich(b.html || '') + '</div>';
+    case 'rich': return '<div class="rich' + (b.kind === 'table' ? ' table' : '') + '">' + sr(ctx.rich(b.html || ''), !!b.srOnly) + '</div>';
     case 'sitemap': return b.groups ? '<div class="sitemap">' + b.groups.map((g) => { const lv = Math.min(6, Math.max(2, +g.level || 2)); return (g.heading ? '<h' + lv + '>' + e(ctx, g.heading) + '</h' + lv + '>' : '') + '<ul>' + (g.links || []).map((l) => '<li>' + link(ctx, l.href, e(ctx, l.label)) + '</li>').join('') + '</ul>'; }).join('') + '</div>' : '<div class="rich">' + ctx.rich(b.html || '') + '</div>';
     case 'image': {
       const img = image(b, ctx);
@@ -230,8 +240,8 @@ function block(b, ctx) {
       const toggle = b.toggleLabel || (labs.includes('Menu Toggle') ? 'Menu Toggle' : null);
       return toggledNav(ctx, 'block-nav', labs.find((l) => l !== toggle) || null, toggle, b.items);
     }
-    case 'search': return '<form class="search" role="search" method="get" action="' + ctx.url(b.action || '/') + '"><input type="search" name="' + ctx.escAttr(b.field || 's') + '"' + (b.placeholder ? ' placeholder="' + ctx.escAttr(b.placeholder) + '"' : '') + (b.label ? ' aria-label="' + ctx.escAttr(b.label) + '"' : '') + '>' + (b.button ? '<button type="submit">' + e(ctx, b.button) + '</button>' : '') + '</form>';
-    case 'social': return '<ul class="social">' + (b.items || []).map((i) => '<li>' + link(ctx, i.href, e(ctx, i.label || ''), { target: i.target || null }) + '</li>').join('') + '</ul>';
+    case 'search': return searchForm(b, ctx);
+    case 'social': return '<ul class="social">' + (b.items || []).map((i) => '<li>' + link(ctx, i.href, sr(e(ctx, i.label || ''), !!i.srOnly), { target: i.target || null }) + '</li>').join('') + '</ul>';
     case 'chrome-ref': case 'excluded': return '';
     case 'app': return '<div class="app" data-app="' + ctx.escAttr(b.what || '') + '"></div>';
     default: throw new Error('stub: unknown block type ' + b.t);
@@ -261,8 +271,11 @@ function posts(b, ctx) {
        pagination nav's own label is the block's remaining aria-label ("Pagination"), verbatim */
     const byLabel = new Map((pg.links || []).map((l) => [normSp(l.label), l.href]));
     const toks = normSp(pg.text).split(' ').filter(Boolean);
-    const parts = toks.map((t) => (byLabel.has(t) ? link(ctx, byLabel.get(t), e(ctx, t)) : '<span>' + e(ctx, t) + '</span>'));
-    for (const l of pg.links || []) if (!toks.includes(normSp(l.label))) parts.push(link(ctx, l.href, e(ctx, l.label)));
+    /* srPrefix: the source's screen-reader-only word before each page number ("Page") */
+    const pre = pg.srPrefix ? String(pg.srPrefix) : null;
+    const tok = (t) => (pre && t.startsWith(pre) && t.length > pre.length ? sr(e(ctx, pre)) + e(ctx, t.slice(pre.length)) : e(ctx, t));
+    const parts = toks.map((t) => (byLabel.has(t) ? link(ctx, byLabel.get(t), tok(t)) : '<span>' + tok(t) + '</span>'));
+    for (const l of pg.links || []) if (!toks.includes(normSp(l.label))) parts.push(link(ctx, l.href, tok(normSp(l.label))));
     const rest = labels.filter((l) => !used.has(l) && !isWidgetLabel(l));
     pag = '<nav class="pagination"' + (rest.length === 1 ? ' aria-label="' + ctx.escAttr(rest[0]) + '"' : '') + '>' + parts.join(' ') + '</nav>';
   }
@@ -389,7 +402,7 @@ function form(b, ctx) {
     if ((f.type === 'checkbox' || f.type === 'radio') && Array.isArray(f.options) && f.options.length) {
       return '<fieldset class="choice"><legend>' + e(ctx, f.label || '') + '</legend>' + f.options.map((o, k) => { const oid = id + '-' + (k + 1); return '<p><input' + ctx.attrs({ id: oid, type: f.type, name, value: o.value ?? o.label, required: !!f.required }) + '> <label for="' + oid + '">' + e(ctx, o.label || '') + '</label></p>'; }).join('') + '</fieldset>';
     }
-    const lab = f.label ? '<label for="' + id + '">' + e(ctx, f.label) + '</label> ' : '';
+    const lab = f.label ? '<label for="' + id + '">' + sr(e(ctx, f.label), !!f.labelSrOnly) + '</label> ' : '';
     if (f.tag === 'textarea') return '<p>' + lab + '<textarea' + ctx.attrs(common) + '></textarea></p>';
     if (f.tag === 'select') return '<p>' + lab + '<select' + ctx.attrs({ id, name, required: !!f.required, 'aria-label': f.ariaLabel || null }) + '>' + (f.options || []).map((o) => '<option>' + e(ctx, o.label || '') + '</option>').join('') + '</select></p>';
     return '<p>' + lab + '<input' + ctx.attrs({ ...common, type: f.type || 'text' }) + '></p>';

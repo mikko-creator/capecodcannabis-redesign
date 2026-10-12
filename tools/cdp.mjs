@@ -6,12 +6,43 @@ import os from 'node:os';
 
 export const CHROME = 'C:/Program Files/Google/Chrome/Application/chrome.exe';
 
+// Network guard (BUILD-CONTRACT 4.17.13): browser checks never touch the network. Every Chrome launch from tools/
+// (this file, tools/cdp-realsb.mjs, tools/serve.mjs --open) maps every host to NOTFOUND except localhost, 127.0.0.1
+// and images.dutchie.com, and runs with --no-proxy-server so no proxy can resolve a name on Chrome's behalf.
+// SR_CHROME_ALLOW (host names separated by commas or spaces; a leading "*." covers subdomains) adds hosts for one run.
+// capecodcannabis.com and its subdomains can NEVER be added, nor any wildcard or IP address that could reach them: the
+// launch is refused and the process exits 2. Callers cannot pass their own resolver or proxy flags (also exit 2).
+export const GUARD_EXCLUDE = ['localhost', '127.0.0.1', 'images.dutchie.com'];
+const GUARD_PROBES = ['capecodcannabis.com', 'www.capecodcannabis.com', 'sst.capecodcannabis.com', 'a.b.capecodcannabis.com'];
+const GUARD_BANNED_ARG = /^--(host-resolver-rules|proxy-server|proxy-pac-url|proxy-auto-detect|proxy-bypass-list|winhttp-proxy-resolver)(=|$)/i;
+const HOST_RE = /^(\*\.)?[a-z0-9]([a-z0-9-]*[a-z0-9])?(\.[a-z0-9]([a-z0-9-]*[a-z0-9])?)*$/;
+// -> the guard flags; throws (does not exit) on a refused host or argument, so tests can call it
+export function guardArgs(extraArgs = [], env = process.env) {
+  for (const a of extraArgs) if (GUARD_BANNED_ARG.test(String(a))) throw new Error('refused: ' + String(a).split('=')[0] + ' would override the network guard (BUILD-CONTRACT 4.17.13)');
+  const added = [];
+  const raw = String(env.SR_CHROME_ALLOW || '').trim();
+  for (const tok of raw ? raw.split(/[\s,]+/).filter(Boolean) : []) {
+    const h = tok.toLowerCase().replace(/\.+$/, '');
+    const glob = new RegExp('^' + h.replace(/[.+?^${}()|[\]\\]/g, '\\$&').replace(/\*/g, '.*') + '$');
+    if (h.includes('capecodcannabis') || GUARD_PROBES.some((p) => glob.test(p))) throw new Error('refused: SR_CHROME_ALLOW may never add capecodcannabis.com or its subdomains (got "' + tok + '")');
+    if (!HOST_RE.test(h)) throw new Error('refused: SR_CHROME_ALLOW takes host names only (got "' + tok + '")');
+    if (/^\d+(\.\d+){3}$/.test(h)) throw new Error('refused: SR_CHROME_ALLOW takes host names, not IP addresses (got "' + tok + '")');
+    if (!GUARD_EXCLUDE.includes(h) && !added.includes(h)) added.push(h);
+  }
+  return ['--host-resolver-rules=MAP * ~NOTFOUND, ' + GUARD_EXCLUDE.concat(added).map((h) => 'EXCLUDE ' + h).join(', '), '--no-proxy-server'];
+}
+// -> the guard flags, or refuse and exit 2 before any Chrome starts
+export function networkGuard(extraArgs = [], env = process.env) {
+  try { return guardArgs(extraArgs, env); } catch (err) { console.error('[network guard] ' + err.message); process.exit(2); }
+}
+
 export async function launch({ port = 0, userDataDir, extraArgs = [] } = {}) {
+  const guard = networkGuard(extraArgs);
   userDataDir = userDataDir || fs.mkdtempSync(path.join(os.tmpdir(), 'srcdp-'));
   const proc = spawn(CHROME, [
     '--headless=new', `--remote-debugging-port=${port}`, `--user-data-dir=${userDataDir}`,
     '--hide-scrollbars', '--force-device-scale-factor=1', '--no-first-run', '--no-default-browser-check',
-    '--autoplay-policy=no-user-gesture-required', '--mute-audio', ...extraArgs,
+    '--autoplay-policy=no-user-gesture-required', '--mute-audio', ...extraArgs, ...guard,
   ], { stdio: 'ignore', detached: false });
   // port 0: Chrome picks a free port and writes it to <userDataDir>/DevToolsActivePort, so
   // parallel runs never collide on a fixed debugging port.

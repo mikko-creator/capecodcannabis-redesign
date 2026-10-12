@@ -1,0 +1,2846 @@
+{
+  "schema": "site-reforge/generated-images@2",
+  "provider": "fal.ai",
+  "note": "Illustrative industry imagery ADDED by the redesign. None stands in for a real person, place, product, brand or result of Cape Cod Cannabis; every alt describes what is depicted.",
+  "images": [
+    {
+      "id": "H-BAND-1",
+      "file": "assets/generated/h-band-1.jpg",
+      "raw": "tmp/img/raw/H-BAND-1.1791782056103.jpg",
+      "rawBytes": 1103866,
+      "role": "Shop By Category band and product-page band (6.11, 6.14); sea glass shallows texture, no tag (4.17.4)",
+      "alt": "",
+      "usedFor": [
+        "Shop By Category band and product-page band (6.11, 6.14); sea glass shallows texture, no tag (4.17.4)"
+      ],
+      "prompt": "Tumbled sea glass pieces in aqua, pale green, cobalt and frosted white resting in clear shallow seawater over pale sand, sunlight caustic patterns rippling across them, bright airy summer noon, Outer Cape palette of pale sky blue and sea green, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "4:3"
+      },
+      "editOf": null,
+      "seed": 1867942176,
+      "requestId": "01a12e88-5156-7f43-952f-c9009207884d",
+      "width": 2368,
+      "height": 1792,
+      "cutout": null,
+      "sha256": "7cedc878ee84b7a6e3e250ef031eb5dd01e5a475fd49430b0ee7db871a3ea0cf",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:14:18.158Z",
+      "attempt": 1,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Tumbled sea glass (aqua, pale green, cobalt, frosted white) in clear shallow water over pale sand with caustics; no people, text, marks or objects; brand palette; texture band.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:23:50.975Z"
+      }
+    },
+    {
+      "id": "H-BAND-2",
+      "file": "assets/generated/h-band-2.jpg",
+      "raw": "tmp/img/raw/H-BAND-2.1791782066135.jpg",
+      "rawBytes": 722862,
+      "role": "Product Spotlight band (6.12a); landscape, tagged",
+      "alt": "AI-generated illustration: coastal dune grass backlit by bright midday sun",
+      "usedFor": [
+        "Product Spotlight band (6.12a); landscape, tagged"
+      ],
+      "prompt": "Coastal dune grass backlit at bright midday, soft green and straw tones, out-of-focus pale blue sky and sea beyond, gentle wind, airy and calm, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "21:9"
+      },
+      "editOf": null,
+      "seed": 3827700383,
+      "requestId": "01a12e88-7ebf-7733-8868-6f3d9905efd6",
+      "width": 3136,
+      "height": 1344,
+      "cutout": null,
+      "sha256": "c5b86610e8c31e23295dd51429eb2769593be082c60073546b37b4d83d0e002e",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:14:27.917Z",
+      "attempt": 1,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Pale backlit dune grass with an out-of-focus pale sea and sky; no people, buildings, lighthouse, text or marks (right-edge columns measured: YAVG 198-200, no seam artifact).",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:23:51.714Z"
+      }
+    },
+    {
+      "id": "H-BAND-3",
+      "file": "assets/generated/h-band-3.jpg",
+      "raw": "tmp/img/raw/H-BAND-3.1791782068884.jpg",
+      "rawBytes": 1555090,
+      "role": "Health Circle rail band; landscape, tagged",
+      "alt": "AI-generated illustration: a rippled tidal flat at low tide with shallow water channels",
+      "usedFor": [
+        "Health Circle rail band; landscape, tagged"
+      ],
+      "prompt": "Rippled tidal flat at low tide, silver shallow water channels reflecting a pale blue sky, wet sand patterns, bright morning light, wide and calm, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "21:9"
+      },
+      "editOf": null,
+      "seed": 763149223,
+      "requestId": "01a12e88-82de-7940-9058-ed8a0aae69ee",
+      "width": 3136,
+      "height": 1344,
+      "cutout": null,
+      "sha256": "cb8f313bf9f50638a6e957abc6ee745da2f3d1b11823a5c0b62d6dc1002f2a8f",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:14:30.415Z",
+      "attempt": 1,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Rippled tidal flat with silver channels to a flat horizon; no people, boats, buildings, landmark or text.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:23:52.136Z"
+      }
+    },
+    {
+      "id": "H-BAND-4",
+      "file": "assets/generated/h-band-4.jpg",
+      "raw": "tmp/img/raw/H-BAND-4.1791782069236.jpg",
+      "rawBytes": 1212265,
+      "role": "Choice Chews rail band; landscape, tagged",
+      "alt": "AI-generated illustration: a salt marsh creek winding through green grass toward a calm bay",
+      "usedFor": [
+        "Choice Chews rail band; landscape, tagged"
+      ],
+      "prompt": "Salt marsh creek winding through green spartina grass toward calm blue bay water, bright clear day, soft haze, wide and calm, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "21:9"
+      },
+      "editOf": null,
+      "seed": 3540785641,
+      "requestId": "01a12e88-897e-7f00-b796-9bc16efdd433",
+      "width": 3136,
+      "height": 1344,
+      "cutout": null,
+      "sha256": "63a7703aa3580e18adda618f2b5f22fcade6ca85743ab78c37fad6067194487f",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:14:30.583Z",
+      "attempt": 1,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Salt marsh creek through green spartina to a blue bay under clear sky; no people, boats, buildings, landmark or text.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:23:52.495Z"
+      }
+    },
+    {
+      "id": "CAT-VAPORIZERS",
+      "file": "assets/generated/cat-vaporizers.jpg",
+      "raw": "tmp/img/raw/CAT-VAPORIZERS.1791782082904.jpg",
+      "rawBytes": 768056,
+      "role": "Vaporizers category hero",
+      "alt": "AI-generated illustration: a plain vaporizer cartridge resting on sea glass",
+      "usedFor": [
+        "Vaporizers category hero"
+      ],
+      "prompt": "A plain unmarked glass vaporizer cartridge with a matte white mouthpiece lying on smooth pieces of pale aqua sea glass, bright clean daylight, minimal still life, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "4:3"
+      },
+      "editOf": null,
+      "seed": 3869962826,
+      "requestId": "01a12e88-b367-7971-a6b5-b6ef3771d2f1",
+      "width": 2368,
+      "height": 1792,
+      "cutout": null,
+      "sha256": "3cbc8d82b62e7409a4b25eb7a2395b6940383dbf733d26bd45c82e6cc15745dc",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:14:44.355Z",
+      "attempt": 1,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "A plain clear cartridge with a white mouthpiece and metal fitting lying on frosted aqua sea glass; no markings, text, people or smoke.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:23:53.355Z"
+      }
+    },
+    {
+      "id": "CAT-EDIBLES",
+      "file": "assets/generated/cat-edibles.jpg",
+      "raw": "tmp/img/raw/CAT-EDIBLES.1791782083117.jpg",
+      "rawBytes": 1525338,
+      "role": "Edibles category hero",
+      "alt": "AI-generated illustration: plain dark chocolate squares beside two amber dropper bottles",
+      "usedFor": [
+        "Edibles category hero"
+      ],
+      "prompt": "A few plain squares of dark chocolate stacked on pale linen beside two unlabelled amber glass dropper bottles, muted natural colours, no sugar coating, plain square shapes only, simple and calm, bright soft daylight, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "4:3"
+      },
+      "editOf": null,
+      "seed": 416538424,
+      "requestId": "01a12e88-b2bd-76b1-9b47-1b714a8e5029",
+      "width": 2368,
+      "height": 1792,
+      "cutout": null,
+      "sha256": "a3beb7f4f31ace7f8beb2c3b908ee606fb01131f38c1ed26473b4882a05536c3",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:14:44.822Z",
+      "attempt": 1,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Plain dark chocolate squares (stacked, no shapes, no sugar coating, no print) beside two unlabelled amber dropper bottles on linen; muted; no people, text or marks; edibles plain.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:23:52.962Z"
+      }
+    },
+    {
+      "id": "CAT-CONCENTRATES",
+      "file": "assets/generated/cat-concentrates.jpg",
+      "raw": "tmp/img/raw/CAT-CONCENTRATES.1791782090015.jpg",
+      "rawBytes": 1168073,
+      "role": "Concentrates category hero",
+      "alt": "AI-generated illustration: amber resin in a small glass dish",
+      "usedFor": [
+        "Concentrates category hero"
+      ],
+      "prompt": "Golden amber cannabis resin in a small clear glass dish on a pale driftwood surface, light glowing through the resin, bright airy daylight, minimal still life, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "4:3"
+      },
+      "editOf": null,
+      "seed": 1504377671,
+      "requestId": "01a12e88-d5f4-7160-adae-d92914d4313b",
+      "width": 2368,
+      "height": 1792,
+      "cutout": null,
+      "sha256": "eefe52d9e7a8adaf7601c017bd1f3842d1a86912c94eb94f5cd93de381e55d41",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:14:51.749Z",
+      "attempt": 1,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Crystalline amber resin in a small clear glass dish on whitewashed driftwood, light through the resin; no people, tools, smoke, text or marks; amorphous, not candy shapes.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:23:53.895Z"
+      }
+    },
+    {
+      "id": "CAT-TINCTURES",
+      "file": "assets/generated/cat-tinctures.jpg",
+      "raw": "tmp/img/raw/CAT-TINCTURES.1791782091072.jpg",
+      "rawBytes": 922510,
+      "role": "Tinctures category hero",
+      "alt": "AI-generated illustration: amber dropper bottles on linen",
+      "usedFor": [
+        "Tinctures category hero"
+      ],
+      "prompt": "Three unlabelled amber glass dropper bottles standing on folded pale linen, a sprig of fresh green herbs beside them, bright window light, soft sea-blue shadows, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "4:3"
+      },
+      "editOf": null,
+      "seed": 1649337786,
+      "requestId": "01a12e88-d34c-7632-be79-879677c2ed19",
+      "width": 2368,
+      "height": 1792,
+      "cutout": null,
+      "sha256": "13937f1fd7023680a8e0905c3c40e0b1e02c61135ed168e4516fdd8fda5ff8a2",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:14:52.920Z",
+      "attempt": 1,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Two unlabelled amber dropper bottles with a green herb sprig on linen by a window; no text, labels, people or medical symbols.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:23:53.564Z"
+      }
+    },
+    {
+      "id": "CAT-TOPICALS",
+      "file": "assets/generated/cat-topicals.jpg",
+      "raw": "tmp/img/raw/CAT-TOPICALS.1791782095341.jpg",
+      "rawBytes": 705743,
+      "role": "Topicals category hero",
+      "alt": "AI-generated illustration: a plain white jar of balm with lavender and lemon",
+      "usedFor": [
+        "Topicals category hero"
+      ],
+      "prompt": "A plain unlabelled white jar of balm with its lid set aside, a sprig of lavender and a halved lemon beside it on pale linen, bright soft daylight, clean and calm, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "4:3"
+      },
+      "editOf": null,
+      "seed": 1230821604,
+      "requestId": "01a12e88-e935-76d2-abd6-024ef22d4396",
+      "width": 2368,
+      "height": 1792,
+      "cutout": null,
+      "sha256": "04586dc97f4efd91c8a72b3d2cb9d0ac333b7787172f6d7df4ee785bc155fb77",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:14:57.012Z",
+      "attempt": 1,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "An unlabelled white balm jar with its lid beside it, lavender sprigs and lemon halves on linen; no text, people or medical symbols.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:23:54.596Z"
+      }
+    },
+    {
+      "id": "CAT-CBD",
+      "file": "assets/generated/cat-cbd.jpg",
+      "raw": "tmp/img/raw/CAT-CBD.1791782095821.jpg",
+      "rawBytes": 857716,
+      "role": "CBD category hero",
+      "alt": "AI-generated illustration: hemp leaves beside a plain dropper bottle",
+      "usedFor": [
+        "CBD category hero"
+      ],
+      "prompt": "Fresh green hemp leaves laid on pale linen beside a plain unlabelled glass dropper bottle, bright soft window light, airy and calm, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "4:3"
+      },
+      "editOf": null,
+      "seed": 2987868233,
+      "requestId": "01a12e88-eb06-7543-afb1-8d6dca02566e",
+      "width": 2368,
+      "height": 1792,
+      "cutout": null,
+      "sha256": "462f313eab2e28dc9be8f94eff5be2a1e1eb6abeb132cff26f353148b1c0b45b",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:14:57.444Z",
+      "attempt": 1,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Hemp leaves on linen beside a plain dropper bottle; the bottle has a blank white band carrying no text or mark (COMPLIANCE 2: no readable text); no people or medical symbols.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:23:55.753Z"
+      }
+    },
+    {
+      "id": "CAT-ACCESSORIES",
+      "file": "assets/generated/cat-accessories.jpg",
+      "raw": "tmp/img/raw/CAT-ACCESSORIES.1791782102738.jpg",
+      "rawBytes": 998315,
+      "role": "Accessories category hero",
+      "alt": "AI-generated illustration: a glass jar, a wooden grinder and a small tray",
+      "usedFor": [
+        "Accessories category hero"
+      ],
+      "prompt": "A plain clear glass storage jar, a round wooden grinder and a small pale ceramic tray arranged on weathered driftwood, bright airy daylight, minimal still life, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "4:3"
+      },
+      "editOf": null,
+      "seed": 1046613817,
+      "requestId": "01a12e89-061f-7d92-addf-3fa63efc488f",
+      "width": 2368,
+      "height": 1792,
+      "cutout": null,
+      "sha256": "22a863e7bcb5076f9e6f0560b08e5182389520e8a63bc1fb6c7646542cba5ee4",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:15:04.587Z",
+      "attempt": 1,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "An empty clear glass jar, a wooden grinder and a white ceramic tray on weathered driftwood; no text, marks, people or smoke.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:23:57.979Z"
+      }
+    },
+    {
+      "id": "CAT-APPAREL",
+      "file": "assets/generated/cat-apparel.jpg",
+      "raw": "tmp/img/raw/CAT-APPAREL.1791782103572.jpg",
+      "rawBytes": 1048645,
+      "role": "Apparel category hero",
+      "alt": "AI-generated illustration: a folded plain hoodie and a plain cap",
+      "usedFor": [
+        "Apparel category hero"
+      ],
+      "prompt": "A neatly folded plain sea-blue hoodie and a plain sand-coloured cap with no logos and no tags on pale linen, bright soft daylight, minimal still life, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "4:3"
+      },
+      "editOf": null,
+      "seed": 3118563738,
+      "requestId": "01a12e89-0ab2-76c3-996a-899a83972616",
+      "width": 2368,
+      "height": 1792,
+      "cutout": null,
+      "sha256": "bb4e3056ce4a7c330d5d65041c04cb6ae435825c400b661ab52d1b19dba0cac6",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:15:05.623Z",
+      "attempt": 1,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "A folded plain light-blue hoodie with a plain beige cap (eyelets only); no logos, tags, text or people.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:23:58.893Z"
+      }
+    },
+    {
+      "id": "PLACE-1",
+      "file": "assets/generated/place-1.jpg",
+      "raw": "tmp/img/raw/PLACE-1.1791782105882.jpg",
+      "rawBytes": 974088,
+      "role": "Town, geo, post and event fallback hero",
+      "alt": "AI-generated illustration: sand dunes with a weathered wooden fence at midday",
+      "usedFor": [
+        "Town, geo, post and event fallback hero"
+      ],
+      "prompt": "Coastal sand dunes with a weathered wooden snow fence and dune grass at bright midday, pale blue sky, wide and calm, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "16:9"
+      },
+      "editOf": null,
+      "seed": 389522820,
+      "requestId": "01a12e89-1aa4-7a30-a890-f654746ee0ca",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "b8da7981a05b447334b1b6678b1f52260f46471939c7ca12d07b9e7c218eb6cd",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:15:07.488Z",
+      "attempt": 1,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Sand dunes with dune grass and a weathered post-and-rail wooden fence under a pale blue sky; no people, buildings, lighthouse, signs or text; not a named place.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:23:59.295Z"
+      },
+      "altAtGeneration": "AI-generated illustration: sand dunes with a weathered snow fence at midday"
+    },
+    {
+      "id": "PLACE-2",
+      "file": "assets/generated/place-2.jpg",
+      "raw": "tmp/img/raw/PLACE-2.1791782106376.jpg",
+      "rawBytes": 1451910,
+      "role": "Town, geo, post and event fallback hero",
+      "alt": "AI-generated illustration: a marsh creek at golden hour",
+      "usedFor": [
+        "Town, geo, post and event fallback hero"
+      ],
+      "prompt": "Salt marsh creek winding through golden spartina grass at golden hour, calm water reflecting a warm sky, wide and peaceful, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "16:9"
+      },
+      "editOf": null,
+      "seed": 3225799583,
+      "requestId": "01a12e89-1c5e-7452-afd4-96e3e8120c81",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "bce9f67638fee8b16038917d586c29429f44376c99220a3191f495c97bca163d",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:15:08.228Z",
+      "attempt": 1,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Golden-hour salt marsh creek with a distant tree line; no people, buildings, boats, signs or text; not a named place.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:23:59.613Z"
+      }
+    },
+    {
+      "id": "PLACE-3",
+      "file": "assets/generated/place-3.jpg",
+      "raw": "tmp/img/raw/PLACE-3.1791782115206.jpg",
+      "rawBytes": 1881661,
+      "role": "Town, geo, post and event fallback hero",
+      "alt": "AI-generated illustration: bay tidal flats at low tide",
+      "usedFor": [
+        "Town, geo, post and event fallback hero"
+      ],
+      "prompt": "Wide bay tidal flats at low tide with shallow silver water channels and rippled sand stretching to a distant low wooded shoreline, bright morning light, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "16:9"
+      },
+      "editOf": null,
+      "seed": 3688733486,
+      "requestId": "01a12e89-3838-74f1-a86d-9549e39a0b94",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "a22a0617ca1e5e6e001f933cf1c09dc3e4df2bcb6c7f8b38cdb057a5e8f559ba",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:15:17.133Z",
+      "attempt": 1,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Bay tidal flats at low tide with rippled sand, channels and a distant wooded shore; no people, buildings, lighthouse or text.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:23:59.827Z"
+      }
+    },
+    {
+      "id": "PLACE-5",
+      "file": "assets/generated/place-5.jpg",
+      "raw": "tmp/img/raw/PLACE-5.1791782116409.jpg",
+      "rawBytes": 1963907,
+      "role": "Town, geo, post and event fallback hero",
+      "alt": "AI-generated illustration: a freshwater pond ringed by pine trees",
+      "usedFor": [
+        "Town, geo, post and event fallback hero"
+      ],
+      "prompt": "A clear freshwater kettle pond ringed by pitch pine trees, calm water reflecting the sky, sandy shore, bright summer daylight, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "16:9"
+      },
+      "editOf": null,
+      "seed": 1888844393,
+      "requestId": "01a12e89-438f-7041-b4ad-10067b3e6a59",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "58d5c6736715ff5fd4eb2b3a29715e5dce698e5a95787dd8db1385dcb2def3fe",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:15:18.582Z",
+      "attempt": 1,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "A clear pond ringed by conifers with a sandy shore under a blue sky; vivid but natural; no people, docks, buildings, signs or text.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:24:00.292Z"
+      }
+    },
+    {
+      "id": "PLACE-4",
+      "file": "assets/generated/place-4.jpg",
+      "raw": "tmp/img/raw/PLACE-4.1791782116609.jpg",
+      "rawBytes": 1479381,
+      "role": "Town, geo, post and event fallback hero",
+      "alt": "AI-generated illustration: an open ocean horizon with a gentle swell",
+      "usedFor": [
+        "Town, geo, post and event fallback hero"
+      ],
+      "prompt": "Open ocean horizon with a gentle swell under a bright pale blue sky, sunlight glinting on the water, empty open sea, calm, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "16:9"
+      },
+      "editOf": null,
+      "seed": 3959218614,
+      "requestId": "01a12e89-3c4f-71e1-8a3c-181a1dabfc97",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "bfdd3222329dcb8009a98f1bc2bcb1ea10092b8dbafe2c6394a11d41abab4715",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:15:18.756Z",
+      "attempt": 1,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Open ocean horizon with a gentle swell and sun glints; no whale, boats, land, people or text.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:24:00.049Z"
+      }
+    },
+    {
+      "id": "PLACE-6",
+      "file": "assets/generated/place-6.jpg",
+      "raw": "tmp/img/raw/PLACE-6.1791782118829.jpg",
+      "rawBytes": 2706515,
+      "role": "Town, geo, post and event fallback hero",
+      "alt": "AI-generated illustration: a sandy path through beach grass to the sea",
+      "usedFor": [
+        "Town, geo, post and event fallback hero"
+      ],
+      "prompt": "A sandy footpath winding through tall beach grass over a low dune toward the blue sea, bright clear daylight, airy and calm, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "16:9"
+      },
+      "editOf": null,
+      "seed": 2675835160,
+      "requestId": "01a12e89-4673-79f2-8109-0b2addf236d1",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "bd849bdbbc00c0af755f470cec81d89eab8d8d7d5b746fa72bd73a81e98a558a",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:15:20.812Z",
+      "attempt": 1,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "A sandy path through beach grass to a blue sea; no people, footprints of note, buildings, fences with signs, or text.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:24:00.525Z"
+      }
+    },
+    {
+      "id": "H-CAT-3",
+      "file": "assets/generated/h-cat-3.jpg",
+      "raw": "tmp/img/raw/H-CAT-3.1791782382477.jpg",
+      "rawBytes": 571120,
+      "role": "\"Disposables\" card (6.11)",
+      "alt": "",
+      "usedFor": [
+        "\"Disposables\" card (6.11)"
+      ],
+      "prompt": "A plain matte white slim vaporizer device with no markings standing upright among smooth beach pebbles and pale sea glass, pale sky-blue and white backdrop, bright clean daylight, minimal still life, soft airy coastal palette, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "4:3"
+      },
+      "editOf": null,
+      "seed": 3916615877,
+      "requestId": "01a12e8d-457a-7573-8b89-1a97f9958855",
+      "width": 2368,
+      "height": 1792,
+      "cutout": null,
+      "sha256": "a7fe543ff74a537420f8743fa47b75e69e2f92ac521b05cac2b098031ed6c20b",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:19:44.141Z",
+      "attempt": 2,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Attempt 2: a plain matte white device with a black mouthpiece, no markings, upright among beach pebbles and pale sea glass on a soft pale sky-grey backdrop; no people, hands, smoke, text, labels or marks; brand palette.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:21:21.223Z"
+      }
+    },
+    {
+      "id": "CUT-SEAGLASS-2",
+      "file": "assets/generated/cut-seaglass-2.png",
+      "raw": "tmp/img/raw/CUT-SEAGLASS-2.1791782382479.jpg",
+      "rawBytes": 941960,
+      "role": "Second sea-glass cut-out (P9 option, 10.3 CUT-2) so the shard cluster is not repeated; painted 160-230 CSS px",
+      "alt": "",
+      "usedFor": [
+        "Second sea-glass cut-out (P9 option, 10.3 CUT-2) so the shard cluster is not repeated; painted 160-230 CSS px"
+      ],
+      "prompt": "Three pieces of frosted tumbled sea glass with soft rounded matte edges, one cobalt blue, one pale green, one frosted white, isolated on plain white background, soft shadow, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "4:3"
+      },
+      "editOf": null,
+      "seed": 215515644,
+      "requestId": "01a12e8d-457c-7a22-be4e-f1886de5910d",
+      "width": 2368,
+      "height": 1792,
+      "cutout": {
+        "model": "fal-ai/birefnet/v2",
+        "requestId": "01a12e8d-7cdf-7642-96cb-a576f31cf452"
+      },
+      "sha256": "8ed12203610eb4a8383aa98fa00e9d2519aa763a9559f64b3f9d3a4647643499",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:19:48.563Z",
+      "attempt": 2,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Attempt 2: three frosted tumbled pebbles of sea glass (cobalt, pale green, frosted white) with fine droplets, clean birefnet cut-out; no text or marks; decorative only.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:21:22.612Z"
+      }
+    },
+    {
+      "id": "H-BAND-5",
+      "file": "assets/generated/h-band-5.jpg",
+      "raw": "tmp/img/raw/H-BAND-5.1791782519752.jpg",
+      "rawBytes": 1401869,
+      "role": "Blog band (6.19); wet sand texture, no tag (4.17.4)",
+      "alt": "",
+      "usedFor": [
+        "Blog band (6.19); wet sand texture, no tag (4.17.4)"
+      ],
+      "prompt": "Aerial top-down view of a shoreline where a thin lace of white sea foam and a shallow sheet of clear pale aqua water spread across the entire frame over rippled wet sand, intricate foam patterns from edge to edge, a few small smooth pebbles, glistening reflections, bright daylight, pale aqua and sand tones, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "21:9"
+      },
+      "editOf": null,
+      "seed": 4036303178,
+      "requestId": "01a12e8f-6b0b-72e0-a199-f95eb35c11b8",
+      "width": 3136,
+      "height": 1344,
+      "cutout": null,
+      "sha256": "88a6a77be00a345119c91fa54e847450273bbf9ab57c192691e65bd27d6fc895",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:22:02.191Z",
+      "attempt": 3,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Attempt 3: top-down shallow pale aqua water with caustic net patterns and foam over wet sand, variety across the whole frame (sand only in the bottom ~15%); no people, text or objects.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:23:11.254Z"
+      }
+    },
+    {
+      "id": "H-CAT-2",
+      "file": "assets/generated/h-cat-2.jpg",
+      "raw": "tmp/img/raw/H-CAT-2.1791782521471.jpg",
+      "rawBytes": 859864,
+      "role": "\"Infused Pre-Rolls\" card (6.11)",
+      "alt": "",
+      "usedFor": [
+        "\"Infused Pre-Rolls\" card (6.11)"
+      ],
+      "prompt": "Three unlit cone-shaped cannabis pre-rolls, each a tapered white rolling-paper cone packed with ground green cannabis flower, closed with a small twisted paper tip at the wide end and a short plain cardboard crutch at the narrow end, lying side by side in a shallow white ceramic dish on pale linen, a sprig of dried herbs beside them, soft sea-blue shadows, bright daylight, unlit, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "4:3"
+      },
+      "editOf": null,
+      "seed": 1847999423,
+      "requestId": "01a12e8f-6b09-7c42-a7af-3fd2442366e4",
+      "width": 2368,
+      "height": 1792,
+      "cutout": null,
+      "sha256": "59675039544f1245529fb9ce85f76b99b283bb0e4f0629b69eef4617e0d0ee7b",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:22:03.699Z",
+      "attempt": 3,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Attempt 3: three unlit cone-shaped pre-rolls (white paper cones with ground flower visible at the open ends, one with a plain tan crutch) in a white ceramic dish with a dried herb sprig on pale linen; no people, hands, smoke, flame, text or marks; reads as cannabis pre-rolls.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:23:11.061Z"
+      }
+    },
+    {
+      "id": "MENU-ACC",
+      "file": "assets/generated/menu-acc.jpg",
+      "raw": "tmp/img/raw/MENU-ACC.1791782523175.jpg",
+      "rawBytes": 1296408,
+      "role": "Mega \"Accessories\" card (6.3, slot M-ACC)",
+      "alt": "",
+      "usedFor": [
+        "Mega \"Accessories\" card (6.3, slot M-ACC)"
+      ],
+      "prompt": "Overhead still life on pale linen of a neatly folded plain sea-blue sweatshirt seen from the back with the collar out of view, a plain sand-coloured cap, a round wooden herb grinder and a small empty clear glass jar, smooth blank fabric surfaces, bright soft daylight, minimal and tidy, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "4:3"
+      },
+      "editOf": null,
+      "seed": 3730468153,
+      "requestId": "01a12e8f-6b12-7b03-b457-bd0e30c46937",
+      "width": 2368,
+      "height": 1792,
+      "cutout": null,
+      "sha256": "95b4bb4f4540e2c69c19fa5b4f9220a5149acc6c9bd40e53f55c8b137768d205",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:22:05.742Z",
+      "attempt": 3,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Attempt 3: a folded plain light-blue sweatshirt (collar checked at full resolution: no tag, no print), a plain cap, a small wooden grinder and two empty clear glass jars on linen; no text, logos, labels or people.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:23:11.447Z"
+      }
+    },
+    {
+      "id": "CAT-PREROLLS",
+      "file": "assets/generated/cat-prerolls.jpg",
+      "raw": "tmp/img/raw/CAT-PREROLLS.1791782622058.jpg",
+      "rawBytes": 1067373,
+      "role": "Pre-Rolls category hero",
+      "alt": "AI-generated illustration: unlit pre-rolls lined up in a wooden tray",
+      "usedFor": [
+        "Pre-Rolls category hero"
+      ],
+      "prompt": "Several unlit cone-shaped cannabis pre-rolls, tapered white rolling-paper cones packed with ground green cannabis flower and closed with small twisted paper tips, lined up in a shallow pale wooden tray on white linen, a few angular chips of frosted pale sea glass nearby, soft sea-blue shadows, bright airy daylight, unlit, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "4:3"
+      },
+      "editOf": null,
+      "seed": 3600178545,
+      "requestId": "01a12e90-f29e-7242-8640-d72d36ff5f32",
+      "width": 2368,
+      "height": 1792,
+      "cutout": null,
+      "sha256": "3e218c2d17dbff29ff37f5357b643be525e892c264d532df2babc598295b65cb",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:23:43.908Z",
+      "attempt": 2,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Attempt 2 (supersedes attempt 1's empty paper cones, kept in tmp/img/cand/): unlit pre-rolls packed with ground flower in a pale wooden tray, angular frosted sea-glass chips beside it on linen; no smoke, flame, people, text or marks.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:24:33.903Z"
+      }
+    },
+    {
+      "id": "H-CAT-1",
+      "file": "assets/generated/h-cat-1.jpg",
+      "raw": "tmp/img/raw/H-CAT-1.1791782621705.jpg",
+      "rawBytes": 1156281,
+      "role": "\"Affordable Ounces\" card (6.11); 390x293 / 470x352 / 358x224 CSS",
+      "alt": "",
+      "usedFor": [
+        "\"Affordable Ounces\" card (6.11); 390x293 / 470x352 / 358x224 CSS"
+      ],
+      "prompt": "A clear wide-mouth glass jar holding dense, frosty, well-trimmed cured cannabis flower buds with visible trichomes, lid resting beside it, on a weathered driftwood plank with two smooth grey beach pebbles, pale linen backdrop, bright window light, soft sea-blue shadows, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "4:3"
+      },
+      "editOf": null,
+      "seed": 862296288,
+      "requestId": "01a12e90-f29f-7db0-967c-fc9f4b45eaa5",
+      "width": 2368,
+      "height": 1792,
+      "cutout": null,
+      "sha256": "7faab5038ac71c3e7ede0ae707ebeb1c619d6f2030b6a936328a6188378bf035",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:23:43.954Z",
+      "attempt": 3,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Attempt 3: a clear jar of dense cured cannabis buds on weathered driftwood with its wooden lid and two smooth grey beach pebbles on linen; no candy-like objects, people, hands, smoke, text or marks.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:24:33.705Z"
+      }
+    },
+    {
+      "id": "MENU-CONC",
+      "file": "assets/generated/menu-conc.jpg",
+      "raw": "tmp/img/raw/MENU-CONC.1791783847370.jpg",
+      "rawBytes": 1003731,
+      "role": "Mega \"Concentrates\" card (6.3, slot M-CONC)",
+      "alt": "",
+      "usedFor": [
+        "Mega \"Concentrates\" card (6.3, slot M-CONC)"
+      ],
+      "prompt": "Golden amber cannabis resin with a crystalline glassy texture in a small clear glass dish, light glowing through it, beside a plain unmarked glass vaporizer cartridge with a white mouthpiece, both resting on pieces of pale frosted sea glass, bright airy light, lower third mid-tone for a label, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "4:3"
+      },
+      "editOf": null,
+      "seed": 2301791261,
+      "requestId": "01a12ea3-9e31-71d3-8a05-90c67a941178",
+      "width": 2368,
+      "height": 1792,
+      "cutout": null,
+      "sha256": "018642a0bde47773c65259ad3186e83fbc8f79c35495642ebe18ef4574530fd9",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:44:09.555Z",
+      "attempt": 3,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Attempt 3 (supersedes attempt 2's honey-like blobs, which read as jelly, and its device, which read as a lip balm): crystalline golden-amber resin in a small clear dish beside a plain unmarked clear cartridge with a white mouthpiece, on pale frosted sea glass; no people, smoke, text, labels or marks; irregular resin, no candy shapes.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:45:29.370Z"
+      }
+    }
+  ],
+  "failures": [],
+  "spend": {
+    "ultraCalls": 39,
+    "cutoutCalls": 2,
+    "otherCalls": 0,
+    "calls": [
+      {
+        "kind": "ultra",
+        "id": "H-BAND-1",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:14:04.999Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "H-CAT-1",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:14:05.033Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "H-CAT-2",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:14:05.036Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "H-CAT-3",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:14:05.038Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "MENU-CONC",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:14:16.778Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "H-BAND-2",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:14:17.106Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "H-BAND-3",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:14:18.161Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "H-BAND-4",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:14:19.858Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "H-BAND-5",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:14:27.714Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "CAT-PREROLLS",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:14:27.919Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "CAT-EDIBLES",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:14:30.417Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "CAT-VAPORIZERS",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:14:30.584Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "CAT-TINCTURES",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:14:38.745Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "CAT-CONCENTRATES",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:14:39.431Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "CAT-TOPICALS",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:14:44.356Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "CAT-CBD",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:14:44.824Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "CAT-ACCESSORIES",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:14:51.751Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "CAT-APPAREL",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:14:52.924Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "PLACE-1",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:14:57.015Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "PLACE-2",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:14:57.446Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "PLACE-3",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:15:04.588Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "PLACE-4",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:15:05.625Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "PLACE-5",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:15:07.490Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "PLACE-6",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:15:08.230Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "CUT-SEAGLASS-2",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:15:17.134Z"
+      },
+      {
+        "kind": "cutout",
+        "id": "CUT-SEAGLASS-2",
+        "model": "fal-ai/birefnet/v2",
+        "at": "2026-10-12T05:15:29.938Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "MENU-ACC",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:16:10.264Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "H-CAT-2",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:19:29.700Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "H-CAT-3",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:19:29.720Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "MENU-CONC",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:19:29.721Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "H-BAND-5",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:19:29.722Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "CUT-SEAGLASS-2",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:19:29.723Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "MENU-ACC",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:19:29.725Z"
+      },
+      {
+        "kind": "cutout",
+        "id": "CUT-SEAGLASS-2",
+        "model": "fal-ai/birefnet/v2",
+        "at": "2026-10-12T05:19:44.304Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "H-CAT-1",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:21:50.362Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "H-CAT-2",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:21:50.393Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "H-BAND-5",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:21:50.396Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "MENU-ACC",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:21:50.399Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "H-CAT-1",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:23:30.631Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "CAT-PREROLLS",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:23:30.649Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "MENU-CONC",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-12T05:43:54.174Z"
+      }
+    ],
+    "estUSD": 2.35,
+    "priceBasis": "about $0.06 per flux-pro ultra call and $0.005 per birefnet cut-out (fal list prices, UNVERIFIED against the invoice)",
+    "caps": {
+      "ultra": 140,
+      "cutout": 4,
+      "lane": "IMG"
+    },
+    "summary": "Lane IMG: 39 flux-pro ultra calls (cap 140) and 2 birefnet cut-out calls (cap 4); about $2.35 at the UNVERIFIED list prices. No Higgsfield calls."
+  },
+  "generated": "2026-10-12T05:44:09.556Z",
+  "rejected": [
+    {
+      "id": "H-CAT-2",
+      "file": "assets/generated/h-cat-2.jpg",
+      "raw": "tmp/img/raw/H-CAT-2.1791782057793.jpg",
+      "rawBytes": 1152241,
+      "role": "\"Infused Pre-Rolls\" card (6.11)",
+      "alt": "",
+      "usedFor": [
+        "\"Infused Pre-Rolls\" card (6.11)"
+      ],
+      "prompt": "Three unlit pre-rolled cones lying side by side in a shallow white ceramic dish on pale linen, a sprig of dried herbs beside them, soft sea-blue shadows, bright daylight, unlit, no smoke, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "4:3"
+      },
+      "editOf": null,
+      "seed": 2235122656,
+      "requestId": "01a12e88-5150-7c20-8da8-c0dc13691d29",
+      "width": 2368,
+      "height": 1792,
+      "cutout": null,
+      "sha256": "fa981d8ca228ec0435eb21e5862d57b3adb860eb1361040f1f3cacc31ac6cfae",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:14:19.856Z",
+      "attempt": 1,
+      "archivedAs": "tmp/img/rejected/H-CAT-2.1791782344496.jpg",
+      "review": {
+        "verdict": "REJECT",
+        "reason": "Subject wrong and food-like: the three objects are waffle/wafer cones (read as ice-cream cones), not pre-rolls; a food/candy look fails COMPLIANCE 2 (candy look) and misstates the card. Regenerate with joints described explicitly.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:19:04.495Z"
+      }
+    },
+    {
+      "id": "H-CAT-3",
+      "file": "assets/generated/h-cat-3.jpg",
+      "raw": "tmp/img/raw/H-CAT-3.1791782054803.jpg",
+      "rawBytes": 611934,
+      "role": "\"Disposables\" card (6.11)",
+      "alt": "",
+      "usedFor": [
+        "\"Disposables\" card (6.11)"
+      ],
+      "prompt": "A plain matte white slim vaporizer device with no markings standing upright among smooth beach pebbles and pale sea glass, bright clean daylight, minimal still life, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "4:3"
+      },
+      "editOf": null,
+      "seed": 3009240779,
+      "requestId": "01a12e88-5153-7eb2-b915-d99f6b458504",
+      "width": 2368,
+      "height": 1792,
+      "cutout": null,
+      "sha256": "522ccd311bd92565516ba33938dd0c0fafec417b741fc6f94e9f6b5e4621ae00",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:14:16.776Z",
+      "attempt": 1,
+      "archivedAs": "tmp/img/rejected/H-CAT-3.1791782344758.jpg",
+      "review": {
+        "verdict": "REJECT",
+        "reason": "Off-palette: a saturated yellow-orange backdrop, far from the brand's pale aqua, sky and sand (DESIGN-SPEC 10.1); bright flat colour field reads as a promo flyer. Device itself is plain and unmarked. Regenerate with a pale sky backdrop.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:19:04.757Z"
+      }
+    },
+    {
+      "id": "MENU-CONC",
+      "file": "assets/generated/menu-conc.jpg",
+      "raw": "tmp/img/raw/MENU-CONC.1791782065768.jpg",
+      "rawBytes": 801054,
+      "role": "Mega \"Concentrates\" card (6.3, slot M-CONC)",
+      "alt": "",
+      "usedFor": [
+        "Mega \"Concentrates\" card (6.3, slot M-CONC)"
+      ],
+      "prompt": "Amber concentrate in a small clear glass dish beside a plain unmarked vaporizer cartridge on pale sea glass, bright airy light, lower third mid-tone for a label, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "4:3"
+      },
+      "editOf": null,
+      "seed": 2974474575,
+      "requestId": "01a12e88-7d75-7a12-bfcd-0b45c0cda7dc",
+      "width": 2368,
+      "height": 1792,
+      "cutout": null,
+      "sha256": "a7000054b7827ca34b424273719526873099c53b9402df910cdfedf7311020ee",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:14:27.712Z",
+      "attempt": 1,
+      "archivedAs": "tmp/img/rejected/MENU-CONC.1791782344956.jpg",
+      "review": {
+        "verdict": "REJECT",
+        "reason": "Candy look: the amber concentrate renders as jelly/gummy cubes sitting in syrup (COMPLIANCE 2, candy look); the woven pebble mat behind is busy. Regenerate with a honey-like resin.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:19:04.955Z"
+      }
+    },
+    {
+      "id": "H-BAND-5",
+      "file": "assets/generated/h-band-5.jpg",
+      "raw": "tmp/img/raw/H-BAND-5.1791782077054.jpg",
+      "rawBytes": 1835524,
+      "role": "Blog band (6.19); wet sand texture, no tag (4.17.4)",
+      "alt": "",
+      "usedFor": [
+        "Blog band (6.19); wet sand texture, no tag (4.17.4)"
+      ],
+      "prompt": "Top-down view of wet beach sand with a thin lace of white sea foam and a few small smooth pebbles, bright daylight, pale aqua and sand tones, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "21:9"
+      },
+      "editOf": null,
+      "seed": 1544484301,
+      "requestId": "01a12e88-a835-7262-b1a9-f151f8461580",
+      "width": 3136,
+      "height": 1344,
+      "cutout": null,
+      "sha256": "ced51eae8cc537479eb121e172318164921d272ce7ec872e223db981846992cb",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:14:39.411Z",
+      "attempt": 1,
+      "archivedAs": "tmp/img/rejected/H-BAND-5.1791782345138.jpg",
+      "review": {
+        "verdict": "REJECT",
+        "reason": "Low backdrop variety: the lower half is flat uniform sand (glass blog cards over it would blur nothing, DESIGN-SPEC 4.6 / R-11) and the requested pale aqua is absent. Content itself is compliant. Regenerate with foam and water across the frame.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:19:05.137Z"
+      }
+    },
+    {
+      "id": "MENU-ACC",
+      "file": "assets/generated/menu-acc.jpg",
+      "raw": "tmp/img/raw/MENU-ACC.1791782181759.jpg",
+      "rawBytes": 1135848,
+      "role": "Mega \"Accessories\" card (6.3, slot M-ACC)",
+      "alt": "",
+      "usedFor": [
+        "Mega \"Accessories\" card (6.3, slot M-ACC)"
+      ],
+      "prompt": "A folded plain blue hoodie, a plain cap, a wooden grinder and a small glass jar on pale linen, no logos, no tags, no labels, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "4:3"
+      },
+      "editOf": null,
+      "seed": 3287007632,
+      "requestId": "01a12e8a-3a8e-7c71-a9f4-63acfb6cd3c4",
+      "width": 2368,
+      "height": 1792,
+      "cutout": null,
+      "sha256": "c5ac85ace7f1bfaaaa75567b9970db2141d84950cc1b29f8fba033f368f47925",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:16:23.754Z",
+      "attempt": 1,
+      "archivedAs": "tmp/img/rejected/MENU-ACC.1791782345361.jpg",
+      "review": {
+        "verdict": "REJECT",
+        "reason": "Text and brand-like marks: a paper card printed with pseudo-text and a printed neck tag on the hoodie (COMPLIANCE 2: no text, labels or marks).",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:19:05.359Z"
+      }
+    },
+    {
+      "id": "CUT-SEAGLASS-2",
+      "file": "assets/generated/cut-seaglass-2.png",
+      "raw": "tmp/img/raw/CUT-SEAGLASS-2.1791782128121.jpg",
+      "rawBytes": 788714,
+      "role": "Second sea-glass cut-out (P9 option, 10.3 CUT-2) so the shard cluster is not repeated; painted 160-230 CSS px",
+      "alt": "",
+      "usedFor": [
+        "Second sea-glass cut-out (P9 option, 10.3 CUT-2) so the shard cluster is not repeated; painted 160-230 CSS px"
+      ],
+      "prompt": "Three pieces of tumbled sea glass, cobalt blue, pale green and frosted white, isolated on plain white background, soft shadow, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "4:3"
+      },
+      "editOf": null,
+      "seed": 3826822420,
+      "requestId": "01a12e89-693d-7670-a8cf-e6162a5f351b",
+      "width": 2368,
+      "height": 1792,
+      "cutout": {
+        "model": "fal-ai/birefnet/v2",
+        "requestId": "01a12e89-9b4a-7492-9f04-38875a2aaeb1"
+      },
+      "sha256": "fe2be9103eea5acd4649f04d77afad2c571c1735dc4a3ddd8cde2feb4392b48c",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:15:33.851Z",
+      "attempt": 1,
+      "archivedAs": "tmp/img/rejected/CUT-SEAGLASS-2.1791782345575.png",
+      "review": {
+        "verdict": "REJECT",
+        "reason": "The cobalt piece renders as a faceted, glossy gemstone with gold flecks, not frosted tumbled sea glass, so it clashes with the kit's sea-glass cut-out; regenerate with frosted matte edges.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:19:05.573Z"
+      }
+    },
+    {
+      "id": "H-CAT-2",
+      "file": "assets/generated/h-cat-2.jpg",
+      "raw": "tmp/img/raw/H-CAT-2.1791782380768.jpg",
+      "rawBytes": 1267320,
+      "role": "\"Infused Pre-Rolls\" card (6.11)",
+      "alt": "",
+      "usedFor": [
+        "\"Infused Pre-Rolls\" card (6.11)"
+      ],
+      "prompt": "Three unlit cannabis pre-rolls, slim white paper joints with neatly twisted tips and plain paper filter ends, lying side by side in a shallow white ceramic dish on pale linen, a sprig of dried herbs beside them, soft sea-blue shadows, bright daylight, unlit, no smoke, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "4:3"
+      },
+      "editOf": null,
+      "seed": 3925439549,
+      "requestId": "01a12e8d-457c-7940-b0ee-1f914099f7c9",
+      "width": 2368,
+      "height": 1792,
+      "cutout": null,
+      "sha256": "d5a4b7ec2185debb127a54b13dafa16ad014d45480b1afd6362227824ff3f273",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:19:43.153Z",
+      "attempt": 2,
+      "archivedAs": "tmp/img/rejected/H-CAT-2.1791782482998.jpg",
+      "review": {
+        "verdict": "REJECT",
+        "reason": "Attempt 2: the three items are straight white cylinders with orange filter ends that read as cigarettes, not cannabis pre-rolls (misleading subject); retry with cone-shaped pre-rolls.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:21:22.996Z"
+      }
+    },
+    {
+      "id": "MENU-ACC",
+      "file": "assets/generated/menu-acc.jpg",
+      "raw": "tmp/img/raw/MENU-ACC.1791782380773.jpg",
+      "rawBytes": 1507009,
+      "role": "Mega \"Accessories\" card (6.3, slot M-ACC)",
+      "alt": "",
+      "usedFor": [
+        "Mega \"Accessories\" card (6.3, slot M-ACC)"
+      ],
+      "prompt": "Overhead still life on pale linen of a neatly folded plain sea-blue sweatshirt, a plain sand-coloured cap, a round wooden herb grinder and a small empty clear glass jar, smooth blank fabric surfaces, bright soft daylight, minimal and tidy, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "4:3"
+      },
+      "editOf": null,
+      "seed": 181603822,
+      "requestId": "01a12e8d-4577-7883-8bf0-99a4f6d9e83d",
+      "width": 2368,
+      "height": 1792,
+      "cutout": null,
+      "sha256": "17ff65d94f61e34a39df04d9044f6904aec90d62ba9b9e8621c32cacb4767a5a",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:19:43.055Z",
+      "attempt": 2,
+      "archivedAs": "tmp/img/rejected/MENU-ACC.1791782483279.jpg",
+      "review": {
+        "verdict": "REJECT",
+        "reason": "Attempt 2: the sweatshirt's neck label carries a printed mark and tiny text (COMPLIANCE 2: no text, labels or marks).",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:21:23.277Z"
+      }
+    },
+    {
+      "id": "H-CAT-1",
+      "file": "assets/generated/h-cat-1.jpg",
+      "raw": "tmp/img/raw/H-CAT-1.1791782054802.jpg",
+      "rawBytes": 1172248,
+      "role": "\"Affordable Ounces\" card (6.11); 390x293 / 470x352 / 358x224 CSS",
+      "alt": "",
+      "usedFor": [
+        "\"Affordable Ounces\" card (6.11); 390x293 / 470x352 / 358x224 CSS"
+      ],
+      "prompt": "A clear wide-mouth glass jar holding cured cannabis flower buds, lid resting beside it, on a weathered driftwood plank with a few pieces of aqua sea glass, pale linen backdrop, bright window light, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "4:3"
+      },
+      "editOf": null,
+      "seed": 2314676857,
+      "requestId": "01a12e88-5154-7101-90fe-14350c33ea2e",
+      "width": 2368,
+      "height": 1792,
+      "cutout": null,
+      "sha256": "e95b9217cf984d1f1f637398adae05efb3dd2eb6b41bdd6769108bd03f8edb00",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:14:17.105Z",
+      "attempt": 1,
+      "archivedAs": "tmp/img/rejected/H-CAT-1.1791782483532.jpg",
+      "review": {
+        "verdict": "REJECT",
+        "reason": "At full resolution the aqua pieces read as soft mint gummy candies beside the cannabis, not chalky sea glass (COMPLIANCE 2: candy look; edibles confusion), and the buds look crumbly; retry with chalky broken sea glass and frosty buds.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:21:23.530Z"
+      }
+    },
+    {
+      "id": "H-BAND-5",
+      "file": "assets/generated/h-band-5.jpg",
+      "raw": "tmp/img/raw/H-BAND-5.1791782380783.jpg",
+      "rawBytes": 1750402,
+      "role": "Blog band (6.19); wet sand texture, no tag (4.17.4)",
+      "alt": "",
+      "usedFor": [
+        "Blog band (6.19); wet sand texture, no tag (4.17.4)"
+      ],
+      "prompt": "Top-down view of wet beach sand across the whole frame, a thin lace of white sea foam and a shallow film of pale aqua water washing over rippled wet sand, a few small smooth pebbles, glistening reflections, bright daylight, pale aqua and sand tones, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "21:9"
+      },
+      "editOf": null,
+      "seed": 1917821839,
+      "requestId": "01a12e8d-457b-7cf2-b7c0-5b89f483d118",
+      "width": 3136,
+      "height": 1344,
+      "cutout": null,
+      "sha256": "28b2e1527d1321c979d5528099de2cfea0b31e6205da12f9678c3c3d5115a57f",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:19:43.128Z",
+      "attempt": 2,
+      "archivedAs": "tmp/img/rejected/H-BAND-5.1791782483773.jpg",
+      "review": {
+        "verdict": "REJECT",
+        "reason": "Attempt 2 repeats attempt 1's layout: the lower 40% is flat uniform sand, so glass blog cards placed there would have no backdrop variety (DESIGN-SPEC 4.6 / R-11); retry with foam and water across the frame.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:21:23.772Z"
+      }
+    },
+    {
+      "id": "H-CAT-1",
+      "file": "assets/generated/h-cat-1.jpg",
+      "raw": "tmp/img/raw/H-CAT-1.1791782521468.jpg",
+      "rawBytes": 909637,
+      "role": "\"Affordable Ounces\" card (6.11); 390x293 / 470x352 / 358x224 CSS",
+      "alt": "",
+      "usedFor": [
+        "\"Affordable Ounces\" card (6.11); 390x293 / 470x352 / 358x224 CSS"
+      ],
+      "prompt": "A clear wide-mouth glass jar holding dense, frosty, well-trimmed cured cannabis flower buds with visible trichomes, lid resting beside it, on a weathered driftwood plank with a few chips of chalky frosted pale sea glass with irregular broken edges, pale linen backdrop, bright window light, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "4:3"
+      },
+      "editOf": null,
+      "seed": 2569102230,
+      "requestId": "01a12e8f-6b0d-77b1-b455-1afdbc48e666",
+      "width": 2368,
+      "height": 1792,
+      "cutout": null,
+      "sha256": "fab14f574dc96bfc537d0712648c907e65a4daa309956a86a9e44031431d4bf4",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:22:03.729Z",
+      "attempt": 2,
+      "archivedAs": "tmp/img/rejected/H-CAT-1.1791782591663.jpg",
+      "review": {
+        "verdict": "REJECT",
+        "reason": "Attempt 2: the buds are right now, but the 'sea glass chips' render as soft opaque white pieces (like white chocolate or candy) beside the cannabis: an edibles/candy reading on a flower card (COMPLIANCE 2). Retry with grey beach pebbles.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:23:11.662Z"
+      }
+    },
+    {
+      "id": "CAT-PREROLLS",
+      "file": "assets/generated/cat-prerolls.jpg",
+      "raw": "tmp/img/raw/CAT-PREROLLS.1791782076844.jpg",
+      "rawBytes": 1208868,
+      "role": "Pre-Rolls category hero",
+      "alt": "AI-generated illustration: unlit pre-rolls lined up in a wooden tray",
+      "usedFor": [
+        "Pre-Rolls category hero"
+      ],
+      "prompt": "Several unlit pre-rolled cones lined up in a shallow pale wooden tray on white linen, a few pieces of pale sea glass nearby, soft sea-blue shadows, bright airy daylight, unlit, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "4:3"
+      },
+      "editOf": null,
+      "seed": 2763040307,
+      "requestId": "01a12e88-a8fd-7a52-8236-a794e1ffe6ca",
+      "width": 2368,
+      "height": 1792,
+      "cutout": null,
+      "sha256": "69eae69608af5333adcc19d3e0d6b8eabc2ea7cdb2477106bb87391b3724e7cb",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:14:38.738Z",
+      "attempt": 1,
+      "archivedAs": "tmp/img/rejected/CAT-PREROLLS.1791782622058.jpg",
+      "reason": "regenerated on review (--force)",
+      "at": "2026-10-12T05:23:43.905Z",
+      "review": {
+        "verdict": "SUPERSEDED",
+        "reason": "Compliant (no people, smoke, text or marks) but shows empty paper cones rather than filled pre-rolls; replaced by attempt 2. Never referenced by a slot.",
+        "by": "lane IMG, by eye",
+        "at": "2026-10-12T05:24:34.110Z"
+      }
+    },
+    {
+      "id": "MENU-CONC",
+      "file": "assets/generated/menu-conc.jpg",
+      "raw": "tmp/img/raw/MENU-CONC.1791782379090.jpg",
+      "rawBytes": 604780,
+      "role": "Mega \"Concentrates\" card (6.3, slot M-CONC)",
+      "alt": "",
+      "usedFor": [
+        "Mega \"Concentrates\" card (6.3, slot M-CONC)"
+      ],
+      "prompt": "Glossy golden-amber cannabis resin, thick and viscous like honey, in a small clear glass dish beside a plain unmarked vaporizer cartridge on pale sea glass, bright airy light, lower third mid-tone for a label, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "output_format": "jpeg",
+        "aspect_ratio": "4:3"
+      },
+      "editOf": null,
+      "seed": 2229838879,
+      "requestId": "01a12e8d-4580-7ae0-8d2e-47ad73714335",
+      "width": 2368,
+      "height": 1792,
+      "cutout": null,
+      "sha256": "5b989dc8a52078ba920e5241e87f35bbe2a85795a4981e773c264f2967fb81ff",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-12T05:19:40.864Z",
+      "attempt": 2,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Attempt 2: glossy honey-like amber resin in a small clear dish and beside it, a plain unmarked white device; pale sea-green ground; no people, smoke, text or marks; the resin is an amorphous blob, not cubes, shapes or gummies, so no candy look.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:21:21.847Z"
+      },
+      "archivedAs": "tmp/img/rejected/MENU-CONC.1791783847370.jpg",
+      "reason": "regenerated on review (--force)",
+      "at": "2026-10-12T05:44:09.553Z"
+    }
+  ],
+  "kit": [
+    {
+      "id": "CUT-BUD",
+      "file": "assets/generated/cut-bud.png",
+      "from": "tmp/panel/kit/bud-whole.cut.png",
+      "derivation": "ffmpeg lanczos resize to 600 px wide (2x the largest painted width, DESIGN-SPEC 5.3 / R-20), RGBA PNG; no other change",
+      "origin": {
+        "tool": "tools/fal-one.mjs",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "prompt": "Studio macro photograph of one whole dense cannabis flower bud, entirely in frame with generous empty margin on all sides, frosty white trichomes, green and amber pistils, isolated on a plain pure white seamless background, soft even daylight, ultra sharp detail, no text, no packaging, no people, no hands",
+        "input": {
+          "aspect_ratio": "1:1",
+          "output_format": "jpeg"
+        },
+        "requestId": "01a12daa-329c-7192-b1db-4cccb8f58f60",
+        "seed": 2728662427,
+        "width": 2048,
+        "height": 2048,
+        "contentType": "image/jpeg",
+        "bytes": 1125130,
+        "sha256": "2d6bcab02b2b76bcefcd331dedb98e20f70e6b37cae34d7be4fc886e8088f479",
+        "file": "tmp/panel/kit/bud-whole.jpg",
+        "generatedAt": "2026-10-12T01:11:43.152Z",
+        "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands.",
+        "cutout": {
+          "model": "fal-ai/birefnet/v2",
+          "requestId": "01a12daa-6ad4-7130-9cce-29cdd627a36b",
+          "file": "tmp/panel/kit/bud-whole.cut.png",
+          "bytes": 2665283
+        }
+      },
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Kit cut-out re-checked on #015375: one whole bud with pistils, clean edge, fully in frame; no text or marks.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:24:34.307Z"
+      },
+      "sha256": "1f0fd28cba90b0026391cf2dd92ef4567f9288a83459574028027b92185f9b45",
+      "spend": "generated before this lane (orchestrator kit or prototype A); not counted against the lane cap"
+    },
+    {
+      "id": "CUT-SEAGLASS",
+      "file": "assets/generated/cut-seaglass.png",
+      "from": "tmp/panel/kit/sea-glass.cut.png",
+      "derivation": "ffmpeg lanczos resize to 460 px wide (2x the largest painted width, DESIGN-SPEC 5.3 / R-20), RGBA PNG; no other change",
+      "origin": {
+        "tool": "tools/fal-one.mjs",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "prompt": "Studio photograph of five pieces of tumbled frosted sea glass in aqua, ocean blue, pale sky blue and soft green, scattered with space between them, all fully in frame, isolated on a plain pure white seamless background, soft daylight with gentle translucent glow, crisp detail, no text, no hands",
+        "input": {
+          "aspect_ratio": "4:3",
+          "output_format": "jpeg"
+        },
+        "requestId": "01a12daa-c981-7022-9fc3-a9711e6e7ab0",
+        "seed": 4187421913,
+        "width": 2368,
+        "height": 1792,
+        "contentType": "image/jpeg",
+        "bytes": 817458,
+        "sha256": "2de49ec1d716fcdef0b797082393f30a1e07121bc2ae3ccc6cadf363c3e67f0d",
+        "file": "tmp/panel/kit/sea-glass.jpg",
+        "generatedAt": "2026-10-12T01:12:22.153Z",
+        "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands.",
+        "cutout": {
+          "model": "fal-ai/birefnet/v2",
+          "requestId": "01a12dab-031f-7242-b861-cf2c30b931a8",
+          "file": "tmp/panel/kit/sea-glass.cut.png",
+          "bytes": 2270461
+        }
+      },
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Kit cut-out re-checked on #015375: five tumbled sea-glass pieces (aqua, blue, sky, green, white); clean edge; no text.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:24:34.505Z"
+      },
+      "sha256": "28293250da1ae2a274e77dd907fc35f1269904e5d55c15a99f249fc4f8e6c5c3",
+      "spend": "generated before this lane (orchestrator kit or prototype A); not counted against the lane cap"
+    },
+    {
+      "id": "CUT-FANLEAF",
+      "file": "assets/generated/cut-fanleaf.png",
+      "from": "tmp/panel/kit/fan-leaf.cut.png",
+      "derivation": "ffmpeg lanczos resize to 440 px wide (2x the largest painted width, DESIGN-SPEC 5.3 / R-20), RGBA PNG; no other change",
+      "origin": {
+        "tool": "tools/fal-one.mjs",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "prompt": "Botanical studio photograph of a single cannabis fan leaf: seven long serrated leaflets radiating like fingers from ONE single point at the top of a straight petiole, the largest leaflet in the center, symmetrical and anatomically correct, whole leaf entirely in frame with margin, isolated on a plain pure white seamless background, soft daylight, crisp detail, no text, no people",
+        "input": {
+          "aspect_ratio": "1:1",
+          "output_format": "jpeg"
+        },
+        "requestId": "01a12dac-f809-7131-a87a-85a4d9e49435",
+        "seed": 2896747392,
+        "width": 2048,
+        "height": 2048,
+        "contentType": "image/jpeg",
+        "bytes": 1002558,
+        "sha256": "a745847ac5c5aa640b226d37fb64f2f4ef6a5a46a059ab0df8cce0cdf18b5793",
+        "file": "tmp/panel/kit/fan-leaf.jpg",
+        "generatedAt": "2026-10-12T01:14:41.532Z",
+        "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands.",
+        "cutout": {
+          "model": "fal-ai/birefnet/v2",
+          "requestId": "01a12dad-239a-7c21-80a5-4b001b8493f0",
+          "file": "tmp/panel/kit/fan-leaf.cut.png",
+          "bytes": 2590158
+        }
+      },
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Kit cut-out re-checked on #015375: nine leaflets from one point (correct anatomy); clean edge; no text.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:24:34.721Z"
+      },
+      "sha256": "3472e73dbd3db84149d9e3a0db6929520316d176ca38c700d5da89d8940bab8f",
+      "spend": "generated before this lane (orchestrator kit or prototype A); not counted against the lane cap"
+    },
+    {
+      "id": "CUT-TERPENE",
+      "file": "assets/generated/cut-terpene.png",
+      "from": "tmp/panel/kit/terpene-botanicals.cut.png",
+      "derivation": "ffmpeg lanczos resize to 460 px wide (2x the largest painted width, DESIGN-SPEC 5.3 / R-20), RGBA PNG; no other change",
+      "origin": {
+        "tool": "tools/fal-one.mjs",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "prompt": "Studio photograph of fresh terpene botanicals arranged with space between them: a lemon slice, a small pine sprig, a lavender sprig and a few black peppercorns, all fully in frame, isolated on a plain pure white seamless background, soft daylight, crisp editorial detail, no text, no people",
+        "input": {
+          "aspect_ratio": "4:3",
+          "output_format": "jpeg"
+        },
+        "requestId": "01a12dab-195c-7092-8a88-233b1823f9c6",
+        "seed": 3256096708,
+        "width": 2368,
+        "height": 1792,
+        "contentType": "image/jpeg",
+        "bytes": 891932,
+        "sha256": "5ed724c92936d69057347076d94569752afc8a12c4e0dc74cd8d277e5583f5c9",
+        "file": "tmp/panel/kit/terpene-botanicals.jpg",
+        "generatedAt": "2026-10-12T01:12:40.871Z",
+        "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands.",
+        "cutout": {
+          "model": "fal-ai/birefnet/v2",
+          "requestId": "01a12dab-4c4e-7080-8b2a-d67a987ab280",
+          "file": "tmp/panel/kit/terpene-botanicals.cut.png",
+          "bytes": 2796039
+        }
+      },
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Kit cut-out re-checked on #015375: lemon slice, herb sprigs, lavender and peppercorns; no text; botanicals only.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:24:34.936Z"
+      },
+      "sha256": "8aa19869375c318471b12e763c81fb6462e6ac988a322eea44b50853ca6adf97",
+      "spend": "generated before this lane (orchestrator kit or prototype A); not counted against the lane cap"
+    },
+    {
+      "id": "CUT-BEACHGRASS",
+      "file": "assets/generated/cut-beachgrass.png",
+      "from": "tmp/panel/kit/beach-grass.cut.png",
+      "derivation": "ffmpeg lanczos resize to 460 px wide (2x the largest painted width, DESIGN-SPEC 5.3 / R-20), RGBA PNG; no other change",
+      "origin": {
+        "tool": "tools/fal-one.mjs",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "prompt": "Photograph of one lush clump of American beachgrass: dozens of long, thick, arching blades in sage green and warm straw gold fanning outward from a single base, dense and full, the whole clump entirely in frame with margin, isolated on a plain pure white seamless background, soft daylight, crisp detail, no sand, no text, no people",
+        "input": {
+          "aspect_ratio": "3:4",
+          "output_format": "jpeg"
+        },
+        "requestId": "01a12dac-a804-74d3-b0eb-f378d314774f",
+        "seed": 3470120910,
+        "width": 1792,
+        "height": 2368,
+        "contentType": "image/jpeg",
+        "bytes": 2078688,
+        "sha256": "4678eefdb20e693f30731cf4ce9289c03baf996ea9de71b823cd4e6c723e501c",
+        "file": "tmp/panel/kit/beach-grass.jpg",
+        "generatedAt": "2026-10-12T01:14:23.205Z",
+        "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands.",
+        "cutout": {
+          "model": "fal-ai/birefnet/v2",
+          "requestId": "01a12dac-dbfe-7f61-a604-e999a884321f",
+          "file": "tmp/panel/kit/beach-grass.cut.png",
+          "bytes": 7009998
+        }
+      },
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Kit cut-out re-checked on #015375: a full beach-grass clump with seed plumes, readable on dark blue; no text.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:24:35.141Z"
+      },
+      "sha256": "90230679f8fbf5baf7842dabe40592ef9bfd7118bfc6cbb2a06c87a7cb588db3",
+      "spend": "generated before this lane (orchestrator kit or prototype A); not counted against the lane cap"
+    },
+    {
+      "id": "CUT-FLUKE",
+      "file": "assets/generated/cut-fluke.png",
+      "from": "tmp/panel/winner/img/whale-fluke.cut.png",
+      "derivation": "ffmpeg crop 1598:545:586:708 (the alpha box with drips, padded to the prototype's 2.93:1 frame), then lanczos resize to 1040 px wide (2x the largest painted width, DESIGN-SPEC 5.3 / R-20), RGBA PNG; no other change",
+      "origin": {
+        "tool": "tools/fal-one.mjs",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "prompt": "Photograph of a single humpback whale tail fluke rising vertically out of calm ocean water with a few water droplets falling from its trailing edge, the whole fluke fully inside the frame with generous margin on all sides, soft bright daylight, plain pale grey-blue overcast sky behind, nothing else in the frame, no boats, no land, no birds, no people, no text",
+        "input": {
+          "aspect_ratio": "3:2",
+          "output_format": "jpeg"
+        },
+        "requestId": "01a12dc2-f01d-7553-9256-6ef9fb1b536d",
+        "seed": 1729506263,
+        "width": 2496,
+        "height": 1664,
+        "contentType": "image/jpeg",
+        "bytes": 692807,
+        "sha256": "629d278eeddf4850cfb4a0fc9a025ebdb90ba3594f0bb5569a77a16b40fdc96e",
+        "file": "tmp/panel/a/img/whale-fluke.jpg",
+        "generatedAt": "2026-10-12T01:38:41.476Z",
+        "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands.",
+        "cutout": {
+          "model": "fal-ai/birefnet/v2",
+          "requestId": "01a12dc3-1c6f-7c90-9928-c050dcf73b67",
+          "file": "tmp/panel/a/img/whale-fluke.cut.png",
+          "bytes": 482504
+        }
+      },
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Prototype cut-out re-checked on #015375: a humpback fluke with water drips, cropped to the fluke (2.93:1) like the prototype; no boats, land, people or text; not a mascot.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:24:35.328Z"
+      },
+      "sha256": "c8142075ccfffd4093c795bab0eb901e0bc1387e8e64eee5fa3935f440b6f949",
+      "spend": "generated before this lane (orchestrator kit or prototype A); not counted against the lane cap"
+    },
+    {
+      "id": "BAND-DEEPWATER",
+      "file": "assets/generated/band-deepwater.jpg",
+      "from": "tmp/panel/winner/img/deep-water.jpg",
+      "derivation": "byte copy of tmp/panel/winner/img/deep-water.jpg (its fal C2PA manifest kept; adding the XMP APP1 changes the bytes, so a C2PA validator will report the data hash as not matching: the manifest binds the original, kept at tmp/panel/winner/img/deep-water.jpg)",
+      "origin": {
+        "tool": "tools/fal-one.mjs",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "prompt": "Top-down photograph of a deep teal and navy ocean surface with gentle ripples and soft sunlight caustic patterns dancing across it, dark navy to teal tones with brighter aqua highlights, calm, even texture, no foam lines, no boats, no land, no people, no text",
+        "input": {
+          "aspect_ratio": "21:9",
+          "output_format": "jpeg"
+        },
+        "requestId": "01a12de6-7302-7e01-ab51-4a676e033b52",
+        "seed": 1317019610,
+        "width": 3136,
+        "height": 1344,
+        "contentType": "image/jpeg",
+        "bytes": 1515318,
+        "sha256": "db85a36f61b2fa1f9f05cd43950a92b3fa7be75a2d283425d3d1ded664d94b18",
+        "file": "tmp/panel/a/img/deep-water.jpg",
+        "generatedAt": "2026-10-12T02:17:30.357Z",
+        "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands."
+      },
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Re-checked: deep teal water surface with sun glints, even texture; no foam lines, boats, land, people or text.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:24:35.528Z"
+      },
+      "sha256": "34cae44ce9f8cc6f2ce524248ee9af42f521189bf91ca759722aabaa0f6160ee",
+      "spend": "generated before this lane (orchestrator kit or prototype A); not counted against the lane cap"
+    },
+    {
+      "id": "MENU-FLOWER",
+      "file": "assets/generated/menu-flower.jpg",
+      "from": "tmp/fal-test/bud-macro.jpg",
+      "derivation": "byte copy of tmp/fal-test/bud-macro.jpg (its fal C2PA manifest kept; adding the XMP APP1 changes the bytes, so a C2PA validator will report the data hash as not matching: the manifest binds the original, kept at tmp/fal-test/bud-macro.jpg)",
+      "origin": {
+        "tool": "tools/fal-one.mjs",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "prompt": "Macro photograph of a single cannabis flower bud covered in frosty trichomes, soft natural coastal daylight, shallow depth of field, clean pale sky-blue seamless background, editorial botanical photography, crisp detail, no text, no people, no packaging",
+        "input": {
+          "aspect_ratio": "16:9",
+          "output_format": "jpeg"
+        },
+        "requestId": "01a12d86-ce0b-72d3-88ed-609f7347478b",
+        "seed": 395673316,
+        "width": 2752,
+        "height": 1536,
+        "contentType": "image/jpeg",
+        "bytes": 596319,
+        "sha256": "567025492b9939b1420cb5ae240ea4c108b3c6bc81ad01147b005ffcb6b26ec4",
+        "file": "tmp/fal-test/bud-macro.jpg",
+        "generatedAt": "2026-10-12T00:33:02.274Z",
+        "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of this practice, its people, its patients or its results.",
+        "cutout": {
+          "model": "fal-ai/birefnet/v2",
+          "requestId": "01a12d87-00ce-70b3-8f03-78e93807ff75",
+          "file": "tmp/fal-test/bud-macro.cut.png",
+          "bytes": 1504050
+        }
+      },
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Re-checked: frosty bud macro on pale sky blue (bud cropped at the left edge, as the kit notes; fine for a card background); no text, people or smoke.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:24:35.735Z"
+      },
+      "sha256": "d8e52af89d1c0adbd49fcdefdc44158815866875ff587a9ae10b6258e97f40c8",
+      "spend": "generated before this lane (orchestrator kit or prototype A); not counted against the lane cap"
+    },
+    {
+      "id": "MENU-EDIBLES",
+      "file": "assets/generated/menu-edibles.jpg",
+      "from": "tmp/panel/winner/img/menu-edibles-tinctures.jpg",
+      "derivation": "byte copy of tmp/panel/winner/img/menu-edibles-tinctures.jpg (its fal C2PA manifest kept; adding the XMP APP1 changes the bytes, so a C2PA validator will report the data hash as not matching: the manifest binds the original, kept at tmp/panel/winner/img/menu-edibles-tinctures.jpg)",
+      "origin": {
+        "tool": "tools/fal-one.mjs",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "prompt": "Bright minimal still life photograph: three small unlabeled amber glass dropper bottles and a few squares of plain dark chocolate on a pale grey stone slab beside a sprig of fresh green herb, soft coastal window daylight, pale sky-blue background, shallow depth of field, calm adult editorial product photography, no labels, no text, no logos, no people, no hands",
+        "input": {
+          "aspect_ratio": "4:3",
+          "output_format": "jpeg"
+        },
+        "requestId": "01a12dc2-503b-7c92-bde4-c2654829d0ff",
+        "seed": 1419321680,
+        "width": 2368,
+        "height": 1792,
+        "contentType": "image/jpeg",
+        "bytes": 573863,
+        "sha256": "e96a327ee74e807fd50ce0a4638591903b445a3ecf799d4a953e74c1baa959a4",
+        "file": "tmp/panel/a/img/menu-edibles-tinctures.jpg",
+        "generatedAt": "2026-10-12T01:38:00.473Z",
+        "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands."
+      },
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Re-checked: two unlabelled amber dropper bottles, plain scored chocolate pieces and an herb sprig on a stone plinth; no shapes, sugar coating, text or marks; edibles plain.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:24:36.035Z"
+      },
+      "sha256": "9c5f1cc6d8e5dafdd33c1e026cb34acaff13c7dadf50b635eea041d1bfab9a4f",
+      "spend": "generated before this lane (orchestrator kit or prototype A); not counted against the lane cap"
+    },
+    {
+      "id": "MENU-TOPICALS",
+      "file": "assets/generated/menu-topicals.jpg",
+      "from": "tmp/panel/kit/terpene-botanicals.jpg",
+      "derivation": "byte copy of tmp/panel/kit/terpene-botanicals.jpg (its fal C2PA manifest kept; adding the XMP APP1 changes the bytes, so a C2PA validator will report the data hash as not matching: the manifest binds the original, kept at tmp/panel/kit/terpene-botanicals.jpg)",
+      "origin": {
+        "tool": "tools/fal-one.mjs",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "prompt": "Studio photograph of fresh terpene botanicals arranged with space between them: a lemon slice, a small pine sprig, a lavender sprig and a few black peppercorns, all fully in frame, isolated on a plain pure white seamless background, soft daylight, crisp editorial detail, no text, no people",
+        "input": {
+          "aspect_ratio": "4:3",
+          "output_format": "jpeg"
+        },
+        "requestId": "01a12dab-195c-7092-8a88-233b1823f9c6",
+        "seed": 3256096708,
+        "width": 2368,
+        "height": 1792,
+        "contentType": "image/jpeg",
+        "bytes": 891932,
+        "sha256": "5ed724c92936d69057347076d94569752afc8a12c4e0dc74cd8d277e5583f5c9",
+        "file": "tmp/panel/kit/terpene-botanicals.jpg",
+        "generatedAt": "2026-10-12T01:12:40.871Z",
+        "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands.",
+        "cutout": {
+          "model": "fal-ai/birefnet/v2",
+          "requestId": "01a12dab-4c4e-7080-8b2a-d67a987ab280",
+          "file": "tmp/panel/kit/terpene-botanicals.cut.png",
+          "bytes": 2796039
+        }
+      },
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Re-checked: kit terpene botanicals on white (lemon slice, rosemary-like sprigs, lavender, peppercorns); no text, people or medical symbols.",
+        "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:24:36.527Z"
+      },
+      "sha256": "8b589a69f6982086dce00b1537e0ff29c7445584e2501a152334af928db7e99f",
+      "spend": "generated before this lane (orchestrator kit or prototype A); not counted against the lane cap"
+    },
+    {
+      "id": "LOOP-FLUKE-POSTER",
+      "file": "assets/generated/loop-fluke-poster.jpg",
+      "from": "tmp/panel/kit/whale-fluke-loop.mp4 (tools/make-loop.mjs, ACCEPTED in tmp/panel/kit/README.md)",
+      "derivation": "frame 0 of assets/generated/video/whale-fluke-loop.mp4, ffmpeg -q:v 2 (mjpeg), XMP embedded",
+      "origin": {
+        "provider": "Higgsfield",
+        "endpoint": "kling-video/v3.0-turbo/image-to-video",
+        "requestId": "c0e0997b-4fbe-4e37-904e-ee305411524b",
+        "prompt": "Cinemagraph-style calm shot: the humpback whale tail fluke stays raised just above the calm ocean surface while water streams and drips steadily from its trailing edge, small waves shimmer gently in warm golden-hour light, very slow subtle motion, locked-off static camera, no text, no people, no boats, no land",
+        "sourceStill": "tmp/panel/kit/whale-tail.jpg (fal flux-pro v1.1-ultra)",
+        "kitLoop": "tmp/panel/kit/whale-fluke-loop.mp4 (tools/make-loop.mjs, ACCEPTED in tmp/panel/kit/README.md)"
+      },
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Poster = frame 0 of the MP4 (the page shows it first and under reduced motion or Save-Data): the fluke with drips over calm water at golden hour; no text or marks.",
+        "checks": "COMPLIANCE section 2 frame by frame (frames 0, 42 and 84 of the MP4, frames 0 and 84 of the WebM viewed): no people, boats, land, text, marks or mascot; calm motion",
+        "by": "lane IMG, by eye",
+        "at": "2026-10-12T05:35:09.758Z"
+      },
+      "sha256": "2c8548347d40c6986fece1181e37a10e1f8963421de9387037597df2c0c334b5",
+      "spend": "generated before this lane (orchestrator kit or prototype A); not counted against the lane cap"
+    }
+  ],
+  "video": [
+    {
+      "file": "assets/generated/video/whale-fluke-loop.mp4",
+      "measured": {
+        "streams": [
+          "video:h264 1920x640"
+        ],
+        "audio": false,
+        "duration": 3.541667,
+        "bytes": 892758,
+        "labelInTags": true,
+        "kb": 871.8,
+        "under900KB": true,
+        "seamYDIF": 3.86109,
+        "frameYDIF": {
+          "mean": 2.691,
+          "p95": 3.03513,
+          "max": 3.2654
+        },
+        "seamless": true,
+        "sha256": "3fb4fe6c06b8ed1bf7ef30a0180460200508c5001308fe4ba8dfbf5cd8c80bc3"
+      },
+      "encode": {
+        "crop": "crop=1920:640:0:200",
+        "xfadeSeconds": 0.5,
+        "x264crf": 26,
+        "x264params": "keyint=85:min-keyint=85:scenecut=0:ipratio=1.0:pbratio=1.0:mbtree=0",
+        "vp9crf": 42
+      },
+      "origin": {
+        "provider": "Higgsfield",
+        "endpoint": "kling-video/v3.0-turbo/image-to-video",
+        "requestId": "c0e0997b-4fbe-4e37-904e-ee305411524b",
+        "prompt": "Cinemagraph-style calm shot: the humpback whale tail fluke stays raised just above the calm ocean surface while water streams and drips steadily from its trailing edge, small waves shimmer gently in warm golden-hour light, very slow subtle motion, locked-off static camera, no text, no people, no boats, no land",
+        "sourceStill": "tmp/panel/kit/whale-tail.jpg (fal flux-pro v1.1-ultra)",
+        "kitLoop": "tmp/panel/kit/whale-fluke-loop.mp4 (tools/make-loop.mjs, ACCEPTED in tmp/panel/kit/README.md)"
+      },
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Re-encoded 1920x640 (3:1) band loop, 871.8 KB (cap 900), 3.541667 s, no audio; seam YDIF 3.86 against an inner max of 3.27 (the kit loop itself measured 3.94 vs 3.24 in this crop), first and last frames match by eye; the fluke stays in frame throughout.",
+        "checks": "COMPLIANCE section 2 frame by frame (frames 0, 42 and 84 of the MP4, frames 0 and 84 of the WebM viewed): no people, boats, land, text, marks or mascot; calm motion",
+        "by": "lane IMG, by eye",
+        "at": "2026-10-12T05:35:09.758Z"
+      },
+      "spend": "no new Higgsfield spend (BUILD-CONTRACT 4.17.11): re-encode of the kit loop"
+    },
+    {
+      "file": "assets/generated/video/whale-fluke-loop.webm",
+      "measured": {
+        "streams": [
+          "video:vp9 1920x640"
+        ],
+        "audio": false,
+        "duration": 3.542,
+        "bytes": 729764,
+        "labelInTags": true,
+        "kb": 712.7,
+        "under900KB": true,
+        "seamYDIF": 3.01598,
+        "frameYDIF": {
+          "mean": 2.921,
+          "p95": 3.52893,
+          "max": 4.03679
+        },
+        "seamless": true,
+        "sha256": "11b238a7c1bfb9ac4ac321dfd42810159cac5ea13e7b87047811ccebeed3e966"
+      },
+      "encode": {
+        "crop": "crop=1920:640:0:200",
+        "xfadeSeconds": 0.5,
+        "x264crf": 26,
+        "x264params": "keyint=85:min-keyint=85:scenecut=0:ipratio=1.0:pbratio=1.0:mbtree=0",
+        "vp9crf": 42
+      },
+      "origin": {
+        "provider": "Higgsfield",
+        "endpoint": "kling-video/v3.0-turbo/image-to-video",
+        "requestId": "c0e0997b-4fbe-4e37-904e-ee305411524b",
+        "prompt": "Cinemagraph-style calm shot: the humpback whale tail fluke stays raised just above the calm ocean surface while water streams and drips steadily from its trailing edge, small waves shimmer gently in warm golden-hour light, very slow subtle motion, locked-off static camera, no text, no people, no boats, no land",
+        "sourceStill": "tmp/panel/kit/whale-tail.jpg (fal flux-pro v1.1-ultra)",
+        "kitLoop": "tmp/panel/kit/whale-fluke-loop.mp4 (tools/make-loop.mjs, ACCEPTED in tmp/panel/kit/README.md)"
+      },
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Re-encoded 1920x640 (3:1) band loop, 712.7 KB (cap 900), 3.542 s, no audio; seam YDIF 3.02 against an inner max of 4.04 (the kit loop itself measured 3.94 vs 3.24 in this crop), first and last frames match by eye; the fluke stays in frame throughout.",
+        "checks": "COMPLIANCE section 2 frame by frame (frames 0, 42 and 84 of the MP4, frames 0 and 84 of the WebM viewed): no people, boats, land, text, marks or mascot; calm motion",
+        "by": "lane IMG, by eye",
+        "at": "2026-10-12T05:35:09.758Z"
+      },
+      "spend": "no new Higgsfield spend (BUILD-CONTRACT 4.17.11): re-encode of the kit loop"
+    }
+  ],
+  "realDerived": [
+    {
+      "id": "HERO-DESKTOP",
+      "file": "assets/derived/hero-uncle-tims-2600.jpg",
+      "kind": "REAL PHOTO (not AI-generated)",
+      "source": "assets/source/bc393109-uncle-tims-bridge.jpeg",
+      "operation": "ffmpeg -vf \"scale=2600:-1:flags=lanczos\" -q:v 2 -qmin 1 (mjpeg)",
+      "note": "the full frame resized from 4032x2681 to 2600 wide (no crop: the kayaker is kept, BUILD-CONTRACT 4.17.6)",
+      "jpegQualityEstimate": {
+        "quality": 93,
+        "scale": 13.8,
+        "allOnes": false,
+        "maxQ": 20
+      },
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Full frame of the client's Uncle Tim's Bridge photo resized to 2600x1729 (JPEG q~93 by DQT estimate); no crop, kayaker kept per BUILD-CONTRACT 4.17.6; no retouch.",
+        "checks": "Real photo: unaltered (no AI, no retouch); checked by eye on tmp/img/contact-real.png",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:29:08.223Z"
+      }
+    },
+    {
+      "id": "HERO-PHONE",
+      "file": "assets/derived/hero-uncle-tims-portrait.jpg",
+      "kind": "REAL PHOTO (not AI-generated)",
+      "source": "assets/source/bc393109-uncle-tims-bridge.jpeg",
+      "operation": "ffmpeg -vf \"crop=1170:2232:330:449\" -q:v 2 -qmin 1 (mjpeg)",
+      "note": "a portrait crop at the source resolution (no resize): x 330-1500, y 449-2681 (aspect 0.524 = the 390x744 CSS phone stage, so cover crops nothing). Height 2232 = 744 CSS x 3, the R-1 floor at 390x844@3 (stage min-height 100svh - 60 - 40); the source has only 1946 px below the tree line (y 735), so about 95 CSS px of sky stay at the top; the island trees and the bridge deck fill the rest of the top 45%. The kayaker (x ~2895) is outside this crop",
+      "jpegQualityEstimate": {
+        "quality": 93,
+        "scale": 13.8,
+        "allOnes": false,
+        "maxQ": 20
+      },
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Re-crop 1170x2232 at source resolution (x 330-1500, y 449-2681): aspect 0.524 matches the 390x744 CSS phone stage (100svh - 60 - 40), and 2232 px = 744 x 3 meets R-1 at 390x844@3 (the first 1188x2040 crop gave about 0.91). The source has only 1946 px below the tree line, so about 95 CSS px of sky remain at the very top; the island trees and the bridge deck fill the rest of the top 45% (red guide in tmp/img/hero-phone.jpg). Unaltered pixels; kayaker outside the crop.",
+        "checks": "Real photo: crop only (no resize, no retouch); checked by eye on tmp/img/hero-phone.jpg",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:41:05.752Z"
+      }
+    },
+    {
+      "id": "FLOWER-HERO",
+      "file": "assets/derived/trichomes-macro.jpg",
+      "kind": "REAL PHOTO (not AI-generated)",
+      "source": "tmp/understand/imagery/masters/14-trichomes_lossy0.jpeg",
+      "operation": "byte copy",
+      "note": "byte copy of the lossy=0 master of the site photo trichomes.jpg (docs/IMAGE-INVENTORY.md img0073)",
+      "jpegQualityEstimate": {
+        "quality": 93,
+        "scale": 14.89,
+        "allOnes": false,
+        "maxQ": 15
+      },
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Byte copy of the lossy=0 master of the site's trichomes photo (1958x1300); unaltered.",
+        "checks": "Real photo: unaltered (no AI, no retouch); checked by eye on tmp/img/contact-real.png",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:29:09.009Z"
+      }
+    },
+    {
+      "id": "SOCIAL-CARD",
+      "file": "assets/derived/social-card-1200x630.jpg",
+      "kind": "REAL PHOTO (not AI-generated)",
+      "source": "tmp/understand/imagery/masters/21-CCC_exterior_lossy0.jpeg",
+      "operation": "ffmpeg -filter_complex \"[0:v]scale=1200:-1:flags=lanczos,crop=1200:630:0:150[bg];[1:v]scale=230:190:flags=lanczos[lg];[bg][lg]overlay=40:404:format=auto,format=yuvj420p[v]\" -q:v 2 -qmin 1 (mjpeg)",
+      "note": "the real storefront photo (lossy=0 master of CCC-exterior.jpeg, 1303x977, docs/IMAGE-INVENTORY.md img0033: the real storefront) resized to 1200 wide and cropped to 1200x630 (rows 150-780: roof sign to window sills), with the unaltered town-sign logo (assets/brand/logo-agegate.png, 370x306, scaled to 230x190, aspect error 0.11%) placed bottom-left; no AI, no new text, no retouching",
+      "jpegQualityEstimate": {
+        "quality": 93,
+        "scale": 13.8,
+        "allOnes": false,
+        "maxQ": 20
+      },
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "The real storefront (CCC-exterior lossy=0 master) resized to 1200 wide, cropped to 1200x630 (roof sign to window sills), with the unaltered town-sign logo (230x190, aspect error 0.11%) bottom-left; no AI, no new text; the overlay repeats the roof sign by design (a share card carries the mark).",
+        "checks": "Real photo: unaltered (no AI, no retouch); checked by eye on tmp/img/contact-real.png",
+        "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+        "at": "2026-10-12T05:29:09.255Z"
+      }
+    }
+  ],
+  "slots": [
+    {
+      "id": "HERO-DESKTOP",
+      "file": "assets/derived/hero-uncle-tims-2600.jpg",
+      "ai": false,
+      "tag": false,
+      "size": "2600x1729",
+      "verdict": "ACCEPT",
+      "calls": null,
+      "rejected": []
+    },
+    {
+      "id": "HERO-PHONE",
+      "file": "assets/derived/hero-uncle-tims-portrait.jpg",
+      "ai": false,
+      "tag": false,
+      "size": "1170x2232",
+      "verdict": "ACCEPT",
+      "calls": null,
+      "rejected": []
+    },
+    {
+      "id": "POSTCARD",
+      "file": "assets/source/11d6f8ea-CCC-Storefront.webp",
+      "ai": false,
+      "tag": false,
+      "size": "870x580",
+      "verdict": "ACCEPT",
+      "calls": null,
+      "rejected": []
+    },
+    {
+      "id": "VISIT-BAND",
+      "file": "assets/source/5f016e6a-IMG_1120-scaled-rt2d5p1mcclazmug6c944qs29ucmzx27k695ol8a40.jpg",
+      "ai": false,
+      "tag": false,
+      "size": "1920x1080",
+      "verdict": "ACCEPT",
+      "calls": null,
+      "rejected": []
+    },
+    {
+      "id": "MEGA-SHOPALL",
+      "file": "assets/source/516bebba-IMG_7184-2.webp",
+      "ai": false,
+      "tag": false,
+      "size": "1680x1119",
+      "verdict": "ACCEPT",
+      "calls": null,
+      "rejected": []
+    },
+    {
+      "id": "REVIEWS-BAND",
+      "file": "assets/source/38e62043-Sunset-Orleans.jpg",
+      "ai": false,
+      "tag": false,
+      "size": "5487x3658",
+      "verdict": "ACCEPT",
+      "calls": null,
+      "rejected": []
+    },
+    {
+      "id": "FLOWER-HERO",
+      "file": "assets/derived/trichomes-macro.jpg",
+      "ai": false,
+      "tag": false,
+      "size": "1958x1300",
+      "verdict": "ACCEPT",
+      "calls": null,
+      "rejected": []
+    },
+    {
+      "id": "AWARD",
+      "file": "assets/source/da79ce17-CC26_CapeCod_Winner.jpg",
+      "ai": false,
+      "tag": false,
+      "size": "1200x1948",
+      "verdict": "ACCEPT",
+      "calls": null,
+      "rejected": []
+    },
+    {
+      "id": "AGEGATE-VEIL",
+      "file": "assets/source/13096766-CCC-Beach-Team.webp",
+      "ai": false,
+      "tag": false,
+      "size": "1920x1674",
+      "verdict": "ACCEPT",
+      "calls": null,
+      "rejected": []
+    },
+    {
+      "id": "MEGA-SEEDS",
+      "file": "assets/source/2cf6a363-cannabis-seeds.jpg",
+      "ai": false,
+      "tag": false,
+      "size": "2300x1494",
+      "verdict": "ACCEPT",
+      "calls": null,
+      "rejected": []
+    },
+    {
+      "id": "SOCIAL-CARD",
+      "file": "assets/derived/social-card-1200x630.jpg",
+      "ai": false,
+      "tag": false,
+      "size": "1200x630",
+      "verdict": "ACCEPT",
+      "calls": null,
+      "rejected": []
+    },
+    {
+      "id": "CUT-BUD",
+      "file": "assets/generated/cut-bud.png",
+      "ai": true,
+      "tag": false,
+      "size": "600x600",
+      "verdict": "ACCEPT",
+      "calls": null,
+      "rejected": []
+    },
+    {
+      "id": "CUT-SEAGLASS",
+      "file": "assets/generated/cut-seaglass.png",
+      "ai": true,
+      "tag": false,
+      "size": "460x348",
+      "verdict": "ACCEPT",
+      "calls": null,
+      "rejected": []
+    },
+    {
+      "id": "CUT-SEAGLASS-2",
+      "file": "assets/generated/cut-seaglass-2.png",
+      "ai": true,
+      "tag": false,
+      "size": "460x348",
+      "verdict": "ACCEPT",
+      "calls": {
+        "ultra": 2,
+        "cutout": 2
+      },
+      "rejected": [
+        {
+          "archivedAs": "tmp/img/rejected/CUT-SEAGLASS-2.1791782345575.png",
+          "verdict": "REJECT",
+          "reason": "The cobalt piece renders as a faceted, glossy gemstone with gold flecks, not frosted tumbled sea glass, so it clashes with the kit's sea-glass cut-out; regenerate with frosted matte edges."
+        }
+      ]
+    },
+    {
+      "id": "CUT-FANLEAF",
+      "file": "assets/generated/cut-fanleaf.png",
+      "ai": true,
+      "tag": false,
+      "size": "440x440",
+      "verdict": "ACCEPT",
+      "calls": null,
+      "rejected": []
+    },
+    {
+      "id": "CUT-TERPENE",
+      "file": "assets/generated/cut-terpene.png",
+      "ai": true,
+      "tag": false,
+      "size": "460x348",
+      "verdict": "ACCEPT",
+      "calls": null,
+      "rejected": []
+    },
+    {
+      "id": "CUT-BEACHGRASS",
+      "file": "assets/generated/cut-beachgrass.png",
+      "ai": true,
+      "tag": false,
+      "size": "460x608",
+      "verdict": "ACCEPT",
+      "calls": null,
+      "rejected": []
+    },
+    {
+      "id": "CUT-FLUKE",
+      "file": "assets/generated/cut-fluke.png",
+      "ai": true,
+      "tag": false,
+      "size": "1040x354",
+      "verdict": "ACCEPT",
+      "calls": null,
+      "rejected": []
+    },
+    {
+      "id": "BAND-DEEPWATER",
+      "file": "assets/generated/band-deepwater.jpg",
+      "ai": true,
+      "tag": false,
+      "size": "3136x1344",
+      "verdict": "ACCEPT",
+      "calls": null,
+      "rejected": []
+    },
+    {
+      "id": "H-BAND-1",
+      "file": "assets/generated/h-band-1.jpg",
+      "ai": true,
+      "tag": false,
+      "size": "2368x1792",
+      "verdict": "ACCEPT",
+      "calls": {
+        "ultra": 1,
+        "cutout": 0
+      },
+      "rejected": []
+    },
+    {
+      "id": "H-BAND-2",
+      "file": "assets/generated/h-band-2.jpg",
+      "ai": true,
+      "tag": true,
+      "size": "3136x1344",
+      "verdict": "ACCEPT",
+      "calls": {
+        "ultra": 1,
+        "cutout": 0
+      },
+      "rejected": []
+    },
+    {
+      "id": "H-BAND-3",
+      "file": "assets/generated/h-band-3.jpg",
+      "ai": true,
+      "tag": true,
+      "size": "3136x1344",
+      "verdict": "ACCEPT",
+      "calls": {
+        "ultra": 1,
+        "cutout": 0
+      },
+      "rejected": []
+    },
+    {
+      "id": "H-BAND-4",
+      "file": "assets/generated/h-band-4.jpg",
+      "ai": true,
+      "tag": true,
+      "size": "3136x1344",
+      "verdict": "ACCEPT",
+      "calls": {
+        "ultra": 1,
+        "cutout": 0
+      },
+      "rejected": []
+    },
+    {
+      "id": "H-BAND-5",
+      "file": "assets/generated/h-band-5.jpg",
+      "ai": true,
+      "tag": false,
+      "size": "3136x1344",
+      "verdict": "ACCEPT",
+      "calls": {
+        "ultra": 3,
+        "cutout": 0
+      },
+      "rejected": [
+        {
+          "archivedAs": "tmp/img/rejected/H-BAND-5.1791782345138.jpg",
+          "verdict": "REJECT",
+          "reason": "Low backdrop variety: the lower half is flat uniform sand (glass blog cards over it would blur nothing, DESIGN-SPEC 4.6 / R-11) and the requested pale aqua is absent. Content itself is compliant. Regenerate with foam and water across the frame."
+        },
+        {
+          "archivedAs": "tmp/img/rejected/H-BAND-5.1791782483773.jpg",
+          "verdict": "REJECT",
+          "reason": "Attempt 2 repeats attempt 1's layout: the lower 40% is flat uniform sand, so glass blog cards placed there would have no backdrop variety (DESIGN-SPEC 4.6 / R-11); retry with foam and water across the frame."
+        }
+      ]
+    },
+    {
+      "id": "H-CAT-1",
+      "file": "assets/generated/h-cat-1.jpg",
+      "ai": true,
+      "tag": true,
+      "size": "2368x1792",
+      "verdict": "ACCEPT",
+      "calls": {
+        "ultra": 3,
+        "cutout": 0
+      },
+      "rejected": [
+        {
+          "archivedAs": "tmp/img/rejected/H-CAT-1.1791782483532.jpg",
+          "verdict": "REJECT",
+          "reason": "At full resolution the aqua pieces read as soft mint gummy candies beside the cannabis, not chalky sea glass (COMPLIANCE 2: candy look; edibles confusion), and the buds look crumbly; retry with chalky broken sea glass and frosty buds."
+        },
+        {
+          "archivedAs": "tmp/img/rejected/H-CAT-1.1791782591663.jpg",
+          "verdict": "REJECT",
+          "reason": "Attempt 2: the buds are right now, but the 'sea glass chips' render as soft opaque white pieces (like white chocolate or candy) beside the cannabis: an edibles/candy reading on a flower card (COMPLIANCE 2). Retry with grey beach pebbles."
+        }
+      ]
+    },
+    {
+      "id": "H-CAT-2",
+      "file": "assets/generated/h-cat-2.jpg",
+      "ai": true,
+      "tag": true,
+      "size": "2368x1792",
+      "verdict": "ACCEPT",
+      "calls": {
+        "ultra": 3,
+        "cutout": 0
+      },
+      "rejected": [
+        {
+          "archivedAs": "tmp/img/rejected/H-CAT-2.1791782344496.jpg",
+          "verdict": "REJECT",
+          "reason": "Subject wrong and food-like: the three objects are waffle/wafer cones (read as ice-cream cones), not pre-rolls; a food/candy look fails COMPLIANCE 2 (candy look) and misstates the card. Regenerate with joints described explicitly."
+        },
+        {
+          "archivedAs": "tmp/img/rejected/H-CAT-2.1791782482998.jpg",
+          "verdict": "REJECT",
+          "reason": "Attempt 2: the three items are straight white cylinders with orange filter ends that read as cigarettes, not cannabis pre-rolls (misleading subject); retry with cone-shaped pre-rolls."
+        }
+      ]
+    },
+    {
+      "id": "H-CAT-3",
+      "file": "assets/generated/h-cat-3.jpg",
+      "ai": true,
+      "tag": true,
+      "size": "2368x1792",
+      "verdict": "ACCEPT",
+      "calls": {
+        "ultra": 2,
+        "cutout": 0
+      },
+      "rejected": [
+        {
+          "archivedAs": "tmp/img/rejected/H-CAT-3.1791782344758.jpg",
+          "verdict": "REJECT",
+          "reason": "Off-palette: a saturated yellow-orange backdrop, far from the brand's pale aqua, sky and sand (DESIGN-SPEC 10.1); bright flat colour field reads as a promo flyer. Device itself is plain and unmarked. Regenerate with a pale sky backdrop."
+        }
+      ]
+    },
+    {
+      "id": "CAT-PREROLLS",
+      "file": "assets/generated/cat-prerolls.jpg",
+      "ai": true,
+      "tag": true,
+      "size": "2368x1792",
+      "verdict": "ACCEPT",
+      "calls": {
+        "ultra": 2,
+        "cutout": 0
+      },
+      "rejected": [
+        {
+          "archivedAs": "tmp/img/rejected/CAT-PREROLLS.1791782622058.jpg",
+          "verdict": "SUPERSEDED",
+          "reason": "Compliant (no people, smoke, text or marks) but shows empty paper cones rather than filled pre-rolls; replaced by attempt 2. Never referenced by a slot."
+        }
+      ]
+    },
+    {
+      "id": "CAT-EDIBLES",
+      "file": "assets/generated/cat-edibles.jpg",
+      "ai": true,
+      "tag": true,
+      "size": "2368x1792",
+      "verdict": "ACCEPT",
+      "calls": {
+        "ultra": 1,
+        "cutout": 0
+      },
+      "rejected": []
+    },
+    {
+      "id": "CAT-VAPORIZERS",
+      "file": "assets/generated/cat-vaporizers.jpg",
+      "ai": true,
+      "tag": true,
+      "size": "2368x1792",
+      "verdict": "ACCEPT",
+      "calls": {
+        "ultra": 1,
+        "cutout": 0
+      },
+      "rejected": []
+    },
+    {
+      "id": "CAT-TINCTURES",
+      "file": "assets/generated/cat-tinctures.jpg",
+      "ai": true,
+      "tag": true,
+      "size": "2368x1792",
+      "verdict": "ACCEPT",
+      "calls": {
+        "ultra": 1,
+        "cutout": 0
+      },
+      "rejected": []
+    },
+    {
+      "id": "CAT-CONCENTRATES",
+      "file": "assets/generated/cat-concentrates.jpg",
+      "ai": true,
+      "tag": true,
+      "size": "2368x1792",
+      "verdict": "ACCEPT",
+      "calls": {
+        "ultra": 1,
+        "cutout": 0
+      },
+      "rejected": []
+    },
+    {
+      "id": "CAT-TOPICALS",
+      "file": "assets/generated/cat-topicals.jpg",
+      "ai": true,
+      "tag": true,
+      "size": "2368x1792",
+      "verdict": "ACCEPT",
+      "calls": {
+        "ultra": 1,
+        "cutout": 0
+      },
+      "rejected": []
+    },
+    {
+      "id": "CAT-CBD",
+      "file": "assets/generated/cat-cbd.jpg",
+      "ai": true,
+      "tag": true,
+      "size": "2368x1792",
+      "verdict": "ACCEPT",
+      "calls": {
+        "ultra": 1,
+        "cutout": 0
+      },
+      "rejected": []
+    },
+    {
+      "id": "CAT-ACCESSORIES",
+      "file": "assets/generated/cat-accessories.jpg",
+      "ai": true,
+      "tag": true,
+      "size": "2368x1792",
+      "verdict": "ACCEPT",
+      "calls": {
+        "ultra": 1,
+        "cutout": 0
+      },
+      "rejected": []
+    },
+    {
+      "id": "CAT-APPAREL",
+      "file": "assets/generated/cat-apparel.jpg",
+      "ai": true,
+      "tag": true,
+      "size": "2368x1792",
+      "verdict": "ACCEPT",
+      "calls": {
+        "ultra": 1,
+        "cutout": 0
+      },
+      "rejected": []
+    },
+    {
+      "id": "PLACE-1",
+      "file": "assets/generated/place-1.jpg",
+      "ai": true,
+      "tag": true,
+      "size": "2752x1536",
+      "verdict": "ACCEPT",
+      "calls": {
+        "ultra": 1,
+        "cutout": 0
+      },
+      "rejected": []
+    },
+    {
+      "id": "PLACE-2",
+      "file": "assets/generated/place-2.jpg",
+      "ai": true,
+      "tag": true,
+      "size": "2752x1536",
+      "verdict": "ACCEPT",
+      "calls": {
+        "ultra": 1,
+        "cutout": 0
+      },
+      "rejected": []
+    },
+    {
+      "id": "PLACE-3",
+      "file": "assets/generated/place-3.jpg",
+      "ai": true,
+      "tag": true,
+      "size": "2752x1536",
+      "verdict": "ACCEPT",
+      "calls": {
+        "ultra": 1,
+        "cutout": 0
+      },
+      "rejected": []
+    },
+    {
+      "id": "PLACE-4",
+      "file": "assets/generated/place-4.jpg",
+      "ai": true,
+      "tag": true,
+      "size": "2752x1536",
+      "verdict": "ACCEPT",
+      "calls": {
+        "ultra": 1,
+        "cutout": 0
+      },
+      "rejected": []
+    },
+    {
+      "id": "PLACE-5",
+      "file": "assets/generated/place-5.jpg",
+      "ai": true,
+      "tag": true,
+      "size": "2752x1536",
+      "verdict": "ACCEPT",
+      "calls": {
+        "ultra": 1,
+        "cutout": 0
+      },
+      "rejected": []
+    },
+    {
+      "id": "PLACE-6",
+      "file": "assets/generated/place-6.jpg",
+      "ai": true,
+      "tag": true,
+      "size": "2752x1536",
+      "verdict": "ACCEPT",
+      "calls": {
+        "ultra": 1,
+        "cutout": 0
+      },
+      "rejected": []
+    },
+    {
+      "id": "MENU-FLOWER",
+      "file": "assets/generated/menu-flower.jpg",
+      "ai": true,
+      "tag": false,
+      "size": "2752x1536",
+      "verdict": "ACCEPT",
+      "calls": null,
+      "rejected": []
+    },
+    {
+      "id": "MENU-EDIBLES",
+      "file": "assets/generated/menu-edibles.jpg",
+      "ai": true,
+      "tag": false,
+      "size": "2368x1792",
+      "verdict": "ACCEPT",
+      "calls": null,
+      "rejected": []
+    },
+    {
+      "id": "MENU-CONC",
+      "file": "assets/generated/menu-conc.jpg",
+      "ai": true,
+      "tag": false,
+      "size": "2368x1792",
+      "verdict": "ACCEPT",
+      "calls": {
+        "ultra": 3,
+        "cutout": 0
+      },
+      "rejected": [
+        {
+          "archivedAs": "tmp/img/rejected/MENU-CONC.1791782344956.jpg",
+          "verdict": "REJECT",
+          "reason": "Candy look: the amber concentrate renders as jelly/gummy cubes sitting in syrup (COMPLIANCE 2, candy look); the woven pebble mat behind is busy. Regenerate with a honey-like resin."
+        },
+        {
+          "archivedAs": "tmp/img/rejected/MENU-CONC.1791783847370.jpg",
+          "verdict": "ACCEPT",
+          "reason": "Attempt 2: glossy honey-like amber resin in a small clear dish and beside it, a plain unmarked white device; pale sea-green ground; no people, smoke, text or marks; the resin is an amorphous blob, not cubes, shapes or gummies, so no candy look."
+        }
+      ]
+    },
+    {
+      "id": "MENU-TOPICALS",
+      "file": "assets/generated/menu-topicals.jpg",
+      "ai": true,
+      "tag": false,
+      "size": "2368x1792",
+      "verdict": "ACCEPT",
+      "calls": null,
+      "rejected": []
+    },
+    {
+      "id": "MENU-ACC",
+      "file": "assets/generated/menu-acc.jpg",
+      "ai": true,
+      "tag": false,
+      "size": "2368x1792",
+      "verdict": "ACCEPT",
+      "calls": {
+        "ultra": 3,
+        "cutout": 0
+      },
+      "rejected": [
+        {
+          "archivedAs": "tmp/img/rejected/MENU-ACC.1791782345361.jpg",
+          "verdict": "REJECT",
+          "reason": "Text and brand-like marks: a paper card printed with pseudo-text and a printed neck tag on the hoodie (COMPLIANCE 2: no text, labels or marks)."
+        },
+        {
+          "archivedAs": "tmp/img/rejected/MENU-ACC.1791782483279.jpg",
+          "verdict": "REJECT",
+          "reason": "Attempt 2: the sweatshirt's neck label carries a printed mark and tiny text (COMPLIANCE 2: no text, labels or marks)."
+        }
+      ]
+    },
+    {
+      "id": "LOOP-FLUKE-POSTER",
+      "file": "assets/generated/loop-fluke-poster.jpg",
+      "ai": true,
+      "tag": false,
+      "size": "1920x640",
+      "verdict": "ACCEPT",
+      "calls": null,
+      "rejected": []
+    }
+  ],
+  "labelCheck": "node tools/ai-label.mjs verify assets/generated --control"
+}

@@ -1,0 +1,114 @@
+/* interior.css - interior templates (src/theme/templates.mjs): the interior hero (DESIGN-SPEC 6.9 "Interior pages": a
+   half-bleed photo frame on the right, a light glass pane overlapping it from the left by 80px or more), the prose
+   band (6.24: a 70ch prose column on a light surface over the pattern band), the posts band (6.19), the events
+   calendar list (BUILD-CONTRACT 4.18.4), the about-page popup (4.15.9) and the 404 page (4.18.7).
+   Owner: T2a. 2026-10-12. Protrusions: at most one per template, at the hero frame's bottom edge (5.3), never over
+   text or controls (R-17): placed at the frame's right side, which no pane or prose column reaches, and hidden at
+   900px and below where the pane overlaps the photo's bottom edge. */
+
+/* ---------------------------------------------------------------- interior hero */
+.ihero { position: relative; isolation: isolate; display: flex; align-items: center; min-height: clamp(340px, 34vw, 480px); padding: 32px 0 56px; }
+.ihero__frame { position: absolute; z-index: 0; top: 0; right: 0; bottom: 24px; width: 56%; overflow: hidden; border-radius: var(--r-l) 0 0 var(--r-l); background: linear-gradient(135deg, var(--sky), var(--foam)); }
+.ihero__frame > img, .ihero__frame > .img-missing, .ihero__frame .ai-frame { position: absolute; inset: 0; width: 100%; height: 100%; }
+.ihero__frame img { width: 100%; height: 100%; object-fit: cover; border-radius: 0; }
+.ihero__frame .img-missing { min-height: 0; border: 0; border-radius: 0; }
+/* the AI tag sits at the frame's top right, clear of the protrusion at its bottom edge */
+.ihero__frame .ai-tag { top: 14px; bottom: auto; right: 14px; }
+.ihero__in { position: relative; z-index: 1; }
+.ihero__pane { width: min(680px, 58%); padding: 28px 34px 26px; }
+.ihero--plain { min-height: 0; padding: 40px 0 32px; }
+.ihero--plain .ihero__pane { width: min(920px, 100%); }   /* the prose column's width, so the two surfaces align */
+.ihero__pane > :last-child { margin-bottom: 0; }
+.ihero__pane h1, .ihero__pane .h1 { font: 900 clamp(2rem, 1.25rem + 2.2vw, 3.3rem)/1.04 var(--f-disp); font-stretch: 116%; letter-spacing: -.012em; color: var(--harbour-2); margin: 0 0 14px; }
+.ihero__h1 strong { display: block; font-weight: 900; }
+.ihero__h1 .t2 { display: block; margin-top: 8px; font-size: clamp(1.1rem, .9rem + .8vw, 1.6rem); font-weight: 700; font-stretch: 108%; color: var(--ink-2); line-height: 1.2; }
+.ihero__pane h2, .ihero__pane h3 { font-size: var(--fs-h3); font-weight: 800; color: var(--harbour); margin: 0 0 12px; }
+.ihero__pane .btn-row { margin: 16px 0 0; }
+.ihero__pane .meta { margin: 0 0 8px; color: var(--ink-2); }
+.ihero__pane .event-field { margin: 0 0 10px; font-size: var(--fs-1); color: var(--ink-2); }
+.ihero__pane .event-field.h1 { font-size: clamp(2rem, 1.25rem + 2.2vw, 3.3rem); color: var(--harbour-2); }
+.ihero__crumbs p { margin: 0 0 12px; }
+.crumbs p { margin: 0 0 12px; font-size: var(--fs-1); color: var(--ink-2); }
+.crumbs a { color: var(--harbour); font-weight: 600; }
+.crumbs__sep { color: var(--ink-3); }
+/* the one protrusion: straddles the frame's bottom edge at its right side; --below = the part under the edge
+   (about 40% of the object's height), so it never reaches the next band's content (band padding 48-72px) */
+.protrude--ihero { right: 5%; bottom: calc(24px - var(--below, 60px)); width: var(--w, 200px); rotate: -8deg; }
+.protrude--post { --w: 220px; --below: 60px; }
+.protrude--event { --w: 200px; --below: 56px; rotate: 10deg; }
+.protrude--list { --w: 180px; --below: 64px; }
+.protrude--page { --w: 190px; --below: 66px; rotate: 14deg; }
+.protrude--gloss { --w: 220px; --below: 60px; }
+.protrude--town { --w: 150px; --below: 70px; rotate: 4deg; }
+@media (max-width: 1100px) { .protrude--ihero { --w: 160px; --below: 52px; } .protrude--town { --w: 130px; --below: 60px; } }
+
+/* ---------------------------------------------------------------- prose band (6.24) */
+.iprose { padding-block: var(--sec-pad); }
+.iprose .band__pattern { background-color: var(--sky); opacity: .45; }
+.iprose__col { position: relative; z-index: 1; max-width: 920px; padding: 36px 44px; background: var(--c-white-a95); border: 1px solid var(--c-white-a90); border-radius: var(--r-l); box-shadow: inset 0 1px 0 var(--c-white), var(--sh-2); }
+.iprose__sec { padding: 0; }
+.iprose__sec + .iprose__sec { margin-top: 28px; }
+.iprose__col p, .iprose__col li, .iprose__col .rich > *, .iprose__col h2, .iprose__col h3, .iprose__col h4, .iprose__col h5, .iprose__col h6 { max-width: 70ch; }
+.iprose__col h2 { font-size: clamp(1.6rem, 1.1rem + 1.4vw, 2.3rem); margin-top: 8px; }
+.iprose__col h3 { margin-top: 8px; }
+.iprose__col a:not(.btn) { color: var(--harbour); font-weight: 600; }
+.iprose__col a:not(.btn):hover { color: var(--harbour-2); text-decoration-thickness: 2px; text-decoration-color: var(--ocean); }
+.iprose__col a:not(.btn):focus-visible { color: var(--harbour-2); text-decoration-thickness: 2px; text-decoration-color: var(--ocean); }
+.iprose__col .media img, .iprose__col .rich img { border-radius: var(--r-s); }
+.iprose__col > :last-child, .iprose__sec > :last-child { margin-bottom: 0; }
+
+/* ---------------------------------------------------------------- posts band (6.19) */
+.iposts { padding-block: var(--sec-pad); }
+.iposts .h-sec, .iposts h2, .iposts h3:not(.post-card__title) { color: var(--harbour-2); }
+.ilisting { padding-block: 24px var(--sec-pad); }
+
+/* ---------------------------------------------------------------- events calendar (4.18.4) */
+.ical__col h3 { font-size: var(--fs-h3); margin: 0 0 12px; }
+.event-list ul { list-style: none; padding: 0; margin: 0; display: grid; gap: 14px; }
+.event-list li { max-width: none; }
+.event-list li:not(:first-child) { padding: 18px 20px; border-radius: var(--r-m); background: var(--foam); border: 1px solid var(--c-harbour-a14); }
+.event-list img { max-width: 220px; margin: 8px 0; }
+.event-list h4 { font-size: var(--fs-h3); margin: 8px 0; }
+
+/* ---------------------------------------------------------------- about-page popup (4.15.9) */
+.popup { width: min(92vw, 640px); max-height: 86vh; overflow: auto; padding: 22px; border: 0; }
+.popup::backdrop { background: var(--c-01283a-a55); }
+.popup img { border-radius: var(--r-m); }
+.popup__close { text-align: right; margin: 12px 0 0; }
+
+/* ---------------------------------------------------------------- 404 (4.18.7) */
+.i404 { min-height: calc(100svh - var(--hdr-h) - 120px); display: flex; align-items: center; }
+.i404 .band__in { width: 100%; }
+.i404__in { position: relative; max-width: 760px; margin: 0 auto; padding-top: 90px; }
+.i404__pane { padding: 48px 40px 36px; }
+.i404__pane h1 { color: var(--c-white); font-size: clamp(2.2rem, 1.4rem + 2.6vw, 3.6rem); }
+.i404__pane p { color: var(--c-e2f2f9); font-size: var(--fs-3); }
+.i404__cta { display: flex; flex-wrap: wrap; gap: 12px; margin: 24px 0 0; }
+/* buttons inside the smoked pane: glass.css paints every link there --sky, so the button colours are restated */
+.i404__pane .btn--sky, .i404__pane .btn--sky:hover, .i404__pane .btn--sky:focus-visible { color: var(--harbour-2); }
+.btn--on-dark, .i404__pane .btn--on-dark { color: var(--c-white); border-color: var(--c-white-a70); }
+@media (hover: hover) { .btn--on-dark:hover { color: var(--c-white); background: var(--c-white-a12); border-color: var(--c-white); } }
+.btn--on-dark:focus-visible { color: var(--c-white); background: var(--c-white-a12); border-color: var(--c-white); }
+/* the fluke crosses the pane's top edge (about 34px into the pane's 48px top padding, never over the H1) */
+.protrude--i404 { right: 4%; top: 22px; width: 300px; z-index: 2; }
+
+/* ---------------------------------------------------------------- responsive */
+@media (max-width: 900px) {
+  .ihero { display: block; min-height: 0; padding: 0 0 28px; }
+  .ihero__frame { position: relative; inset: auto; width: 100%; aspect-ratio: 4 / 3; max-height: min(62vh, 520px); border-radius: 0; }
+  .ihero__pane { width: 100%; margin-top: -40px; padding: 22px 22px 20px; }
+  .ihero--plain { padding-top: 28px; }
+  .ihero--plain .ihero__pane { margin-top: 0; }
+  .protrude--ihero { display: none; }
+}
+@media (max-width: 700px) {
+  .ihero__pane { padding: 20px 18px 18px; border-radius: var(--r-m); }
+  .iprose__col { padding: 24px 18px; border-radius: var(--r-m); }
+  .i404__in { padding-top: 70px; }
+  .i404__pane { padding: 48px 20px 28px; }
+  .protrude--i404 { width: 220px; top: 23px; right: 2%; }
+}
+@media print {
+  .ihero__frame, .iprose .band__pattern { display: none; }
+  .ihero__pane, .iprose__col { width: 100%; box-shadow: none; }
+}

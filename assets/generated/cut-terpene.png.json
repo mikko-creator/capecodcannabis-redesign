@@ -1,0 +1,56 @@
+{
+  "tool": "tmp/img/kit.mjs (lane IMG)",
+  "slot": "CUT-TERPENE",
+  "file": "assets/generated/cut-terpene.png",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands.",
+  "from": "tmp/panel/kit/terpene-botanicals.cut.png",
+  "fromSha256": "6bdad4743656c7ca84e51c5c74628049944b357d3254d1ec18cbf70a2407d6aa",
+  "derivation": "ffmpeg lanczos resize to 460 px wide (2x the largest painted width, DESIGN-SPEC 5.3 / R-20), RGBA PNG; no other change",
+  "width": 460,
+  "height": 348,
+  "sha256": "8aa19869375c318471b12e763c81fb6462e6ac988a322eea44b50853ca6adf97",
+  "origin": {
+    "tool": "tools/fal-one.mjs",
+    "model": "fal-ai/flux-pro/v1.1-ultra",
+    "prompt": "Studio photograph of fresh terpene botanicals arranged with space between them: a lemon slice, a small pine sprig, a lavender sprig and a few black peppercorns, all fully in frame, isolated on a plain pure white seamless background, soft daylight, crisp editorial detail, no text, no people",
+    "input": {
+      "aspect_ratio": "4:3",
+      "output_format": "jpeg"
+    },
+    "requestId": "01a12dab-195c-7092-8a88-233b1823f9c6",
+    "seed": 3256096708,
+    "width": 2368,
+    "height": 1792,
+    "contentType": "image/jpeg",
+    "bytes": 891932,
+    "sha256": "5ed724c92936d69057347076d94569752afc8a12c4e0dc74cd8d277e5583f5c9",
+    "file": "tmp/panel/kit/terpene-botanicals.jpg",
+    "generatedAt": "2026-10-12T01:12:40.871Z",
+    "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands.",
+    "cutout": {
+      "model": "fal-ai/birefnet/v2",
+      "requestId": "01a12dab-4c4e-7080-8b2a-d67a987ab280",
+      "file": "tmp/panel/kit/terpene-botanicals.cut.png",
+      "bytes": 2796039
+    }
+  },
+  "originSidecar": "tmp/panel/kit/terpene-botanicals.jpg.json",
+  "kitVerdict": "tmp/panel/kit/README.md: ACCEPT (lemon slice, herb sprigs, lavender, peppercorns)",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "Kit cut-out re-checked on #015375: lemon slice, herb sprigs, lavender and peppercorns; no text; botanicals only.",
+    "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+    "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+    "at": "2026-10-12T05:24:34.936Z"
+  },
+  "reviewHistory": [
+    {
+      "verdict": "ACCEPT",
+      "reason": "Kit cut-out re-checked on #015375: lemon slice, herb sprigs, lavender and peppercorns; no text; botanicals only.",
+      "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+      "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+      "at": "2026-10-12T05:24:34.936Z"
+    }
+  ]
+}

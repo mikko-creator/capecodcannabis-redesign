@@ -1,0 +1,38 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "CAT-TINCTURES",
+  "file": "assets/generated/cat-tinctures.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Three unlabelled amber glass dropper bottles standing on folded pale linen, a sprig of fresh green herbs beside them, bright window light, soft sea-blue shadows, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+  "input": {
+    "output_format": "jpeg",
+    "aspect_ratio": "4:3"
+  },
+  "seed": 1649337786,
+  "requestId": "01a12e88-d34c-7632-be79-879677c2ed19",
+  "cutout": null,
+  "width": 2368,
+  "height": 1792,
+  "sha256": "13937f1fd7023680a8e0905c3c40e0b1e02c61135ed168e4516fdd8fda5ff8a2",
+  "raw": "tmp/img/raw/CAT-TINCTURES.1791782091072.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-12T05:14:52.920Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "Two unlabelled amber dropper bottles with a green herb sprig on linen by a window; no text, labels, people or medical symbols.",
+    "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+    "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+    "at": "2026-10-12T05:23:53.564Z"
+  },
+  "reviewHistory": [
+    {
+      "verdict": "ACCEPT",
+      "reason": "Two unlabelled amber dropper bottles with a green herb sprig on linen by a window; no text, labels, people or medical symbols.",
+      "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+      "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+      "at": "2026-10-12T05:23:53.564Z"
+    }
+  ]
+}

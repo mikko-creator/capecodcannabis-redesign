@@ -3,6 +3,13 @@
 // A clone built with root-relative paths cannot be opened over file://:
 // "/styles/x.css" resolves to the filesystem root, not the clone root.
 // Serving the directory is what makes those paths mean what they say.
+//
+//   node tools/serve.mjs [--root <dir>] [--port <n>] [--not-found <file>] [--open]
+//     --root       directory to serve (default: the current directory); --port default 8787 (0 = any free port)
+//     --not-found  answer every miss with this page (relative to --root) and status 404
+//     --open       also open the address in a NEW Chrome window with its own profile and the network guard of
+//                  tools/cdp.mjs (BUILD-CONTRACT 4.17.13). Without it no browser is opened (the default since
+//                  2026-10-12, lane P0: an auto-opened default browser ran without the guard); --no-open is accepted.
 import fs from 'node:fs';
 import path from 'node:path';
 import http from 'node:http';
@@ -11,7 +18,7 @@ const args = process.argv.slice(2);
 const argOf = (n, d) => { const i = args.indexOf('--' + n); return i === -1 ? d : args[i + 1]; };
 const root = path.resolve(argOf('root', process.cwd()));
 const port = Number(argOf('port', 8787));
-const open = !args.includes('--no-open');
+const open = args.includes('--open') && !args.includes('--no-open');
 /* --not-found <file, relative to root>: answer every miss with that page and status 404, the way static hosts serve
    a site's 404.html at the failing request's own path (fix round 2, D7: tests the 404 page at any depth) */
 const notFound = argOf('not-found', null) ? path.resolve(root, argOf('not-found', null)) : null;
@@ -122,12 +129,17 @@ server.on('listening', () => {
   console.log('');
   console.log('    ' + url);
   console.log('');
-  console.log('  If your browser did not open, copy the address above into it.');
+  console.log(open ? '  A guarded Chrome window opens on it (own profile, network guard).' : '  Copy the address above into your browser (or pass --open).');
   console.log('  Leave this window open while you browse. Ctrl-C stops it,');
   console.log('  and every missing file that was requested is listed on exit.');
   if (open) {
-    const cmd = process.platform === 'win32' ? 'start ""' : process.platform === 'darwin' ? 'open' : 'xdg-open';
-    import('node:child_process').then(({ exec }) => exec(cmd + ' "' + url + '"', () => {}));
+    // never the default browser: a separate Chrome with its own profile and the network guard (exits 2 on a refused
+    // SR_CHROME_ALLOW before anything starts)
+    Promise.all([import('./cdp.mjs'), import('node:child_process'), import('node:os')]).then(([cdp, cp, os]) => {
+      const guard = cdp.networkGuard();
+      const profile = path.join(os.default.tmpdir(), 'sr-serve-chrome-' + actual);
+      cp.spawn(cdp.CHROME, ['--user-data-dir=' + profile, '--no-first-run', '--no-default-browser-check', ...guard, url], { stdio: 'ignore', detached: true }).unref();
+    });
   }
 });
 

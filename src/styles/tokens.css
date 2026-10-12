@@ -1,0 +1,207 @@
+/* tokens.css - design tokens and font faces (DESIGN-SPEC 3.1-3.6). Owner: T1a. Skeleton by T0, 2026-10-12, ported
+   from tmp/panel/winner/css/site.css lines 1-55 with the spec changes (smoked low stop .72, focus ring tokens, hidden
+   announcement: --ann-h 0). Fonts are self-hosted; the bundler swaps each asset: font URL below for its fingerprinted path. */
+
+@font-face { font-family: "Roboto"; font-style: normal; font-weight: 100 900; font-stretch: 100%; font-display: swap; src: url("asset:fonts/roboto-normal-latin.woff2") format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: "Roboto"; font-style: normal; font-weight: 100 900; font-stretch: 100%; font-display: swap; src: url("asset:fonts/roboto-normal-latin-ext.woff2") format("woff2"); unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+@font-face { font-family: "Roboto"; font-style: italic; font-weight: 100 900; font-stretch: 100%; font-display: swap; src: url("asset:fonts/roboto-italic-latin.woff2") format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+/* Roboto Flex is display: optional (orchestrator, 2026-10-12, R-22). The hero headline wraps onto more lines in Roboto Flex
+   than in its Arial-based fallback (hero 534 px tall vs 477 px, measured by tmp/orch/font-shift.mjs at 1280x585), so a
+   late swap moved the hero and everything under it: CLS 0.196 at 1280x585@1.5. The face is preloaded, so it is normally
+   ready for the first paint; when it is not, that page view keeps the fallback instead of jumping. */
+@font-face { font-family: "Roboto Flex"; font-style: normal; font-weight: 500 1000; font-stretch: 100% 151%; font-display: optional; src: url("asset:fonts/roboto-flex-latin.woff2") format("woff2"); }
+@font-face { font-family: "Playball"; font-style: normal; font-weight: 400; font-display: swap; src: url("asset:fonts/playball-normal-latin.woff2") format("woff2"); }
+/* metric-matched fallbacks so the swap does not shift layout (R-22). Vertical metrics read from the shipped files by
+   tmp/t1a/font-metrics.mjs (T1a, 2026-10-12): Roboto hhea 1900/-500/0 per 2048 em and Roboto Flex typo (USE_TYPO_METRICS)
+   1900/-500/0 per 2048 give ascent 92.50% and descent 24.34% at size-adjust 100.3%; Playball typo 950/-300 per 1000
+   gives 98.96% / 31.25% at 96%. The size-adjust values are the usual letter-frequency widths against Arial/Georgia
+   (not re-derived here); CLS is the gate (R-22). */
+@font-face { font-family: "Roboto Fallback"; src: local("Arial"); size-adjust: 100.3%; ascent-override: 92.5%; descent-override: 24.34%; line-gap-override: 0%; }
+@font-face { font-family: "Roboto Flex Fallback"; src: local("Arial"); size-adjust: 100.3%; ascent-override: 92.5%; descent-override: 24.34%; line-gap-override: 0%; }
+@font-face { font-family: "Playball Fallback"; src: local("Georgia"); size-adjust: 96%; ascent-override: 98.96%; descent-override: 31.25%; line-gap-override: 0%; }
+
+:root {
+  /* colour roles (3.1); measured ratios are in the spec */
+  --ocean: #02A7EB;        /* fills, glows, outlines, the focus HALO; never text on light */
+  --harbour: #015375;      /* headings, all body links on light grounds, primary button base */
+  --harbour-2: #013F59;    /* display headings, smoked glass, the footer sea */
+  --ocean-ink: #017BAE;    /* small eyebrows on pure white only, gradient-word start */
+  --sky: #C0E9FA;          /* pools, tints, pattern ground; links on dark */
+  --foam: #F2FAFD;         /* page ground */
+  --ink: #0C2431; --ink-2: #2C4A58; --ink-3: #4A6370;
+  --signal: #00DB4A;       /* in-stock dot only */
+  --signal-ink: #086A2E;   /* text beside the dot */
+  --grey: #636363; --mist: #F4F4F4;
+  --error-ink: #8A1C1C;
+  /* glass (4.1, 4.2) */
+  --g-hi: rgba(255,255,255,.80); --g-mid: rgba(240,250,254,.62); --g-lo: rgba(214,242,252,.52);
+  --g-edge: rgba(255,255,255,.78); --g-blur: 22px;
+  --s-hi: rgba(1,38,55,.80); --s-lo: rgba(1,63,89,.72);
+  /* type (3.2) */
+  --f-text: "Roboto", "Roboto Fallback", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+  --f-disp: "Roboto Flex", "Roboto Flex Fallback", "Roboto", system-ui, sans-serif;
+  --f-script: "Playball", "Playball Fallback", "Brush Script MT", cursive;
+  --fs-0: .8125rem; --fs-1: .9375rem; --fs-2: 1rem; --fs-3: 1.125rem;
+  --fs-h3: clamp(1.25rem, 1rem + .9vw, 1.6rem);
+  --fs-h2: clamp(1.8rem, 1.2rem + 2vw, 2.9rem);
+  --fs-hero: clamp(2.45rem, 1.3rem + 3.1vw, 4.4rem);
+  --fs-sub: clamp(1.15rem, .85rem + 1vw, 1.75rem);
+  /* space and shape (3.3-3.5) */
+  --sp-1: 4px; --sp-2: 8px; --sp-3: 12px; --sp-4: 16px; --sp-5: 24px; --sp-6: 32px; --sp-7: 48px; --sp-8: 72px; --sp-9: 112px;
+  --gut: clamp(16px, 3.6vw, 40px);
+  --wrap: 1240px;
+  --sec-pad: 72px;
+  --r-s: 12px; --r-m: 20px; --r-l: 28px; --r-pill: 999px; --r-print: 6px;
+  --sh-1: 0 1px 2px rgba(1,63,89,.10), 0 10px 24px -14px rgba(1,63,89,.34);
+  --sh-2: 0 2px 6px rgba(1,63,89,.08), 0 26px 50px -24px rgba(1,63,89,.46);
+  --sh-3: 0 4px 10px rgba(1,40,58,.10), 0 40px 80px -30px rgba(1,40,58,.55);
+  --sh-cut: drop-shadow(0 18px 18px rgba(1,40,58,.28));
+  /* focus (section 6): harbour ring on light grounds, white ring on dark; ocean halo */
+  --focus-ring: var(--harbour); --focus-halo: 0 0 0 6px rgba(2,167,235,.35);
+  /* motion (7) */
+  --ease: cubic-bezier(.2,.8,.2,1);
+  --ease-settle: cubic-bezier(.18,1.25,.4,1);
+  /* layout */
+  --hdr-h: 68px;
+  --ann-h: 0px;            /* the announcement bar is not rendered (BUILD-CONTRACT 4.17.2) */
+  /* z-planes (3.6) */
+  --z-totop: 40; --z-header: 50; --z-mega: 60; --z-sheet: 80; --z-gate: 100; --z-skip: 200;
+}
+@media (max-width: 1023px) { :root { --sec-pad: 48px; } }
+@media (max-width: 700px) { :root { --hdr-h: 60px; --sec-pad: 40px; } }
+
+/* C13-PALETTE-START (generated by tools/tokenize-css.mjs for site-reforge gate C13). Every colour the authored
+   stylesheets use, declared once. Edit a value here and every use follows; for new work prefer the role tokens above
+   (--ocean, --harbour, --sky, ...). Names: --c-<role or hex>[-a<alpha x100>]. Nothing else may declare a --c- name. */
+:root {
+  --c-0a6b93: #0a6b93;
+  --c-0b77a4: #0b77a4;
+  --c-2a2f3a: #2a2f3a;
+  --c-011e2c-a35: rgba(1,30,44,.35);
+  --c-011e2c-a70: rgba(1,30,44,.7);
+  --c-011e2d-a60: rgba(1,30,45,.6);
+  --c-012a3c: #012a3c;
+  --c-0389c2: #0389C2;
+  --c-01283a-a00: rgba(1,40,58,0);
+  --c-01283a-a18: rgba(1,40,58,.18);
+  --c-01283a-a25: rgba(1,40,58,.25);
+  --c-01283a-a30: rgba(1,40,58,.30);
+  --c-01283a-a42: rgba(1,40,58,.42);
+  --c-01283a-a45: rgba(1,40,58,.45);
+  --c-01283a-a50: rgba(1,40,58,.5);
+  --c-01283a-a55: rgba(1,40,58,.55);
+  --c-01283a-a60: rgba(1,40,58,.6);
+  --c-01283a-a62: rgba(1,40,58,.62);
+  --c-01283a-a75: rgba(1,40,58,.75);
+  --c-01283a-a78: rgba(1,40,58,.78);
+  --c-01476a: #01476a;
+  --c-02577a: #02577a;
+  --c-012232-a62: rgba(1,34,50,.62);
+  --c-012232-a72: rgba(1,34,50,.72);
+  --c-012232-a90: rgba(1,34,50,.90);
+  --c-012637-a55: rgba(1,38,55,.55);
+  --c-012637-a82: rgba(1,38,55,.82);
+  --c-012637-a95: rgba(1,38,55,.95);
+  --c-b3261e: #B3261E;
+  --c-black: #000;
+  --c-c0ecf6-a56: rgba(192,236,246,.56);
+  --c-c4e2fa-a58: rgba(196,226,250,.58);
+  --c-c8f2de-a56: rgba(200,242,222,.56);
+  --c-cfe9f2: #cfe9f2;
+  --c-d6f2fb-a70: rgba(214,242,251,.70);
+  --c-e2f2f9: #E2F2F9;
+  --c-e2f6fd-a78: rgba(226,246,253,.78);
+  --c-e2f6fd-a84: rgba(226,246,253,.84);
+  --c-e2f6fd-a92: rgba(226,246,253,.92);
+  --c-e3eef3: #e3eef3;
+  --c-e4f5fb: #e4f5fb;
+  --c-e4f7fc-a64: rgba(228,247,252,.64);
+  --c-e6f7fc-a80: rgba(230,247,252,.80);
+  --c-e8b437: #E8B437;
+  --c-e8f4fd-a64: rgba(232,244,253,.64);
+  --c-e8f7fd-a86: rgba(232,247,253,.86);
+  --c-e8faf0-a64: rgba(232,250,240,.64);
+  --c-ecf8fd-a94: rgba(236,248,253,.94);
+  --c-eef6f9: #eef6f9;
+  --c-eef9fd-a76: rgba(238,249,253,.76);
+  --c-f0fafe-a70: rgba(240,250,254,.70);
+  --c-f0fafe-a90: rgba(240,250,254,.9);
+  --c-f3fbfe-a86: rgba(243,251,254,.86);
+  --c-foam-a00: rgba(242,250,253,0);
+  --c-foam-a30: rgba(242,250,253,.30);
+  --c-foam-a50: rgba(242,250,253,.5);
+  --c-foam-a60: rgba(242,250,253,.6);
+  --c-foam-a78: rgba(242,250,253,.78);
+  --c-foam-a90: rgba(242,250,253,.9);
+  --c-harbour-2-a12: rgba(1,63,89,.12);
+  --c-harbour-2-a35: rgba(1,63,89,.35);
+  --c-harbour-2-a93: rgba(1,63,89,.93);
+  --c-harbour-a08: rgba(1,83,117,.08);
+  --c-harbour-a12: rgba(1,83,117,.12);
+  --c-harbour-a14: rgba(1,83,117,.14);
+  --c-harbour-a15: rgba(1,83,117,.15);
+  --c-harbour-a16: rgba(1,83,117,.16);
+  --c-harbour-a18: rgba(1,83,117,.18);
+  --c-harbour-a20: rgba(1,83,117,.2);
+  --c-harbour-a25: rgba(1,83,117,.25);
+  --c-harbour-a30: rgba(1,83,117,.3);
+  --c-harbour-a35: rgba(1,83,117,.35);
+  --c-harbour-a45: rgba(1,83,117,.45);
+  --c-harbour-a55: rgba(1,83,117,.55);
+  --c-harbour-a75: rgba(1,83,117,.75);
+  --c-harbour-a80: rgba(1,83,117,.8);
+  --c-ocean-a00: rgba(2,167,235,0);
+  --c-ocean-a10: rgba(2,167,235,.10);
+  --c-ocean-a12: rgba(2,167,235,.12);
+  --c-ocean-a14: rgba(2,167,235,.14);
+  --c-ocean-a20: rgba(2,167,235,.2);
+  --c-ocean-a22: rgba(2,167,235,.22);
+  --c-ocean-a28: rgba(2,167,235,.28);
+  --c-ocean-a30: rgba(2,167,235,.30);
+  --c-ocean-a34: rgba(2,167,235,.34);
+  --c-ocean-a38: rgba(2,167,235,.38);
+  --c-ocean-a45: rgba(2,167,235,.45);
+  --c-ocean-a50: rgba(2,167,235,.5);
+  --c-ocean-a55: rgba(2,167,235,.55);
+  --c-ocean-ink-a00: rgba(1,123,174,0);
+  --c-ocean-ink-a22: rgba(1,123,174,.22);
+  --c-signal-a00: rgba(0,219,74,0);
+  --c-signal-a12: rgba(0,219,74,.12);
+  --c-signal-a22: rgba(0,219,74,.22);
+  --c-sky-a00: rgba(192,233,250,0);
+  --c-sky-a08: rgba(192,233,250,.08);
+  --c-sky-a12: rgba(192,233,250,.12);
+  --c-sky-a14: rgba(192,233,250,.14);
+  --c-sky-a16: rgba(192,233,250,.16);
+  --c-sky-a18: rgba(192,233,250,.18);
+  --c-sky-a30: rgba(192,233,250,.3);
+  --c-sky-a40: rgba(192,233,250,.40);
+  --c-sky-a45: rgba(192,233,250,.45);
+  --c-sky-a55: rgba(192,233,250,.55);
+  --c-sky-a60: rgba(192,233,250,.6);
+  --c-sky-a70: rgba(192,233,250,.7);
+  --c-sky-a72: rgba(192,233,250,.72);
+  --c-sky-a90: rgba(192,233,250,.9);
+  --c-sky-a95: rgba(192,233,250,.95);
+  --c-white: #fff;
+  --c-white-a00: rgba(255,255,255,0);
+  --c-white-a12: rgba(255,255,255,.12);
+  --c-white-a18: rgba(255,255,255,.18);
+  --c-white-a28: rgba(255,255,255,.28);
+  --c-white-a55: rgba(255,255,255,.55);
+  --c-white-a70: rgba(255,255,255,.7);
+  --c-white-a72: rgba(255,255,255,.72);
+  --c-white-a75: rgba(255,255,255,.75);
+  --c-white-a78: rgba(255,255,255,.78);
+  --c-white-a80: rgba(255,255,255,.8);
+  --c-white-a82: rgba(255,255,255,.82);
+  --c-white-a85: rgba(255,255,255,.85);
+  --c-white-a86: rgba(255,255,255,.86);
+  --c-white-a88: rgba(255,255,255,.88);
+  --c-white-a90: rgba(255,255,255,.9);
+  --c-white-a92: rgba(255,255,255,.92);
+  --c-white-a95: rgba(255,255,255,.95);
+  --c-white-a96: rgba(255,255,255,.96);
+  --c-white-a97: rgba(255,255,255,.97);
+}
+/* C13-PALETTE-END */

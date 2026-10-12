@@ -1,0 +1,82 @@
+{
+  "schema": "ccc-reforge/removals@1",
+  "note": "Lane T2a (blocks + interior; src/theme/blocks.mjs, templates.mjs, features.js). Skeleton entries by T0 (DESIGN-SPEC 11, BUILD-CONTRACT 4.17.14); calendar, calculator and 404 entries by T2a, 2026-10-12. UI microcopy only.",
+  "removals": [
+    {
+      "id": "interior-calendar-ui",
+      "pages": [
+        "/events-calendar/"
+      ],
+      "kinds": [
+        "text",
+        "aria-label",
+        "placeholder",
+        "value"
+      ],
+      "pattern": "^(Events Search and Views Navigation|Search|Event Views Navigation|List|Month|Day|List Month Day|Today|Upcoming|Upcoming Upcoming|Select date\\.|Previous Events|Next Events|Previous Events Today Next Events|Subscribe to calendar|Google Calendar|iCalendar|Outlook 365|Outlook Live|Export \\.ics file|Export Outlook \\.ics file|Enter Keyword\\.|Search for Events by Keyword\\.|Search for events by Keyword\\.|Enter Keyword\\. Search for Events by Keyword\\.|Enter Keyword\\. Search for events by Keyword\\.|Search for events|Find Events)$",
+      "reason": "BUILD-CONTRACT 4.18.4 and 4.18.3: /events-calendar/ renders the captured event list as a static list (templates.mjs calendarMain) with no calendar UI. Removed with that UI, each a word of a control the rebuild does not have: the keyword search bar (its label, placeholder, aria-label and 'Find Events' button), the list/month/day view switcher ('List', 'Month', 'Day') and its screen-reader-only headings ('Events Search and Views Navigation', 'Search', 'Event Views Navigation', 'List'), the 'Today' and date-picker buttons ('Upcoming', 'Select date.'), the list pagination ('Previous Events' / 'Today' / 'Next Events'), and the 'Subscribe to calendar' export menu (Google Calendar, iCalendar, Outlook 365, Outlook Live, Export .ics file, Export Outlook .ics file), whose links the build already unlinks because they embed live-site URLs or ?ical= platform endpoints (docs/PIPELINE-SITE.md 6, 12). The list itself, '1 event found.' (screen-reader-only), the 'Events' H1 (screen-reader-only) and the closing tagline stay."
+    }
+  ],
+  "allowedAdded": [
+    {
+      "id": "interior-load-google-map",
+      "pages": "*",
+      "kinds": [
+        "text"
+      ],
+      "text": "Load Google map",
+      "reason": "BUILD-CONTRACT 4.17.14 and DESIGN-SPEC 11: every Google Maps iframe renders as a click-to-load facade with a \"Load Google map\" button; the iframe src stays verbatim in data-map-src and is set only on press (blocks.mjs embed() and rich())."
+    },
+    {
+      "id": "interior-google-map-title",
+      "pages": "*",
+      "kinds": [
+        "text"
+      ],
+      "text": "Google map",
+      "reason": "BUILD-CONTRACT 4.17.14: the loaded map iframe gets the declared title \"Google map\" (set by site.js from data-map-title; a title attribute is not a parity unit, declared for the record)."
+    },
+    {
+      "id": "interior-rail-controls",
+      "pages": "*",
+      "kinds": [
+        "text",
+        "aria-label"
+      ],
+      "pattern": "^(Previous|Next)$",
+      "reason": "DESIGN-SPEC 6.12 / 9 / 11: rails scroll with buttons named \"Previous\" and \"Next\" (the old slider's own \"Previous\"/\"Next\" are declared removals, BUILD-CONTRACT 4.16.3; this is the rebuild's replacement label)."
+    },
+    {
+      "id": "interior-review-read-more",
+      "pages": "*",
+      "kinds": [
+        "text",
+        "aria-label"
+      ],
+      "text": "Read more",
+      "reason": "DESIGN-SPEC 6.15 / 11: the review \"Read more\" toggle that expands a long verbatim review (no appended ellipsis; CSS clamps)."
+    },
+    {
+      "id": "interior-calc-close",
+      "pages": [
+        "/daily-purchase-limit-in-ma/"
+      ],
+      "kinds": [
+        "aria-label"
+      ],
+      "text": "Close",
+      "reason": "BUILD-CONTRACT 4.18.5: the purchase-limit calculator is a real dialog; the source's 'X' is its close button, whose accessible name is 'Close' (the visible 'X' stays, aria-hidden)."
+    },
+    {
+      "id": "interior-404-copy",
+      "pages": [
+        "/404.html"
+      ],
+      "kinds": [
+        "text"
+      ],
+      "pattern": "^(Page not found|Sorry, we could not find the page you were looking for\\.)$",
+      "reason": "BUILD-CONTRACT 4.18.7: the 404 page carries declared microcopy (the live 404 was never captured), plus the verbatim nav labels \"Shop Menu\" and \"Home\". Neutral wording, no claim (COMPLIANCE 3). [INTEGRATOR 2026-10-12: pages narrowed to the 404 page (dist/404.html)]"
+    }
+  ]
+}

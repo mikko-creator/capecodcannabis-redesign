@@ -1,0 +1,38 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "CAT-EDIBLES",
+  "file": "assets/generated/cat-edibles.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "A few plain squares of dark chocolate stacked on pale linen beside two unlabelled amber glass dropper bottles, muted natural colours, no sugar coating, plain square shapes only, simple and calm, bright soft daylight, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+  "input": {
+    "output_format": "jpeg",
+    "aspect_ratio": "4:3"
+  },
+  "seed": 416538424,
+  "requestId": "01a12e88-b2bd-76b1-9b47-1b714a8e5029",
+  "cutout": null,
+  "width": 2368,
+  "height": 1792,
+  "sha256": "a3beb7f4f31ace7f8beb2c3b908ee606fb01131f38c1ed26473b4882a05536c3",
+  "raw": "tmp/img/raw/CAT-EDIBLES.1791782083117.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-12T05:14:44.822Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "Plain dark chocolate squares (stacked, no shapes, no sugar coating, no print) beside two unlabelled amber dropper bottles on linen; muted; no people, text or marks; edibles plain.",
+    "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+    "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+    "at": "2026-10-12T05:23:52.962Z"
+  },
+  "reviewHistory": [
+    {
+      "verdict": "ACCEPT",
+      "reason": "Plain dark chocolate squares (stacked, no shapes, no sugar coating, no print) beside two unlabelled amber dropper bottles on linen; muted; no people, text or marks; edibles plain.",
+      "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+      "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+      "at": "2026-10-12T05:23:52.962Z"
+    }
+  ]
+}

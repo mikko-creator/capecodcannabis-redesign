@@ -597,3 +597,57 @@ Final run, on lane H2's final code (tmp/h2/DONE, 12:16:10). 763 input files hash
 | `node tools/link-check.mjs --dir tmp/h1/final` | exit 0; 6,734 HTML+CSS files, 801,727 local refs, 13,525 fragments, 0 broken; control fired |
 | `node tools/build-check.mjs --dir tmp/h1/final` | exit 0; 0 findings; routes 6,732/6,732, sitemap 6,542, products 5,857/5,857; control fired (17 planted defects) |
 | age gate and popup, one headless Chrome over file:// (`node tmp/h1/agegate-test.mjs tmp/h1/final`) | 29/29 checks pass, including Escape, "No" twice, storage-throws and JS off; popup opened 1,016 ms after "Yes"; the HTTP cache holds no http(s) entry; 15 Chrome processes with the run's user-data-dir while running, 0 after close |
+
+## 12. P1 change (2026-10-12): screen-reader-only text (`srOnly`) and decoded `_index.json` paths
+
+BUILD-CONTRACT 4.18.3 and 4.18.6. Models regenerated once with `node src/lib/extract.mjs` (13:35; marker
+`tmp/p1/MODELS-DONE`). The change touched 26 page models, `_index.json` and `chrome.json`; every other model is byte
+identical (`tmp/p1/diff-models.mjs` against the snapshot `tmp/p1/models-before/`).
+
+### 12.1 Which source text is screen-reader-only
+
+Text inside an element carrying one of these classes is hidden from sighted readers on the live site but read by
+screen readers (census of all 743 files in `audit/raw`: `tmp/p1/sr-census.mjs`):
+
+| class | where it carries text in the page region | where in the chrome |
+|---|---|---|
+| `elementor-screen-only` | contact-form labels; the search-form label on /free-bar-coasters/; social-icon names on /free-bar-coasters/; "Prev"/"Next" in post navigation (already `srLabel`); "Page" before each pagination number (9 pages) | header search label "Search"; footer social names |
+| `screen-reader-text` | the jet search-suggestions label "Search ..." (6 pages, hiddenAll blocks); /events-calendar/ "Events" H1 | jet-ajax-search label "Search ..." |
+| any class ending in `-visual-hide` (`tribe-common-a11y-visual-hide`) | /events-calendar/: "1 event found.", "Events Search and Views Navigation", "Search", "Event Views Navigation", "List", "Select date.", the "Events" after "Previous"/"Next" | none |
+| `tec-a11y-title-hidden` | /events-calendar/ "Events" H1 | none |
+
+**Not screen-reader-only:** `tribe-common-a11y-hidden` (6 elements, /events-calendar/ only). The Events Calendar uses it
+as a breakpoint visibility class: it sits on the desktop twin of a mobile element ("datepicker-desktop" next to
+"datepicker-mobile"), on the top-bar navigation, "Today" and the list-view description. Its stylesheet is not in
+`audit/` (UNVERIFIED), so this text is left as it was (visible copy), and 4.18.4 replaces that calendar UI anyway.
+
+### 12.2 The fields
+
+All markers are booleans except `srPrefix`. A field that is absent means visible text.
+
+| where | field | meaning; how the theme renders it |
+|---|---|---|
+| any block (`heading`, `rich`) | `srOnly: true` | the block's whole text is screen-reader-only in the source. Render it visually hidden (`<span class="sr">` inside the heading, or around the rich html). The H1 of /events-calendar/ is such a block. |
+| inside `rich.html` (also `html`, `tipHtml`) | `<span class="sr">...</span>` | an inline screen-reader-only run among visible text ("Previous <span class="sr">Events</span>"). `ctx.rich` keeps the span and its class; the theme's `.sr` class hides it. A rich block whose html would be one such span becomes `srOnly: true` with the span removed. |
+| `form.fields[]` | `labelSrOnly: true` | the field's `label` is screen-reader-only (the contact form: Name, Email, Phone (Optional), Reason for Inquiry, Message). The input and its placeholder stay visible. DESIGN-SPEC 6.21 allows a visible label with the same words; otherwise render `<label>` with class `sr`. |
+| `search` blocks, `chrome.search`, `chrome.ajaxSearch` | `labelSrOnly: true`, `buttonSrOnly: true` | the label is screen-reader-only; the button's text is screen-reader-only or only its `aria-label` in the source ("Search", "Search submit"). An icon button keeps the words as its accessible name (`<span class="sr">` or `aria-label`). |
+| `social.items[]` (page blocks and the chrome footer) | `srOnly: true` | the item's `label` ("Facebook", ...) is the icon link's screen-reader-only name. |
+| `posts.pagination` | `srPrefix: "Page"` | the screen-reader-only word before each page number: `text` "Page1 Page2" and `links[].label` "Page2" print as `<span class="sr">Page</span>2`. |
+| `postnav.prev/next` | `srLabel` (unchanged) | already modelled as screen-reader-only text. |
+
+Text parity is unaffected: the words stay in the model and in the built page (they are still text, only visually
+hidden). `node tools/text-parity.mjs --control` after the regeneration: exit 0, recall 1, missing 0, ADDED 0.
+
+The stub renders every marker inside `<span class="sr">` (`src/theme-stub/index.mjs`; `.sr` in `stub.css`).
+`tmp/p1/srtext-check.mjs` (the verifier's `tmp/hverify/srtext-check.mjs` with one change: `<span class="sr">` counts as
+hidden, like `<span class="sr-only">`) on the P1 stub build finds 1 of the verifier's 16 strings still visible: "List" on
+/events-calendar/. That visible "List" is the calendar's view-selector link (`span.tribe-events-c-view-selector__list-item-text`,
+visible in the source); the screen-reader-only "List" (the selector button's text) is inside `<span class="sr">`.
+4.18.4 removes the view selector in the theme.
+
+### 12.3 `_index.json` paths
+
+`_index.json` `pages[].path` and each model's own `path` now use the decoded UTF-8 output path, the form
+`src/content/routes.json` uses: `/terpenes/α-pinene/` (was `/terpenes/%ce%b1-pinene/`). This changed the 6 paths with
+percent-encoding (5 terpenes and `/cannabinoids/thca-δ9-tetrahydrocannabinolic-acid/`). Links inside the models keep the
+lower-case percent-encoded form; the build resolves both.

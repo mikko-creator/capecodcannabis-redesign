@@ -1,0 +1,64 @@
+/* glass.css - the glass recipe (DESIGN-SPEC 4.1-4.5). Owner: T1a. Skeleton by T0, 2026-10-12, from the prototype
+   (site.css 76-110) with the spec changes: smoked low stop .72 (tokens), plate and scrim recipes, the fallbacks for
+   no backdrop-filter, reduced transparency and forced colours. ONE RULE: no glass inside glass (R-15): an element
+   with backdrop-filter never has an ancestor with backdrop-filter. */
+.glass {
+  position: relative;
+  border-radius: var(--r-l);
+  background:
+    radial-gradient(120% 90% at var(--mx, 30%) var(--my, 0%), var(--c-white-a55), var(--c-white-a00) 60%),
+    linear-gradient(150deg, var(--g-hi), var(--g-mid) 48%, var(--g-lo));
+  -webkit-backdrop-filter: blur(var(--g-blur)) saturate(175%);
+  backdrop-filter: blur(var(--g-blur)) saturate(175%);
+  border: 1px solid var(--g-edge);
+  box-shadow: inset 0 1px 0 var(--c-white-a95), inset 0 0 0 1px var(--c-white-a18), inset 0 -22px 40px -30px var(--c-ocean-a38), var(--sh-2);
+}
+/* frost grain: the pane's only pseudo-element */
+.glass::before {
+  content: ""; position: absolute; inset: 0; border-radius: inherit; pointer-events: none; z-index: 0;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 .55 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  opacity: .16; mix-blend-mode: soft-light;
+}
+.glass > * { position: relative; z-index: 1; }
+.glass--aqua { --g-mid: var(--c-e4f7fc-a64); --g-lo: var(--c-c0ecf6-a56); }
+.glass--green { --g-mid: var(--c-e8faf0-a64); --g-lo: var(--c-c8f2de-a56); }
+.glass--blue { --g-mid: var(--c-e8f4fd-a64); --g-lo: var(--c-c4e2fa-a58); }
+.glass--hero { --g-hi: var(--c-white-a86); --g-mid: var(--c-eef9fd-a76); --g-lo: var(--c-d6f2fb-a70); }
+/* smoked pane: dark bands only (4.2) */
+.glass--smoke {
+  color: var(--c-white);
+  background:
+    radial-gradient(120% 90% at var(--mx, 15%) var(--my, 0%), var(--c-sky-a16), var(--c-sky-a00) 55%),
+    linear-gradient(150deg, var(--s-hi), var(--s-lo));
+  border-color: var(--c-sky-a30);
+  box-shadow: inset 0 1px 0 var(--c-sky-a40), inset 0 0 0 1px var(--c-sky-a08), var(--sh-3);
+}
+.glass--smoke::before { opacity: .10; }
+.glass--smoke a { color: var(--sky); }
+.glass--smoke h1, .glass--smoke h2, .glass--smoke h3, .glass--smoke .h-sec { color: var(--c-white); }
+/* label plate on photo cards (4.3): the card itself has no backdrop-filter */
+.plate {
+  position: relative; z-index: 3; border-radius: var(--r-m);
+  background: linear-gradient(150deg, var(--c-white-a82), var(--c-f0fafe-a70));
+  -webkit-backdrop-filter: blur(16px) saturate(170%); backdrop-filter: blur(16px) saturate(170%);
+  border: 1px solid var(--c-white-a85); box-shadow: inset 0 1px 0 var(--c-white), var(--sh-1);
+}
+/* image-card scrim (4.4): mega, phone menu, Shop All */
+.scrim { position: absolute; inset: 0; z-index: -1; pointer-events: none; background: linear-gradient(180deg, var(--c-01283a-a00) 30%, var(--c-01283a-a62) 60%, var(--c-012232-a90) 100%); }
+/* plain card for flat grounds (4.6) */
+.card { position: relative; background: var(--c-white); border-radius: var(--r-m); box-shadow: var(--sh-2); }
+
+/* fallbacks (4.5): text contrast never depends on the blur (R-14) */
+@supports not ((backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px))) {
+  .glass, .plate { background: linear-gradient(150deg, var(--c-white-a96), var(--c-ecf8fd-a94)); }
+  .glass--smoke { background: linear-gradient(150deg, var(--c-012637-a95), var(--c-harbour-2-a93)); }
+}
+@media (prefers-reduced-transparency: reduce) {
+  .glass, .plate { background: linear-gradient(150deg, var(--c-white-a96), var(--c-ecf8fd-a94)); -webkit-backdrop-filter: none; backdrop-filter: none; }
+  .glass--smoke { background: linear-gradient(150deg, var(--c-012637-a95), var(--c-harbour-2-a93)); }
+}
+@media (forced-colors: active) {
+  .glass, .glass--smoke, .plate, .card { background: Canvas; color: CanvasText; border: 1px solid CanvasText; -webkit-backdrop-filter: none; backdrop-filter: none; }
+  .glass::before, .scrim { display: none; }
+  :focus-visible { outline-color: Highlight; }
+}

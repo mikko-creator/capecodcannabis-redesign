@@ -1,0 +1,56 @@
+{
+  "tool": "tmp/img/kit.mjs (lane IMG)",
+  "slot": "CUT-FANLEAF",
+  "file": "assets/generated/cut-fanleaf.png",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands.",
+  "from": "tmp/panel/kit/fan-leaf.cut.png",
+  "fromSha256": "c57fb567f02c0bca2fd01c679d76d84e639c0773844ef9fe44ed2750f170848d",
+  "derivation": "ffmpeg lanczos resize to 440 px wide (2x the largest painted width, DESIGN-SPEC 5.3 / R-20), RGBA PNG; no other change",
+  "width": 440,
+  "height": 440,
+  "sha256": "3472e73dbd3db84149d9e3a0db6929520316d176ca38c700d5da89d8940bab8f",
+  "origin": {
+    "tool": "tools/fal-one.mjs",
+    "model": "fal-ai/flux-pro/v1.1-ultra",
+    "prompt": "Botanical studio photograph of a single cannabis fan leaf: seven long serrated leaflets radiating like fingers from ONE single point at the top of a straight petiole, the largest leaflet in the center, symmetrical and anatomically correct, whole leaf entirely in frame with margin, isolated on a plain pure white seamless background, soft daylight, crisp detail, no text, no people",
+    "input": {
+      "aspect_ratio": "1:1",
+      "output_format": "jpeg"
+    },
+    "requestId": "01a12dac-f809-7131-a87a-85a4d9e49435",
+    "seed": 2896747392,
+    "width": 2048,
+    "height": 2048,
+    "contentType": "image/jpeg",
+    "bytes": 1002558,
+    "sha256": "a745847ac5c5aa640b226d37fb64f2f4ef6a5a46a059ab0df8cce0cdf18b5793",
+    "file": "tmp/panel/kit/fan-leaf.jpg",
+    "generatedAt": "2026-10-12T01:14:41.532Z",
+    "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands.",
+    "cutout": {
+      "model": "fal-ai/birefnet/v2",
+      "requestId": "01a12dad-239a-7c21-80a5-4b001b8493f0",
+      "file": "tmp/panel/kit/fan-leaf.cut.png",
+      "bytes": 2590158
+    }
+  },
+  "originSidecar": "tmp/panel/kit/fan-leaf.jpg.json",
+  "kitVerdict": "tmp/panel/kit/README.md: ACCEPT (regenerated; nine leaflets from one point)",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "Kit cut-out re-checked on #015375: nine leaflets from one point (correct anatomy); clean edge; no text.",
+    "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+    "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+    "at": "2026-10-12T05:24:34.721Z"
+  },
+  "reviewHistory": [
+    {
+      "verdict": "ACCEPT",
+      "reason": "Kit cut-out re-checked on #015375: nine leaflets from one point (correct anatomy); clean edge; no text.",
+      "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+      "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+      "at": "2026-10-12T05:24:34.721Z"
+    }
+  ]
+}

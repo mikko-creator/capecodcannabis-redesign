@@ -1,0 +1,73 @@
+/* base.css - reset, ground, type defaults, links, the global focus ring, buttons, utility classes.
+   Owner: T1a. Skeleton by T0, 2026-10-12 (DESIGN-SPEC 3.2, 6 "Global focus ring", 6.22). */
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; scroll-padding-top: calc(var(--hdr-h) + 16px); overflow-x: clip; }
+body { margin: 0; font-family: var(--f-text); font-size: var(--fs-2); line-height: 1.6; color: var(--ink); background: var(--foam); overflow-x: clip; }
+img, video { max-width: 100%; height: auto; display: block; }
+svg { flex: none; }
+a { color: var(--harbour); text-decoration-thickness: 1px; text-underline-offset: 3px; }
+/* links (6.22): hover and focus share one rule (R-32) */
+:where(a:focus-visible) { color: var(--harbour-2); }
+@media (hover: hover) { :where(a:hover) { color: var(--harbour-2); } }
+h1, h2, h3, h4, h5, h6 { font-family: var(--f-disp); color: var(--harbour-2); line-height: 1.1; margin: 0 0 var(--sp-4); text-wrap: balance; }
+h1, .h1 { font-size: var(--fs-h2); font-weight: 900; font-stretch: 118%; letter-spacing: -.01em; }
+h2 { font-size: var(--fs-h2); font-weight: 800; font-stretch: 112%; }
+h3 { font-size: var(--fs-h3); font-weight: 800; font-stretch: 110%; }
+h4, h5, h6 { font-size: var(--fs-3); font-weight: 800; }
+p { margin: 0 0 var(--sp-4); }
+ul, ol { margin: 0 0 var(--sp-4); }
+button { font: inherit; color: inherit; cursor: pointer; }
+input, select, textarea { font: inherit; color: inherit; }
+main { display: block; outline: none; }
+/* the global focus ring (section 6; R-33): 3px harbour + offset 3px + ocean halo on light grounds */
+:focus-visible { outline: 3px solid var(--focus-ring); outline-offset: 3px; box-shadow: var(--focus-halo); border-radius: 6px; }
+.on-dark :focus-visible, .ftr :focus-visible, .glass--smoke :focus-visible, .band--smoke :focus-visible { outline-color: var(--c-white); box-shadow: 0 0 0 6px var(--ocean); }
+/* utilities */
+.sr, .sr-only { position: absolute !important; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0 0 0 0); clip-path: inset(50%); white-space: nowrap; border: 0; }
+.wrap { width: 100%; max-width: calc(var(--wrap) + 2 * var(--gut)); margin-inline: auto; padding-inline: var(--gut); }
+.skip { position: absolute; left: 12px; top: -80px; z-index: var(--z-skip); background: var(--c-white); color: var(--harbour); padding: 10px 16px; border-radius: 10px; font-weight: 700; box-shadow: var(--sh-2); }
+.skip:focus, .skip:focus-visible { top: 12px; }
+.script { font-family: var(--f-script); font-weight: 400; font-style: normal; }
+.fine { font-size: var(--fs-0); color: var(--ink-3); line-height: 1.5; }
+.ico { width: 20px; height: 20px; }
+.grad { color: var(--harbour); }
+@supports ((-webkit-background-clip: text) or (background-clip: text)) {
+  .grad { background: linear-gradient(100deg, var(--ocean-ink) 0%, var(--c-0389c2) 40%, var(--harbour) 100%); -webkit-background-clip: text; background-clip: text; color: transparent; padding-right: .04em; }
+}
+.ital { font-family: var(--f-text); font-style: italic; font-weight: 700; font-stretch: 100%; }
+.draw { position: relative; display: inline-block; }
+.draw svg { position: absolute; left: -2%; bottom: -.3em; width: 104%; height: .45em; overflow: visible; pointer-events: none; }
+.draw path { fill: none; stroke: var(--ocean); stroke-width: 4; stroke-linecap: round; vector-effect: non-scaling-stroke; stroke-dasharray: 240; stroke-dashoffset: 0; }
+.h-sec { font: 900 var(--fs-h2)/1.05 var(--f-disp); font-stretch: 118%; letter-spacing: -.01em; color: var(--harbour-2); margin: 0 0 var(--sp-5); }
+.h-sec a { color: inherit; text-decoration: none; }
+/* buttons (6.22): pills, 46px tall */
+.btn { --b: var(--harbour); position: relative; display: inline-flex; align-items: center; justify-content: center; gap: 10px; min-height: 46px; padding: 12px 24px; border-radius: var(--r-pill); border: 1px solid transparent; font: 700 var(--fs-2)/1.2 var(--f-text); letter-spacing: .01em; text-decoration: none; cursor: pointer; transition: transform .35s var(--ease), box-shadow .35s var(--ease), background-color .35s, color .35s, border-color .35s; }
+.btn--lg { min-height: 54px; padding: 14px 30px; font-size: var(--fs-3); }
+.btn--sm { min-height: 40px; padding: 9px 18px; font-size: var(--fs-1); }
+.btn--ink { background: linear-gradient(180deg, var(--c-0a6b93), var(--harbour)); color: var(--c-white); box-shadow: inset 0 1px 0 var(--c-white-a28), 0 10px 24px -12px var(--c-harbour-a75); }
+.btn--glass { background: var(--c-white-a72); color: var(--harbour); border-color: var(--c-white-a95); box-shadow: inset 0 1px 0 var(--c-white), var(--sh-1); }
+.btn--ghost { background: transparent; color: var(--harbour); border-color: var(--c-harbour-a45); }
+.btn--sky { background: var(--sky); color: var(--harbour-2); }
+/* hover and focus states are twins with the same declarations (R-32); the focus twin also keeps the global ring.
+   The ink button adds the 4px ocean halo on both (6.22). */
+.btn--ink:focus-visible { color: var(--c-white); transform: translateY(-2px); background: linear-gradient(180deg, var(--c-0b77a4), var(--c-01476a)); box-shadow: 0 0 0 4px var(--c-ocean-a45), 0 14px 26px -12px var(--c-harbour-a80); }
+.btn--glass:focus-visible { background: var(--c-white); color: var(--harbour); transform: translateY(-2px); }
+.btn--ghost:focus-visible { background: var(--c-harbour-a08); color: var(--harbour); border-color: var(--harbour); }
+.btn--sky:focus-visible { background: var(--c-white); color: var(--harbour-2); transform: translateY(-2px); }
+@media (hover: hover) {
+  .btn--ink:hover { color: var(--c-white); transform: translateY(-2px); background: linear-gradient(180deg, var(--c-0b77a4), var(--c-01476a)); box-shadow: 0 0 0 4px var(--c-ocean-a45), 0 14px 26px -12px var(--c-harbour-a80); }
+  .btn--glass:hover { background: var(--c-white); color: var(--harbour); transform: translateY(-2px); }
+  .btn--ghost:hover { background: var(--c-harbour-a08); color: var(--harbour); border-color: var(--harbour); }
+  .btn--sky:hover { background: var(--c-white); color: var(--harbour-2); transform: translateY(-2px); }
+}
+.btn:active { transform: translateY(0); box-shadow: var(--sh-1); }
+.chip, .pill { transition: background-color .3s, transform .3s var(--ease); }
+a.pill:focus-visible { background: var(--sky); transform: translateY(-1px); }
+@media (hover: hover) { a.pill:hover { background: var(--sky); transform: translateY(-1px); } }
+.btn[disabled], .btn[aria-disabled="true"] { opacity: .55; cursor: not-allowed; transform: none; }
+.chip { display: inline-flex; align-items: baseline; gap: 6px; padding: 3px 10px; border-radius: var(--r-s); background: var(--c-white); border: 1px solid var(--c-harbour-a18); font-size: var(--fs-1); }
+.chip small { font-size: var(--fs-0); color: var(--ink-3); }
+.pill { display: inline-block; padding: 5px 12px; border-radius: var(--r-pill); background: var(--c-white-a80); border: 1px solid var(--c-harbour-a18); color: var(--harbour); font-weight: 600; font-size: var(--fs-1); text-decoration: none; }
+/* rating graphic: five star shapes (a star mask repeated), no text; the accessible name is the verbatim label */
+.stars { display: inline-block; width: 5.2em; height: 1em; margin-right: 6px; vertical-align: -0.1em; background: var(--c-e8b437); -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4l-5.9 3.1 1.2-6.5L2.5 9.4l6.6-.9z'/%3E%3C/svg%3E") 0 0 / 1.04em 1em repeat-x; mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='m12 2.5 2.9 6 6.6.9-4.8 4.6 1.2 6.5L12 17.4l-5.9 3.1 1.2-6.5L2.5 9.4l6.6-.9z'/%3E%3C/svg%3E") 0 0 / 1.04em 1em repeat-x; }
+.img-missing { display: block; width: 100%; background: linear-gradient(135deg, var(--c-sky-a55), var(--c-foam-a90)); border: 1px dashed var(--c-harbour-a25); border-radius: var(--r-s); min-height: 60px; }

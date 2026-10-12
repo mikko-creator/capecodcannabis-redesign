@@ -1,0 +1,36 @@
+{
+  "tool": "tmp/img/derive.mjs (lane IMG)",
+  "slot": "HERO-PHONE",
+  "file": "assets/derived/hero-uncle-tims-portrait.jpg",
+  "kind": "real photo (not AI-generated); crop/resize only, never retouched",
+  "source": "assets/source/bc393109-uncle-tims-bridge.jpeg",
+  "sourceSha256": "ba130e6054d043975465a00ed7dd5c2751c5e1b32dfc19f8c187a54c43c8805f",
+  "operation": "ffmpeg -vf \"crop=1170:2232:330:449\" -q:v 2 -qmin 1 (mjpeg)",
+  "note": "a portrait crop at the source resolution (no resize): x 330-1500, y 449-2681 (aspect 0.524 = the 390x744 CSS phone stage, so cover crops nothing). Height 2232 = 744 CSS x 3, the R-1 floor at 390x844@3 (stage min-height 100svh - 60 - 40); the source has only 1946 px below the tree line (y 735), so about 95 CSS px of sky stay at the top; the island trees and the bridge deck fill the rest of the top 45%. The kayaker (x ~2895) is outside this crop",
+  "width": 1170,
+  "height": 2232,
+  "bytes": 462531,
+  "sha256": "2e98398cdd2831aecbcbc224adc9e4956d9c5e22e83c042772ed550e1517ba83",
+  "jpegQualityEstimate": {
+    "quality": 93,
+    "scale": 13.8,
+    "allOnes": false,
+    "maxQ": 20
+  },
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "Re-crop 1170x2232 at source resolution (x 330-1500, y 449-2681): aspect 0.524 matches the 390x744 CSS phone stage (100svh - 60 - 40), and 2232 px = 744 x 3 meets R-1 at 390x844@3 (the first 1188x2040 crop gave about 0.91). The source has only 1946 px below the tree line, so about 95 CSS px of sky remain at the very top; the island trees and the bridge deck fill the rest of the top 45% (red guide in tmp/img/hero-phone.jpg). Unaltered pixels; kayaker outside the crop.",
+    "checks": "Real photo: crop only (no resize, no retouch); checked by eye on tmp/img/hero-phone.jpg",
+    "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+    "at": "2026-10-12T05:41:05.752Z"
+  },
+  "reviewHistory": [
+    {
+      "verdict": "ACCEPT",
+      "reason": "Re-crop 1170x2232 at source resolution (x 330-1500, y 449-2681): aspect 0.524 matches the 390x744 CSS phone stage (100svh - 60 - 40), and 2232 px = 744 x 3 meets R-1 at 390x844@3 (the first 1188x2040 crop gave about 0.91). The source has only 1946 px below the tree line, so about 95 CSS px of sky remain at the very top; the island trees and the bridge deck fill the rest of the top 45% (red guide in tmp/img/hero-phone.jpg). Unaltered pixels; kayaker outside the crop.",
+      "checks": "Real photo: crop only (no resize, no retouch); checked by eye on tmp/img/hero-phone.jpg",
+      "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+      "at": "2026-10-12T05:41:05.752Z"
+    }
+  ]
+}

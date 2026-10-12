@@ -4812,7 +4812,7 @@
   },
   {
    "slug": "cannabinoids-thca-ce-b49-tetrahydrocannabinolic-acid",
-   "path": "/cannabinoids/thca-%ce%b49-tetrahydrocannabinolic-acid/",
+   "path": "/cannabinoids/thca-δ9-tetrahydrocannabinolic-acid/",
    "kind": "cannabinoid",
    "wpTemplate": "cannabinoid",
    "sourceUrl": "https://capecodcannabis.com/cannabinoids/thca-%ce%b49-tetrahydrocannabinolic-acid/",
@@ -9259,7 +9259,7 @@
   },
   {
    "slug": "terpenes-ce-b1-phellandrene",
-   "path": "/terpenes/%ce%b1-phellandrene/",
+   "path": "/terpenes/α-phellandrene/",
    "kind": "terpene",
    "wpTemplate": "terpene",
    "sourceUrl": "https://capecodcannabis.com/terpenes/%ce%b1-phellandrene/",
@@ -9273,7 +9273,7 @@
   },
   {
    "slug": "terpenes-ce-b1-pinene",
-   "path": "/terpenes/%ce%b1-pinene/",
+   "path": "/terpenes/α-pinene/",
    "kind": "terpene",
    "wpTemplate": "terpene",
    "sourceUrl": "https://capecodcannabis.com/terpenes/%ce%b1-pinene/",
@@ -9287,7 +9287,7 @@
   },
   {
    "slug": "terpenes-ce-b1-terpinene",
-   "path": "/terpenes/%ce%b1-terpinene/",
+   "path": "/terpenes/α-terpinene/",
    "kind": "terpene",
    "wpTemplate": "terpene",
    "sourceUrl": "https://capecodcannabis.com/terpenes/%ce%b1-terpinene/",
@@ -9301,7 +9301,7 @@
   },
   {
    "slug": "terpenes-ce-b2-ocimene",
-   "path": "/terpenes/%ce%b2-ocimene/",
+   "path": "/terpenes/β-ocimene/",
    "kind": "terpene",
    "wpTemplate": "terpene",
    "sourceUrl": "https://capecodcannabis.com/terpenes/%ce%b2-ocimene/",
@@ -9315,7 +9315,7 @@
   },
   {
    "slug": "terpenes-ce-b2-pinene",
-   "path": "/terpenes/%ce%b2-pinene/",
+   "path": "/terpenes/β-pinene/",
    "kind": "terpene",
    "wpTemplate": "terpene",
    "sourceUrl": "https://capecodcannabis.com/terpenes/%ce%b2-pinene/",

@@ -18,12 +18,26 @@ These changes enforce BUILD-CONTRACT 4.7, 4.15 and 4.16. The details are in the 
 | **Late images** (`audit/late-images.json`): 26 Dutchie event images and 2 home banners resolve to `assets/source/late/` and get WebP variants. | Pass `ref \|\| srcUrl` to `ctx.img`, as before. A Dutchie URL is hotlinked only when no local copy exists. In `rich` HTML, `data-source-url` is now used when `src` is absent. | 4, 10 |
 | **Link hygiene.** `_gl`, `_ga` and `utm_*` are stripped from internal links. Other query strings are kept, and external links are untouched. | none, as long as links go through `ctx.url`, `ctx.link` or `ctx.rich` | 6 |
 | **JSON-LD policy.** No "Medical Marijuana Dispensary" `alternateName`. `openingHours` is the printed `08:00-20:00`. No FAQPage stating 1 ounce / 28 grams. No e-mail other than `info@capecodcannabis.com`. Joint S3 images become the local copy. | new `page.ldDropped` (declared, never printed) | 5 |
-| **Conflict purge** on /daily-purchase-limit-in-ma/: only the desktop (56 g) variant of each `conflict: true` pair renders. The 28 g block is in `page.removedBlocks`. | none; never render `removedBlocks` | 5 |
+| **Conflict purge** on /daily-purchase-limit-in-ma/ (4.16.4, signed off as built by 4.18.1): exactly one item is purged, the tablet/mobile faq item that carries the 28 g lines ("Understanding the 28-Gram Daily Limit"); it is in `page.removedBlocks`. The same faq's two other items render (their desktop twins were collapsed into it; they contradict nothing), and so do the desktop (56 g) blocks. Measured on the P1 stub build: `declared.conflictPurges` has 1 entry, `t: 'faq item'`. | none; never render `removedBlocks` | 5 |
 | **Platform names.** A form or search whose `name` is a platform class list gets `name: null`. A platform field name becomes `search` or `field`. | Do not fall back to another platform string for `aria-label`. The changes are in `page.renamed`. | 5 |
 | **H1 for the 28 pages without one** comes from `h1Source.candidates[0]`. A heading candidate promotes that block. Otherwise a leading section `{ id: 'h1' }` holds a synthetic level-1 heading. | Render the `id: 'h1'` section like any other. | 5.3 |
 | **Chips** carry `from: 'title' \| 'slug'` and a caption (`source`) that follows it: "from the product name" or "from the product's web address". | Print each chip's own `source`, not a fixed caption. | 9 |
 | **Brand pages** list the flagged slug-start matches too (`/brands/1906/` now has 21: 15 + 6). | Show `brand.flag` for `match: 'slug-start'` if you show provenance. | 5, 9 |
 | **og:image** stays omitted on the 9 pages whose source image sits on the origin. They are listed in the report under `declared.ogImageOmitted`. | none | 11 |
+
+## 0.1 P1 changes (lane P1, 2026-10-12): what the theme must know
+
+These enforce BUILD-CONTRACT 4.17.7, 4.17.12 and 4.18.2-4.18.9. Evidence: `tmp/p1/` (logs named below).
+
+| change | theme impact | section |
+|---|---|---|
+| **Screen-reader-only source text** is marked in the models (4.18.3): `srOnly: true` on a block (heading, rich) or a social item, `<span class="sr">` inline in model html, `labelSrOnly` / `buttonSrOnly` on form fields and search blocks (also `chrome.search`, `chrome.ajaxSearch`), `srPrefix: "Page"` on posts pagination. Full table: docs/PIPELINE-CONTENT.md section 12. | Render each marked text visually hidden (the design's `.sr` class), never as visible text and never dropped. `ctx.rich` keeps `<span class="sr">`. | PIPELINE-CONTENT 12 |
+| **`_index.json` paths** are decoded UTF-8, the same form as `routes.json` (4.18.6): `/terpenes/α-pinene/`, not `/terpenes/%ce%b1-pinene/` (6 paths; the 6 models' own `path` too). | none (`page.path` always came from routes.json) | PIPELINE-CONTENT 12.3 |
+| **`ctx.rich` sanitiser is attribute-aware** (4.18.2): a tokenizer replaces the regex pass. Every `on*` attribute however delimited (`title="x"ontoggle=`, `title="x"/ontoggle=`, `title=">" ontoggle=`), `srcdoc`, duplicate attributes, and URL attributes whose decoded value has a `javascript:` (`java&#115;cript:`, `javascript&colon;`, ...) or malformed scheme are removed; script, style, svg, math, object, noscript and other raw-text elements go with their content; a Google Maps iframe keeps only `src, width, height, style, loading, allowfullscreen, referrerpolicy, title`. Clean HTML passes byte for byte (all 2,443 model html strings unchanged). | none; keep printing model HTML only through `ctx.rich` | 4 |
+| **AI label in the shipped variants** (4.17.12): WebP variants of `assets/generated/**` files get `tools/ai-label.xmp` with `webpmux -set xmp` after cwebp. Their output name is `assets/img/<sha12>-<w>-ai.webp`; the cache name carries `-xmp<sha8 of the XMP>`, so an unlabelled or stale cached variant is never reused. The report lists `aiVariants` (dist paths) and `aiAssets` (files copied as-is from `assets/generated/`, e.g. the loop video through `ctx.asset`). | none; use `ctx.img` / `ctx.asset` for generated files as before | 10 |
+| **build-check 11**: every `-ai.webp`, every `assets/generated/**` file in the build, and (with `--report <build report>`) every `aiVariants` / `aiAssets` entry must hold the bytes `trainedAlgorithmicMedia`. Control: a labelled file (a real one from the build when there is one) is not reported, its copy with the XMP chunk stripped (WebP) or the label bytes blanked (other files) is. | none | 7 |
+| **Search index** (4.17.7, DESIGN-SPEC 6.5): one `assets/search-index.<sha10>.json` per build, URL in `ctx.searchIndex`. | Put `ctx.searchIndex` in a `data-src` attribute (the build makes it page-relative); fetch it from JS. | 4 |
+| **Declaration files** `src/content/removals.d/*.json` (P0): `tools/text-parity.mjs` reads `src/content/removals.json` and then every `removals.d/*.json` in file-name order, one schema; each lane writes only its own file (owners in `src/content/removals.d/README.md`). | New UI microcopy is declared in the lane's own `removals.d` file. | PIPELINE-CONTENT 11.2 |
 
 ## 1. How to run (from the workspace root)
 
@@ -32,7 +46,9 @@ node src/lib/routes.mjs      # -> src/content/routes.json (only when the evidenc
 node src/lib/catalog.mjs     # -> src/content/catalog/*.json (reads routes.json; same rule)
 node src/build.mjs           # -> dist/ ; exit 1 on any build failure (section 7)
 node tools/link-check.mjs    # every internal href/src/srcset/url() in dist/ resolves; with positive controls
-node tools/build-check.mjs   # h1, residue, live-site URLs, routes emitted, sitemap, products; with positive controls
+node tools/build-check.mjs   # h1, residue, live-site URLs, routes emitted, sitemap, products, AI label; with positive controls
+#   add --report <build report> to cross-check the report's aiVariants / aiAssets (P1)
+node tools/tests/test-sanitizer.mjs --old <copy of the previous policy.mjs>   # ctx.rich sanitiser unit test (P1)
 # reproducibility: two builds, two dirs, identical trees
 node src/build.mjs --out tmp/a && node src/build.mjs --out tmp/b && node tools/hashdir.mjs tmp/a tmp/b --control
 ```
@@ -67,6 +83,8 @@ warm cache a build takes about 60 s.
 | `src/build.mjs` | the build |
 | `src/theme-stub/` | `index.mjs` (renderPage, render404, styles, scripts, blockTypes), `stub.css`, `stub.js` |
 | `tools/link-check.mjs`, `tools/build-check.mjs` | the two output checks |
+| `tools/tests/test-ai-label.mjs` | P1: ImagePipeline on one `assets/generated/` file and one `assets/source/` photo, twice with two empty caches: `-ai.webp` names, `-xmp<sha8>` cache names, the label bytes in every AI variant and in none of the photo's, byte-identical runs, and an unlabelled variant under the old cache name never reused (8 checks) |
+| `tools/tests/test-sanitizer.mjs` | P1: the 12 payloads of the hardening verifier (tmp/hverify/make-plants.mjs) and 30 more forms through `sanitizeHtml`; every model html string must pass unchanged; `--old <module>` runs the same checks on a previous sanitiser, which must fail (positive control) |
 | `assets/brand/logo-agegate.png` | the logo floor (`audit/prelock/logo-agegate.png`, 370x306), until the brand lane's master lands |
 
 ## 3. The theme module (BUILD-CONTRACT 3.2, as implemented)
@@ -107,11 +125,12 @@ Rules the build enforces on what the theme returns:
 | `nav` | object | `{ logo: {ref, srcUrl, alt, href}, menu: [{label, href, target?, title?, children?}], toggleLabel, strips: [[{label, href, title}], ...] (the two mega strips), hint, search: {action, method, field, placeholder, label, button}, skipLink: {label, href}, backToTop: {href, label} }` from `src/content/chrome.json` (PIPELINE-CONTENT) |
 | `footer` | object | `{ sections: [{ id, blocks: [...] , hiddenAll? }] }`: the footer is block-modelled; render it with the block renderer and skip `hiddenAll` |
 | `announcement` | object | `{ text, href, hiddenAll: true }`: hidden at every breakpoint on the live site; not rendered by the stub |
-| `ageGate` | object | `{ headline: 'Welcome!', challenge: 'Are you over 21 years of age?', yes: 'Yes', no: 'No', notes: ['*Must be 21+ with a VALID ID.', 'Always worth the trip!'], ariaLabel: 'Verify you are over 21 years of age?', storageKey: 'ccc-age-21', logo: {ref, alt} }`. "No" must never let the visitor in (docs/COMPLIANCE.md R7); the live "No" behaviour is UNVERIFIED. |
+| `ageGate` | object | `{ headline: 'Welcome!', challenge: 'Are you over 21 years of age?', yes: 'Yes', no: 'No', notes: ['*Must be 21+ with a VALID ID.', 'Always worth the trip!'], ariaLabel: 'Verify you are over 21 years of age?', storageKey: 'ccc-age-21', logo: {ref, alt} }`. **"No" (BUILD-CONTRACT 4.15.2, from the plugin's script config on all 743 captured pages, `"rechallenge":"1"`):** the gate stays up, shows "You are not old enough to view this content" verbatim and lets the visitor answer again; nothing behind it becomes usable (docs/COMPLIANCE.md R7). While it is up, `document.title` is the plugin's customTitle "Age Verification - Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA"; if storage throws, show "Your browser does not support cookies, you may experience problems entering this site". These three plugin strings are not in `ctx.ageGate`: the stub exports them as `AGE_GATE_PLUGIN` (`src/theme-stub/index.mjs`). **Fail closed (4.17.1, replaces the no-JS line of 4.4):** the gate is visible by default, not only under `html.js`; a blocking head script hides it before first paint when `ccc-age-21` is stored; without JS, "Yes" is `<a href="#age-ok" role="button">` and CSS `:target` hides the gate for that page view, and "No" is `<a href="#age-no" role="button">` whose `:target` shows the error; JS intercepts both and Space activates them. The stub predates 4.17.1 (its gate is closed in the markup); the theme implements 4.17.1. |
 | `chrome` | object | the raw `src/content/chrome.json` (for anything not mapped above) |
 | `url(u, from?)` | fn -> string \| null | any source or output URL -> root-relative, percent-encoded output URL with trailing slash, query and hash kept; `null` when the target is not built (render the text without a link) |
 | `link(u, from?)` | fn -> `{href, external?}` \| `{unlink, reason}` | the full resolution behind `url` (section 6) |
-| `rich(html, from?)` | fn -> string | a model's allowlisted rich HTML with links resolved (dead -> text kept, tracking parameters stripped from internal links) and every `<img>` made responsive (`data-src`, else `src`, else `data-source-url`). Then **sanitised** (H2, contract 4.16.10): `<script>` (closed or not), `on*` attributes, `javascript:` URLs in href/src/action/formaction/xlink:href/data/poster, and any `<iframe>` whose src is not `https://www.google.com/maps/embed?...` are removed. Counts are in the report (`declared.richSanitized`). |
+| `rich(html, from?)` | fn -> string | a model's allowlisted rich HTML with links resolved (dead -> text kept, tracking parameters stripped from internal links) and every `<img>` made responsive (`data-src`, else `src`, else `data-source-url`). Then **sanitised** by `sanitizeHtml` (src/lib/policy.mjs; contract 4.16.10, attribute-aware since 4.18.2, P1): a tokenizer that reads tags and attributes as a browser does (quoted values may hold `>` and `/`; an attribute may follow a quoted value without a space; `/` between attributes is a space; the first of two same-named attributes wins). Removed: every `on*` attribute, `srcdoc`, duplicate attributes, a URL attribute (href, src, action, formaction, xlink:href, data, poster, srcset and 14 more) whose value after decoding every character reference and removing spaces and control characters has a `javascript:`/`vbscript:`/`livescript:` scheme or a malformed scheme; script, style, noscript, template, textarea, title, xmp, noembed, noframes, object, applet, svg, math, frameset and every non-map iframe with their content; base, meta, link, embed, frame, param tags; comments; a tag cut off by the end of the input. A Google Maps iframe (`https://www.google.com/maps/embed?...`) keeps only `src, width, height, style, loading, allowfullscreen, referrerpolicy, title`. A tag with nothing removed is copied byte for byte, and `<span class="sr">` (screen-reader-only text) passes. Counts are in the report (`declared.richSanitized`; 0 on the real models). Unit test: `node tools/tests/test-sanitizer.mjs --old <previous policy.mjs>` |
+| `searchIndex` | string | P1 (4.17.7, DESIGN-SPEC 6.5): root-relative URL of this build's search index, `/assets/search-index.<sha10>.json`; set before any page renders. Put it in a `data-src` attribute (the build relativizes `data-src`) and fetch it from JS. Shape: `{ "v": 1, "items": [ { "t", "u", "k", "b"? } ] }`. `t` is verbatim: the product title from the HTML sitemap, the brand name, the category or subcategory name, or the page's single H1 for a crawled page, post or event. `u` is the root-relative URL as `ctx.url` returns it (percent-encoded). `k` is `product`, `brand`, `category`, `page`, `post` or `event`. `b` is the product's catalog brand (5,419 of 5,857 products have one). Every product (5,857), brand (249), category (62) and crawled page (304), post (62) and event (60): 6,594 items, 1,050,782 bytes on the P1 stub build; nothing is dropped to save bytes. Derived archives (tag, event-category, terpene pagination) are not in it. Order: kind in the order above, then `t`, then `u` (code-unit order). The 8 products titled "... \| Gift Card" are in it (`/?s=gift-card`, 4.17.7). |
 | `img(ref, opts)` | fn -> string | `<img src srcset sizes width height alt loading decoding fetchpriority? class? title?>` with WebP variants. `ref` = a captured image URL (CDN, origin, or a late image: `images.dutchie.com/<hash>` and the 2 home banners in `audit/late-images.json`), a local file (`assets/source/...`, `assets/generated/...`, `assets/brand/...`) or an image-plan slot id. A local copy always wins; a Dutchie URL is hotlinked only when none exists. opts: `{ alt, sizes, cls, loading ('lazy'), fetchpriority, decoding ('async'), widths, width, height, title }`. A missing image or ungenerated slot renders `<span class="img-missing" data-slot? role="img"? aria-label?>` with the aspect ratio when known, never a broken `<img>` |
 | `imgSrc(ref, width=960)` | fn -> string \| null | URL of one variant (the first >= width) for CSS backgrounds and preloads |
 | `dutchie(hash, {w=344, h=330, fit='fill', dpr})` | fn -> string | `https://images.dutchie.com/<hash>?auto=format&fit=fill&fill=solid&w=..&h=..[&dpr=2]` (cards as on the live site). Cap the width at the source size; t1's source is 250x250 |
@@ -128,7 +147,7 @@ Rules the build enforces on what the theme returns:
 Contract refinements:
 - `ctx.nav` holds the header (contract: `nav`).
 - `ctx.footer` is block sections, not a fixed shape.
-- `ctx.rich`, `ctx.link`, `ctx.live`, `ctx.collections`, `ctx.routes` and `ctx.page` are additions.
+- `ctx.rich`, `ctx.link`, `ctx.live`, `ctx.collections`, `ctx.routes`, `ctx.page` and (P1) `ctx.searchIndex` are additions.
 - `ctx.site` adds `businessNames`, `hoursSpec`, `licence` and `areaServed`.
 
 ## 5. `page` (one per output path)
@@ -244,7 +263,7 @@ During the build:
 litespeed, gtranslate, googletagmanager, rankreallyhigh, case-insensitive, anywhere in a page and in the CSS/JS
 bundles, sitemap.xml, robots.txt, `_redirects`, `.htaccess`), `missing-chrome` (no `src/content/chrome.json`), `duplicate-output`
 (also case-insensitive: Windows and macOS disks fold case), `root-absolute-left`, `dead-internal-reference` (every
-relativized URL must name a written file), `missing-asset`, `image-failed` (a cwebp error).
+relativized URL must name a written file), `missing-asset`, `image-failed` (a cwebp error, or, P1, a variant of an `assets/generated/` file that `webpmux -set xmp` did not label).
 
 Deterministic output: constant dates, sorted iteration, content-hash file names, no timestamps in `dist/`, and
 `routes.json` and catalog files written only when their bytes change.
@@ -340,6 +359,14 @@ Rules (Plan B, BUILD-CONTRACT 4.5):
 - **Variants:** widths 320, 480, 640, 960, 1280, 1600, 1920 and 2400, below the source width, plus the source width
   itself (capped at 2400). cwebp `-q 80 -alpha_q 90 -m 4 -metadata none`. The output is byte-identical across runs
   (checked: two runs on one PNG gave equal sha256).
+- **AI label (P1, 4.17.12).** A variant of a file under `assets/generated/` is made by cwebp and then labelled with
+  `webpmux -set xmp tools/ai-label.xmp`; the build checks the bytes `trainedAlgorithmicMedia` are in it before caching
+  it. Its names carry a marker: `dist/assets/img/<sha12>-<w>-ai.webp`, cache `<sha12>-<w>-q80a90m4-xmp<sha8 of
+  tools/ai-label.xmp>.webp`, so an unlabelled cached variant (or one labelled with an older XMP) is never reused, and a
+  labelled and an unlabelled variant of the same bytes never share a file. Measured (`tmp/p1/dist-ai-a`, a test theme
+  that adds `assets/generated/cat-cbd.jpg` and the loop video to the home page): 8 labelled variants and 1 asset;
+  build-check 11 finds the label in 9/9; two builds from two separate copies of the cache (each made the 8 labelled
+  variants afresh) are IDENTICAL by `tools/hashdir.mjs` (8,613 files). The report lists `aiVariants` and `aiAssets`.
 - **Names:** `dist/assets/img/<sha12 of the source>-<w>.webp`; cache `<cache>/<sha12>-<w>-q80a90m4.webp`. No source
   path reaches the output.
 - **Product images** are hotlinked (`ctx.dutchie`); only t1 has a hash.
@@ -386,6 +413,24 @@ All builds ran with `--out tmp/h2/<dir> --cache tmp/h2/cache`. `dist/` and `asse
 | `node tools/build-check.mjs --dir tmp/h2/dist` | exit 0, 0 findings. The control fired (17 planted defects). The new checks also fire on real output: the verifier's older build `tmp/pipe-verify/dist-a` gives 737 `ld-excluded-alternate-name`, 483 `ld-excluded-opening-hours`, 2 `ld-stale-faq`, 18 `ld-joint-image`, 24 `tracking-param-internal-link` and 3 `platform-id-name` (2 files), exit 1 |
 | `node tools/text-parity.mjs --built tmp/h2/dist --control --control-dir tmp/h2/parity-ctl` | exit 0: recall 1, missing 0, added 0, hiddenShown 0, all 11 controls pass. This uses the parallel lane's `removals.json` as it stood at the time of the run (about 12:17) |
 | planted defects | Null block (`--models` copy with `[null, {}]`): exit 1, `invalid-model`, out dir untouched (only the sentinel file left). `/return-policy` and `/return-policy/index.html/` (`--routes` copies): exit 1, `invalid-route-path` + `duplicate-output` (key `/return-policy/`), out dir untouched. `<script>`, `onclick`, `onmouseover`, a non-map `<iframe>` and a `javascript:` link planted in a rich block of /about-cape-cod-cannabis/: build exit 0, all removed; the maps iframe and the planted text kept; the report counts them |
+
+### 11.2 P1 results (2026-10-12, 13:20-14:00, stub theme)
+
+All builds ran with `--theme stub --cache tmp/p1/cache` (a copy of `assets/optimized/`). `dist/` and
+`assets/optimized/` were not written.
+
+| check | result |
+|---|---|
+| models | `node src/lib/extract.mjs` once (13:35, `tmp/p1/MODELS-DONE`): 26 page models, `_index.json` and `chrome.json` changed, exactly the srOnly markers and the 6 decoded paths (`tmp/p1/diff-models.mjs` against `tmp/p1/models-before/`). `node tools/text-parity.mjs --control` (models): exit 0, 25,468 sentences, found 25,407 + declared 61, recall 1, missing 0, ADDED 0, both controls pass |
+| build | `node src/build.mjs --theme stub --out tmp/p1/dist --cache tmp/p1/cache --report tmp/p1/report.json`: exit 0, 0 errors; 6,732 pages + 404; 539,239 relativized refs, 0 dead; 1,857 variants (all cached); `richSanitized` empty (the real models need no sanitising); search index 6,594 items, 1,050,782 bytes; `ai` 0 variants, 0 assets (the stub shows no generated image) |
+| reproducibility | a second build into `tmp/p1/dist2`; `node tools/hashdir.mjs tmp/p1/dist tmp/p1/dist2 --control`: IDENTICAL, 8,604 files, aggregate `49a747be00bc9fbbbf0b2744807be8009f8ad753ffb4eaeed142d6a1d7a95051`, control fired. `node tmp/p1/hash-inputs.mjs` (786 input files: build code, stub, content, facts, audit inputs, fonts, brand, AI label) gave `de1a7e3e…0942` before, between and after |
+| `node tools/link-check.mjs --dir tmp/p1/dist` | exit 0: 8,604 files, 808,460 local refs, 13,525 fragments, 0 broken; control fired (7 planted defects) |
+| `node tools/build-check.mjs --dir tmp/p1/dist --report tmp/p1/report.json` | exit 0, 0 findings; routes 6,732/6,732, sitemap 6,542, products 5,857/5,857; control fired (19 planted defects; the AI-label control used a synthetic labelled WebP because this build holds no AI file) |
+| `node tools/text-parity.mjs --built tmp/p1/dist --control --control-dir tmp/p1/parity-control` | exit 0: 25,468 sentences, found 25,205 + declared 263, recall 1, missing 0, ADDED 0 (565 declared), hiddenShown 0, 11/11 controls pass |
+| AI label in dist (`--theme tmp/p1/ai-theme`: the stub plus `assets/generated/cat-cbd.jpg` through `ctx.img` and the loop video through `ctx.asset` on the home page) | two builds from two separate copies of the cache, each making the 8 labelled variants afresh: exit 0 both, IDENTICAL by `hashdir --control` (8,613 files); `build-check --report`: 9/9 AI files carry the label, 0 findings; the control used a real `-ai.webp` (XMP chunk stripped) and the real mp4 (label bytes blanked), both reported |
+| sanitiser | `node tools/tests/test-sanitizer.mjs --old tmp/p1/old/policy.mjs`: 44/44 payload rows pass (the verifier's 12, the kept-text line, 30 more forms, all together); 2,443 model html strings unchanged; the previous sanitiser fails 23 rows (control) |
+| sanitiser in Chrome | the planted model set (`tmp/p1/make-plants.mjs`, the verifier's payload verbatim) built with `--models tmp/p1/models-rich`; one headless Chrome (`tools/cdp.mjs`, network guard) over file:// on /return-policy/: `window.PLANT_P1`..`P12` all unset after load and after clicking every planted element; the 9 planted text lines visible; no `on*`, `srcdoc` or `javascript:` attribute in the DOM. Control: the verifier's planted build of the old sanitiser (`tmp/hverify/out-rich`) sets P2, P3, P4 and P7 in the same run |
+| screen-reader-only text | `tmp/p1/srtext-check.mjs tmp/p1/dist` (the verifier's script; `<span class="sr">` counts as hidden): 1 of the verifier's 16 strings still visible, "List" on /events-calendar/, which is the calendar's visible view-selector link (see docs/PIPELINE-CONTENT.md 12.2); on the verifier's old build the same script still finds all 16 (control) |
 
 ## 12. Known gaps and decisions for the operator
 
@@ -438,5 +483,8 @@ Conflicts with other docs (BUILD-CONTRACT wins; reported, not resolved here):
 - The contract gives `assets/brand/**` to THEME (core). This role's brief gave it to PIPELINE-SITE "for now".
   Only `assets/brand/logo-agegate.png` (the floor logo, a byte copy of `audit/prelock/logo-agegate.png`) was
   written there; the stub's header uses the model's logo `ref`.
-- Contract 4.4 says "No" follows the live plugin's config; that config was not captured (UNVERIFIED). The stub's
-  "No" stores nothing and keeps the dialog open (COMPLIANCE.md R7).
+- Contract 4.4 says "No" follows the live plugin's config. That config is in the plugin's script on every captured
+  page and contract 4.15.2 records it (`"rechallenge":"1"`, the error "You are not old enough to view this content",
+  the customTitle and the cookie warning). The stub follows it: "No" stores nothing, keeps the dialog open, shows the
+  error and lets the visitor answer again. Contract 4.17.1 (fail closed without JS) supersedes the stub's
+  closed-in-markup dialog; see the `ageGate` row in section 4.

@@ -1,0 +1,29 @@
+/* depth.css - the depth system (DESIGN-SPEC 3.6 z-planes, 5.1-5.2 planes and protrusions, 4.6 backdrop variety).
+   Owner: T1a. Skeleton by T0, 2026-10-12. Sections set position:relative + isolation:isolate; plane 0 backdrop and
+   pools, plane 1 glass and cards, plane 2 cut-outs and prints (never over text, R-17), plane 3 label plates. */
+.band, .section { position: relative; isolation: isolate; }
+.band { padding-block: var(--sec-pad); }
+.band__media { position: absolute; inset: 0; z-index: 0; overflow: hidden; pointer-events: none; }
+.band__layer { position: absolute; inset: 0; }   /* the parallax target (site.js writes its translate, +-40px) */
+.band__media img, .band__media .img-missing { position: absolute; left: 0; top: -8%; width: 100%; height: 116%; object-fit: cover; border: 0; border-radius: 0; }
+.band__pattern { position: absolute; inset: 0; z-index: 0; pointer-events: none; background-color: var(--sky); opacity: .5; }
+.band__in { position: relative; z-index: 1; }
+.band--smoke { color: var(--c-white); background: var(--harbour-2); }
+/* pools sit in a clipping layer so their vw sizes never widen the page (horizontal overflow) */
+.band__pools { position: absolute; inset: 0; z-index: 0; overflow: hidden; pointer-events: none; }
+/* drifting ocean-light pools (plane 0; 26-32 s; static under reduced motion, motion.css) */
+.pool { position: absolute; z-index: 0; border-radius: 50%; pointer-events: none; filter: blur(30px); opacity: .7; }
+.pool--a { width: 46vw; height: 46vw; max-width: 640px; max-height: 640px; left: -10vw; top: -14vw; background: radial-gradient(circle, var(--c-ocean-a55), var(--c-ocean-a00) 65%); animation: drift 26s ease-in-out infinite alternate; mix-blend-mode: soft-light; }
+.pool--b { width: 40vw; height: 40vw; max-width: 560px; max-height: 560px; right: -8vw; bottom: -18vw; background: radial-gradient(circle, var(--c-sky-a90), var(--c-sky-a00) 65%); animation: drift 32s ease-in-out infinite alternate-reverse; }
+@keyframes drift { from { transform: translate3d(0,0,0) scale(1); } to { transform: translate3d(4vw, 2vw, 0) scale(1.12); } }
+/* protrusions (5.2): decorative cut-outs in an aria-hidden wrapper, plane 2, never interactive, never causing
+   horizontal overflow (body clips x; sections never clip, or the crossing is lost) */
+.protrude { position: absolute; z-index: 2; pointer-events: none; user-select: none; filter: var(--sh-cut); }
+.protrude img, .protrude .img-missing { width: 100%; height: auto; }
+.protrude .img-missing { aspect-ratio: 1; border-radius: 50%; opacity: .0; }
+/* the visible "AI illustration" tag (BUILD-CONTRACT 4.17.4; DESIGN-SPEC 10.1): 12px white on rgba(1,40,58,.78) */
+.ai-frame { position: relative; display: block; }
+.ai-tag { position: absolute; right: 10px; bottom: 10px; z-index: 3; padding: 3px 8px; border-radius: 6px; background: var(--c-01283a-a78); color: var(--c-white); font: 600 12px/1.3 var(--f-text); letter-spacing: .01em; pointer-events: none; }
+/* the tag shows only where the image paints 300 CSS px wide or more */
+@container (max-width: 299px) { .ai-tag { display: none; } }
+.ai-frame { container-type: inline-size; }

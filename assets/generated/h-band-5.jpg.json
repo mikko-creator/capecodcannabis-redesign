@@ -1,0 +1,38 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "H-BAND-5",
+  "file": "assets/generated/h-band-5.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Aerial top-down view of a shoreline where a thin lace of white sea foam and a shallow sheet of clear pale aqua water spread across the entire frame over rippled wet sand, intricate foam patterns from edge to edge, a few small smooth pebbles, glistening reflections, bright daylight, pale aqua and sand tones, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+  "input": {
+    "output_format": "jpeg",
+    "aspect_ratio": "21:9"
+  },
+  "seed": 4036303178,
+  "requestId": "01a12e8f-6b0b-72e0-a199-f95eb35c11b8",
+  "cutout": null,
+  "width": 3136,
+  "height": 1344,
+  "sha256": "88a6a77be00a345119c91fa54e847450273bbf9ab57c192691e65bd27d6fc895",
+  "raw": "tmp/img/raw/H-BAND-5.1791782519752.jpg",
+  "attempt": 3,
+  "generatedAt": "2026-10-12T05:22:02.191Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "Attempt 3: top-down shallow pale aqua water with caustic net patterns and foam over wet sand, variety across the whole frame (sand only in the bottom ~15%); no people, text or objects.",
+    "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+    "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+    "at": "2026-10-12T05:23:11.254Z"
+  },
+  "reviewHistory": [
+    {
+      "verdict": "ACCEPT",
+      "reason": "Attempt 3: top-down shallow pale aqua water with caustic net patterns and foam over wet sand, variety across the whole frame (sand only in the bottom ~15%); no people, text or objects.",
+      "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+      "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+      "at": "2026-10-12T05:23:11.254Z"
+    }
+  ]
+}

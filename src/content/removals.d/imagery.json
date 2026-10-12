@@ -1,0 +1,187 @@
+{
+  "schema": "ccc-reforge/removals@1",
+  "note": "Lane IMG (imagery). Declared accessible text added by the generated-image slots of src/content/image-plan.json. Each alt describes what an AI-generated illustration depicts and starts with \"AI-generated illustration:\" (DESIGN-SPEC R-40). Microcopy only: no claim, fact or marketing copy.",
+  "removals": [],
+  "allowedAdded": [
+    {
+      "id": "imagery-alt-cat-apparel",
+      "pages": "*",
+      "kinds": [
+        "alt",
+        "aria-label"
+      ],
+      "text": "AI-generated illustration: a folded plain hoodie and a plain cap",
+      "reason": "Alt text of the AI-generated image slot CAT-APPAREL (src/content/image-plan.json). The image is new to the redesign (DESIGN-SPEC 10.3), so its alt is new; it states that the image is an AI-generated illustration and names only what it depicts (R-40, BUILD-CONTRACT 4.17.4). Rendered only where that slot is painted as a non-decorative image (or as the aria-label of its empty frame)."
+    },
+    {
+      "id": "imagery-alt-place-5",
+      "pages": "*",
+      "kinds": [
+        "alt",
+        "aria-label"
+      ],
+      "text": "AI-generated illustration: a freshwater pond ringed by pine trees",
+      "reason": "Alt text of the AI-generated image slot PLACE-5 (src/content/image-plan.json). The image is new to the redesign (DESIGN-SPEC 10.3), so its alt is new; it states that the image is an AI-generated illustration and names only what it depicts (R-40, BUILD-CONTRACT 4.17.4). Rendered only where that slot is painted as a non-decorative image (or as the aria-label of its empty frame)."
+    },
+    {
+      "id": "imagery-alt-cat-accessories",
+      "pages": "*",
+      "kinds": [
+        "alt",
+        "aria-label"
+      ],
+      "text": "AI-generated illustration: a glass jar, a wooden grinder and a small tray",
+      "reason": "Alt text of the AI-generated image slot CAT-ACCESSORIES (src/content/image-plan.json). The image is new to the redesign (DESIGN-SPEC 10.3), so its alt is new; it states that the image is an AI-generated illustration and names only what it depicts (R-40, BUILD-CONTRACT 4.17.4). Rendered only where that slot is painted as a non-decorative image (or as the aria-label of its empty frame)."
+    },
+    {
+      "id": "imagery-alt-place-2",
+      "pages": "*",
+      "kinds": [
+        "alt",
+        "aria-label"
+      ],
+      "text": "AI-generated illustration: a marsh creek at golden hour",
+      "reason": "Alt text of the AI-generated image slot PLACE-2 (src/content/image-plan.json). The image is new to the redesign (DESIGN-SPEC 10.3), so its alt is new; it states that the image is an AI-generated illustration and names only what it depicts (R-40, BUILD-CONTRACT 4.17.4). Rendered only where that slot is painted as a non-decorative image (or as the aria-label of its empty frame)."
+    },
+    {
+      "id": "imagery-alt-cat-vaporizers",
+      "pages": "*",
+      "kinds": [
+        "alt",
+        "aria-label"
+      ],
+      "text": "AI-generated illustration: a plain vaporizer cartridge resting on sea glass",
+      "reason": "Alt text of the AI-generated image slot CAT-VAPORIZERS (src/content/image-plan.json). The image is new to the redesign (DESIGN-SPEC 10.3), so its alt is new; it states that the image is an AI-generated illustration and names only what it depicts (R-40, BUILD-CONTRACT 4.17.4). Rendered only where that slot is painted as a non-decorative image (or as the aria-label of its empty frame)."
+    },
+    {
+      "id": "imagery-alt-cat-topicals",
+      "pages": "*",
+      "kinds": [
+        "alt",
+        "aria-label"
+      ],
+      "text": "AI-generated illustration: a plain white jar of balm with lavender and lemon",
+      "reason": "Alt text of the AI-generated image slot CAT-TOPICALS (src/content/image-plan.json). The image is new to the redesign (DESIGN-SPEC 10.3), so its alt is new; it states that the image is an AI-generated illustration and names only what it depicts (R-40, BUILD-CONTRACT 4.17.4). Rendered only where that slot is painted as a non-decorative image (or as the aria-label of its empty frame)."
+    },
+    {
+      "id": "imagery-alt-h-band-3",
+      "pages": "*",
+      "kinds": [
+        "alt",
+        "aria-label"
+      ],
+      "text": "AI-generated illustration: a rippled tidal flat at low tide with shallow water channels",
+      "reason": "Alt text of the AI-generated image slot H-BAND-3 (src/content/image-plan.json). The image is new to the redesign (DESIGN-SPEC 10.3), so its alt is new; it states that the image is an AI-generated illustration and names only what it depicts (R-40, BUILD-CONTRACT 4.17.4). Rendered only where that slot is painted as a non-decorative image (or as the aria-label of its empty frame)."
+    },
+    {
+      "id": "imagery-alt-h-band-4",
+      "pages": "*",
+      "kinds": [
+        "alt",
+        "aria-label"
+      ],
+      "text": "AI-generated illustration: a salt marsh creek winding through green grass toward a calm bay",
+      "reason": "Alt text of the AI-generated image slot H-BAND-4 (src/content/image-plan.json). The image is new to the redesign (DESIGN-SPEC 10.3), so its alt is new; it states that the image is an AI-generated illustration and names only what it depicts (R-40, BUILD-CONTRACT 4.17.4). Rendered only where that slot is painted as a non-decorative image (or as the aria-label of its empty frame)."
+    },
+    {
+      "id": "imagery-alt-place-6",
+      "pages": "*",
+      "kinds": [
+        "alt",
+        "aria-label"
+      ],
+      "text": "AI-generated illustration: a sandy path through beach grass to the sea",
+      "reason": "Alt text of the AI-generated image slot PLACE-6 (src/content/image-plan.json). The image is new to the redesign (DESIGN-SPEC 10.3), so its alt is new; it states that the image is an AI-generated illustration and names only what it depicts (R-40, BUILD-CONTRACT 4.17.4). Rendered only where that slot is painted as a non-decorative image (or as the aria-label of its empty frame)."
+    },
+    {
+      "id": "imagery-alt-cat-tinctures",
+      "pages": "*",
+      "kinds": [
+        "alt",
+        "aria-label"
+      ],
+      "text": "AI-generated illustration: amber dropper bottles on linen",
+      "reason": "Alt text of the AI-generated image slot CAT-TINCTURES (src/content/image-plan.json). The image is new to the redesign (DESIGN-SPEC 10.3), so its alt is new; it states that the image is an AI-generated illustration and names only what it depicts (R-40, BUILD-CONTRACT 4.17.4). Rendered only where that slot is painted as a non-decorative image (or as the aria-label of its empty frame)."
+    },
+    {
+      "id": "imagery-alt-cat-concentrates",
+      "pages": "*",
+      "kinds": [
+        "alt",
+        "aria-label"
+      ],
+      "text": "AI-generated illustration: amber resin in a small glass dish",
+      "reason": "Alt text of the AI-generated image slot CAT-CONCENTRATES (src/content/image-plan.json). The image is new to the redesign (DESIGN-SPEC 10.3), so its alt is new; it states that the image is an AI-generated illustration and names only what it depicts (R-40, BUILD-CONTRACT 4.17.4). Rendered only where that slot is painted as a non-decorative image (or as the aria-label of its empty frame)."
+    },
+    {
+      "id": "imagery-alt-place-4",
+      "pages": "*",
+      "kinds": [
+        "alt",
+        "aria-label"
+      ],
+      "text": "AI-generated illustration: an open ocean horizon with a gentle swell",
+      "reason": "Alt text of the AI-generated image slot PLACE-4 (src/content/image-plan.json). The image is new to the redesign (DESIGN-SPEC 10.3), so its alt is new; it states that the image is an AI-generated illustration and names only what it depicts (R-40, BUILD-CONTRACT 4.17.4). Rendered only where that slot is painted as a non-decorative image (or as the aria-label of its empty frame)."
+    },
+    {
+      "id": "imagery-alt-place-3",
+      "pages": "*",
+      "kinds": [
+        "alt",
+        "aria-label"
+      ],
+      "text": "AI-generated illustration: bay tidal flats at low tide",
+      "reason": "Alt text of the AI-generated image slot PLACE-3 (src/content/image-plan.json). The image is new to the redesign (DESIGN-SPEC 10.3), so its alt is new; it states that the image is an AI-generated illustration and names only what it depicts (R-40, BUILD-CONTRACT 4.17.4). Rendered only where that slot is painted as a non-decorative image (or as the aria-label of its empty frame)."
+    },
+    {
+      "id": "imagery-alt-h-band-2",
+      "pages": "*",
+      "kinds": [
+        "alt",
+        "aria-label"
+      ],
+      "text": "AI-generated illustration: coastal dune grass backlit by bright midday sun",
+      "reason": "Alt text of the AI-generated image slot H-BAND-2 (src/content/image-plan.json). The image is new to the redesign (DESIGN-SPEC 10.3), so its alt is new; it states that the image is an AI-generated illustration and names only what it depicts (R-40, BUILD-CONTRACT 4.17.4). Rendered only where that slot is painted as a non-decorative image (or as the aria-label of its empty frame)."
+    },
+    {
+      "id": "imagery-alt-cat-cbd",
+      "pages": "*",
+      "kinds": [
+        "alt",
+        "aria-label"
+      ],
+      "text": "AI-generated illustration: hemp leaves beside a plain dropper bottle",
+      "reason": "Alt text of the AI-generated image slot CAT-CBD (src/content/image-plan.json). The image is new to the redesign (DESIGN-SPEC 10.3), so its alt is new; it states that the image is an AI-generated illustration and names only what it depicts (R-40, BUILD-CONTRACT 4.17.4). Rendered only where that slot is painted as a non-decorative image (or as the aria-label of its empty frame)."
+    },
+    {
+      "id": "imagery-alt-cat-edibles",
+      "pages": "*",
+      "kinds": [
+        "alt",
+        "aria-label"
+      ],
+      "text": "AI-generated illustration: plain dark chocolate squares beside two amber dropper bottles",
+      "reason": "Alt text of the AI-generated image slot CAT-EDIBLES (src/content/image-plan.json). The image is new to the redesign (DESIGN-SPEC 10.3), so its alt is new; it states that the image is an AI-generated illustration and names only what it depicts (R-40, BUILD-CONTRACT 4.17.4). Rendered only where that slot is painted as a non-decorative image (or as the aria-label of its empty frame)."
+    },
+    {
+      "id": "imagery-alt-place-1",
+      "pages": "*",
+      "kinds": [
+        "alt",
+        "aria-label"
+      ],
+      "text": "AI-generated illustration: sand dunes with a weathered wooden fence at midday",
+      "reason": "Alt text of the AI-generated image slot PLACE-1 (src/content/image-plan.json). The image is new to the redesign (DESIGN-SPEC 10.3), so its alt is new; it states that the image is an AI-generated illustration and names only what it depicts (R-40, BUILD-CONTRACT 4.17.4). Rendered only where that slot is painted as a non-decorative image (or as the aria-label of its empty frame)."
+    },
+    {
+      "id": "imagery-alt-cat-prerolls",
+      "pages": "*",
+      "kinds": [
+        "alt",
+        "aria-label"
+      ],
+      "text": "AI-generated illustration: unlit pre-rolls lined up in a wooden tray",
+      "reason": "Alt text of the AI-generated image slot CAT-PREROLLS (src/content/image-plan.json). The image is new to the redesign (DESIGN-SPEC 10.3), so its alt is new; it states that the image is an AI-generated illustration and names only what it depicts (R-40, BUILD-CONTRACT 4.17.4). Rendered only where that slot is painted as a non-decorative image (or as the aria-label of its empty frame)."
+    }
+  ]
+}

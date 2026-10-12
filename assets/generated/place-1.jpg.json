@@ -1,0 +1,38 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "PLACE-1",
+  "file": "assets/generated/place-1.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Coastal sand dunes with a weathered wooden snow fence and dune grass at bright midday, pale blue sky, wide and calm, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+  "input": {
+    "output_format": "jpeg",
+    "aspect_ratio": "16:9"
+  },
+  "seed": 389522820,
+  "requestId": "01a12e89-1aa4-7a30-a890-f654746ee0ca",
+  "cutout": null,
+  "width": 2752,
+  "height": 1536,
+  "sha256": "b8da7981a05b447334b1b6678b1f52260f46471939c7ca12d07b9e7c218eb6cd",
+  "raw": "tmp/img/raw/PLACE-1.1791782105882.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-12T05:15:07.488Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "Sand dunes with dune grass and a weathered post-and-rail wooden fence under a pale blue sky; no people, buildings, lighthouse, signs or text; not a named place.",
+    "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+    "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+    "at": "2026-10-12T05:23:59.295Z"
+  },
+  "reviewHistory": [
+    {
+      "verdict": "ACCEPT",
+      "reason": "Sand dunes with dune grass and a weathered post-and-rail wooden fence under a pale blue sky; no people, buildings, lighthouse, signs or text; not a named place.",
+      "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+      "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+      "at": "2026-10-12T05:23:59.295Z"
+    }
+  ]
+}

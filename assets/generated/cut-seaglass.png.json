@@ -1,0 +1,56 @@
+{
+  "tool": "tmp/img/kit.mjs (lane IMG)",
+  "slot": "CUT-SEAGLASS",
+  "file": "assets/generated/cut-seaglass.png",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands.",
+  "from": "tmp/panel/kit/sea-glass.cut.png",
+  "fromSha256": "fefb344d66bc6dfc81b09b2cb40a1554be43c8165345453e758293b62bd93d11",
+  "derivation": "ffmpeg lanczos resize to 460 px wide (2x the largest painted width, DESIGN-SPEC 5.3 / R-20), RGBA PNG; no other change",
+  "width": 460,
+  "height": 348,
+  "sha256": "28293250da1ae2a274e77dd907fc35f1269904e5d55c15a99f249fc4f8e6c5c3",
+  "origin": {
+    "tool": "tools/fal-one.mjs",
+    "model": "fal-ai/flux-pro/v1.1-ultra",
+    "prompt": "Studio photograph of five pieces of tumbled frosted sea glass in aqua, ocean blue, pale sky blue and soft green, scattered with space between them, all fully in frame, isolated on a plain pure white seamless background, soft daylight with gentle translucent glow, crisp detail, no text, no hands",
+    "input": {
+      "aspect_ratio": "4:3",
+      "output_format": "jpeg"
+    },
+    "requestId": "01a12daa-c981-7022-9fc3-a9711e6e7ab0",
+    "seed": 4187421913,
+    "width": 2368,
+    "height": 1792,
+    "contentType": "image/jpeg",
+    "bytes": 817458,
+    "sha256": "2de49ec1d716fcdef0b797082393f30a1e07121bc2ae3ccc6cadf363c3e67f0d",
+    "file": "tmp/panel/kit/sea-glass.jpg",
+    "generatedAt": "2026-10-12T01:12:22.153Z",
+    "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands.",
+    "cutout": {
+      "model": "fal-ai/birefnet/v2",
+      "requestId": "01a12dab-031f-7242-b861-cf2c30b931a8",
+      "file": "tmp/panel/kit/sea-glass.cut.png",
+      "bytes": 2270461
+    }
+  },
+  "originSidecar": "tmp/panel/kit/sea-glass.jpg.json",
+  "kitVerdict": "tmp/panel/kit/README.md: ACCEPT (five pieces of tumbled sea glass)",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "Kit cut-out re-checked on #015375: five tumbled sea-glass pieces (aqua, blue, sky, green, white); clean edge; no text.",
+    "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+    "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+    "at": "2026-10-12T05:24:34.505Z"
+  },
+  "reviewHistory": [
+    {
+      "verdict": "ACCEPT",
+      "reason": "Kit cut-out re-checked on #015375: five tumbled sea-glass pieces (aqua, blue, sky, green, white); clean edge; no text.",
+      "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+      "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+      "at": "2026-10-12T05:24:34.505Z"
+    }
+  ]
+}

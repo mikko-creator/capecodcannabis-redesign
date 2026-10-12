@@ -1,0 +1,38 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "H-CAT-1",
+  "file": "assets/generated/h-cat-1.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "A clear wide-mouth glass jar holding dense, frosty, well-trimmed cured cannabis flower buds with visible trichomes, lid resting beside it, on a weathered driftwood plank with two smooth grey beach pebbles, pale linen backdrop, bright window light, soft sea-blue shadows, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+  "input": {
+    "output_format": "jpeg",
+    "aspect_ratio": "4:3"
+  },
+  "seed": 862296288,
+  "requestId": "01a12e90-f29f-7db0-967c-fc9f4b45eaa5",
+  "cutout": null,
+  "width": 2368,
+  "height": 1792,
+  "sha256": "7faab5038ac71c3e7ede0ae707ebeb1c619d6f2030b6a936328a6188378bf035",
+  "raw": "tmp/img/raw/H-CAT-1.1791782621705.jpg",
+  "attempt": 3,
+  "generatedAt": "2026-10-12T05:23:43.954Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "Attempt 3: a clear jar of dense cured cannabis buds on weathered driftwood with its wooden lid and two smooth grey beach pebbles on linen; no candy-like objects, people, hands, smoke, text or marks.",
+    "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+    "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+    "at": "2026-10-12T05:24:33.705Z"
+  },
+  "reviewHistory": [
+    {
+      "verdict": "ACCEPT",
+      "reason": "Attempt 3: a clear jar of dense cured cannabis buds on weathered driftwood with its wooden lid and two smooth grey beach pebbles on linen; no candy-like objects, people, hands, smoke, text or marks.",
+      "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+      "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+      "at": "2026-10-12T05:24:33.705Z"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+/* forms.css - unwired forms (BUILD-CONTRACT 4.6; DESIGN-SPEC 6.21): labels always visible above the field (Roboto
+   600, 15px), inputs 48px tall, radius 12px, white fill, 1px rgba(1,83,117,.25) border, 16px text; hover a harbour
+   border; focus a 3px harbour ring (the global ring); invalid a 2px #B3261E border; disabled the --mist fill.
+   The form starts disabled (fieldset[disabled]) and carries data-sr-unwired; site.js stops submission.
+   Owner: T2a. 2026-10-12. */
+.form { margin: 0 0 var(--sp-5); max-width: 640px; }
+.form fieldset { border: 0; padding: 0; margin: 0; min-width: 0; }
+.form__intro { color: var(--ink-2); }
+.form__row { margin: 0 0 14px; }
+.form__row label, .form__choice legend { display: block; font: 600 var(--fs-1)/1.4 var(--f-text); color: var(--ink); margin-bottom: 6px; }
+.form input:not([type="checkbox"]):not([type="radio"]), .form select, .form textarea, .html-block input, .html-block select, .html-block textarea {
+  width: 100%; max-width: 560px; min-height: 48px; padding: 10px 14px; border-radius: var(--r-s); border: 1px solid var(--c-harbour-a25); background: var(--c-white); font-size: 16px; color: var(--ink);
+  transition: border-color .2s;
+}
+.form textarea { min-height: 120px; resize: vertical; }
+.form input::placeholder, .form textarea::placeholder { color: var(--ink-3); opacity: 1; }
+@media (hover: hover) { .form input:hover, .form select:hover, .form textarea:hover { border-color: var(--harbour); } }
+.form input:focus-visible, .form select:focus-visible, .form textarea:focus-visible { border-color: var(--harbour); }
+.form [aria-invalid="true"], .form .is-invalid { border: 2px solid var(--c-b3261e); }
+.form fieldset[disabled] { opacity: 1; }
+.form fieldset[disabled] input, .form fieldset[disabled] select, .form fieldset[disabled] textarea, .html-block input:disabled, .html-block select:disabled, .html-block textarea:disabled { background: var(--mist); color: var(--ink-2); cursor: not-allowed; }
+.form fieldset[disabled] .btn { opacity: .55; cursor: not-allowed; }
+.form__choice { border: 0; padding: 0; margin: 0 0 14px; }
+.form__choice p { display: flex; align-items: center; gap: 8px; margin: 0 0 6px; }
+.form__choice input { width: 20px; height: 20px; accent-color: var(--harbour); }
+.form__choice label { font-weight: 400; margin: 0; }

@@ -1,0 +1,38 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "PLACE-5",
+  "file": "assets/generated/place-5.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "A clear freshwater kettle pond ringed by pitch pine trees, calm water reflecting the sky, sandy shore, bright summer daylight, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+  "input": {
+    "output_format": "jpeg",
+    "aspect_ratio": "16:9"
+  },
+  "seed": 1888844393,
+  "requestId": "01a12e89-438f-7041-b4ad-10067b3e6a59",
+  "cutout": null,
+  "width": 2752,
+  "height": 1536,
+  "sha256": "58d5c6736715ff5fd4eb2b3a29715e5dce698e5a95787dd8db1385dcb2def3fe",
+  "raw": "tmp/img/raw/PLACE-5.1791782116409.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-12T05:15:18.582Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "A clear pond ringed by conifers with a sandy shore under a blue sky; vivid but natural; no people, docks, buildings, signs or text.",
+    "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+    "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+    "at": "2026-10-12T05:24:00.292Z"
+  },
+  "reviewHistory": [
+    {
+      "verdict": "ACCEPT",
+      "reason": "A clear pond ringed by conifers with a sandy shore under a blue sky; vivid but natural; no people, docks, buildings, signs or text.",
+      "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+      "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+      "at": "2026-10-12T05:24:00.292Z"
+    }
+  ]
+}

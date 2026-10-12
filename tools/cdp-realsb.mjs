@@ -3,15 +3,18 @@ import { spawn } from 'node:child_process';
 import fs from 'node:fs';
 import path from 'node:path';
 import os from 'node:os';
+import { networkGuard } from './cdp.mjs';
 
 export const CHROME = 'C:/Program Files/Google/Chrome/Application/chrome.exe';
 
 export async function launch({ port = 0, userDataDir, extraArgs = [] } = {}) {
+  // network guard (BUILD-CONTRACT 4.17.13), shared with tools/cdp.mjs: refuses and exits 2 before Chrome starts
+  const guard = networkGuard(extraArgs);
   userDataDir = userDataDir || fs.mkdtempSync(path.join(os.tmpdir(), 'srcdp-'));
   const proc = spawn(CHROME, [
     '--headless=new', `--remote-debugging-port=${port}`, `--user-data-dir=${userDataDir}`,
     '--force-device-scale-factor=1', '--no-first-run', '--no-default-browser-check',
-    '--autoplay-policy=no-user-gesture-required', '--mute-audio', ...extraArgs,
+    '--autoplay-policy=no-user-gesture-required', '--mute-audio', ...extraArgs, ...guard,
   ], { stdio: 'ignore', detached: false });
   // port 0: Chrome picks a free port and writes it to <userDataDir>/DevToolsActivePort, so
   // parallel runs never collide on a fixed debugging port.

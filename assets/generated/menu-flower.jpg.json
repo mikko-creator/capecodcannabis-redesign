@@ -1,0 +1,56 @@
+{
+  "tool": "tmp/img/kit.mjs (lane IMG)",
+  "slot": "MENU-FLOWER",
+  "file": "assets/generated/menu-flower.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands.",
+  "from": "tmp/fal-test/bud-macro.jpg",
+  "fromSha256": "567025492b9939b1420cb5ae240ea4c108b3c6bc81ad01147b005ffcb6b26ec4",
+  "derivation": "byte copy of tmp/fal-test/bud-macro.jpg (its fal C2PA manifest kept; adding the XMP APP1 changes the bytes, so a C2PA validator will report the data hash as not matching: the manifest binds the original, kept at tmp/fal-test/bud-macro.jpg)",
+  "width": 2752,
+  "height": 1536,
+  "sha256": "d8e52af89d1c0adbd49fcdefdc44158815866875ff587a9ae10b6258e97f40c8",
+  "origin": {
+    "tool": "tools/fal-one.mjs",
+    "model": "fal-ai/flux-pro/v1.1-ultra",
+    "prompt": "Macro photograph of a single cannabis flower bud covered in frosty trichomes, soft natural coastal daylight, shallow depth of field, clean pale sky-blue seamless background, editorial botanical photography, crisp detail, no text, no people, no packaging",
+    "input": {
+      "aspect_ratio": "16:9",
+      "output_format": "jpeg"
+    },
+    "requestId": "01a12d86-ce0b-72d3-88ed-609f7347478b",
+    "seed": 395673316,
+    "width": 2752,
+    "height": 1536,
+    "contentType": "image/jpeg",
+    "bytes": 596319,
+    "sha256": "567025492b9939b1420cb5ae240ea4c108b3c6bc81ad01147b005ffcb6b26ec4",
+    "file": "tmp/fal-test/bud-macro.jpg",
+    "generatedAt": "2026-10-12T00:33:02.274Z",
+    "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of this practice, its people, its patients or its results.",
+    "cutout": {
+      "model": "fal-ai/birefnet/v2",
+      "requestId": "01a12d87-00ce-70b3-8f03-78e93807ff75",
+      "file": "tmp/fal-test/bud-macro.cut.png",
+      "bytes": 1504050
+    }
+  },
+  "originSidecar": "tmp/fal-test/bud-macro.jpg.json",
+  "kitVerdict": "tmp/panel/kit/README.md: ACCEPT (a frosty bud macro on pale sky blue; suits a background)",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "Re-checked: frosty bud macro on pale sky blue (bud cropped at the left edge, as the kit notes; fine for a card background); no text, people or smoke.",
+    "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+    "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+    "at": "2026-10-12T05:24:35.735Z"
+  },
+  "reviewHistory": [
+    {
+      "verdict": "ACCEPT",
+      "reason": "Re-checked: frosty bud macro on pale sky blue (bud cropped at the left edge, as the kit notes; fine for a card background); no text, people or smoke.",
+      "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+      "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+      "at": "2026-10-12T05:24:35.735Z"
+    }
+  ]
+}

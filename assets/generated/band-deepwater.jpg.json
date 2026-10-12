@@ -1,0 +1,50 @@
+{
+  "tool": "tmp/img/kit.mjs (lane IMG)",
+  "slot": "BAND-DEEPWATER",
+  "file": "assets/generated/band-deepwater.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands.",
+  "from": "tmp/panel/winner/img/deep-water.jpg",
+  "fromSha256": "db85a36f61b2fa1f9f05cd43950a92b3fa7be75a2d283425d3d1ded664d94b18",
+  "derivation": "byte copy of tmp/panel/winner/img/deep-water.jpg (its fal C2PA manifest kept; adding the XMP APP1 changes the bytes, so a C2PA validator will report the data hash as not matching: the manifest binds the original, kept at tmp/panel/winner/img/deep-water.jpg)",
+  "width": 3136,
+  "height": 1344,
+  "sha256": "34cae44ce9f8cc6f2ce524248ee9af42f521189bf91ca759722aabaa0f6160ee",
+  "origin": {
+    "tool": "tools/fal-one.mjs",
+    "model": "fal-ai/flux-pro/v1.1-ultra",
+    "prompt": "Top-down photograph of a deep teal and navy ocean surface with gentle ripples and soft sunlight caustic patterns dancing across it, dark navy to teal tones with brighter aqua highlights, calm, even texture, no foam lines, no boats, no land, no people, no text",
+    "input": {
+      "aspect_ratio": "21:9",
+      "output_format": "jpeg"
+    },
+    "requestId": "01a12de6-7302-7e01-ab51-4a676e033b52",
+    "seed": 1317019610,
+    "width": 3136,
+    "height": 1344,
+    "contentType": "image/jpeg",
+    "bytes": 1515318,
+    "sha256": "db85a36f61b2fa1f9f05cd43950a92b3fa7be75a2d283425d3d1ded664d94b18",
+    "file": "tmp/panel/a/img/deep-water.jpg",
+    "generatedAt": "2026-10-12T02:17:30.357Z",
+    "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands."
+  },
+  "originSidecar": "tmp/panel/winner/img/deep-water.jpg.json",
+  "kitVerdict": "DESIGN-SPEC 10.2 kit list: A's generation deep-water, already generated and reviewed",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "Re-checked: deep teal water surface with sun glints, even texture; no foam lines, boats, land, people or text.",
+    "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+    "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+    "at": "2026-10-12T05:24:35.528Z"
+  },
+  "reviewHistory": [
+    {
+      "verdict": "ACCEPT",
+      "reason": "Re-checked: deep teal water surface with sun glints, even texture; no foam lines, boats, land, people or text.",
+      "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+      "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+      "at": "2026-10-12T05:24:35.528Z"
+    }
+  ]
+}

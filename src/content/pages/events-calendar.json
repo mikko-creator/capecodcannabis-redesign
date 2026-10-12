@@ -702,21 +702,25 @@
    "blocks": [
     {
      "t": "rich",
-     "html": "1 event found."
+     "html": "1 event found.",
+     "srOnly": true
     },
     {
      "t": "heading",
      "level": 1,
-     "text": "Events"
+     "text": "Events",
+     "srOnly": true
     },
     {
      "t": "heading",
      "level": 2,
-     "text": "Events Search and Views Navigation"
+     "text": "Events Search and Views Navigation",
+     "srOnly": true
     },
     {
      "t": "rich",
-     "html": "Search"
+     "html": "Search",
+     "srOnly": true
     },
     {
      "t": "form",
@@ -737,11 +741,13 @@
     {
      "t": "heading",
      "level": 3,
-     "text": "Event Views Navigation"
+     "text": "Event Views Navigation",
+     "srOnly": true
     },
     {
      "t": "rich",
-     "html": "List"
+     "html": "List",
+     "srOnly": true
     },
     {
      "t": "rich",
@@ -757,7 +763,8 @@
     },
     {
      "t": "rich",
-     "html": "Select date."
+     "html": "Select date.",
+     "srOnly": true
     },
     {
      "t": "rich",
@@ -765,7 +772,7 @@
     },
     {
      "t": "rich",
-     "html": "<ul><li> <a href=\"/events-calendar/list/?eventDisplay=past\" rel=\"prev\" title=\"Previous Events\"> Previous Events </a></li><li> <a href=\"/events-calendar/list/\" title=\"Click to select today's date\"> Today </a></li><li> Next Events </li></ul>"
+     "html": "<ul><li> <a href=\"/events-calendar/list/?eventDisplay=past\" rel=\"prev\" title=\"Previous Events\"> Previous <span class=\"sr\">Events</span> </a></li><li> <a href=\"/events-calendar/list/\" title=\"Click to select today's date\"> Today </a></li><li> Next <span class=\"sr\">Events</span> </li></ul>"
     },
     {
      "t": "rich",

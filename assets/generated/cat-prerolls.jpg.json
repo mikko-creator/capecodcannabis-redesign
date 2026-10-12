@@ -1,0 +1,38 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "CAT-PREROLLS",
+  "file": "assets/generated/cat-prerolls.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Several unlit cone-shaped cannabis pre-rolls, tapered white rolling-paper cones packed with ground green cannabis flower and closed with small twisted paper tips, lined up in a shallow pale wooden tray on white linen, a few angular chips of frosted pale sea glass nearby, soft sea-blue shadows, bright airy daylight, unlit, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+  "input": {
+    "output_format": "jpeg",
+    "aspect_ratio": "4:3"
+  },
+  "seed": 3600178545,
+  "requestId": "01a12e90-f29e-7242-8640-d72d36ff5f32",
+  "cutout": null,
+  "width": 2368,
+  "height": 1792,
+  "sha256": "3e218c2d17dbff29ff37f5357b643be525e892c264d532df2babc598295b65cb",
+  "raw": "tmp/img/raw/CAT-PREROLLS.1791782622058.jpg",
+  "attempt": 2,
+  "generatedAt": "2026-10-12T05:23:43.908Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "Attempt 2 (supersedes attempt 1's empty paper cones, kept in tmp/img/cand/): unlit pre-rolls packed with ground flower in a pale wooden tray, angular frosted sea-glass chips beside it on linen; no smoke, flame, people, text or marks.",
+    "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+    "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+    "at": "2026-10-12T05:24:33.903Z"
+  },
+  "reviewHistory": [
+    {
+      "verdict": "ACCEPT",
+      "reason": "Attempt 2 (supersedes attempt 1's empty paper cones, kept in tmp/img/cand/): unlit pre-rolls packed with ground flower in a pale wooden tray, angular frosted sea-glass chips beside it on linen; no smoke, flame, people, text or marks.",
+      "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+      "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+      "at": "2026-10-12T05:24:33.903Z"
+    }
+  ]
+}

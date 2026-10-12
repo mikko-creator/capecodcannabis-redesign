@@ -1,0 +1,38 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "H-CAT-2",
+  "file": "assets/generated/h-cat-2.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Three unlit cone-shaped cannabis pre-rolls, each a tapered white rolling-paper cone packed with ground green cannabis flower, closed with a small twisted paper tip at the wide end and a short plain cardboard crutch at the narrow end, lying side by side in a shallow white ceramic dish on pale linen, a sprig of dried herbs beside them, soft sea-blue shadows, bright daylight, unlit, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+  "input": {
+    "output_format": "jpeg",
+    "aspect_ratio": "4:3"
+  },
+  "seed": 1847999423,
+  "requestId": "01a12e8f-6b09-7c42-a7af-3fd2442366e4",
+  "cutout": null,
+  "width": 2368,
+  "height": 1792,
+  "sha256": "59675039544f1245529fb9ce85f76b99b283bb0e4f0629b69eef4617e0d0ee7b",
+  "raw": "tmp/img/raw/H-CAT-2.1791782521471.jpg",
+  "attempt": 3,
+  "generatedAt": "2026-10-12T05:22:03.699Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "Attempt 3: three unlit cone-shaped pre-rolls (white paper cones with ground flower visible at the open ends, one with a plain tan crutch) in a white ceramic dish with a dried herb sprig on pale linen; no people, hands, smoke, flame, text or marks; reads as cannabis pre-rolls.",
+    "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+    "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+    "at": "2026-10-12T05:23:11.061Z"
+  },
+  "reviewHistory": [
+    {
+      "verdict": "ACCEPT",
+      "reason": "Attempt 3: three unlit cone-shaped pre-rolls (white paper cones with ground flower visible at the open ends, one with a plain tan crutch) in a white ceramic dish with a dried herb sprig on pale linen; no people, hands, smoke, flame, text or marks; reads as cannabis pre-rolls.",
+      "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+      "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+      "at": "2026-10-12T05:23:11.061Z"
+    }
+  ]
+}

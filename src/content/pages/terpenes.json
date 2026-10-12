@@ -942,7 +942,8 @@
         "label": "Page5",
         "href": "/terpenes/page/5/"
        }
-      ]
+      ],
+      "srPrefix": "Page"
      },
      "loadMore": {
       "maxPage": 5

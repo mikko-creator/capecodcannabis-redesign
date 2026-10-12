@@ -769,6 +769,7 @@
        "type": "text",
        "name": "form_fields[name]",
        "label": "Name",
+       "labelSrOnly": true,
        "placeholder": "Name"
       },
       {
@@ -776,6 +777,7 @@
        "type": "email",
        "name": "form_fields[email]",
        "label": "Email",
+       "labelSrOnly": true,
        "placeholder": "Email",
        "required": true
       },
@@ -784,12 +786,14 @@
        "type": "tel",
        "name": "form_fields[field_1e942b5]",
        "label": "Phone (Optional)",
+       "labelSrOnly": true,
        "placeholder": "Phone (Optional)"
       },
       {
        "tag": "select",
        "name": "form_fields[field_822abe2]",
        "label": "Reason for Inquiry",
+       "labelSrOnly": true,
        "required": true,
        "options": [
         {
@@ -826,6 +830,7 @@
        "tag": "textarea",
        "name": "form_fields[message]",
        "label": "Message",
+       "labelSrOnly": true,
        "placeholder": "Message"
       },
       {

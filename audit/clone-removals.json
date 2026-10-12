@@ -1,0 +1,11 @@
+{
+ "prosePlatformNames": [
+  "assets/search-index.8041254c94.json",
+  "brands/sweetgrass-botanicals/index.html",
+  "products/ch-x-sgb-temple-ball-ch-x-sgb-garlic-reaper-idh-1g-for-sale-wellfleet-ma/index.html",
+  "products/ch-x-sgb-temple-ball-ch-x-sgb-pookie-idh-1g-for-sale-wellfleet-ma/index.html",
+  "sitemap.xml",
+  "sitemap/index.html"
+ ],
+ "prosePlatformNamesWhy": "False positives of the sgen-builder-class rule (/sgb[-_][a-z]/): the only matches in these six files are the live product URLs of two Sweetgrass Botanicals (SGB) products, /products/ch-x-sgb-temple-ball-ch-x-sgb-garlic-reaper-idh-1g-for-sale-wellfleet-ma/ and /products/ch-x-sgb-temple-ball-ch-x-sgb-pookie-idh-1g-for-sale-wellfleet-ma/, which must keep their live slugs. Proof (orchestrator, 2026-10-13): copies of the six files with only sgb- neutralised scan CLEAN under sr-decontaminate --strict (tmp/finish/decon-check), and an unmodified copy fires the rule (tmp/finish/decon-control). The build search index and sitemap file names carry content hashes: if they change, this list must be updated."
+}

@@ -887,7 +887,8 @@
         "label": "Page25",
         "href": "/products/page/25/"
        }
-      ]
+      ],
+      "srPrefix": "Page"
      },
      "loadMore": {
       "maxPage": 489

@@ -170,6 +170,22 @@ export function isAncestor(a, b) {
   return false;
 }
 
+// ---------- screen-reader-only source text (BUILD-CONTRACT 4.18.3; P1 change) ----------
+// Classes that hide an element visually but keep it for screen readers, as found in audit/raw (census:
+// tmp/p1/sr-census.mjs): elementor-screen-only, screen-reader-text, tribe-common-a11y-visual-hide (any class ending in
+// -visual-hide) and tec-a11y-title-hidden. NOT included: tribe-common-a11y-hidden, which The Events Calendar uses as a
+// breakpoint visibility class (it sits on the desktop twin of a mobile element, e.g. "datepicker-desktop"), not as
+// screen-reader-only text.
+export const SR_ONLY_CLASS = (c) => c === 'elementor-screen-only' || c === 'screen-reader-text' || c === 'tec-a11y-title-hidden' || /-visual-hide$/.test(c);
+export const isSrOnlyEl = (n) => isEl(n) && cls(n).some(SR_ONLY_CLASS);
+/** the node or one of its ancestors is screen-reader-only (stops at `stop`, exclusive, when given) */
+export function inSrOnly(n, stop = null) {
+  for (let x = n; x && x !== stop; x = x.parent) if (isSrOnlyEl(x)) return true;
+  return false;
+}
+/** text of n without its screen-reader-only descendants (what a sighted reader sees) */
+export const visibleTextOf = (n) => squash(textOf(n, { skip: isSrOnlyEl }));
+
 // Text of a subtree, with line breaks at block boundaries. opts.skip(node) => true prunes a subtree.
 const BLOCKISH = new Set(['p', 'div', 'li', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'tr', 'section', 'br', 'article', 'header', 'footer', 'ul', 'ol', 'figcaption', 'blockquote', 'td', 'th', 'dt', 'dd', 'nav', 'main', 'aside', 'form', 'table', 'button', 'label', 'option', 'details', 'summary', 'figure', 'pre', 'hr', 'caption']);
 const NONTEXT = new Set(['script', 'style', 'noscript', 'template', 'svg', 'iframe', 'object', 'video', 'audio', 'canvas', 'textarea', 'title', '#comment']);
@@ -209,11 +225,21 @@ const VOID_OUT = new Set(['br', 'hr', 'img']);
 // opts.skip(node)  -> true drops a subtree (e.g. hidden honeypots)
 export function sanitizeRich(nodes, opts = {}) {
   let out = '';
+  let inSr = false;
   const attrStr = (pairs) => pairs.filter(([, v]) => v != null && v !== '').map(([k, v]) => ' ' + k + '="' + escAttr(v) + '"').join('');
   const rec = (x) => {
     if (x.tag === '#text') { if (!x.raw) out += esc(decode(x.text)); return; }
     if (RICH_DROP.has(x.tag)) return;
     if (opts.skip && opts.skip(x)) return;
+    /* screen-reader-only source text stays, inside <span class="sr"> (4.18.3); an element without text is unwrapped */
+    if (!inSr && isSrOnlyEl(x) && squash(textOf(x))) {
+      out += '<span class="sr">';
+      inSr = true;
+      rec({ ...x, attrs: { ...x.attrs, class: cls(x).filter((c) => !SR_ONLY_CLASS(c)).join(' ') } });
+      inSr = false;
+      out += '</span>';
+      return;
+    }
     const allow = RICH_ALLOW[x.tag];
     if (!allow) { for (const c of x.children || []) rec(c); return; }
     const tag = x.tag === 'center' ? 'p' : x.tag;

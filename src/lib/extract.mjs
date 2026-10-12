@@ -13,8 +13,15 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import {
   parse, findAll, findFirst, cls, hasCls, elChildren, isEl, textOf, squash, decode, esc, sanitizeRich, richText,
-  stableJson, isAncestor,
+  stableJson, isAncestor, isSrOnlyEl, inSrOnly, visibleTextOf,
 } from './html-util.mjs';
+// P1 change (BUILD-CONTRACT 4.18.3): screen-reader-only source text is marked, never dropped (docs/PIPELINE-CONTENT.md
+// "srOnly"). A block whose whole text is screen-reader-only carries srOnly: true; inside rich html the text sits in
+// <span class="sr">; a form field or search block whose label (or button text) alone is screen-reader-only carries
+// labelSrOnly / buttonSrOnly; a social or pagination item whose label is screen-reader-only carries srOnly: true.
+const SR_WHOLE = /^<span class="sr">((?:(?!<span\b)[\s\S])*)<\/span>$/;
+/** a rich block whose html is one screen-reader-only span becomes a srOnly block with the span unwrapped */
+const srRich = (b) => { const m = b && b.t === 'rich' && SR_WHOLE.exec(b.html || ''); return m ? { ...b, html: m[1].trim(), srOnly: true } : b; };
 
 const HERE = path.dirname(fileURLToPath(import.meta.url));
 export const WS = path.resolve(HERE, '../..');
@@ -82,6 +89,7 @@ export function loadContext() {
   }
   return { inv, ia, routeByUrl, routeByPath, routeByKey, alias, caseVariant, dead, imgByUrl, imgByBase, outputPaths: new Set() };
 }
+const decodedPath = (p) => { try { return decodeURIComponent(p); } catch { return p; } };
 function withSlash(p) {
   if (!p) return '/';
   if (/\.[a-z0-9]{2,5}$/i.test(p)) return p; // a file (pdf, txt, kml, xml, images) keeps its exact path
@@ -240,6 +248,7 @@ function makeBlocks(ctx) {
       if (!first) { const b = findFirst(g, (x) => x.tag === 'button'); return b ? { tag: 'button', type: b.attrs.type || undefined, label: T(b) || undefined } : { tag: 'group', label: T(g) || undefined }; }
       const multi = inputs.length > 1 || ['checkbox', 'radio'].includes(first.attrs.type);
       return { tag: first.tag, type: first.attrs.type || undefined, name: first.attrs.name || undefined, label: lab ? T(lab) || undefined : undefined,
+        labelSrOnly: lab && T(lab) && inSrOnly(lab, g) ? true : undefined,
         placeholder: first.attrs.placeholder || undefined, ariaLabel: first.attrs['aria-label'] || undefined, required: inputs.some((i) => 'required' in i.attrs || i.attrs['aria-required'] === 'true') || undefined,
         options: first.tag === 'select' ? findAll(first, (o) => o.tag === 'option').map((o) => ({ label: T(o), value: o.attrs.value }))
           : multi ? inputs.map((i) => { const l = i.attrs.id ? findFirst(g, (x) => x.tag === 'label' && x.attrs.for === i.attrs.id && x !== lab) : null; return { label: l ? T(l) : undefined, value: i.attrs.value }; }) : undefined };
@@ -248,6 +257,7 @@ function makeBlocks(ctx) {
     const id = f.attrs.id;
     const lab = id ? findFirst(form, (x) => x.tag === 'label' && x.attrs.for === id) : null;
     return { tag: f.tag, type: f.attrs.type || undefined, name: f.attrs.name || undefined, label: lab ? T(lab) || undefined : undefined,
+      labelSrOnly: lab && T(lab) && inSrOnly(lab, form) ? true : undefined,
       placeholder: f.attrs.placeholder || undefined, ariaLabel: f.attrs['aria-label'] || undefined, required: 'required' in f.attrs || f.attrs['aria-required'] === 'true' || undefined,
       value: f.tag === 'input' && ['checkbox', 'radio'].includes(f.attrs.type) ? f.attrs.value : undefined,
       options: f.tag === 'select' ? findAll(f, (o) => o.tag === 'option').map((o) => ({ label: T(o), value: o.attrs.value })) : undefined };
@@ -328,7 +338,7 @@ function makeBlocks(ctx) {
     const a = firstHref(h);
     const imgs = findAll(h, (y) => y.tag === 'img').map((im) => imageBlock(im, { inHeading: true }));
     const txt = T(h);
-    const head = txt ? [{ t: 'heading', level, text: txt, ...(a ? hrefFields(a) : {}), as: level ? undefined : h.tag, ...extra }] : [];
+    const head = txt ? [{ t: 'heading', level, text: txt, ...(a ? hrefFields(a) : {}), as: level ? undefined : h.tag, srOnly: inSrOnly(h, body.parent) || undefined, ...extra }] : [];
     return [...imgs, ...head, ...(h === body ? [] : restRich(body, h))];
   }
 
@@ -541,7 +551,9 @@ function makeBlocks(ctx) {
         const pag = findFirst(w, (x) => hasCls(x, 'elementor-pagination') || (x.tag === 'nav' && hasCls(x, 'pagination')));
         const loadMore = findFirst(w, (x) => hasCls(x, 'e-load-more-anchor'));
         const lmBtn = findFirst(w, (x) => hasCls(x, 'e-loop__load-more') || hasCls(x, 'elementor-button-wrapper'));
-        return [{ t: 'posts', kind: type, items, pagination: pag ? { text: T(pag), links: findAll(pag, (x) => x.tag === 'a' && x.attrs.href).map((x) => ({ label: T(x), ...hrefFields(x.attrs.href) })) } : undefined,
+        /* the source hides the "Page" before each page number for sighted readers (span.elementor-screen-only) */
+        const pagSr = pag ? [...new Set(findAll(pag, isSrOnlyEl).map(T).filter(Boolean))] : [];
+        return [{ t: 'posts', kind: type, items, pagination: pag ? { text: T(pag), links: findAll(pag, (x) => x.tag === 'a' && x.attrs.href).map((x) => ({ label: T(x), ...hrefFields(x.attrs.href) })), srPrefix: pagSr.length === 1 ? pagSr[0] : undefined } : undefined,
           loadMore: loadMore ? { maxPage: +loadMore.attrs['data-max-page'] || undefined, label: lmBtn ? T(lmBtn) || undefined : undefined } : undefined }];
       }
       case 'hotspot.default': {
@@ -577,7 +589,8 @@ function makeBlocks(ctx) {
         const btn = findFirst(body, (x) => x.tag === 'button');
         const opts = findAll(body, (x) => x.tag === 'option').map(T).filter(Boolean);
         return [{ t: 'search', kind: type.split('.')[0], categories: nonEmpty(opts), action: form ? href(form.attrs.action || '/') : undefined, method: form ? form.attrs.method || undefined : undefined, field: inp ? inp.attrs.name || undefined : undefined,
-          placeholder: inp ? inp.attrs.placeholder || undefined : undefined, label: lab ? T(lab) || undefined : undefined, button: btn ? T(btn) || btn.attrs['aria-label'] || undefined : undefined, clientRendered: type !== 'search-form.default' }];
+          placeholder: inp ? inp.attrs.placeholder || undefined : undefined, label: lab ? T(lab) || undefined : undefined, labelSrOnly: lab && T(lab) && inSrOnly(lab, body) ? true : undefined,
+          button: btn ? T(btn) || btn.attrs['aria-label'] || undefined : undefined, buttonSrOnly: btn && (T(btn) || btn.attrs['aria-label']) && !visibleTextOf(btn) ? true : undefined, clientRendered: type !== 'search-form.default' }];
       }
       case 'nav-menu.default': {
         const main = findFirst(body, (x) => x.tag === 'nav' && hasCls(x, 'elementor-nav-menu--main')) || findFirst(body, (x) => x.tag === 'nav');
@@ -594,7 +607,7 @@ function makeBlocks(ctx) {
         });
         return [{ t: 'nav', kind: 'mega-menu', items }];
       }
-      case 'social-icons.default': return [{ t: 'social', items: findAll(body, (x) => x.tag === 'a' && x.attrs.href).map((a) => { const sr = findFirst(a, (x) => hasCls(x, 'elementor-screen-only')); return { label: (sr ? T(sr) : T(a)) || a.attrs['aria-label'] || undefined, ...hrefFields(a.attrs.href), target: a.attrs.target || undefined }; }) }];
+      case 'social-icons.default': return [{ t: 'social', items: findAll(body, (x) => x.tag === 'a' && x.attrs.href).map((a) => { const sr = findFirst(a, (x) => hasCls(x, 'elementor-screen-only')); return { label: (sr ? T(sr) : T(a)) || a.attrs['aria-label'] || undefined, srOnly: sr && T(sr) && !visibleTextOf(a) ? true : undefined, ...hrefFields(a.attrs.href), target: a.attrs.target || undefined }; }) }];
       case 'sbi-widget.default': {
         const err = findFirst(body, (x) => (x.attrs.id || '').startsWith('sbi_mod_error'));
         if (err) ctx.ledger.removed.push({ what: 'smash-balloon-admin-error', text: T(err), reason: 'admin-only plugin error message (removals.json)' });
@@ -624,7 +637,7 @@ function makeBlocks(ctx) {
     const flush = () => {
       if (!buf.length) return;
       const html = rich(buf);
-      if (squash(html.replace(/<[^>]+>/g, ' ')) || /<img\b/.test(html)) out.push({ t: 'rich', html });
+      if (squash(html.replace(/<[^>]+>/g, ' ')) || /<img\b/.test(html)) out.push(srRich({ t: 'rich', html }));
       buf = [];
     };
     for (const x of nodes || []) {
@@ -640,7 +653,7 @@ function makeBlocks(ctx) {
         const txt = T(x);
         const a = firstHref(x);
         for (const im of imgs) out.push(imageBlock(im, { inHeading: true }));
-        if (txt) out.push({ t: 'heading', level: +x.tag[1], text: txt, ...(a ? hrefFields(a) : {}) });
+        if (txt) out.push({ t: 'heading', level: +x.tag[1], text: txt, ...(a ? hrefFields(a) : {}), srOnly: inSrOnly(x) || undefined });
         continue;
       }
       if (x.tag === 'img') { flush(); out.push(imageBlock(x)); continue; }
@@ -1289,6 +1302,9 @@ function main() {
       variants: variants.length ? variants : undefined, navSection: null,
     });
     model.section = navSectionOf(chrome, outPath);
+    /* P1 change (BUILD-CONTRACT 4.18.6): the model and _index.json carry the decoded UTF-8 output path, the form
+       routes.json uses (/terpenes/α-pinene/). Links inside the models keep the lower-case percent-encoded form. */
+    model.path = decodedPath(outPath);
     // query variants: compare their region text with the primary (they render the base path)
     for (const v of model.variants || []) {
       if (v.sameFile) continue;
@@ -1323,7 +1339,7 @@ function main() {
     totals.imagesMissing += model.ledger.imagesMissing.length;
     if (!model.h1) totals.noH1.push(outPath);
     if (model.h1Source.visible > 1) totals.multiH1.push(outPath);
-    index.push({ slug, path: outPath, kind: model.kind, wpTemplate: model.wpTemplate, sourceUrl: model.sourceUrl, title: model.title, h1: model.h1, variants: (model.variants || []).map((v) => v.url), sections: model.sections.length, hiddenAllSections: model.sections.filter((s) => s.hiddenAll).length, products: model.catalog ? model.catalog.length : 0, unknown: model.ledger.unknown.length });
+    index.push({ slug, path: model.path, kind: model.kind, wpTemplate: model.wpTemplate, sourceUrl: model.sourceUrl, title: model.title, h1: model.h1, variants: (model.variants || []).map((v) => v.url), sections: model.sections.length, hiddenAllSections: model.sections.filter((s) => s.hiddenAll).length, products: model.catalog ? model.catalog.length : 0, unknown: model.ledger.unknown.length });
   }
   if (only) { console.log(JSON.stringify(totals, null, 1)); return; }
   // chrome verification facts

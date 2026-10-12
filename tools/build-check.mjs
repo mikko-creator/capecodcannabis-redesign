@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // build-check.mjs - output invariants of the static build (PIPELINE-SITE).
-//   node tools/build-check.mjs [--dir dist] [--json <report.json>]      exit 1 on any finding or a dead control
+//   node tools/build-check.mjs [--dir dist] [--report <build report.json>] [--json <report.json>]   exit 1 on any finding or a dead control
 // Checks, over every file of the build:
 //   1. exactly one <h1> per HTML page (comments and scripts ignored);
 //   2. no platform residue anywhere (wp-content, elementor, joint-ecommerce, litespeed, gtranslate, googletagmanager,
@@ -155,7 +155,45 @@ function productPathsFromSitemapHtml() {
   return out;
 }
 
-export function run(dist) {
+/* 11. (P1, BUILD-CONTRACT 4.17.12, DESIGN-SPEC R-40) every AI-generated file in the build carries the IPTC label: the
+   bytes "trainedAlgorithmicMedia". The files: every labelled WebP variant (assets/img/<sha12>-<w>-ai.webp, the name the
+   build gives variants of assets/generated/ files), every file copied from assets/generated/ (assets/generated/**,
+   e.g. the loop videos and posters served through ctx.asset), and, with --report <build report>, the report's
+   aiVariants and aiAssets lists, which must also match the -ai.webp files found. */
+export const AI_NEEDLE = 'trainedAlgorithmicMedia';
+export function checkAiLabel(rel, buf) { return buf.includes(AI_NEEDLE) ? [] : [{ kind: 'ai-label-missing', file: rel }]; }
+/** a WebP without its XMP chunk (RIFF size and the VP8X XMP flag fixed): what cwebp -metadata none leaves */
+export function stripWebpXmp(buf) {
+  if (buf.toString('ascii', 0, 4) !== 'RIFF' || buf.toString('ascii', 8, 12) !== 'WEBP') throw new Error('not a WebP');
+  const parts = [buf.subarray(0, 12)];
+  for (let o = 12; o + 8 <= buf.length;) {
+    const id = buf.toString('ascii', o, o + 4);
+    const size = buf.readUInt32LE(o + 4);
+    const end = Math.min(buf.length, o + 8 + size + (size & 1));
+    if (id !== 'XMP ') parts.push(Buffer.from(buf.subarray(o, end)));
+    o = end;
+  }
+  const out = Buffer.concat(parts);
+  out.writeUInt32LE(out.length - 8, 4);
+  if (out.toString('ascii', 12, 16) === 'VP8X') out[20] &= ~0x04;
+  return out;
+}
+/** any other file: every occurrence of the label bytes blanked (a stripped copy for the byte check) */
+const blankLabel = (buf) => Buffer.from(buf.toString('latin1').split(AI_NEEDLE).join('x'.repeat(AI_NEEDLE.length)), 'latin1');
+function aiFileList(files, fileSet, report) {
+  const found = files.filter((f) => /^assets\/img\/[^/]+-ai\.webp$/.test(f) || /^assets\/generated\//.test(f));
+  const f = [];
+  const list = new Set(found);
+  if (report) {
+    const vs = new Set(report.aiVariants || []);
+    for (const v of vs) { list.add(v); if (!fileSet.has(v)) f.push({ kind: 'ai-variant-missing', file: v }); }
+    for (const x of found) if (/-ai\.webp$/.test(x) && !vs.has(x)) f.push({ kind: 'ai-variant-unlisted', file: x });
+    for (const a of report.aiAssets || []) { list.add(a); if (!fileSet.has(a)) f.push({ kind: 'ai-asset-missing', file: a }); }
+  }
+  return { list: [...list].sort(), findings: f };
+}
+
+export function run(dist, opts = {}) {
   const routesJson = JSON.parse(fs.readFileSync(path.join(ROOT, 'src/content/routes.json'), 'utf8'));
   const routes = routesJson.routes;
   const files = listFiles(dist);
@@ -189,6 +227,15 @@ export function run(dist) {
   const products = productPathsFromSitemapHtml();
   let productsPresent = 0;
   for (const p of products) { if (fileSet.has(outFileOf(p).normalize('NFC'))) productsPresent++; else findings.push({ kind: 'product-missing', value: p }); }
+  /* 11. the AI label in every AI-generated file of the build */
+  const ai = aiFileList(files, fileSet, opts.report || null);
+  findings.push(...ai.findings);
+  let aiLabelled = 0;
+  for (const rel of ai.list) {
+    if (!fileSet.has(rel)) continue;
+    const r = checkAiLabel(rel, fs.readFileSync(path.join(dist, rel)));
+    if (r.length) findings.push(...r); else aiLabelled++;
+  }
 
   /* positive controls (in memory) */
   const good = '<html><head><link rel="canonical" href="https://capecodcannabis.com/x/"><meta property="og:url" content="https://capecodcannabis.com/x/"><script type="application/ld+json">{"url":"https://capecodcannabis.com/x/"}</script></head><body><h1>x</h1><a data-handoff="live-menu" href="https://capecodcannabis.com/products/x/">h</a></body></html>';
@@ -214,7 +261,24 @@ export function run(dist) {
   const c8 = checkPage('ctl/no-h1.html', '<html><body><h2>x</h2></body></html>').findings;
   const c9 = checkPage('ctl/hidden-h1.html', '<html><body><section hidden><h1>x</h1></section><p>y</p></body></html>').findings;
   const k6 = kinds(c6);
+  /* AI-label controls: a labelled file from this build (else a labelled WebP made in memory from tools/ai-label.xmp) is
+     not reported; its stripped copy is (WebP: XMP chunk removed; any other file: label bytes blanked) */
+  const aiReal = ai.list.find((x) => fileSet.has(x) && /\.webp$/.test(x) && checkAiLabel(x, fs.readFileSync(path.join(dist, x))).length === 0);
+  const aiSynth = () => {
+    const xmp = fs.readFileSync(path.join(ROOT, 'tools/ai-label.xmp'));
+    const chunk = (id, data) => { const h = Buffer.alloc(8); h.write(id, 0, 'ascii'); h.writeUInt32LE(data.length, 4); return Buffer.concat([h, data, data.length & 1 ? Buffer.alloc(1) : Buffer.alloc(0)]); };
+    const vp8x = Buffer.alloc(10); vp8x[0] = 0x04;
+    const body = Buffer.concat([Buffer.from('WEBP'), chunk('VP8X', vp8x), chunk('VP8L', Buffer.from([0x2f, 0, 0, 0, 0])), chunk('XMP ', xmp)]);
+    const head = Buffer.alloc(8); head.write('RIFF', 0, 'ascii'); head.writeUInt32LE(body.length, 4);
+    return Buffer.concat([head, body]);
+  };
+  const aiBuf = aiReal ? fs.readFileSync(path.join(dist, aiReal)) : aiSynth();
+  const aiOther = ai.list.find((x) => fileSet.has(x) && !/\.webp$/.test(x) && checkAiLabel(x, fs.readFileSync(path.join(dist, x))).length === 0);
+  const aiOtherBuf = aiOther ? fs.readFileSync(path.join(dist, aiOther)) : Buffer.from('....' + AI_NEEDLE + '....');
   const control = {
+    aiLabelledNotReported: checkAiLabel('ctl/ai.webp', aiBuf).length === 0 && checkAiLabel('ctl/ai-other', aiOtherBuf).length === 0,
+    aiStrippedWebpReported: checkAiLabel('ctl/ai-stripped.webp', stripWebpXmp(aiBuf)).length === 1,
+    aiStrippedOtherReported: checkAiLabel('ctl/ai-stripped-other', blankLabel(aiOtherBuf)).length === 1,
     validNotReported: c1.length === 0,
     twoH1: kinds(c2).has('h1-count'), residue: kinds(c2).has('residue'), honeypot: kinds(c2).has('honeypot'), liveHref: kinds(c2).has('live-site-url'),
     missingRoute: c3.length === 1, sitemapMissing: kinds(c4).has('sitemap-missing'), sitemapDuplicate: kinds(c4).has('sitemap-duplicate'),
@@ -228,19 +292,22 @@ export function run(dist) {
   };
   control.fired = Object.values(control).every(Boolean);
   const byKind = findings.reduce((a, x) => { a[x.kind] = (a[x.kind] || 0) + 1; return a; }, {});
-  return { dist, files: files.length, pages, routes: routes.length, routesEmitted: routes.length - (byKind['route-not-emitted'] || 0), indexable: indexableBuilt.length, sitemapLocs: sm.locs, productsInSitemapHtml: products.size, productsPresent, proseMentions: prose, handoffLinks: handoffs, findings, byKind, control };
+  return { dist, files: files.length, pages, routes: routes.length, routesEmitted: routes.length - (byKind['route-not-emitted'] || 0), indexable: indexableBuilt.length, sitemapLocs: sm.locs, productsInSitemapHtml: products.size, productsPresent, proseMentions: prose, handoffLinks: handoffs,
+    ai: { files: ai.list.length, labelled: aiLabelled, fromReport: !!opts.report, controlSource: { webp: aiReal || 'synthetic WebP (tools/ai-label.xmp)', other: aiOther || 'synthetic buffer' } }, findings, byKind, control };
 }
 
 const isMain = process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.argv[1])).href;
 if (isMain) {
   const arg = (k) => { const i = process.argv.indexOf(k); return i === -1 ? null : process.argv[i + 1]; };
   const dist = path.resolve(arg('--dir') || path.join(ROOT, 'dist'));
-  const r = run(dist);
+  const report = arg('--report') ? JSON.parse(fs.readFileSync(path.resolve(arg('--report')), 'utf8')) : null;
+  const r = run(dist, { report });
   console.log('build-check ' + dist);
   console.log('files ' + r.files + ' | pages ' + r.pages + ' | routes ' + r.routesEmitted + '/' + r.routes + ' emitted | sitemap ' + r.sitemapLocs + ' locs for ' + r.indexable + ' indexable | products ' + r.productsPresent + '/' + r.productsInSitemapHtml + ' | hand-off links ' + r.handoffLinks + ' | prose mentions of the domain ' + r.proseMentions);
+  console.log('ai label: ' + r.ai.labelled + '/' + r.ai.files + ' AI-generated files carry "' + AI_NEEDLE + '"' + (r.ai.fromReport ? ' (lists cross-checked with --report)' : ' (found by name; pass --report <build report> to cross-check its aiVariants/aiAssets)') + '; control source: ' + r.ai.controlSource.webp + ', ' + r.ai.controlSource.other);
   console.log('findings ' + r.findings.length + ' ' + JSON.stringify(r.byKind));
   for (const x of r.findings.slice(0, 25)) console.log('  FINDING ' + JSON.stringify(x).slice(0, 300));
-  console.log('control: ' + (r.control.fired ? 'fired (' + (Object.keys(r.control).length - 3) + ' planted defects reported: two H1, no H1, hidden H1, residue, honeypot, live href, percent-encoded live URL, missing route, sitemap missing/duplicate, the 5 excluded JSON-LD facts, 2 internal tracking links, 3 platform aria-label/name; canonical, og:url, JSON-LD URL, hand-off, mailto:, an external utm_source referral and a clean JSON-LD/link/form twin not)' : 'DID NOT FIRE ' + JSON.stringify(r.control)));
+  console.log('control: ' + (r.control.fired ? 'fired (' + (Object.keys(r.control).length - 4) + ' planted defects reported: an AI file stripped of its label (WebP and other), two H1, no H1, hidden H1, residue, honeypot, live href, percent-encoded live URL, missing route, sitemap missing/duplicate, the 5 excluded JSON-LD facts, 2 internal tracking links, 3 platform aria-label/name; canonical, og:url, JSON-LD URL, hand-off, mailto:, an external utm_source referral and a clean JSON-LD/link/form twin not)' : 'DID NOT FIRE ' + JSON.stringify(r.control)));
   if (arg('--json')) fs.writeFileSync(path.resolve(arg('--json')), JSON.stringify(r, null, 1));
   process.exitCode = r.findings.length || !r.control.fired ? 1 : 0;
 }

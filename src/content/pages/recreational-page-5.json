@@ -779,7 +779,8 @@
         "label": "Page4",
         "href": "/recreational/page/4/"
        }
-      ]
+      ],
+      "srPrefix": "Page"
      },
      "loadMore": {
       "maxPage": 5

@@ -1,0 +1,56 @@
+{
+  "tool": "tmp/img/kit.mjs (lane IMG)",
+  "slot": "CUT-FLUKE",
+  "file": "assets/generated/cut-fluke.png",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands.",
+  "from": "tmp/panel/winner/img/whale-fluke.cut.png",
+  "fromSha256": "81bfe2e42d4b880388e7a7a65da27ed0f495e4e2722b3d8fe284eb6b89598732",
+  "derivation": "ffmpeg crop 1598:545:586:708 (the alpha box with drips, padded to the prototype's 2.93:1 frame), then lanczos resize to 1040 px wide (2x the largest painted width, DESIGN-SPEC 5.3 / R-20), RGBA PNG; no other change",
+  "width": 1040,
+  "height": 354,
+  "sha256": "c8142075ccfffd4093c795bab0eb901e0bc1387e8e64eee5fa3935f440b6f949",
+  "origin": {
+    "tool": "tools/fal-one.mjs",
+    "model": "fal-ai/flux-pro/v1.1-ultra",
+    "prompt": "Photograph of a single humpback whale tail fluke rising vertically out of calm ocean water with a few water droplets falling from its trailing edge, the whole fluke fully inside the frame with generous margin on all sides, soft bright daylight, plain pale grey-blue overcast sky behind, nothing else in the frame, no boats, no land, no birds, no people, no text",
+    "input": {
+      "aspect_ratio": "3:2",
+      "output_format": "jpeg"
+    },
+    "requestId": "01a12dc2-f01d-7553-9256-6ef9fb1b536d",
+    "seed": 1729506263,
+    "width": 2496,
+    "height": 1664,
+    "contentType": "image/jpeg",
+    "bytes": 692807,
+    "sha256": "629d278eeddf4850cfb4a0fc9a025ebdb90ba3594f0bb5569a77a16b40fdc96e",
+    "file": "tmp/panel/a/img/whale-fluke.jpg",
+    "generatedAt": "2026-10-12T01:38:41.476Z",
+    "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands.",
+    "cutout": {
+      "model": "fal-ai/birefnet/v2",
+      "requestId": "01a12dc3-1c6f-7c90-9928-c050dcf73b67",
+      "file": "tmp/panel/a/img/whale-fluke.cut.png",
+      "bytes": 482504
+    }
+  },
+  "originSidecar": "tmp/panel/winner/img/whale-fluke.jpg.json",
+  "kitVerdict": "tmp/panel/winner/DESIGN-NOTES.md: humpback fluke, cropped into cut-whale-fluke.webp (footer breach); prototype A generation",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "Prototype cut-out re-checked on #015375: a humpback fluke with water drips, cropped to the fluke (2.93:1) like the prototype; no boats, land, people or text; not a mascot.",
+    "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+    "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+    "at": "2026-10-12T05:24:35.328Z"
+  },
+  "reviewHistory": [
+    {
+      "verdict": "ACCEPT",
+      "reason": "Prototype cut-out re-checked on #015375: a humpback fluke with water drips, cropped to the fluke (2.93:1) like the prototype; no boats, land, people or text; not a mascot.",
+      "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+      "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+      "at": "2026-10-12T05:24:35.328Z"
+    }
+  ]
+}

@@ -9,19 +9,29 @@
     "/free-bar-coasters/"
    ],
    "text": "Cape Cod Cannabis.com support by Rank Really High",
-   "reason": "The previous agency's footer credit (rankreallyhigh.com, logo alt text). BUILD-CONTRACT 4.8: removed with reason, recorded in the change ledger; src/content/chrome.json keeps it under agencyCredit with removed:true. /free-bar-coasters/ is a canvas page that prints the credit inside its own region; the build drops that block too (page.removedBlocks)."
+   "reason": "The previous agency's footer credit (rankreallyhigh.com, logo alt text). BUILD-CONTRACT 4.8: removed with reason, recorded in the change ledger; src/content/chrome.json keeps it under agencyCredit with removed:true. /free-bar-coasters/ is a canvas page that prints the credit inside its own region; the build drops that block too (page.removedBlocks). [INTEGRATOR 2026-10-12: kinds narrowed to alt: the credit is the logo alt in chrome.json and in free-bar-coasters.json]",
+   "kinds": [
+    "alt"
+   ]
   },
   {
    "id": "smash-balloon-admin-error",
    "pages": "*",
    "pattern": "^(This error message is only visible to WordPress admins|Error: No feed found\\.|Please go to the Instagram Feed settings page to create a feed\\.)$",
-   "reason": "Smash Balloon Instagram plugin's admin-only error output (docs/CONTENT-MODEL.md section 6, Exclude). It is not copy; the model keeps an instagram-feed embed placeholder."
+   "reason": "Smash Balloon Instagram plugin's admin-only error output (docs/CONTENT-MODEL.md section 6, Exclude). It is not copy; the model keeps an instagram-feed embed placeholder. [INTEGRATOR run 2, 2026-10-12: kinds narrowed to text: the plugin error is visible text; 0 matches in the run-2 parity report, the extractor already drops it]",
+   "kinds": [
+    "text"
+   ]
   },
   {
    "id": "tec-loading-spinner",
    "pages": "*",
    "text": "Loading Events",
-   "reason": "The Events Calendar's AJAX loading spinner (span.tribe-events-ajax-loading: an <img alt=\"Loading Events\"> on an origin wp-content/plugins gif). Plugin runtime UI shown only while the calendar loads by AJAX; a static rebuild has no such state. Recorded per page in ledger.removed (what: tec-loading-spinner)."
+   "reason": "The Events Calendar's AJAX loading spinner (span.tribe-events-ajax-loading: an <img alt=\"Loading Events\"> on an origin wp-content/plugins gif). Plugin runtime UI shown only while the calendar loads by AJAX; a static rebuild has no such state. Recorded per page in ledger.removed (what: tec-loading-spinner). [INTEGRATOR 2026-10-12: kinds narrowed to text and alt: the spinner is an img alt that the models carry as text]",
+   "kinds": [
+    "text",
+    "alt"
+   ]
   },
   {
    "id": "widget-accordion-instructions",
@@ -90,7 +100,21 @@
     "/daily-purchase-limit-in-ma/"
    ],
    "pattern": "^(Understanding the 28-Gram Daily Limit|The state allows you to purchase 28 grams of flower or its equivalent in other cannabis formats\\.|• Flower: Up to 28 grams \\(1 ounce\\)\\.|• Edibles: A total of 500mg THC, which is roughly 5 packs of 20 servings, each serving containing 5mg of THC\\.|• Concentrates: Up to 5 grams of cannabis concentrates, such as wax, shatter, or live resin \\(equivalent to 5 x 1g or 10 x 0\\.5g packages\\)\\.|• Tinctures: A total of 5000mg = approximately 5 x 1000mg bottles, depending on the product's potency and total THC content\\.|• Pre-roll Joints: 28 pre-roll joints, assuming each joint contains roughly 1 gram of flower\\.|• Vape Cartridges: Up to 10 x 0\\.5g cartridges or 5 x 1g cartridges/disposables\\.)$",
-   "reason": "BUILD-CONTRACT 4.16.4 (conflict:true device variants). The tablet/mobile accordion (section c7898de) states a 28 g daily limit; the desktop variant (section 03a463d) states 56 g, which agrees with the site's dated statement on 23 pages ('As of April 19, 2026 ... up to 2 ounces', docs/FACTS-EVIDENCE.md C3). The build renders only the 56 g variant. These 8 sentences are exactly the 28 g item of that accordion (item 0, 'Understanding the 28-Gram Daily Limit'), computed with this checker's own tokenizer (tmp/h1/conflict28.mjs). Flagged to the client (docs/OPEN-DECISIONS.md B3). NOT covered, on purpose: the accordion's other two items ('Why Are Purchase Limits Important?', 'Tips for Staying Within the Limit') exist only in that variant and contradict nothing, so they must stay rendered (BUILD-CONTRACT 4.2)."
+   "reason": "BUILD-CONTRACT 4.16.4 (conflict:true device variants). The tablet/mobile accordion (section c7898de) states a 28 g daily limit; the desktop variant (section 03a463d) states 56 g, which agrees with the site's dated statement on 23 pages ('As of April 19, 2026 ... up to 2 ounces', docs/FACTS-EVIDENCE.md C3). The build renders only the 56 g variant. These 8 sentences are exactly the 28 g item of that accordion (item 0, 'Understanding the 28-Gram Daily Limit'), computed with this checker's own tokenizer (tmp/h1/conflict28.mjs). Flagged to the client (docs/OPEN-DECISIONS.md B3). NOT covered, on purpose: the accordion's other two items ('Why Are Purchase Limits Important?', 'Tips for Staying Within the Limit') exist only in that variant and contradict nothing, so they must stay rendered (BUILD-CONTRACT 4.2). [INTEGRATOR 2026-10-12: kinds narrowed to text: the 28 g lines are accordion body text]",
+   "kinds": [
+    "text"
+   ]
+  },
+  {
+   "id": "categories-placeholder-posts-grid",
+   "pages": [
+    "/categories/"
+   ],
+   "pattern": "^(Category|View All)$",
+   "reason": "Two unfinished Elementor posts grids on the live /categories/ page: each is a heading \"Category\" and a button \"View All\" that both link to \"#\", over a posts list with no items, shown on the live site only at its widescreen and mobile_extra breakpoints (model src/content/pages/categories.json, dev [widescreen, mobile_extra]). A source placeholder, not content; the theme renders an empty grid and its \"#\" links as nothing (src/theme/blocks.mjs dropPlaceholderGrids). Orchestrator, 2026-10-13; it also clears the dead-link blocker of sr-decontaminate.",
+   "kinds": [
+    "text"
+   ]
   }
  ],
  "allowedAdded": [
@@ -104,7 +128,10 @@
    "id": "snapshot-date",
    "pages": "*",
    "text": "as of 2026-10-12",
-   "reason": "The dated-snapshot label: prices are 'as of <date>' (BUILD-CONTRACT 4.5) and the Google review snapshot shows its capture date, 2026-10-12 (4.7). The date is ctx.snapshotDate; if it changes, this entry changes with it."
+   "reason": "The dated-snapshot label: prices are 'as of <date>' (BUILD-CONTRACT 4.5) and the Google review snapshot shows its capture date, 2026-10-12 (4.7). The date is ctx.snapshotDate; if it changes, this entry changes with it. [INTEGRATOR 2026-10-12: kinds narrowed to text: the date line is visible text only]",
+   "kinds": [
+    "text"
+   ]
   },
   {
    "id": "popup-close",
@@ -112,28 +139,42 @@
     "/about-cape-cod-cannabis/"
    ],
    "text": "Close",
-   "reason": "The close button of the about-page popup dialog (Elementor popup #236015, BUILD-CONTRACT 4.15.9). The source popup's close control is added by Elementor's runtime and is not in the captured HTML, so the rebuild uses its own label (4.16.3)."
+   "reason": "The close button of the about-page popup dialog (Elementor popup #236015, BUILD-CONTRACT 4.15.9). The source popup's close control is added by Elementor's runtime and is not in the captured HTML, so the rebuild uses its own label (4.16.3). [INTEGRATOR 2026-10-12: kinds narrowed to text and aria-label: a button label]",
+   "kinds": [
+    "text",
+    "aria-label"
+   ]
   },
   {
    "id": "chip-source-labels",
    "pages": "*",
    "pattern": "^\\((from the product name|from the product's web address)\\)$",
-   "reason": "BUILD-CONTRACT 4.16.7: each product chip, and a brand taken from the URL slug, says where it comes from: '(from the product name)' when the label is in the title verbatim, '(from the product's web address)' when it comes from the URL slug. Product pages are Plan B stubs with no captured source page, so the parity gate does not read them; the entry documents the wording."
+   "reason": "BUILD-CONTRACT 4.16.7: each product chip, and a brand taken from the URL slug, says where it comes from: '(from the product name)' when the label is in the title verbatim, '(from the product's web address)' when it comes from the URL slug. Product pages are Plan B stubs with no captured source page, so the parity gate does not read them; the entry documents the wording. [INTEGRATOR 2026-10-12: kinds narrowed to text: the chip captions are visible text]",
+   "kinds": [
+    "text"
+   ]
   },
   {
    "id": "age-gate-plugin-strings",
-   "pages": "*",
+   "pages": [
+    "#chrome"
+   ],
    "pattern": "^(You are not old enough to view this content|Age Verification - Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA|Your browser does not support cookies, you may experience problems entering this site)$",
-   "reason": "BUILD-CONTRACT 4.15.2: the age-gate plugin's own strings, verbatim from its script config on every captured page (var age_gate: \"error\" with \"rechallenge\":\"1\", and \"customTitle\"; var age_gate_common: \"cookies\"). The checker's source corpus does not read script bodies, so they are declared here. They live in the age-gate dialog, outside <main>: the error and the cookie warning are hidden until shown, and the custom title is only document.title while the gate is up."
+   "reason": "BUILD-CONTRACT 4.15.2: the age-gate plugin's own strings, verbatim from its script config on every captured page (var age_gate: \"error\" with \"rechallenge\":\"1\", and \"customTitle\"; var age_gate_common: \"cookies\"). The checker's source corpus does not read script bodies, so they are declared here. They live in the age-gate dialog, outside <main>: the error and the cookie warning are hidden until shown, and the custom title is only document.title while the gate is up. Tightened by T0 (2026-10-12, BUILD-CONTRACT 4.18.8): limited to kinds [\"text\"] and to the chrome (pages [\"#chrome\"]: the header, footer and dialogs outside <main>, where the gate lives), so the entry cannot excuse the same sentences as body text in a page.",
+   "kinds": [
+    "text"
+   ]
   },
   {
    "id": "age-gate-aria-label",
-   "pages": "*",
+   "pages": [
+    "#chrome"
+   ],
    "kinds": [
     "aria-label"
    ],
    "text": "Verify you are over 21 years of age?",
-   "reason": "The age-gate dialog's accessible name: the plugin's own aria-label 'Verify you are over %s years of age?' with the placeholder it never fills set to 21 (src/content/chrome.json ageGate.ariaLabelNote; docs/CONTENT-MODEL.md section 2). Chrome, outside <main>."
+   "reason": "The age-gate dialog's accessible name: the plugin's own aria-label 'Verify you are over %s years of age?' with the placeholder it never fills set to 21 (src/content/chrome.json ageGate.ariaLabelNote; docs/CONTENT-MODEL.md section 2). Chrome, outside <main>. [INTEGRATOR 2026-10-12: pages narrowed to #chrome: the gate dialog is chrome]"
   }
  ]
 }

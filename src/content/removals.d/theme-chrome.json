@@ -1,0 +1,118 @@
+{
+  "schema": "ccc-reforge/removals@1",
+  "note": "Lane T1a (chrome + design system; src/theme/chrome.mjs, parts.mjs, site.js). Written by T0 in the skeleton phase from DESIGN-SPEC 11, BUILD-CONTRACT 4.17.4. UI microcopy only: no claim, fact or marketing copy.",
+  "removals": [],
+  "allowedAdded": [
+    {
+      "id": "theme-search-name",
+      "pages": [
+        "#chrome"
+      ],
+      "kinds": [
+        "text",
+        "aria-label"
+      ],
+      "text": "Search",
+      "reason": "DESIGN-SPEC 6.2 / 11: the header Search button's accessible name (a 44x44 icon button). The chrome model's search label is also \"Search\"; declared because the spec lists it as new UI microcopy."
+    },
+    {
+      "id": "theme-submenu-carets",
+      "pages": [
+        "#chrome"
+      ],
+      "kinds": [
+        "aria-label"
+      ],
+      "pattern": "^[^.!?]{1,40} submenu$",
+      "reason": "DESIGN-SPEC 6.2 / 11: each nav item with children has a caret button named \"<label> submenu\" (e.g. \"Shop Menu submenu\"), the disclosure pattern of graft 1. <label> is the verbatim nav label from ctx.nav."
+    },
+    {
+      "id": "theme-pickup-bag",
+      "pages": [
+        "#chrome"
+      ],
+      "kinds": [
+        "text",
+        "aria-label"
+      ],
+      "pattern": "^Pickup bag( \\d+)?$",
+      "reason": "DESIGN-SPEC 6.2 / 6.6 / 11: the header bag button is always named \"Pickup bag\" (aria-label, R-31); its visible text is \"Pickup bag\" plus the count badge (a number, read with the button as one text run: \"Pickup bag 0\"). The drawer heading is also \"Pickup bag\". Preview only (BUILD-CONTRACT 4.5)."
+    },
+    {
+      "id": "theme-dialog-close",
+      "pages": [
+        "#chrome"
+      ],
+      "kinds": [
+        "aria-label",
+        "text"
+      ],
+      "text": "Close",
+      "reason": "DESIGN-SPEC 6.4 / 6.6: the Close button of the phone menu sheet and of the Pickup bag drawer (icon buttons, accessible name \"Close\"). The base entry popup-close covers only the about-page popup."
+    },
+    {
+      "id": "theme-ai-illustration-tag",
+      "pages": "*",
+      "kinds": [
+        "text"
+      ],
+      "text": "AI illustration",
+      "reason": "BUILD-CONTRACT 4.17.4 and DESIGN-SPEC 10.1 / 11: the visible corner tag on generated images that show a place, a landscape or a cannabis product, painted 300 CSS px wide or more (H-BAND-2/3/4, H-CAT-*, CAT-*, PLACE-*). Rendered by parts.mjs slotImg() on slots with tag:true, aria-hidden because the alt already says it (the parity checker reads aria-hidden text, so it is declared). For client and counsel review (OPEN-DECISIONS B21)."
+    },
+    {
+      "id": "theme-footer-ai-note",
+      "pages": [
+        "#chrome"
+      ],
+      "kinds": [
+        "text"
+      ],
+      "pattern": "^(Some images on this site are AI-generated illustrations\\.|They are not photos of our store, staff, customers or products\\.)$",
+      "reason": "BUILD-CONTRACT 4.17.4 (this wording replaces DESIGN-SPEC 6.7's alt-text wording): the footer AI note, \"Some images on this site are AI-generated illustrations. They are not photos of our store, staff, customers or products.\" (two sentences, matched separately). For client and counsel review (OPEN-DECISIONS B21)."
+    },
+    {
+      "id": "theme-footer-must-be-21",
+      "pages": [
+        "#chrome"
+      ],
+      "kinds": [
+        "text"
+      ],
+      "text": "*Must be 21+ with a VALID ID.",
+      "reason": "DESIGN-SPEC 6.7 graft 12 and BUILD-CONTRACT 4.17.4: the footer repeats the age gate's verbatim note \"*Must be 21+ with a VALID ID.\" on its own line. The string is in every source page through the age-gate template; declared because its use as a footer line is new (for client and counsel review, OPEN-DECISIONS B21)."
+    },
+    {
+      "id": "chrome-bag-specials-disclaimer",
+      "pages": [
+        "#chrome"
+      ],
+      "kinds": [
+        "text"
+      ],
+      "text": "*Website cart may not reflect the bundled price but it will be adjusted at time of payment.",
+      "reason": "BUILD-CONTRACT 4.5 and DESIGN-SPEC 6.6 / R-39: the Pickup bag drawer (in the chrome of every page) shows the verbatim specials disclaimer. The sentence is verbatim from the 17 special pages (e.g. src/content/pages/specials-affordable-ounces-1-2-ounces.json); declared because the bag repeats it outside those pages."
+    },
+    {
+      "id": "chrome-to-top",
+      "pages": [
+        "#chrome"
+      ],
+      "kinds": [
+        "aria-label"
+      ],
+      "text": "Back to top",
+      "reason": "DESIGN-SPEC 6.22: the 44x44 to-top icon link (the source footer button #topButton -> #topBar has no label: chrome.json backToTop.label is null) needs an accessible name (DESIGN-SPEC 9 \"every icon button has an accessible name\"). UI microcopy only."
+    },
+    {
+      "id": "chrome-bag-count-sr",
+      "pages": [
+        "#chrome"
+      ],
+      "kinds": [
+        "text"
+      ],
+      "pattern": "^,? ?[0-9]+ items$",
+      "reason": "DESIGN-SPEC 6.2 / R-31: the header bag button keeps the name \"Pickup bag\" and carries its count in a visually hidden span reading \", 0 items\" (aria-describedby; updated by site.js). UI microcopy only."
+    }
+  ]
+}

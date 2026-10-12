@@ -891,7 +891,9 @@
      "field": "s",
      "placeholder": "Search Cape Cod Cannabis...",
      "label": "Search",
+     "labelSrOnly": true,
      "button": "Search",
+     "buttonSrOnly": true,
      "clientRendered": false
     }
    ]
@@ -1448,21 +1450,25 @@
      "items": [
       {
        "label": "Facebook",
+       "srOnly": true,
        "href": "https://www.facebook.com/Cape-Cod-Cannabis-112536844674702/",
        "target": "_blank"
       },
       {
        "label": "Linkedin",
+       "srOnly": true,
        "href": "https://www.linkedin.com/company/cape-cod-cannabis/",
        "target": "_blank"
       },
       {
        "label": "Twitter",
+       "srOnly": true,
        "href": "https://twitter.com/capecodcanna",
        "target": "_blank"
       },
       {
        "label": "Instagram",
+       "srOnly": true,
        "href": "https://www.instagram.com/thecccstore.ma",
        "target": "_blank"
       }

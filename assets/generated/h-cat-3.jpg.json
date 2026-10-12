@@ -1,0 +1,38 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "H-CAT-3",
+  "file": "assets/generated/h-cat-3.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "A plain matte white slim vaporizer device with no markings standing upright among smooth beach pebbles and pale sea glass, pale sky-blue and white backdrop, bright clean daylight, minimal still life, soft airy coastal palette, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+  "input": {
+    "output_format": "jpeg",
+    "aspect_ratio": "4:3"
+  },
+  "seed": 3916615877,
+  "requestId": "01a12e8d-457a-7573-8b89-1a97f9958855",
+  "cutout": null,
+  "width": 2368,
+  "height": 1792,
+  "sha256": "a7fe543ff74a537420f8743fa47b75e69e2f92ac521b05cac2b098031ed6c20b",
+  "raw": "tmp/img/raw/H-CAT-3.1791782382477.jpg",
+  "attempt": 2,
+  "generatedAt": "2026-10-12T05:19:44.141Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "Attempt 2: a plain matte white device with a black mouthpiece, no markings, upright among beach pebbles and pale sea glass on a soft pale sky-grey backdrop; no people, hands, smoke, text, labels or marks; brand palette.",
+    "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+    "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+    "at": "2026-10-12T05:21:21.223Z"
+  },
+  "reviewHistory": [
+    {
+      "verdict": "ACCEPT",
+      "reason": "Attempt 2: a plain matte white device with a black mouthpiece, no markings, upright among beach pebbles and pale sea glass on a soft pale sky-grey backdrop; no people, hands, smoke, text, labels or marks; brand palette.",
+      "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+      "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+      "at": "2026-10-12T05:21:21.223Z"
+    }
+  ]
+}

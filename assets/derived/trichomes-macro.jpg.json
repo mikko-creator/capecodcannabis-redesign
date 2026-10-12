@@ -1,0 +1,36 @@
+{
+  "tool": "tmp/img/derive.mjs (lane IMG)",
+  "slot": "FLOWER-HERO",
+  "file": "assets/derived/trichomes-macro.jpg",
+  "kind": "real photo (not AI-generated); crop/resize only, never retouched",
+  "source": "tmp/understand/imagery/masters/14-trichomes_lossy0.jpeg",
+  "sourceSha256": "1ee914d3317caa6336c95b9cce60aefbddc29bdea71d6de334633a60e6569505",
+  "operation": "byte copy",
+  "note": "byte copy of the lossy=0 master of the site photo trichomes.jpg (docs/IMAGE-INVENTORY.md img0073)",
+  "width": 1958,
+  "height": 1300,
+  "bytes": 625127,
+  "sha256": "1ee914d3317caa6336c95b9cce60aefbddc29bdea71d6de334633a60e6569505",
+  "jpegQualityEstimate": {
+    "quality": 93,
+    "scale": 14.89,
+    "allOnes": false,
+    "maxQ": 15
+  },
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "Byte copy of the lossy=0 master of the site's trichomes photo (1958x1300); unaltered.",
+    "checks": "Real photo: unaltered (no AI, no retouch); checked by eye on tmp/img/contact-real.png",
+    "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+    "at": "2026-10-12T05:29:09.009Z"
+  },
+  "reviewHistory": [
+    {
+      "verdict": "ACCEPT",
+      "reason": "Byte copy of the lossy=0 master of the site's trichomes photo (1958x1300); unaltered.",
+      "checks": "Real photo: unaltered (no AI, no retouch); checked by eye on tmp/img/contact-real.png",
+      "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+      "at": "2026-10-12T05:29:09.009Z"
+    }
+  ]
+}

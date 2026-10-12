@@ -1,0 +1,38 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "H-BAND-4",
+  "file": "assets/generated/h-band-4.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Salt marsh creek winding through green spartina grass toward calm blue bay water, bright clear day, soft haze, wide and calm, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+  "input": {
+    "output_format": "jpeg",
+    "aspect_ratio": "21:9"
+  },
+  "seed": 3540785641,
+  "requestId": "01a12e88-897e-7f00-b796-9bc16efdd433",
+  "cutout": null,
+  "width": 3136,
+  "height": 1344,
+  "sha256": "63a7703aa3580e18adda618f2b5f22fcade6ca85743ab78c37fad6067194487f",
+  "raw": "tmp/img/raw/H-BAND-4.1791782069236.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-12T05:14:30.583Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "Salt marsh creek through green spartina to a blue bay under clear sky; no people, boats, buildings, landmark or text.",
+    "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+    "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+    "at": "2026-10-12T05:23:52.495Z"
+  },
+  "reviewHistory": [
+    {
+      "verdict": "ACCEPT",
+      "reason": "Salt marsh creek through green spartina to a blue bay under clear sky; no people, boats, buildings, landmark or text.",
+      "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+      "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+      "at": "2026-10-12T05:23:52.495Z"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "schema": "ccc-reforge/removals@1",
+  "note": "Lane T1b (home; src/theme/home.mjs). Written by T0 in the skeleton phase from DESIGN-SPEC 11 and BUILD-CONTRACT 4.17.10; completed by T1b on 2026-10-12 after checking the four remaining tile images by eye. UI microcopy only.",
+  "removals": [],
+  "allowedAdded": [
+    {
+      "id": "home-tile-labels",
+      "pages": [
+        "/"
+      ],
+      "kinds": [
+        "text"
+      ],
+      "pattern": "^(Affordable Ounces|Infused Pre-Rolls|Disposables|Wana Gummies|Mindy's Gummies|Kanha Gummies)$",
+      "reason": "BUILD-CONTRACT 4.17.10 and DESIGN-SPEC 6.11 / 11: the six top home tiles carry their text only inside the images; the HTML labels transcribe it in title case as the file names spell it. Checked by eye, each label with its file: AFFORDABLE OUNCES = assets/source/57b016cb-Affordable-Ounces-Homepage-Button-460-x-330.png and MINDY'S GUMMIES = assets/source/10e1f7f4-Mindys-Gummies-Homepage-Button-460-x-330.png (orchestrator); INFUSED PRE-ROLLS = assets/source/ce3bb451-Infused-Pre-rolls-Homepage-Button-460-x-330.png, DISPOSABLES = assets/source/bc128502-Disposables-Homepage-Button-460-x-330.png, WANA GUMMIES = assets/source/64bd853f-Wana-Gummies-Homepage-Button-460-x-330.png and KANHA GUMMIES = assets/source/b577ec18-Kanha-Gummies-Homepage-Button-460-x-330.png (T1b, 2026-10-12, Read of each PNG)."
+    },
+    {
+      "id": "home-tile-button",
+      "pages": [
+        "/"
+      ],
+      "kinds": [
+        "text"
+      ],
+      "text": "Learn More",
+      "reason": "BUILD-CONTRACT 4.17.10: the button baked into each of the six tile images reads LEARN MORE (checked by eye in all six files listed under home-tile-labels); the HTML button label transcribes it in title case. It is also the site's own HTML button label elsewhere."
+    },
+    {
+      "id": "home-postmark",
+      "pages": [
+        "/"
+      ],
+      "kinds": [
+        "text"
+      ],
+      "text": "Wellfleet, MA 02667",
+      "reason": "DESIGN-SPEC 5.3 P3 / 11: the storefront postcard's decorative postmark ring holds the printed address \"Wellfleet, MA 02667\" (an aria-hidden SVG). The address is printed on the site (facts); its use as a postmark is new."
+    },
+    {
+      "id": "home-postcard-alt",
+      "pages": [
+        "/"
+      ],
+      "kinds": [
+        "alt"
+      ],
+      "pattern": "^(Cape Cod Cannabis Dispensary in Wellfleet located on Rt\\.|6 in South Wellfleet, MA shopping plaza\\.|It's worth the trip!)$",
+      "reason": "DESIGN-SPEC 5.3 P3 and R-18: the storefront postcard (assets/source/11d6f8ea-CCC-Storefront.webp, slot POSTCARD) keeps the live alt of that photo, \"Cape Cod Cannabis Dispensary in Wellfleet located on Rt. 6 in South Wellfleet, MA shopping plaza. It's worth the trip!\" (the checker splits it into these three sentences). The alt is verbatim from the live site (audit/raw/stores-cape-cod-cannabis-dispensary-in-wellfleet.html and audit/raw/stores.html); the home source does not carry this photo, so on / it counts as added. Not new copy."
+    }
+  ]
+}

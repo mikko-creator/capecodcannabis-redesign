@@ -926,7 +926,9 @@
      "field": "s",
      "placeholder": "Search ...",
      "label": "Search ...",
+     "labelSrOnly": true,
      "button": "Search submit",
+     "buttonSrOnly": true,
      "clientRendered": true,
      "dev": [],
      "hiddenAll": true

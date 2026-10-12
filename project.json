@@ -4,7 +4,7 @@
   "targetUrl": "https://capecodcannabis.com/",
   "origin": "https://capecodcannabis.com",
   "createdAt": "2026-10-12T00:09:39.500Z",
-  "updatedAt": "2026-10-12T01:05:18.461Z",
+  "updatedAt": "2026-10-12T16:09:07.910Z",
   "config": {
     "maxPages": 8000,
     "concurrency": 2,
@@ -67,9 +67,9 @@
       "note": ""
     },
     "ux": {
-      "status": "pending",
-      "at": null,
-      "note": ""
+      "status": "partial",
+      "at": "2026-10-12T10:38:58.302Z",
+      "note": "6069 rows, 6069 UNSET"
     },
     "brand": {
       "status": "pending",
@@ -107,19 +107,19 @@
       "note": ""
     },
     "decontaminate": {
-      "status": "pending",
-      "at": null,
-      "note": ""
+      "status": "done",
+      "at": "2026-10-12T16:07:36.222Z",
+      "note": "CLEAN (0 traces)"
     },
     "parity": {
-      "status": "pending",
-      "at": null,
-      "note": ""
+      "status": "fail",
+      "at": "2026-10-12T16:08:26.715Z",
+      "note": "DRIFT — 1539 findings"
     },
     "fabrication": {
-      "status": "pending",
-      "at": null,
-      "note": ""
+      "status": "fail",
+      "at": "2026-10-12T16:09:01.120Z",
+      "note": "FABRICATION — 56 findings"
     },
     "pixeldiff": {
       "status": "pending",
@@ -137,9 +137,9 @@
       "note": ""
     },
     "gate": {
-      "status": "pending",
-      "at": null,
-      "note": ""
+      "status": "fail",
+      "at": "2026-10-12T16:09:07.910Z",
+      "note": "NOT-READY — 15/29 passing"
     },
     "package": {
       "status": "pending",

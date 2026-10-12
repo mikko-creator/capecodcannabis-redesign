@@ -1,0 +1,38 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "MENU-CONC",
+  "file": "assets/generated/menu-conc.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Golden amber cannabis resin with a crystalline glassy texture in a small clear glass dish, light glowing through it, beside a plain unmarked glass vaporizer cartridge with a white mouthpiece, both resting on pieces of pale frosted sea glass, bright airy light, lower third mid-tone for a label, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+  "input": {
+    "output_format": "jpeg",
+    "aspect_ratio": "4:3"
+  },
+  "seed": 2301791261,
+  "requestId": "01a12ea3-9e31-71d3-8a05-90c67a941178",
+  "cutout": null,
+  "width": 2368,
+  "height": 1792,
+  "sha256": "018642a0bde47773c65259ad3186e83fbc8f79c35495642ebe18ef4574530fd9",
+  "raw": "tmp/img/raw/MENU-CONC.1791783847370.jpg",
+  "attempt": 3,
+  "generatedAt": "2026-10-12T05:44:09.555Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "Attempt 3 (supersedes attempt 2's honey-like blobs, which read as jelly, and its device, which read as a lip balm): crystalline golden-amber resin in a small clear dish beside a plain unmarked clear cartridge with a white mouthpiece, on pale frosted sea glass; no people, smoke, text, labels or marks; irregular resin, no candy shapes.",
+    "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+    "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+    "at": "2026-10-12T05:45:29.370Z"
+  },
+  "reviewHistory": [
+    {
+      "verdict": "ACCEPT",
+      "reason": "Attempt 3 (supersedes attempt 2's honey-like blobs, which read as jelly, and its device, which read as a lip balm): crystalline golden-amber resin in a small clear dish beside a plain unmarked clear cartridge with a white mouthpiece, on pale frosted sea glass; no people, smoke, text, labels or marks; irregular resin, no candy shapes.",
+      "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+      "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+      "at": "2026-10-12T05:45:29.370Z"
+    }
+  ]
+}

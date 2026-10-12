@@ -1,0 +1,38 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "CAT-CONCENTRATES",
+  "file": "assets/generated/cat-concentrates.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Golden amber cannabis resin in a small clear glass dish on a pale driftwood surface, light glowing through the resin, bright airy daylight, minimal still life, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+  "input": {
+    "output_format": "jpeg",
+    "aspect_ratio": "4:3"
+  },
+  "seed": 1504377671,
+  "requestId": "01a12e88-d5f4-7160-adae-d92914d4313b",
+  "cutout": null,
+  "width": 2368,
+  "height": 1792,
+  "sha256": "eefe52d9e7a8adaf7601c017bd1f3842d1a86912c94eb94f5cd93de381e55d41",
+  "raw": "tmp/img/raw/CAT-CONCENTRATES.1791782090015.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-12T05:14:51.749Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "Crystalline amber resin in a small clear glass dish on whitewashed driftwood, light through the resin; no people, tools, smoke, text or marks; amorphous, not candy shapes.",
+    "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+    "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+    "at": "2026-10-12T05:23:53.895Z"
+  },
+  "reviewHistory": [
+    {
+      "verdict": "ACCEPT",
+      "reason": "Crystalline amber resin in a small clear glass dish on whitewashed driftwood, light through the resin; no people, tools, smoke, text or marks; amorphous, not candy shapes.",
+      "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+      "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+      "at": "2026-10-12T05:23:53.895Z"
+    }
+  ]
+}

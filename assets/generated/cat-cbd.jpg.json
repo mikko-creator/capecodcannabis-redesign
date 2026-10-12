@@ -1,0 +1,38 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "CAT-CBD",
+  "file": "assets/generated/cat-cbd.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Fresh green hemp leaves laid on pale linen beside a plain unlabelled glass dropper bottle, bright soft window light, airy and calm, Natural daylight photograph, editorial still life, shallow depth of field, no people, no hands, no text, no letters, no logos, no labels, no smoke.",
+  "input": {
+    "output_format": "jpeg",
+    "aspect_ratio": "4:3"
+  },
+  "seed": 2987868233,
+  "requestId": "01a12e88-eb06-7543-afb1-8d6dca02566e",
+  "cutout": null,
+  "width": 2368,
+  "height": 1792,
+  "sha256": "462f313eab2e28dc9be8f94eff5be2a1e1eb6abeb132cff26f353148b1c0b45b",
+  "raw": "tmp/img/raw/CAT-CBD.1791782095821.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-12T05:14:57.444Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "Hemp leaves on linen beside a plain dropper bottle; the bottle has a blank white band carrying no text or mark (COMPLIANCE 2: no readable text); no people or medical symbols.",
+    "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+    "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+    "at": "2026-10-12T05:23:55.753Z"
+  },
+  "reviewHistory": [
+    {
+      "verdict": "ACCEPT",
+      "reason": "Hemp leaves on linen beside a plain dropper bottle; the bottle has a blank white band carrying no text or mark (COMPLIANCE 2: no readable text); no people or medical symbols.",
+      "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+      "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+      "at": "2026-10-12T05:23:55.753Z"
+    }
+  ]
+}

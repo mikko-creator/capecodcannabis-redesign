@@ -12,12 +12,20 @@
 //                                                  (default tmp/text-parity-control; never inside <dist>)
 //   node tools/text-parity.mjs --json <file>       write the full report as JSON
 //   node tools/text-parity.mjs --quiet             totals only
+//   node tools/text-parity.mjs --removals <file>   read this base declaration file instead of src/content/removals.json
+//   node tools/text-parity.mjs --removals-dir <dir> read <dir>/*.json instead of src/content/removals.d/*.json
+//                                                  (both for tests that plant declarations in temp copies; the report
+//                                                  always lists every declaration file it read)
+// Declared lists: src/content/removals.json (the base file) PLUS every src/content/removals.d/*.json (per-lane files,
+// owners in src/content/removals.d/README.md), read in file-name order with one schema and one validation. The totals
+// say which file each matched entry came from (declaredByFile, addedDeclaredByFile).
 // Exit code: 0 when every page has recall 1.0 (after declared removals), no ADDED string, no hiddenShown, and every
-// control passes; 1 otherwise; 2 when src/content/removals.json is malformed (an entry without id, reason, or text/pattern).
+// control passes; 1 otherwise; 2 when a declaration file is malformed (not JSON, a list that is not an array, an entry
+// without id, reason, or text/pattern, a bad pattern or kinds, an id repeated within a list or across files).
 //
 // ADDED rule in --built mode (BUILD-CONTRACT 4.16.2). A built string is allowed only when
 //   - it occurs in the page's raw source (all text and attribute values, hidden copy included), or
-//   - it matches an entry of removals.json allowedAdded[] (each entry carries a reason), or
+//   - it matches an entry of an allowedAdded[] list (removals.json or removals.d/*.json; each carries a reason), or
 //   - it sits inside an element marked data-catalog AND equals a product title or brand name in
 //     src/content/catalog/*.json. Text inside data-catalog is checked ONLY against the catalog: an invented title there
 //     fails even if the words occur elsewhere on the page.
@@ -267,31 +275,76 @@ function chromeTexts(chrome, { includeHidden }) {
 }
 
 // ------------------------------------------------------------------ removals
-// Every entry needs an id, a reason, and text or pattern (BUILD-CONTRACT 4.16.2: "each with a reason"). A malformed
-// file is not silently half-applied: main() exits 2 and names each problem.
-function loadRemovals() {
-  const f = path.join(WS, 'src/content/removals.json');
-  if (!fs.existsSync(f)) return { items: [], allowedAdded: [], problems: [] };
-  const r = JSON.parse(fs.readFileSync(f, 'utf8'));
+// Declared lists (BUILD-CONTRACT 4.16.2) come from the base file src/content/removals.json PLUS every
+// src/content/removals.d/*.json, read in file-name order (per-lane declaration files; owners in
+// src/content/removals.d/README.md). Every file has the same schema (removals[], allowedAdded[], optional
+// schema 'ccc-reforge/removals@1') and the same checks: every entry needs an id, a reason ("each with a reason"), and
+// text or pattern. An id may not repeat within one list of a file, and may not appear in two files. A malformed file is
+// not silently half-applied: main() exits 2 and names each problem with its file. Matching takes the first entry that
+// fits, base file first, then the removals.d files in name order; every entry keeps its file (entry.file) for the report.
+const REMOVALS_SCHEMA = 'ccc-reforge/removals@1';
+const relWs = (f) => { const r = path.relative(WS, f); return (r && !r.startsWith('..') && !path.isAbsolute(r) ? r : f).split(path.sep).join('/'); };
+function loadRemovals({ base, dir } = {}) {
   const problems = [];
-  const ids = new Set();
-  const prep = (x, list) => {
-    if (!x || typeof x !== 'object') { problems.push(list + ': an entry is not an object'); return null; }
-    const id = x.id || '(no id)';
-    if (!x.id) problems.push(list + ': an entry has no id: ' + JSON.stringify(x).slice(0, 100));
-    else if (ids.has(list + '|' + x.id)) problems.push(list + ': duplicate id ' + x.id);
-    ids.add(list + '|' + x.id);
-    if (!x.reason || !String(x.reason).trim()) problems.push(list + ': ' + id + ' has no reason');
-    if (!x.text && !x.pattern) problems.push(list + ': ' + id + ' has neither text nor pattern');
-    if (x.kinds !== undefined && !(Array.isArray(x.kinds) && x.kinds.length && x.kinds.every((k) => /^(text|alt|aria-label|placeholder|value)$/.test(k)))) problems.push(list + ': ' + id + ' has bad kinds');
-    let re = null;
-    if (x.pattern) { try { re = new RegExp(x.pattern, (x.flags || '').replace(/g/g, '')); } catch (err) { problems.push(list + ': ' + id + ' has a bad pattern: ' + err.message); } }
-    return { ...x, re, n: x.text ? norm(x.text) : null, kinds: Array.isArray(x.kinds) ? x.kinds : null };
-  };
-  const items = (r.removals || []).map((x) => prep(x, 'removals')).filter(Boolean);
-  const allowedAdded = (r.allowedAdded || []).map((x) => prep(x, 'allowedAdded')).filter(Boolean);
-  return { items, allowedAdded, problems };
+  const baseFile = base || path.join(WS, 'src/content/removals.json');
+  const dropDir = dir || path.join(WS, 'src/content/removals.d');
+  const files = [];
+  // the default base file may be absent (no declarations); a path named on the command line must exist
+  if (fs.existsSync(baseFile)) files.push(baseFile);
+  else if (base) problems.push(relWs(baseFile) + ': no such file (--removals)');
+  if (fs.existsSync(dropDir) && fs.statSync(dropDir).isDirectory()) {
+    for (const name of fs.readdirSync(dropDir).filter((x) => x.toLowerCase().endsWith('.json')).sort()) {
+      const f = path.join(dropDir, name);
+      if (fs.statSync(f).isFile()) files.push(f);
+    }
+  } else if (dir) problems.push(relWs(dropDir) + ': no such directory (--removals-dir)');
+  const items = [];
+  const allowedAdded = [];
+  const owner = new Map();   // id -> the file that declares it (an id lives in one file only)
+  const fileStats = [];
+  for (const f of files) {
+    const rel = relWs(f);
+    let r;
+    try { r = JSON.parse(fs.readFileSync(f, 'utf8')); } catch (err) { problems.push(rel + ': not valid JSON: ' + err.message); continue; }
+    if (!r || typeof r !== 'object' || Array.isArray(r)) { problems.push(rel + ': the top level is not an object'); continue; }
+    if (r.schema !== undefined && r.schema !== REMOVALS_SCHEMA) problems.push(rel + ': schema is ' + JSON.stringify(r.schema) + ', expected ' + JSON.stringify(REMOVALS_SCHEMA));
+    const ids = new Set();
+    const prep = (x, list) => {
+      if (!x || typeof x !== 'object' || Array.isArray(x)) { problems.push(rel + ': ' + list + ': an entry is not an object'); return null; }
+      const id = x.id || '(no id)';
+      if (!x.id) problems.push(rel + ': ' + list + ': an entry has no id: ' + JSON.stringify(x).slice(0, 100));
+      else if (typeof x.id !== 'string') problems.push(rel + ': ' + list + ': an id is not a string: ' + JSON.stringify(x.id).slice(0, 60));
+      else if (ids.has(list + '|' + x.id)) problems.push(rel + ': ' + list + ': duplicate id ' + x.id);
+      else {
+        const prev = owner.get(x.id);
+        if (prev && prev !== rel) problems.push(rel + ': ' + list + ': id ' + x.id + ' is already declared in ' + prev);
+        else owner.set(x.id, rel);
+      }
+      ids.add(list + '|' + x.id);
+      if (!x.reason || !String(x.reason).trim()) problems.push(rel + ': ' + list + ': ' + id + ' has no reason');
+      if (!x.text && !x.pattern) problems.push(rel + ': ' + list + ': ' + id + ' has neither text nor pattern');
+      if (x.kinds !== undefined && !(Array.isArray(x.kinds) && x.kinds.length && x.kinds.every((k) => /^(text|alt|aria-label|placeholder|value)$/.test(k)))) problems.push(rel + ': ' + list + ': ' + id + ' has bad kinds');
+      let re = null;
+      if (x.pattern) { try { re = new RegExp(x.pattern, (x.flags || '').replace(/g/g, '')); } catch (err) { problems.push(rel + ': ' + list + ': ' + id + ' has a bad pattern: ' + err.message); } }
+      return { ...x, re, n: x.text ? norm(x.text) : null, kinds: Array.isArray(x.kinds) ? x.kinds : null, file: rel };
+    };
+    const got = { file: rel, removals: 0, allowedAdded: 0 };
+    for (const [list, into] of [['removals', items], ['allowedAdded', allowedAdded]]) {
+      if (r[list] === undefined) continue;
+      if (!Array.isArray(r[list])) { problems.push(rel + ': ' + list + ' is not an array'); continue; }
+      for (const x of r[list]) { const e = prep(x, list); if (e) { into.push(e); got[list]++; } }
+    }
+    fileStats.push(got);
+  }
+  return { items, allowedAdded, problems, files: fileStats };
 }
+// { id: count } -> { file: { id: count } }, using the file each entry came from
+const byFile = (counts, entries) => {
+  const from = new Map(entries.map((x) => [x.id, x.file]));
+  const out = {};
+  for (const [id, n] of Object.entries(counts || {})) { const f = from.get(id) || '(unknown)'; (out[f] = out[f] || {})[id] = n; }
+  return out;
+};
 const appliesTo = (rm, pagePath) => !rm.pages || rm.pages === '*' || (Array.isArray(rm.pages) && rm.pages.includes(pagePath));
 const matchRemoval = (list, s, pagePath, kind) => list.find((rm) => appliesTo(rm, pagePath) && (!rm.kinds || !kind || rm.kinds.includes(kind)) && (rm.re ? rm.re.test(s) : rm.n === s || (rm.contains && s.includes(rm.n))));
 
@@ -624,7 +677,7 @@ function builtControls(index, opts, controlDir) {
   if (!declared) out.push({ name: 'built-e: declared and catalog strings pass', pass: false, why: 'removals.json allowedAdded[] has no page-wide text entry to test with' });
   else if (!title) out.push({ name: 'built-e: declared and catalog strings pass', pass: false, why: 'no catalog product title to test with' });
   else {
-    judge('built-e: a declared allowedAdded string and a catalog title inside data-catalog -> nothing reported', run(inMain('<p>' + escHtml(declared.text) + '</p><ul data-catalog="products"><li>' + escHtml(title) + '</li></ul>')), {}, { inserted: [declared.text, title], declaredId: declared.id });
+    judge('built-e: a declared allowedAdded string and a catalog title inside data-catalog -> nothing reported', run(inMain('<p>' + escHtml(declared.text) + '</p><ul data-catalog="products"><li>' + escHtml(title) + '</li></ul>')), {}, { inserted: [declared.text, title], declaredId: declared.id, declaredFile: declared.file });
     judge('built-f: the same catalog title outside data-catalog -> reported ADDED', run(inMain('<p>' + escHtml(title) + '</p>')), { added: [norm(title)] }, { inserted: title });
   }
   // (g) hidden-everywhere copy shown -> hiddenShown. Target: the first page (index order) with hidden-only copy.
@@ -660,9 +713,9 @@ function builtControls(index, opts, controlDir) {
 function main() {
   const args = process.argv.slice(2);
   const arg = (k) => (args.includes(k) ? args[args.indexOf(k) + 1] : null);
-  const opts = { built: arg('--built') ? path.resolve(arg('--built')) : null, removals: loadRemovals() };
+  const opts = { built: arg('--built') ? path.resolve(arg('--built')) : null, removals: loadRemovals({ base: arg('--removals') ? path.resolve(arg('--removals')) : undefined, dir: arg('--removals-dir') ? path.resolve(arg('--removals-dir')) : undefined }) };
   if (opts.removals.problems.length) {
-    console.error('src/content/removals.json is malformed (every entry needs an id, a reason, and text or pattern):');
+    console.error('declaration files are malformed (src/content/removals.json and src/content/removals.d/*.json: every entry needs an id, a reason, and text or pattern; an id lives in one file only):');
     for (const p of opts.removals.problems) console.error('  - ' + p);
     process.exit(2);
   }
@@ -689,10 +742,13 @@ function main() {
     if (r.added.length) tot.pagesWithAdded++;
   }
   tot.recall = tot.sentences ? +((tot.found + tot.declared) / tot.sentences).toFixed(6) : 1;
+  // which declaration file each matched entry came from (base removals.json or a removals.d/*.json)
+  tot.declaredByFile = byFile(tot.declaredBy, opts.removals.items);
+  tot.addedDeclaredByFile = byFile(tot.addedDeclaredBy, opts.removals.allowedAdded);
   // entries that matched nothing in this run (informational: a stale declaration, or one for the other mode)
   if (!only) tot.unusedEntries = { removals: opts.removals.items.map((x) => x.id).filter((id) => !tot.declaredBy[id]), allowedAdded: opts.removals.allowedAdded.map((x) => x.id).filter((id) => !tot.addedDeclaredBy[id]) };
   const wantControls = args.includes('--control') && !only;
-  const report = { mode: opts.built ? 'built:' + path.relative(WS, opts.built) : 'models', totals: tot, controls: wantControls ? (opts.built ? builtControls(index, opts, controlDir).concat(builtChromeControls(index, opts, controlDir)) : controls(index, opts)) : undefined, pages: rows.map((r) => ({ ...r, recall: r.recall != null ? +r.recall.toFixed(6) : r.recall })) };
+  const report = { mode: opts.built ? 'built:' + path.relative(WS, opts.built) : 'models', declarationFiles: opts.removals.files, totals: tot, controls: wantControls ? (opts.built ? builtControls(index, opts, controlDir).concat(builtChromeControls(index, opts, controlDir)) : controls(index, opts)) : undefined, pages: rows.map((r) => ({ ...r, recall: r.recall != null ? +r.recall.toFixed(6) : r.recall })) };
   if (arg('--json')) fs.writeFileSync(path.resolve(arg('--json')), JSON.stringify(report, null, 1) + '\n');
   if (!args.includes('--quiet')) {
     for (const r of rows) {
@@ -708,7 +764,7 @@ function main() {
       }
     }
   }
-  console.log(JSON.stringify({ totals: tot, controls: report.controls }, null, 1));
+  console.log(JSON.stringify({ declarationFiles: report.declarationFiles, totals: tot, controls: report.controls }, null, 1));
   const controlsOk = !report.controls || report.controls.every((c) => c.pass);
   process.exit(tot.missing === 0 && tot.added === 0 && !tot.hiddenShown && tot.errors === 0 && controlsOk ? 0 : 1);
 }

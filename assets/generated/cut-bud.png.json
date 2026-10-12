@@ -1,0 +1,56 @@
+{
+  "tool": "tmp/img/kit.mjs (lane IMG)",
+  "slot": "CUT-BUD",
+  "file": "assets/generated/cut-bud.png",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands.",
+  "from": "tmp/panel/kit/bud-whole.cut.png",
+  "fromSha256": "c3c674f18e5dfa28ea0cdb96c660b61772d3432670f0641747b37f5f4c573c5b",
+  "derivation": "ffmpeg lanczos resize to 600 px wide (2x the largest painted width, DESIGN-SPEC 5.3 / R-20), RGBA PNG; no other change",
+  "width": 600,
+  "height": 600,
+  "sha256": "1f0fd28cba90b0026391cf2dd92ef4567f9288a83459574028027b92185f9b45",
+  "origin": {
+    "tool": "tools/fal-one.mjs",
+    "model": "fal-ai/flux-pro/v1.1-ultra",
+    "prompt": "Studio macro photograph of one whole dense cannabis flower bud, entirely in frame with generous empty margin on all sides, frosty white trichomes, green and amber pistils, isolated on a plain pure white seamless background, soft even daylight, ultra sharp detail, no text, no packaging, no people, no hands",
+    "input": {
+      "aspect_ratio": "1:1",
+      "output_format": "jpeg"
+    },
+    "requestId": "01a12daa-329c-7192-b1db-4cccb8f58f60",
+    "seed": 2728662427,
+    "width": 2048,
+    "height": 2048,
+    "contentType": "image/jpeg",
+    "bytes": 1125130,
+    "sha256": "2d6bcab02b2b76bcefcd331dedb98e20f70e6b37cae34d7be4fc886e8088f479",
+    "file": "tmp/panel/kit/bud-whole.jpg",
+    "generatedAt": "2026-10-12T01:11:43.152Z",
+    "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands.",
+    "cutout": {
+      "model": "fal-ai/birefnet/v2",
+      "requestId": "01a12daa-6ad4-7130-9cce-29cdd627a36b",
+      "file": "tmp/panel/kit/bud-whole.cut.png",
+      "bytes": 2665283
+    }
+  },
+  "originSidecar": "tmp/panel/kit/bud-whole.jpg.json",
+  "kitVerdict": "tmp/panel/kit/README.md: ACCEPT (one whole bud, fully in frame; the cut-out is clean)",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "Kit cut-out re-checked on #015375: one whole bud with pistils, clean edge, fully in frame; no text or marks.",
+    "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+    "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+    "at": "2026-10-12T05:24:34.307Z"
+  },
+  "reviewHistory": [
+    {
+      "verdict": "ACCEPT",
+      "reason": "Kit cut-out re-checked on #015375: one whole bud with pistils, clean edge, fully in frame; no text or marks.",
+      "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+      "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+      "at": "2026-10-12T05:24:34.307Z"
+    }
+  ]
+}

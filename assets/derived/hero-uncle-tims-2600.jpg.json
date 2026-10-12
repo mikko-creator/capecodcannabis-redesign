@@ -1,0 +1,36 @@
+{
+  "tool": "tmp/img/derive.mjs (lane IMG)",
+  "slot": "HERO-DESKTOP",
+  "file": "assets/derived/hero-uncle-tims-2600.jpg",
+  "kind": "real photo (not AI-generated); crop/resize only, never retouched",
+  "source": "assets/source/bc393109-uncle-tims-bridge.jpeg",
+  "sourceSha256": "ba130e6054d043975465a00ed7dd5c2751c5e1b32dfc19f8c187a54c43c8805f",
+  "operation": "ffmpeg -vf \"scale=2600:-1:flags=lanczos\" -q:v 2 -qmin 1 (mjpeg)",
+  "note": "the full frame resized from 4032x2681 to 2600 wide (no crop: the kayaker is kept, BUILD-CONTRACT 4.17.6)",
+  "width": 2600,
+  "height": 1729,
+  "bytes": 756125,
+  "sha256": "08b8ced06c025a5a3054a5275278d98f855e86ceaf1bfe77c142a61d0a0182ae",
+  "jpegQualityEstimate": {
+    "quality": 93,
+    "scale": 13.8,
+    "allOnes": false,
+    "maxQ": 20
+  },
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "Full frame of the client's Uncle Tim's Bridge photo resized to 2600x1729 (JPEG q~93 by DQT estimate); no crop, kayaker kept per BUILD-CONTRACT 4.17.6; no retouch.",
+    "checks": "Real photo: unaltered (no AI, no retouch); checked by eye on tmp/img/contact-real.png",
+    "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+    "at": "2026-10-12T05:29:08.223Z"
+  },
+  "reviewHistory": [
+    {
+      "verdict": "ACCEPT",
+      "reason": "Full frame of the client's Uncle Tim's Bridge photo resized to 2600x1729 (JPEG q~93 by DQT estimate); no crop, kayaker kept per BUILD-CONTRACT 4.17.6; no retouch.",
+      "checks": "Real photo: unaltered (no AI, no retouch); checked by eye on tmp/img/contact-real.png",
+      "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+      "at": "2026-10-12T05:29:08.223Z"
+    }
+  ]
+}

@@ -8,7 +8,9 @@
       "extra": {
         "chain": []
       },
-      "at": "2026-10-12T00:41:06.910Z"
+      "at": "2026-10-12T00:41:06.910Z",
+      "accepted": true,
+      "acceptedReason": "The live site itself answers 404 for this URL (crawled at 2026-10-12T00:41:06.910Z, before the 00:44:20Z firewall lockout); it is one of the site's own dead links. The rebuild maps or drops dead links per BUILD-CONTRACT 4.13. Accepted 2026-10-12 by the orchestrator."
     },
     {
       "stage": "crawl:page",
@@ -17,7 +19,9 @@
       "extra": {
         "chain": []
       },
-      "at": "2026-10-12T00:41:09.535Z"
+      "at": "2026-10-12T00:41:09.535Z",
+      "accepted": true,
+      "acceptedReason": "The live site itself answers 404 for this URL (crawled at 2026-10-12T00:41:09.535Z, before the 00:44:20Z firewall lockout); it is one of the site's own dead links. The rebuild maps or drops dead links per BUILD-CONTRACT 4.13. Accepted 2026-10-12 by the orchestrator."
     },
     {
       "stage": "crawl:page",
@@ -26,7 +30,9 @@
       "extra": {
         "chain": []
       },
-      "at": "2026-10-12T00:41:09.535Z"
+      "at": "2026-10-12T00:41:09.535Z",
+      "accepted": true,
+      "acceptedReason": "The live site itself answers 404 for this URL (crawled at 2026-10-12T00:41:09.535Z, before the 00:44:20Z firewall lockout); it is one of the site's own dead links. The rebuild maps or drops dead links per BUILD-CONTRACT 4.13. Accepted 2026-10-12 by the orchestrator."
     },
     {
       "stage": "crawl:page",
@@ -35,7 +41,9 @@
       "extra": {
         "chain": []
       },
-      "at": "2026-10-12T00:41:14.015Z"
+      "at": "2026-10-12T00:41:14.015Z",
+      "accepted": true,
+      "acceptedReason": "The live site itself answers 404 for this URL (crawled at 2026-10-12T00:41:14.015Z, before the 00:44:20Z firewall lockout); it is one of the site's own dead links. The rebuild maps or drops dead links per BUILD-CONTRACT 4.13. Accepted 2026-10-12 by the orchestrator."
     },
     {
       "stage": "crawl:page",
@@ -44,7 +52,9 @@
       "extra": {
         "chain": []
       },
-      "at": "2026-10-12T00:41:17.415Z"
+      "at": "2026-10-12T00:41:17.415Z",
+      "accepted": true,
+      "acceptedReason": "The live site itself answers 404 for this URL (crawled at 2026-10-12T00:41:17.415Z, before the 00:44:20Z firewall lockout); it is one of the site's own dead links. The rebuild maps or drops dead links per BUILD-CONTRACT 4.13. Accepted 2026-10-12 by the orchestrator."
     },
     {
       "stage": "crawl:page",
@@ -53,7 +63,9 @@
       "extra": {
         "chain": []
       },
-      "at": "2026-10-12T00:41:22.022Z"
+      "at": "2026-10-12T00:41:22.022Z",
+      "accepted": true,
+      "acceptedReason": "The live site itself answers 404 for this URL (crawled at 2026-10-12T00:41:22.022Z, before the 00:44:20Z firewall lockout); it is one of the site's own dead links. The rebuild maps or drops dead links per BUILD-CONTRACT 4.13. Accepted 2026-10-12 by the orchestrator."
     },
     {
       "stage": "crawl:page",
@@ -68,7 +80,9 @@
           }
         ]
       },
-      "at": "2026-10-12T00:41:52.104Z"
+      "at": "2026-10-12T00:41:52.104Z",
+      "accepted": true,
+      "acceptedReason": "The live site itself answers 404 for this URL (crawled at 2026-10-12T00:41:52.104Z, before the 00:44:20Z firewall lockout); it is one of the site's own dead links. The rebuild maps or drops dead links per BUILD-CONTRACT 4.13. Accepted 2026-10-12 by the orchestrator."
     },
     {
       "stage": "crawl:page",
@@ -77,7 +91,9 @@
       "extra": {
         "chain": []
       },
-      "at": "2026-10-12T00:42:07.449Z"
+      "at": "2026-10-12T00:42:07.449Z",
+      "accepted": true,
+      "acceptedReason": "The live site itself answers 404 for this URL (crawled at 2026-10-12T00:42:07.449Z, before the 00:44:20Z firewall lockout); it is one of the site's own dead links. The rebuild maps or drops dead links per BUILD-CONTRACT 4.13. Accepted 2026-10-12 by the orchestrator."
     },
     {
       "stage": "crawl:page",
@@ -92,7 +108,9 @@
           }
         ]
       },
-      "at": "2026-10-12T00:42:16.197Z"
+      "at": "2026-10-12T00:42:16.197Z",
+      "accepted": true,
+      "acceptedReason": "The live site itself answers 404 for this URL (crawled at 2026-10-12T00:42:16.197Z, before the 00:44:20Z firewall lockout); it is one of the site's own dead links. The rebuild maps or drops dead links per BUILD-CONTRACT 4.13. Accepted 2026-10-12 by the orchestrator."
     },
     {
       "stage": "crawl:page",
@@ -101,7 +119,9 @@
       "extra": {
         "chain": []
       },
-      "at": "2026-10-12T00:42:19.069Z"
+      "at": "2026-10-12T00:42:19.069Z",
+      "accepted": true,
+      "acceptedReason": "The live site itself answers 404 for this URL (crawled at 2026-10-12T00:42:19.069Z, before the 00:44:20Z firewall lockout); it is one of the site's own dead links. The rebuild maps or drops dead links per BUILD-CONTRACT 4.13. Accepted 2026-10-12 by the orchestrator."
     },
     {
       "stage": "crawl:page",
@@ -110,7 +130,9 @@
       "extra": {
         "chain": []
       },
-      "at": "2026-10-12T00:42:54.261Z"
+      "at": "2026-10-12T00:42:54.261Z",
+      "accepted": true,
+      "acceptedReason": "The live site itself answers 404 for this URL (crawled at 2026-10-12T00:42:54.261Z, before the 00:44:20Z firewall lockout); it is one of the site's own dead links. The rebuild maps or drops dead links per BUILD-CONTRACT 4.13. Accepted 2026-10-12 by the orchestrator."
     },
     {
       "stage": "crawl:page",
@@ -119,7 +141,9 @@
       "extra": {
         "chain": []
       },
-      "at": "2026-10-12T00:43:02.661Z"
+      "at": "2026-10-12T00:43:02.661Z",
+      "accepted": true,
+      "acceptedReason": "The live site itself answers 404 for this URL (crawled at 2026-10-12T00:43:02.661Z, before the 00:44:20Z firewall lockout); it is one of the site's own dead links. The rebuild maps or drops dead links per BUILD-CONTRACT 4.13. Accepted 2026-10-12 by the orchestrator."
     },
     {
       "stage": "crawl:page",
@@ -128,7 +152,9 @@
       "extra": {
         "chain": []
       },
-      "at": "2026-10-12T00:43:10.420Z"
+      "at": "2026-10-12T00:43:10.420Z",
+      "accepted": true,
+      "acceptedReason": "The live site itself answers 404 for this URL (crawled at 2026-10-12T00:43:10.420Z, before the 00:44:20Z firewall lockout); it is one of the site's own dead links. The rebuild maps or drops dead links per BUILD-CONTRACT 4.13. Accepted 2026-10-12 by the orchestrator."
     },
     {
       "stage": "crawl:page",
@@ -137,7 +163,9 @@
       "extra": {
         "chain": []
       },
-      "at": "2026-10-12T00:44:01.378Z"
+      "at": "2026-10-12T00:44:01.378Z",
+      "accepted": true,
+      "acceptedReason": "The live site itself answers 404 for this URL (crawled at 2026-10-12T00:44:01.378Z, before the 00:44:20Z firewall lockout); it is one of the site's own dead links. The rebuild maps or drops dead links per BUILD-CONTRACT 4.13. Accepted 2026-10-12 by the orchestrator."
     },
     {
       "stage": "crawl:page",
@@ -152,7 +180,9 @@
           }
         ]
       },
-      "at": "2026-10-12T00:44:12.645Z"
+      "at": "2026-10-12T00:44:12.645Z",
+      "accepted": true,
+      "acceptedReason": "The live site itself answers 404 for this URL (crawled at 2026-10-12T00:44:12.645Z, before the 00:44:20Z firewall lockout); it is one of the site's own dead links. The rebuild maps or drops dead links per BUILD-CONTRACT 4.13. Accepted 2026-10-12 by the orchestrator."
     },
     {
       "stage": "crawl:page",
@@ -167,7 +197,9 @@
           }
         ]
       },
-      "at": "2026-10-12T00:44:12.645Z"
+      "at": "2026-10-12T00:44:12.645Z",
+      "accepted": true,
+      "acceptedReason": "The live site itself answers 404 for this URL (crawled at 2026-10-12T00:44:12.645Z, before the 00:44:20Z firewall lockout); it is one of the site's own dead links. The rebuild maps or drops dead links per BUILD-CONTRACT 4.13. Accepted 2026-10-12 by the orchestrator."
     },
     {
       "stage": "crawl:page",
@@ -182,7 +214,9 @@
           }
         ]
       },
-      "at": "2026-10-12T00:44:16.032Z"
+      "at": "2026-10-12T00:44:16.032Z",
+      "accepted": true,
+      "acceptedReason": "The live site itself answers 404 for this URL (crawled at 2026-10-12T00:44:16.032Z, before the 00:44:20Z firewall lockout); it is one of the site's own dead links. The rebuild maps or drops dead links per BUILD-CONTRACT 4.13. Accepted 2026-10-12 by the orchestrator."
     },
     {
       "stage": "crawl:page",
@@ -197,7 +231,9 @@
           }
         ]
       },
-      "at": "2026-10-12T00:44:16.032Z"
+      "at": "2026-10-12T00:44:16.032Z",
+      "accepted": true,
+      "acceptedReason": "The live site itself answers 404 for this URL (crawled at 2026-10-12T00:44:16.032Z, before the 00:44:20Z firewall lockout); it is one of the site's own dead links. The rebuild maps or drops dead links per BUILD-CONTRACT 4.13. Accepted 2026-10-12 by the orchestrator."
     },
     {
       "stage": "crawl:page",
@@ -212,7 +248,9 @@
           }
         ]
       },
-      "at": "2026-10-12T00:44:19.454Z"
+      "at": "2026-10-12T00:44:19.454Z",
+      "accepted": true,
+      "acceptedReason": "The live site itself answers 404 for this URL (crawled at 2026-10-12T00:44:19.454Z, before the 00:44:20Z firewall lockout); it is one of the site's own dead links. The rebuild maps or drops dead links per BUILD-CONTRACT 4.13. Accepted 2026-10-12 by the orchestrator."
     },
     {
       "stage": "crawl:page",
@@ -227,7 +265,9 @@
           }
         ]
       },
-      "at": "2026-10-12T00:44:19.455Z"
+      "at": "2026-10-12T00:44:19.455Z",
+      "accepted": true,
+      "acceptedReason": "The live site itself answers 404 for this URL (crawled at 2026-10-12T00:44:19.455Z, before the 00:44:20Z firewall lockout); it is one of the site's own dead links. The rebuild maps or drops dead links per BUILD-CONTRACT 4.13. Accepted 2026-10-12 by the orchestrator."
     },
     {
       "stage": "crawl:page",
@@ -2846,79 +2886,105 @@
       "stage": "assets:image",
       "target": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2024/10/elementor/thumbs/AmnesiaHazexDosidos-scaled-qvepiq5i91hxcwo5rfnpvtrabl2mpj1k8xmj4lgki0.jpg?lossy=2&strip=0&webp=1",
       "reason": "status 404",
-      "at": "2026-10-12T00:54:58.108Z"
+      "at": "2026-10-12T00:54:58.108Z",
+      "accepted": true,
+      "acceptedReason": "The live site's CDN answers HTTP 404 for this image: it is broken on the live site too. The build records it under missingSources where a page uses it. Accepted 2026-10-12 by the orchestrator."
     },
     {
       "stage": "assets:image",
       "target": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/09/439405d8-d863-45b3-8a2b-58933bb45285.jpeg.jpeg?lossy=2&strip=0&webp=1",
       "reason": "status 404",
-      "at": "2026-10-12T00:58:23.159Z"
+      "at": "2026-10-12T00:58:23.159Z",
+      "accepted": true,
+      "acceptedReason": "The live site's CDN answers HTTP 404 for this image: it is broken on the live site too. The build records it under missingSources where a page uses it. Accepted 2026-10-12 by the orchestrator."
     },
     {
       "stage": "assets:image",
       "target": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/09/57d6e06a-f407-49b8-9504-89bcb7bd98a4.jpeg.jpeg?lossy=2&strip=0&webp=1",
       "reason": "status 404",
-      "at": "2026-10-12T00:58:23.543Z"
+      "at": "2026-10-12T00:58:23.543Z",
+      "accepted": true,
+      "acceptedReason": "The live site's CDN answers HTTP 404 for this image: it is broken on the live site too. The build records it under missingSources where a page uses it. Accepted 2026-10-12 by the orchestrator."
     },
     {
       "stage": "assets:image",
       "target": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/09/d49b9879-6ab0-4e18-93f4-32b48ddb1d95.jpeg.jpeg?lossy=2&strip=0&webp=1",
       "reason": "status 404",
-      "at": "2026-10-12T00:58:25.175Z"
+      "at": "2026-10-12T00:58:25.175Z",
+      "accepted": true,
+      "acceptedReason": "The live site's CDN answers HTTP 404 for this image: it is broken on the live site too. The build records it under missingSources where a page uses it. Accepted 2026-10-12 by the orchestrator."
     },
     {
       "stage": "assets:image",
       "target": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/09/dcef0a9b-b7be-49f1-bd7f-2a1fc41fda40.jpeg.jpeg?lossy=2&strip=0&webp=1",
       "reason": "status 404",
-      "at": "2026-10-12T00:58:25.578Z"
+      "at": "2026-10-12T00:58:25.578Z",
+      "accepted": true,
+      "acceptedReason": "The live site's CDN answers HTTP 404 for this image: it is broken on the live site too. The build records it under missingSources where a page uses it. Accepted 2026-10-12 by the orchestrator."
     },
     {
       "stage": "assets:image",
       "target": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/09/f51d2987-67bc-4328-80c0-ef438ce8cc9a.jpeg.jpeg?lossy=2&strip=0&webp=1",
       "reason": "status 404",
-      "at": "2026-10-12T00:58:25.968Z"
+      "at": "2026-10-12T00:58:25.968Z",
+      "accepted": true,
+      "acceptedReason": "The live site's CDN answers HTTP 404 for this image: it is broken on the live site too. The build records it under missingSources where a page uses it. Accepted 2026-10-12 by the orchestrator."
     },
     {
       "stage": "assets:image",
       "target": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/10/0ff73a10-3ac0-4601-9fe2-d38a87a37d8b.jpeg.jpeg?lossy=2&strip=0&webp=1",
       "reason": "status 404",
-      "at": "2026-10-12T00:58:28.754Z"
+      "at": "2026-10-12T00:58:28.754Z",
+      "accepted": true,
+      "acceptedReason": "The live site's CDN answers HTTP 404 for this image: it is broken on the live site too. The build records it under missingSources where a page uses it. Accepted 2026-10-12 by the orchestrator."
     },
     {
       "stage": "assets:image",
       "target": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/10/1d618798-8a15-4f53-bb1d-c62528ea03bd.jpeg.jpeg?lossy=2&strip=0&webp=1",
       "reason": "status 404",
-      "at": "2026-10-12T00:58:29.175Z"
+      "at": "2026-10-12T00:58:29.175Z",
+      "accepted": true,
+      "acceptedReason": "The live site's CDN answers HTTP 404 for this image: it is broken on the live site too. The build records it under missingSources where a page uses it. Accepted 2026-10-12 by the orchestrator."
     },
     {
       "stage": "assets:image",
       "target": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/10/3a53dcb1-08ce-4120-ae22-5b8a5c98ecd4.jpeg.jpeg?lossy=2&strip=0&webp=1",
       "reason": "status 404",
-      "at": "2026-10-12T00:58:29.576Z"
+      "at": "2026-10-12T00:58:29.576Z",
+      "accepted": true,
+      "acceptedReason": "The live site's CDN answers HTTP 404 for this image: it is broken on the live site too. The build records it under missingSources where a page uses it. Accepted 2026-10-12 by the orchestrator."
     },
     {
       "stage": "assets:image",
       "target": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/10/5748de80-6ac7-4ed9-bb68-7a917d9087ff.jpeg.jpeg?lossy=2&strip=0&webp=1",
       "reason": "status 404",
-      "at": "2026-10-12T00:58:29.962Z"
+      "at": "2026-10-12T00:58:29.962Z",
+      "accepted": true,
+      "acceptedReason": "The live site's CDN answers HTTP 404 for this image: it is broken on the live site too. The build records it under missingSources where a page uses it. Accepted 2026-10-12 by the orchestrator."
     },
     {
       "stage": "assets:image",
       "target": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/10/657623f6-44a2-4e92-bdcf-68208f03682c.jpeg.jpeg?lossy=2&strip=0&webp=1",
       "reason": "status 404",
-      "at": "2026-10-12T00:58:30.376Z"
+      "at": "2026-10-12T00:58:30.376Z",
+      "accepted": true,
+      "acceptedReason": "The live site's CDN answers HTTP 404 for this image: it is broken on the live site too. The build records it under missingSources where a page uses it. Accepted 2026-10-12 by the orchestrator."
     },
     {
       "stage": "assets:image",
       "target": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2025/10/b879f943-fd4a-48f4-88d6-fb4e1d550118.jpeg.jpeg?lossy=2&strip=0&webp=1",
       "reason": "status 404",
-      "at": "2026-10-12T00:58:33.536Z"
+      "at": "2026-10-12T00:58:33.536Z",
+      "accepted": true,
+      "acceptedReason": "The live site's CDN answers HTTP 404 for this image: it is broken on the live site too. The build records it under missingSources where a page uses it. Accepted 2026-10-12 by the orchestrator."
     },
     {
       "stage": "assets:image",
       "target": "https://b2702268.assetcdn.net/2.0/2702268/wp-content/uploads/2026/09/3b0ef225-991f-4a73-9f6a-a5c4a04327a7.jpeg.jpeg?lossy=2&strip=0&webp=1",
       "reason": "status 404",
-      "at": "2026-10-12T01:01:51.036Z"
+      "at": "2026-10-12T01:01:51.036Z",
+      "accepted": true,
+      "acceptedReason": "The live site's CDN answers HTTP 404 for this image: it is broken on the live site too. The build records it under missingSources where a page uses it. Accepted 2026-10-12 by the orchestrator."
     },
     {
       "stage": "assets:image",

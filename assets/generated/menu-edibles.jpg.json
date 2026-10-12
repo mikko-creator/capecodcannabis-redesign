@@ -1,0 +1,50 @@
+{
+  "tool": "tmp/img/kit.mjs (lane IMG)",
+  "slot": "MENU-EDIBLES",
+  "file": "assets/generated/menu-edibles.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands.",
+  "from": "tmp/panel/winner/img/menu-edibles-tinctures.jpg",
+  "fromSha256": "e96a327ee74e807fd50ce0a4638591903b445a3ecf799d4a953e74c1baa959a4",
+  "derivation": "byte copy of tmp/panel/winner/img/menu-edibles-tinctures.jpg (its fal C2PA manifest kept; adding the XMP APP1 changes the bytes, so a C2PA validator will report the data hash as not matching: the manifest binds the original, kept at tmp/panel/winner/img/menu-edibles-tinctures.jpg)",
+  "width": 2368,
+  "height": 1792,
+  "sha256": "9c5f1cc6d8e5dafdd33c1e026cb34acaff13c7dadf50b635eea041d1bfab9a4f",
+  "origin": {
+    "tool": "tools/fal-one.mjs",
+    "model": "fal-ai/flux-pro/v1.1-ultra",
+    "prompt": "Bright minimal still life photograph: three small unlabeled amber glass dropper bottles and a few squares of plain dark chocolate on a pale grey stone slab beside a sprig of fresh green herb, soft coastal window daylight, pale sky-blue background, shallow depth of field, calm adult editorial product photography, no labels, no text, no logos, no people, no hands",
+    "input": {
+      "aspect_ratio": "4:3",
+      "output_format": "jpeg"
+    },
+    "requestId": "01a12dc2-503b-7c92-bde4-c2654829d0ff",
+    "seed": 1419321680,
+    "width": 2368,
+    "height": 1792,
+    "contentType": "image/jpeg",
+    "bytes": 573863,
+    "sha256": "e96a327ee74e807fd50ce0a4638591903b445a3ecf799d4a953e74c1baa959a4",
+    "file": "tmp/panel/a/img/menu-edibles-tinctures.jpg",
+    "generatedAt": "2026-10-12T01:38:00.473Z",
+    "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Cape Cod Cannabis, its store, staff, customers, products or brands."
+  },
+  "originSidecar": "tmp/panel/winner/img/menu-edibles-tinctures.jpg.json",
+  "kitVerdict": "DESIGN-SPEC 10.2 kit list: A's generation menu-edibles-tinctures, already generated and reviewed",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "Re-checked: two unlabelled amber dropper bottles, plain scored chocolate pieces and an herb sprig on a stone plinth; no shapes, sugar coating, text or marks; edibles plain.",
+    "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+    "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+    "at": "2026-10-12T05:24:36.035Z"
+  },
+  "reviewHistory": [
+    {
+      "verdict": "ACCEPT",
+      "reason": "Re-checked: two unlabelled amber dropper bottles, plain scored chocolate pieces and an herb sprig on a stone plinth; no shapes, sugar coating, text or marks; edibles plain.",
+      "checks": "COMPLIANCE section 2 / DESIGN-SPEC 10.1: no people, hands or faces; no consumption, smoke, flame or lighter; no text, letters, labels, logos or marks; no real store, landmark, lighthouse, Route 6 sign or named place; no candy look, cartoon, medical symbol or child appeal",
+      "by": "lane IMG, by eye (Read of a 1400 px preview, tmp/img/review/)",
+      "at": "2026-10-12T05:24:36.035Z"
+    }
+  ]
+}

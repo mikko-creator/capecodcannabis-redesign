@@ -896,7 +896,8 @@
         "label": "Page1",
         "href": "/cannabinoids/"
        }
-      ]
+      ],
+      "srPrefix": "Page"
      },
      "loadMore": {
       "maxPage": 2

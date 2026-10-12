@@ -1,0 +1,144 @@
+{
+  "schema": "ccc-reforge/removals@1",
+  "note": "Lane T2b (shop; src/theme/shop.mjs, src/scripts/shop.js). UI microcopy only; no deal or urgency wording (COMPLIANCE 3). The skeleton entries are T0s (DESIGN-SPEC 6.5, 6.6, 6.13, 11); T2b added the product-page notice scope, In stock, the facet names and the evidenced sort labels.",
+  "removals": [],
+  "allowedAdded": [
+    {
+      "id": "shop-bag-preview",
+      "pages": "*",
+      "kinds": [
+        "text"
+      ],
+      "text": "Preview: orders are not sent",
+      "reason": "BUILD-CONTRACT 4.5 and DESIGN-SPEC 6.6 / 6.14: the Pickup bag is a local-only preview; this notice says so in the drawer and under the Reserve button on the product page (t1)."
+    },
+    {
+      "id": "shop-bag-empty",
+      "pages": [
+        "#chrome"
+      ],
+      "kinds": [
+        "text"
+      ],
+      "text": "Your order is empty.",
+      "reason": "DESIGN-SPEC 6.6: the empty state of the Pickup bag drawer."
+    },
+    {
+      "id": "shop-reserve",
+      "pages": "*",
+      "kinds": [
+        "text",
+        "aria-label"
+      ],
+      "text": "Reserve for pickup",
+      "reason": "BUILD-CONTRACT 4.5 and DESIGN-SPEC 6.6 / 6.14: the button that adds an item to the local-only Pickup bag (t1 only under Plan B)."
+    },
+    {
+      "id": "shop-view-bag",
+      "pages": "*",
+      "kinds": [
+        "text",
+        "aria-label"
+      ],
+      "text": "View bag",
+      "reason": "DESIGN-SPEC 6.6: the button that appears beside \"Reserve for pickup\" after a reservation and opens the drawer."
+    },
+    {
+      "id": "shop-added-live",
+      "pages": "*",
+      "kinds": [
+        "text"
+      ],
+      "text": "Added to your pickup bag.",
+      "reason": "DESIGN-SPEC 6.6 / 9: the polite live-region announcement after a reservation."
+    },
+    {
+      "id": "shop-place-preorder",
+      "pages": [
+        "#chrome"
+      ],
+      "kinds": [
+        "text"
+      ],
+      "text": "Place pre-order",
+      "reason": "DESIGN-SPEC 6.6: the disabled order button in the drawer (aria-disabled, with its reason in aria-describedby); nothing is ever sent."
+    },
+    {
+      "id": "shop-quantity-steppers",
+      "pages": [
+        "#chrome"
+      ],
+      "kinds": [
+        "aria-label"
+      ],
+      "pattern": "^(Increase|Decrease) quantity of .+$",
+      "reason": "DESIGN-SPEC 6.6 / 11: the quantity stepper buttons are named \"Increase quantity of <name>\" and \"Decrease quantity of <name>\", <name> being the verbatim catalog title of the item."
+    },
+    {
+      "id": "shop-search-empty",
+      "pages": "*",
+      "kinds": [
+        "text"
+      ],
+      "text": "No products match your search.",
+      "reason": "DESIGN-SPEC 6.5 / 11: the typeahead's empty state."
+    },
+    {
+      "id": "shop-filter-empty",
+      "pages": "*",
+      "kinds": [
+        "text"
+      ],
+      "text": "No products match these filters.",
+      "reason": "DESIGN-SPEC 6.13 / 11: the filter bar's empty state on listing pages with an evidenced grid."
+    },
+    {
+      "id": "shop-filter-ui",
+      "pages": "*",
+      "kinds": [
+        "text",
+        "aria-label"
+      ],
+      "pattern": "^(Filters|Apply|Clear all)$",
+      "reason": "DESIGN-SPEC 6.13 / 11: the filter bar's controls."
+    },
+    {
+      "id": "shop-filter-remove",
+      "pages": "*",
+      "kinds": [
+        "aria-label"
+      ],
+      "pattern": "^Remove .+$",
+      "reason": "DESIGN-SPEC 6.13 / 11: the remove button of an active filter chip is named \"Remove <value>\", <value> being the verbatim facet value."
+    },
+    {
+      "id": "shop-in-stock",
+      "pages": "*",
+      "kinds": [
+        "text"
+      ],
+      "text": "In stock",
+      "reason": "DESIGN-SPEC 6.12 (Plan A card) and 6.14 item 6: the in-stock line beside the signal dot, shown only when the offer record says https://schema.org/InStock (t1: audit/prelock/t1.html JSON-LD offers[0].availability). A rendering of the record, not a claim."
+    },
+    {
+      "id": "shop-facet-names",
+      "pages": "*",
+      "kinds": [
+        "text",
+        "aria-label"
+      ],
+      "pattern": "^(Size|Strain type|Brand)$",
+      "reason": "DESIGN-SPEC 6.13 / 11: the filter facet names for the fields the Plan B data carries (COMMERCE 6: Joint params weights -> variants.option, strain -> strainType, brand -> brandName; the live facet panel was never captured, so these are the rebuild labels). A facet is offered only when its field has 2 or more distinct values among the listed products."
+    },
+    {
+      "id": "shop-sort-labels",
+      "pages": "*",
+      "kinds": [
+        "text",
+        "aria-label"
+      ],
+      "pattern": "^(Price: Low to High|Price: High to Low|Brand|THC: High to Low|CBD: Low to High|Relevance|Best Selling|Sort)$",
+      "reason": "DESIGN-SPEC 6.13 / 11 and COMMERCE 6: the sort labels evidenced in the Joint configs (Price: Low to High 67 widgets, Price: High to Low 60, Brand 2, THC: High to Low 1, CBD: Low to High 1, Relevance 1, Best Selling 1) and Sort, the select name. A sort is offered only when its field is in the data with 2+ distinct values; under Plan B none is, so the select does not render today."
+    }
+  ]
+}

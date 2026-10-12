@@ -14,6 +14,16 @@ import { ROOT, safeDecode } from './paths.mjs';
 export const WIDTHS = [320, 480, 640, 960, 1280, 1600, 1920, 2400];
 export const CWEBP_ARGS = ['-quiet', '-q', '80', '-alpha_q', '90', '-m', '4', '-metadata', 'none'];
 const SETTINGS_TAG = 'q80a90m4';
+/* BUILD-CONTRACT 4.17.12 (P1 change): cwebp -metadata none strips the IPTC trainedAlgorithmicMedia XMP, so every variant of
+   a file under assets/generated/ gets tools/ai-label.xmp attached with "webpmux -set xmp" after cwebp. Labelled variants
+   carry their own cache name (the label marker holds a hash of the XMP file, so an unlabelled or stale cached variant is
+   never reused) and their own output name (<sha12>-<w>-ai.webp), so a labelled and an unlabelled variant of the same
+   bytes can never share a file. */
+export const AI_XMP = path.join(ROOT, 'tools', 'ai-label.xmp');
+export const AI_NEEDLE = 'trainedAlgorithmicMedia';
+const AI_TAG = 'xmp' + crypto.createHash('sha256').update(fs.readFileSync(AI_XMP)).digest('hex').slice(0, 8);
+/** a workspace-relative source path under assets/generated/ (an AI-generated file) */
+export const isGenerated = (file) => String(file || '').split(path.sep).join('/').replace(/^[.][/]/, '').startsWith('assets/generated/');
 
 /* ---------- dimensions from file headers (PNG, JPEG, WebP, GIF) ---------- */
 export function imageSize(buf) {
@@ -120,6 +130,7 @@ export class ImagePipeline {
     this.meta = new Map();     // file -> { width, height, hash, format }
     this.jobs = new Map();     // cacheName -> { src, width }
     this.used = new Set();     // cacheName used by the output
+    this.aiNames = new Set();  // output names (assets/img/<name>) of labelled variants of assets/generated/ files
   }
   /** width/height/hash of a source file (header read + sha256), memoised */
   info(file, known = {}) {
@@ -130,19 +141,24 @@ export class ImagePipeline {
     this.meta.set(file, m);
     return m;
   }
-  /** plan the variants of one source: [{ w, url (root-relative), cache }] (largest last) */
-  variants(file, widths) {
+  /** plan the variants of one source: [{ w, url (root-relative), cache }] (largest last). quality: an optional cwebp -q
+      for this file (image-plan slot "quality"; R-20 weight for decorative bands). A non-default quality is part of both
+      the cache name and the output name, so variants of one file at two qualities can never share a file. */
+  variants(file, widths, quality) {
     const m = this.info(file);
     if (!m.width || m.format === 'gif') return null;
+    const q = Number.isInteger(quality) && quality > 0 && quality <= 100 && quality !== 80 ? quality : null;
     const cap = Math.min(m.width, 2400);
     let ws = (widths && widths.length ? widths : WIDTHS).filter((w) => w < cap);
     if (!ws.includes(cap)) ws.push(cap);
     ws = [...new Set(ws)].sort((a, b) => a - b);
     return ws.map((w) => {
-      const name = m.hash.slice(0, 12) + '-' + w + '.webp';
-      const cache = m.hash.slice(0, 12) + '-' + w + '-' + SETTINGS_TAG + '.webp';
-      this.jobs.set(cache, { src: file, width: w, full: w >= m.width });
+      const ai = isGenerated(file);
+      const name = m.hash.slice(0, 12) + '-' + w + (q ? '-q' + q : '') + (ai ? '-ai' : '') + '.webp';
+      const cache = m.hash.slice(0, 12) + '-' + w + '-' + (q ? SETTINGS_TAG.replace(/^q80/, 'q' + q) : SETTINGS_TAG) + (ai ? '-' + AI_TAG : '') + '.webp';
+      this.jobs.set(cache, { src: file, width: w, full: w >= m.width, ai, q });
       this.used.add(cache + '|' + name);
+      if (ai) this.aiNames.add(name);
       return { w, h: Math.round((m.height * w) / m.width), url: '/assets/img/' + name, cache };
     });
   }
@@ -156,8 +172,18 @@ export class ImagePipeline {
       while (i < todo.length) {
         const [cache, job] = todo[i++];
         const tmp = path.join(this.cacheDir, cache + '.part');
-        const args = [...CWEBP_ARGS, ...(job.full ? [] : ['-resize', String(job.width), '0']), path.join(ROOT, job.src), '-o', tmp];
-        const code = await new Promise((res) => { const p = spawn('cwebp', args, { stdio: ['ignore', 'ignore', 'pipe'] }); let err = ''; p.stderr.on('data', (d) => { err += d; }); p.on('error', (e) => res({ code: -1, err: String(e) })); p.on('close', (c) => res({ code: c, err })); });
+        const base = job.q ? CWEBP_ARGS.map((a, k) => (k > 0 && CWEBP_ARGS[k - 1] === '-q' ? String(job.q) : a)) : CWEBP_ARGS;
+        const args = [...base, ...(job.full ? [] : ['-resize', String(job.width), '0']), path.join(ROOT, job.src), '-o', tmp];
+        const sh = (cmd, a) => new Promise((res) => { const p = spawn(cmd, a, { stdio: ['ignore', 'ignore', 'pipe'] }); let err = ''; p.stderr.on('data', (d) => { err += d; }); p.on('error', (e) => res({ code: -1, err: String(e) })); p.on('close', (c) => res({ code: c, err })); });
+        let code = await sh('cwebp', args);
+        /* an AI-generated source: attach the IPTC label (4.17.12) and prove the bytes are in the file before caching it */
+        if (job.ai && code.code === 0 && fs.existsSync(tmp)) {
+          const tmp2 = path.join(this.cacheDir, cache + '.xmp.part');
+          code = await sh('webpmux', ['-set', 'xmp', AI_XMP, tmp, '-o', tmp2]);
+          try { fs.unlinkSync(tmp); } catch { /* none */ }
+          if (code.code === 0 && fs.existsSync(tmp2) && fs.readFileSync(tmp2).includes(AI_NEEDLE)) fs.renameSync(tmp2, tmp);
+          else { try { fs.unlinkSync(tmp2); } catch { /* none */ } code = { code: code.code || 1, err: 'webpmux: AI label not attached ' + (code.err || '') }; }
+        }
         if (code.code === 0 && fs.existsSync(tmp)) { fs.renameSync(tmp, path.join(this.cacheDir, cache)); stats.made++; }
         else { try { fs.unlinkSync(tmp); } catch { /* none */ } stats.failed.push({ src: job.src, width: job.width, err: (code.err || '').slice(0, 200) }); }
         if ((stats.made + stats.failed.length) % 250 === 0) this.log('  cwebp ' + (stats.made + stats.failed.length) + '/' + todo.length);
@@ -178,6 +204,6 @@ export class ImagePipeline {
       if (!fs.existsSync(src)) { missing.push(name); continue; }
       fs.copyFileSync(src, path.join(dir, name)); n++;
     }
-    return { copied: n, missing };
+    return { copied: n, missing, aiVariants: [...this.aiNames].sort().map((x) => 'assets/img/' + x) };
   }
 }

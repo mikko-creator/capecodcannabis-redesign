@@ -1,0 +1,44 @@
+/* motion.css - reveal, underline draw, fluke breach, parallax, print and reduced motion (DESIGN-SPEC 7).
+   Owner: T1a. Skeleton by T0, 2026-10-12. Fail-safes (rule numbers from section 7):
+   1 content hides only under html.js-reveal (set by the head script only with IntersectionObserver and no reduced
+     motion); 2 a reveal-failsafe keyframe shows every reveal after 5 s; 3 reveals animate `translate`, never
+     `transform`, and never set transform:none; 4 no scroll-timeline; 5 site.js reveals everything above the viewport
+     bottom on every scroll; 6 print shows everything and hides veils and drawers; 7 reduced motion stops all motion. */
+.js-reveal .reveal:not(.is-in), .js-reveal [data-reveal]:not(.is-in) { opacity: 0; translate: 0 34px; animation: reveal-failsafe .01s 5s forwards; }
+/* stagger --d x 90ms, capped at 4 steps so a jump scroll settles inside 1.5 s (R-27) */
+.js-reveal .reveal, .js-reveal [data-reveal] { transition: opacity .8s var(--ease), translate 1s var(--ease-settle); transition-delay: calc(min(var(--d, 0), 4) * 90ms); }
+.js-reveal .reveal.is-in, .js-reveal [data-reveal].is-in { opacity: 1; translate: 0 0; }
+@keyframes reveal-failsafe { to { opacity: 1; translate: 0 0; } }
+/* drawn underline: drawn statically without js-reveal and under reduced motion */
+.js-reveal .is-in .draw path, .js-reveal .hero .draw path { stroke-dashoffset: 240; animation: draw 1.1s .5s var(--ease) forwards; }
+@keyframes draw { to { stroke-dashoffset: 0; } }
+/* the fluke breaches the footer seam when the footer arrives; 6 s fail-safe */
+.js-reveal [data-breach]:not(.is-in) { translate: 0 60px; opacity: 0; animation: reveal-failsafe .01s 6s forwards; }
+.js-reveal [data-breach] { transition: translate 1.3s var(--ease-settle), opacity .6s var(--ease); }
+.js-reveal [data-breach].is-in { translate: 0 0; opacity: 1; }
+/* parallax writes the `translate` property from site.js (clamped to +-40px); nothing here animates it */
+[data-parallax] { will-change: translate; }
+/* seam light sweep (6.10, graft 18): once along a band's top edge as it enters; decorative */
+.band__sweep { position: absolute; left: 0; right: 0; top: 0; height: 2px; z-index: 3; pointer-events: none; overflow: hidden; opacity: 0; }
+.band__sweep::before { content: ""; position: absolute; top: 0; bottom: 0; left: -40%; width: 40%; background: linear-gradient(90deg, var(--c-white-a00), var(--c-white-a95), var(--c-white-a00)); }
+.band.is-swept > .band__sweep { animation: sweep-fade 2.4s cubic-bezier(.65,0,.35,1) both; }
+.band.is-swept > .band__sweep::before { animation: sweep 2.4s cubic-bezier(.65,0,.35,1) both; }
+@keyframes sweep { to { translate: 350% 0; } }
+@keyframes sweep-fade { 0% { opacity: 0; } 12% { opacity: 1; } 80% { opacity: 1; } 100% { opacity: 0; } }
+/* decorative video loops (4.17.11): the poster shows until site.js plays it; under reduced motion it never plays */
+
+@media print {
+  .reveal, [data-reveal], [data-breach] { opacity: 1 !important; translate: none !important; animation: none !important; }
+  .agegate, .age-target, .sheet, .bag, .search-panel, .mega, .drop, .pool, .band__pools, .band__sweep, .skip, .protrude, .totop, .agegate__veil, .sheet__veil, .bag__veil { display: none !important; }
+  html.gate-open, html.dialog-open { overflow: visible !important; overflow-x: clip !important; }
+  .hdr { position: static; }
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
+  dialog, .bag__sheet, .sheet__panel { transition: opacity .15s linear !important; }
+  .reveal, [data-reveal], [data-breach] { opacity: 1 !important; translate: none !important; }
+  .draw path { stroke-dashoffset: 0 !important; }
+  [data-parallax] { translate: none !important; }
+  .band__sweep { display: none; }
+  .pool { animation: none !important; }
+}

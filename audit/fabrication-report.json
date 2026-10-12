@@ -1,0 +1,575 @@
+{
+  "schema": "site-reforge/fabrication-report@1",
+  "generated": "2026-10-12T16:09:01.119Z",
+  "rebuildDir": "C:\\Users\\Dell\\capecodcannabis-reforge\\dist",
+  "filesScanned": 6733,
+  "claimsChecked": 14859,
+  "sourceCorpusChars": 5913551,
+  "declaredFactsChars": 25196,
+  "counts": {
+    "major": 56
+  },
+  "verdict": "FABRICATION",
+  "findings": [
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "Best Concentrate Bundles on the Cape\n\n \n\n Check price",
+      "file": "all-concentrates-on-sale/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "Best Edible Bundles on the Cape\n\n \n\n Check price and a",
+      "file": "all-edibles-on-sale/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "the Best Pre-Roll Bundles on the Cape\n\n \n\n Check price and",
+      "file": "all-pre-rolls-on-sale/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "The Best Tincture Bundles on the Cape\n\n \n\n Check price and",
+      "file": "all-tinctures-on-sale/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "Best Vape Bundles on the Cape\n\n \n\n Check price and ava",
+      "file": "all-vaporizers-bundles/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "Best CBD Store on Cape Cod \n Best CBD Store on Cape Co",
+      "file": "best-cbd-store-on-cape-cod/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "Best Budz \n Best Budz\n\n \n \n Best Budz \n Best Budz Stea",
+      "file": "brands/best-budz/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "Best Budz \n Best Budz Pie Scream #6 \n \n Best Budz \n Be",
+      "file": "brands/best-budz/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "Best Budz \n Best Budz Stealth Bomber \n \n Best Budz \n B",
+      "file": "brands/best-budz/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "Best Budz \n Best Budz White Rainbow \n \n Best Budz \n Be",
+      "file": "brands/best-budz/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "Best Budz \n Best Budz Shady Grapes \n \n Best Budz \n Bes",
+      "file": "brands/best-budz/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "Best Dirty Lemonade \n Best Dirty Lemonade\n\n \n \n Best D",
+      "file": "brands/best-dirty-lemonade/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "Best Dirty Lemonade \n Best Dirty Lemonade Strawberry L",
+      "file": "brands/best-dirty-lemonade/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "Best Dirty Lemonade \n Best Dirty Lemonade Lemonade | 1",
+      "file": "brands/best-dirty-lemonade/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "Best Dirty Lemonade \n Best Dirty Lemonade Blue Raspber",
+      "file": "brands/best-dirty-lemonade/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "Best Dirty Lemonade \n Best Dirty Lemonade Lemonade | S",
+      "file": "brands/best-dirty-lemonade/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "the largest selection\n\n \n\n \n\n \n \n Stay connected with Cape Co",
+      "file": "events-calendar/category/events/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:credential",
+      "title": "Unsourced a credential",
+      "claim": "award-winning CO₂-extracted\n\n \n Eureka Vapor Pop-Up Event \n Eureka Vapor",
+      "file": "events-calendar/category/pop-ups/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:credential",
+      "title": "Unsourced a credential",
+      "claim": "award-winning CO₂-extracted\n\n \n Northern Grown / Fog Cutter Pop-Up \n Nort",
+      "file": "events-calendar/category/pop-ups/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "Best Budz Stealth Bomber \n Best Budz \n Best Budz Steal",
+      "file": "products/best-budz-flower-best-budz-stealth-bomber-hybrid-3-5g-for-sale-wellfleet-ma/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "Best Budz Pie Scream #6 \n Best Budz \n Best Budz Pie Sc",
+      "file": "products/best-budz-pie-scream-6-for-sale-wellfleet-ma/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "Best Budz Shady Grapes \n Best Budz \n Best Budz Shady G",
+      "file": "products/best-budz-shady-grapes-for-sale-wellfleet-ma/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "Best Budz Stealth Bomber \n Best Budz \n Best Budz Steal",
+      "file": "products/best-budz-stealth-bomber-for-sale-wellfleet-ma/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "Best Budz White Rainbow \n Best Budz \n Best Budz White",
+      "file": "products/best-budz-white-rainbow-for-sale-wellfleet-ma-2/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "Best Budz White Rainbow \n Best Budz \n Best Budz White",
+      "file": "products/best-budz-white-rainbow-for-sale-wellfleet-ma/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "Best Dirty Lemonade \n Best Dirty Lemonade Lemonade | B",
+      "file": "products/best-dirty-lemonade-lemonade-blue-raspberry-12oz-for-sale-wellfleet-ma/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:price",
+      "title": "Unsourced a price",
+      "claim": "$75.00",
+      "file": "products/flower-popcorn-half-ounce-claravita-maui-waui-sdh-14g-for-sale-wellfleet-ma/index.html",
+      "line": 25,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "Best Dirty Lemonade \n Best Dirty Lemonade Blue Raspber",
+      "file": "products/lemonade-bdl-blue-raspberry-lemonade-hybrid-12oz-for-sale-wellfleet-ma/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "Best Budz Pie Scream #6 \n Best Budz \n Best Budz Pie Sc",
+      "file": "products/pie-scream-6-for-sale-wellfleet-ma/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "Best Budz Shady Grapes \n Best Budz \n Best Budz Shady G",
+      "file": "products/shady-grapes-for-sale-wellfleet-ma/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "Best Budz Stealth Bomber \n Best Budz \n Best Budz Steal",
+      "file": "products/stealth-bomber-for-sale-wellfleet-ma/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "best dispensary on Cape Cod \n best dispensary on Cape",
+      "file": "tag/best-dispensary-on-cape-cod/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "best \n best\n\n \n\n \n\n \n Levia Pop-Up \n At LEVIA, we are",
+      "file": "tag/best/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:credential",
+      "title": "Unsourced a credential",
+      "claim": "award-winning CO₂-extracted\n\n Garcia Hand Picked Pop-Up \n Given a blank s",
+      "file": "tag/cannabis-dispensary-in-wellfleet/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:credential",
+      "title": "Unsourced a credential",
+      "claim": "award-winning CO₂-extracted\n\n \n Northern Grown / Fog Cutter Pop-Up \n Nort",
+      "file": "tag/cannabis-dispensary-near-me/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "the largest selection\n\n \n Strane Pop-Up Event \n \"Great weed e",
+      "file": "tag/cannabis-flower/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:credential",
+      "title": "Unsourced a credential",
+      "claim": "award-winning CO₂-extracted\n\n \n Eureka Vapor Pop-Up Event \n Eureka Vapor",
+      "file": "tag/cape-cod-cannabis/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:credential",
+      "title": "Unsourced a credential",
+      "claim": "award-winning CO₂-extracted\n\n \n Northern Grown / Fog Cutter Pop-Up \n Nort",
+      "file": "tag/cape-cod-cannabis/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "the largest selection\n\n \n Sluggers Hit Pop-Up Event \n Learn m",
+      "file": "tag/cape-cod-cannabis/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "the largest selection\n\n \n\n \n\n \n \n Stay connected with Cape Co",
+      "file": "tag/club-9-ball/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:credential",
+      "title": "Unsourced a credential",
+      "claim": "award-winning CO₂-extracted\n\n \n\n \n\n \n \n Stay connected with Cape Cod Cann",
+      "file": "tag/dispo/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:credential",
+      "title": "Unsourced a credential",
+      "claim": "award-winning CO₂-extracted\n\n \n\n \n\n \n \n Stay connected with Cape Cod Cann",
+      "file": "tag/disposable-vapes/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:credential",
+      "title": "Unsourced a credential",
+      "claim": "award-winning CO₂-extracted\n\n \n\n \n\n \n \n Stay connected with Cape Cod Cann",
+      "file": "tag/disposables/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "the largest selection\n\n \n Strane, Garcia Hand Picked, Hellava",
+      "file": "tag/edibles/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:credential",
+      "title": "Unsourced a credential",
+      "claim": "award-winning CO₂-extracted\n\n \n Eureka Vapor Pop-Up Event \n Eureka Vapor",
+      "file": "tag/eureka-vapor/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:credential",
+      "title": "Unsourced a credential",
+      "claim": "award-winning CO₂-extracted\n\n \n\n \n\n \n \n Stay connected with Cape Cod Cann",
+      "file": "tag/eureka-vapor/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "the largest selection\n\n Sparq Pop-Up \n Learn more about Sparq",
+      "file": "tag/gummies/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "the largest selection\n\n \n\n \n\n \n \n Stay connected with Cape Co",
+      "file": "tag/johnny-spampinato/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "the largest selection\n\n \n\n \n\n \n \n Stay connected with Cape Co",
+      "file": "tag/labor-day-weekend-event-2026/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "the largest selection\n\n \n\n \n\n \n \n Stay connected with Cape Co",
+      "file": "tag/outer-cape-music-festival-2026/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:credential",
+      "title": "Unsourced a credential",
+      "claim": "award-winning CO₂-extracted\n\n \n Eureka Vapor Pop-Up Event \n Eureka Vapor",
+      "file": "tag/pop-up-event/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:credential",
+      "title": "Unsourced a credential",
+      "claim": "award-winning CO₂-extracted\n\n \n Northern Grown / Fog Cutter Pop-Up \n Nort",
+      "file": "tag/pop-up-event/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:credential",
+      "title": "Unsourced a credential",
+      "claim": "award-winning CO₂-extracted\n\n Jeeter Hook-Up Pop-Up \n Join the event in W",
+      "file": "tag/vaporizers/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "the largest selection\n\n \n\n \n\n \n \n Stay connected with Cape Co",
+      "file": "tag/wellfleet-music-event-2026/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "the largest selection\n\n \n\n \n\n \n \n Stay connected with Cape Co",
+      "file": "tag/wellfleet-music/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "The Best Holiday Cannabis Gifts on Cape Cod \n The Best Hol",
+      "file": "the-best-holiday-cannabis-gifts-on-cape-cod/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    }
+  ]
+}

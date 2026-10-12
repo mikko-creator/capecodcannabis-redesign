@@ -39,7 +39,9 @@ const fade = Number(args.fade || 1.5);
 const width = Number(args.width || 1920);
 const crf = String(args.crf || 26);
 const label = String(args.label || 'AI-generated video');
-const aiNote = 'AI-generated illustrative motion (' + label + '). Not footage of Cape Cod Cannabis, its store, staff, customers, products or brands.';
+// the IPTC digital source type URI rides in the note so a byte grep for trainedAlgorithmicMedia (DESIGN-SPEC R-40) finds
+// it in the container tags; tools/ai-label.mjs verify checks it there (lane IMG, 2026-10-12)
+const aiNote = 'AI-generated illustrative motion (' + label + '). IPTC digital source type: http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia. Not footage of Cape Cod Cannabis, its store, staff, customers, products or brands.';
 
 const probe = JSON.parse(run(FP, ['-v', 'error', '-select_streams', 'v:0', '-show_entries', 'stream=width,height,r_frame_rate,nb_frames:format=duration', '-of', 'json', inp]).stdout);
 const T = Number(probe.format.duration);

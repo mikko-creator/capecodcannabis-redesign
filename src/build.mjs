@@ -14,7 +14,7 @@ import { pathToFileURL } from 'node:url';
 import { ROOT, ORIGIN, splitInternal, encodePath, outFileOf, liveUrl, withSlash, isFileLike, relUrl } from './lib/paths.mjs';
 import { BUILD_DATE, SNAPSHOT_DATE, readJSON, exists, siteFromFacts, decodeEntities, writeIfChanged } from './lib/site.mjs';
 import { loadCatalog } from './lib/catalog.mjs';
-import { createImageIndex, resolveImage, ImagePipeline } from './lib/images.mjs';
+import { createImageIndex, resolveImage, ImagePipeline, isGenerated } from './lib/images.mjs';
 import { KNOWN_BLOCKS, RESIDUE_RE, Linker, rewriteRich, relativizeHtml, rootAbsoluteLeft, countH1, residueHits, walkBlocks, esc, escAttr, attrs } from './lib/render-util.mjs';
 import { applyLdPolicy, CONFLICT_POLICY, PLATFORM_ID_RE, outKey, modelProblems, sanitizeHtml } from './lib/policy.mjs';
 
@@ -41,6 +41,9 @@ const seo = readJSON('audit/seo-inventory.json');
 const inv = readJSON('audit/site-inventory.json');
 const ia = readJSON('audit/understand/ia-map.json');
 const imagePlan = exists('src/content/image-plan.json') ? (() => { const j = readJSON('src/content/image-plan.json'); const slots = j.slots || j; return Array.isArray(slots) ? Object.fromEntries(slots.map((s) => [s.id || s.slot, s])) : slots; })() : {};
+/* per-file cwebp quality from image-plan slots ("quality"; R-20 weight of decorative bands). Every variant of a file
+   uses the same quality wherever it is requested, so one file never ships at two qualities. (orchestrator, 2026-10-12) */
+const qualityByFile = new Map(Object.values(imagePlan).filter((s) => s && s.file && Number.isInteger(s.quality)).map((s) => [s.file, s.quality]));
 const seoByFinal = new Map();
 for (const p of seo.pages) { seoByFinal.set(p.finalUrl, p); seoByFinal.set(p.url, p); }
 const invByFinal = new Map(inv.pages.filter((p) => p.finalUrl).map((p) => [p.finalUrl, p]));
@@ -137,12 +140,14 @@ const assetFiles = new Map();     // output rel path -> source abs path (copied 
 const assetUrls = new Map();      // logical name -> root-relative url
 let current = null;               // the page being rendered (default `from` for ctx.link / ctx.rich)
 
+const aiAssets = new Set();       // P1 (4.17.12): output paths of files copied as-is from assets/generated/ (ctx.asset, media)
 function fingerprintCopy(logical, srcAbs) {
   if (assetUrls.has(logical)) return assetUrls.get(logical);
   const buf = fs.readFileSync(srcAbs);
   const ext = path.extname(logical);
   const rel = 'assets/' + logical.slice(0, -ext.length) + '.' + sha(buf).slice(0, 10) + ext;
   assetFiles.set(rel, srcAbs);
+  if (isGenerated(path.relative(ROOT, srcAbs))) aiAssets.add(rel);
   const url = '/' + rel;
   assetUrls.set(logical, url);
   return url;
@@ -174,7 +179,7 @@ function imgTag(ref, o = {}) {
     const w = +o.width || null, h = +o.height || null;
     return '<span' + attrs({ class: ['img-missing', o.cls].filter(Boolean).join(' '), 'data-slot': r.slot || null, role: alt ? 'img' : null, 'aria-label': alt || null, style: w && h ? 'aspect-ratio:' + w + '/' + h : null }) + '></span>';
   }
-  const vs = images.variants(r.file, o.widths);
+  const vs = images.variants(r.file, o.widths, qualityByFile.get(r.file));
   if (!vs) {
     const url = fingerprintCopy('media/' + path.basename(r.file).replace(/^[0-9a-f]{8}-/, 'img-'), path.join(ROOT, r.file));
     return '<img' + attrs({ src: url, alt, loading: o.loading || 'lazy', decoding: o.decoding || 'async', class: o.cls || null }) + '>';
@@ -204,7 +209,7 @@ const ctx = {
     if (r.external && /^https?:/i.test(r.href) && (RESIDUE_RE.lastIndex = 0, RESIDUE_RE.test(r.href))) {
       RESIDUE_RE.lastIndex = 0;
       const im = resolveImage(r.href, imgIndex, imagePlan);
-      const vs = im.missing ? null : images.variants(im.file);
+      const vs = im.missing ? null : images.variants(im.file, undefined, qualityByFile.get(im.file));
       if (vs) { linker.note('rewritten:image-file-link', String(u).split('?')[0], current && current.path); return { href: vs[vs.length - 1].url }; }
       linker.note('unlinked:platform-file-link', String(u).split('?')[0], current && current.path);
       return { unlink: true, reason: 'link to a platform-hosted file that the harvest does not hold' };
@@ -222,7 +227,7 @@ const ctx = {
   imgSrc(ref, width = 960) {
     const r = resolveImage(ref, imgIndex, imagePlan);
     if (r.missing) return null;
-    const vs = images.variants(r.file);
+    const vs = images.variants(r.file, undefined, qualityByFile.get(r.file));
     if (!vs) return fingerprintCopy('media/' + path.basename(r.file), path.join(ROOT, r.file));
     return (vs.find((v) => v.w >= width) || vs[vs.length - 1]).url;
   },
@@ -243,12 +248,15 @@ const ctx = {
   live(p) { return liveUrl(p); },
   pagesByPath: new Map(),
   collections: {},
+  /** P1 (BUILD-CONTRACT 4.17.7, DESIGN-SPEC 6.5): root-relative URL of this build's search index
+      (/assets/search-index.<sha10>.json), set before any page renders; put it in a data-src attribute */
+  searchIndex: null,
 };
 
 /* ------------------------------------------------------------------ head + page assembly */
 const stripSuffix = (t) => String(t || '').replace(/\s*\|\s*Cape Cod Cannabis Recreational Dispensary in Wellfleet, MA.*$/, '').trim();
 function parseJSONsafe(s) { try { return typeof s === 'string' ? JSON.parse(s) : s; } catch { return null; } }
-const ogImageFor = (u) => { const r = resolveImage(u, imgIndex, imagePlan); if (r.missing) return null; const vs = images.variants(r.file); if (!vs) return null; const v = vs.find((x) => x.w >= 1200) || vs[vs.length - 1]; return { url: ORIGIN + v.url, width: v.w, height: v.h }; };
+const ogImageFor = (u) => { const r = resolveImage(u, imgIndex, imagePlan); if (r.missing) return null; const vs = images.variants(r.file, undefined, qualityByFile.get(r.file)); if (!vs) return null; const v = vs.find((x) => x.w >= 1200) || vs[vs.length - 1]; return { url: ORIGIN + v.url, width: v.w, height: v.h }; };
 /** JSON-LD: keep the source graph; every URL that names platform paths is mapped to a rebuilt image or dropped */
 function cleanLd(node, dropped) {
   if (Array.isArray(node)) return node.map((n) => cleanLd(n, dropped)).filter((n) => n !== undefined);
@@ -382,7 +390,8 @@ const unknownBlocks = new Map();
 const h1Notes = [];
 const conflictPurges = [];       // 4.16.4: purged conflict variants { path, t, dev, text }
 const ldDropLog = [];            // 4.7 / 4.16.11: JSON-LD changes per page
-const ogImageOmitted = [];       // 4.16.12: og:image omitted (origin-hosted source)
+const ogImageOmitted = [];       // 4.16.12: og:image omitted (origin-hosted source, and no social card)
+const ogImageSocialCard = [];    // 4.16.12: og:image replaced by the site social card (INTEGRATOR)
 /** the text of a block, flattened (for removal declarations) */
 function blockSummary(b) {
   const parts = [];
@@ -519,8 +528,23 @@ function assemble(route) {
     if (Array.isArray(model.catalog) && model.catalog.length) { page.catalog = model.catalog; page.catalogSource = 'model'; }
     else if (page.catalog) page.catalogSource = 'src/content/catalog/listings.json';
     page.modelH1 = model.h1 || null;
-    /* BUILD-CONTRACT 4.16.12: an og:image whose source sits on the origin (never harvested) stays omitted, declared */
-    if (model.og && model.og.image && !page.og['og:image']) ogImageOmitted.push({ path: route.path, src: String([].concat(model.og.image)[0]).slice(0, 200), why: 'og:image source not in the harvest (origin-hosted); omitted until the site social card exists (BUILD-CONTRACT 4.16.12)' });
+    /* BUILD-CONTRACT 4.16.12: an og:image whose source sits on the origin (never harvested) is replaced by the site
+       social card (image-plan slot SOCIAL-CARD, the real storefront photo, 1200x630) at the origin, declared. Its
+       og:image:alt becomes the live site's own alt for that storefront photo (the slot's liveAlt), because the source
+       alt describes the image that is no longer used. INTEGRATOR, 2026-10-12. If the card cannot resolve, the
+       og:image stays omitted, declared as before. */
+    if (model.og && model.og.image && !page.og['og:image']) {
+      const src = String([].concat(model.og.image)[0]).slice(0, 200);
+      const card = ogImageFor('SOCIAL-CARD');
+      if (card) {
+        const prevAlt = page.og['og:image:alt'] || null;
+        const cardAlt = (imagePlan['SOCIAL-CARD'] && imagePlan['SOCIAL-CARD'].liveAlt) || null;
+        page.og['og:image'] = card.url; page.og['og:image:width'] = String(card.width); page.og['og:image:height'] = String(card.height);
+        if (cardAlt) page.og['og:image:alt'] = cardAlt; else delete page.og['og:image:alt'];
+        page.og = Object.fromEntries(Object.entries(page.og).sort((a, b) => (a[0] < b[0] ? -1 : a[0] > b[0] ? 1 : 0)));
+        ogImageSocialCard.push({ path: route.path, src, card: card.url, alt: cardAlt, replacedAlt: prevAlt, why: 'og:image source not in the harvest (origin-hosted); the site social card (SOCIAL-CARD) is used instead (BUILD-CONTRACT 4.16.12)' });
+      } else ogImageOmitted.push({ path: route.path, src, why: 'og:image source not in the harvest (origin-hosted) and the site social card did not resolve; omitted (BUILD-CONTRACT 4.16.12)' });
+    }
   } else if (seoRow) {
     const h = headFor(route, seoRow);
     page.title = scrubText(decodeEntities(seoRow.title || ''), h.dropped, 'title') || null;
@@ -661,12 +685,28 @@ fs.mkdirSync(OUT, { recursive: true });
 
 /* fonts first (CSS may reference them), then the CSS and JS bundles */
 for (const f of fs.readdirSync(path.join(ROOT, 'assets/fonts')).sort()) if (/\.(woff2?|ttf|otf)$/i.test(f)) ctx.asset('fonts/' + f);
+/* CSS comments are documentation for the source files, not for the browser: the bundle drops them (orchestrator,
+   2026-10-12, R-20: about 19.5 KB on every page). A comment is removed whole, without a space, as the CSS tokenizer
+   does; quoted strings (data: URLs included) are copied untouched. Each sheet keeps its one-line name marker. */
+function stripCssComments(css) {
+  let out = '', i = 0, q = null;
+  while (i < css.length) {
+    const c = css[i];
+    if (q) { out += c; if (c === '\\' && i + 1 < css.length) { out += css[i + 1]; i += 2; continue; } if (c === q) q = null; i++; continue; }
+    if (c === '"' || c === "'") { q = c; out += c; i++; continue; }
+    if (c === '/' && css[i + 1] === '*') { const e = css.indexOf('*/', i + 2); i = e < 0 ? css.length : e + 2; continue; }
+    out += c; i++;
+  }
+  return out.replace(/\n[ \t]*\n+/g, '\n');
+}
 function bundle(names, dir, ext) {
   let txt = '';
   for (const n of names || []) {
     const abs = path.join(dir, n);
     if (!fs.existsSync(abs)) { fail('missing-asset', { asset: path.relative(ROOT, abs).split(path.sep).join('/') }); continue; }
-    txt += '/* ' + n + ' */\n' + fs.readFileSync(abs, 'utf8').replace(/\r\n/g, '\n') + '\n';
+    const raw = fs.readFileSync(abs, 'utf8').replace(/\r\n/g, '\n');
+    // SR_KEEP_CSS_COMMENTS=1 keeps them (a debugging build, and the control build tools/style-diff.mjs compares against)
+    txt += '/* ' + n + ' */\n' + (ext === 'css' && !process.env.SR_KEEP_CSS_COMMENTS ? stripCssComments(raw) : raw) + '\n';
   }
   if (ext === 'css') txt = txt.replace(/url\(\s*(["']?)asset:([^"')]+)\1\s*\)/g, (m, q, name) => 'url("' + ctx.asset(name.trim()).replace(/^\/assets\//, '') + '")');
   const rel = 'assets/site.' + sha(txt).slice(0, 10) + '.' + ext;
@@ -682,6 +722,38 @@ for (const r of routes.routes) {
   const page = assemble(r);
   pages.push(page);
   ctx.pagesByPath.set(page.path, { path: page.path, kind: page.kind, title: page.title, h1: page.h1, derived: page.derived });
+}
+/* search index (BUILD-CONTRACT 4.17.7, DESIGN-SPEC 6.5; P1 change): one fingerprinted JSON per build,
+   { v: 1, items: [{ t, u, k, b? }] }. Every product (title verbatim from the HTML sitemap, b = the catalog brand), every
+   brand (name), every category and subcategory (name), and every crawled page, post and event (its single H1, verbatim).
+   u is the root-relative URL as ctx.url returns it (percent-encoded). Order: kind (product, brand, category, page, post,
+   event), then title, then URL (code-unit order). Nothing is dropped to save bytes. */
+const SEARCH_KINDS = ['product', 'brand', 'category', 'page', 'post', 'event'];
+let searchIndexInfo = null;
+{
+  const items = [];
+  const seen = new Set();
+  const builtPaths = new Set(pages.map((p) => p.path));
+  const add = (k, t, p, b) => {
+    if (!t || !p || seen.has(p) || !builtPaths.has(p)) return;
+    seen.add(p);
+    const it = { t: String(t), u: encodePath(p), k };
+    if (b) it.b = String(b);
+    items.push(it);
+  };
+  for (const p of catalog.products) add('product', p.title, p.path, p.brand && p.brand.name);
+  for (const b of catalog.brands) add('brand', b.name, b.path);
+  for (const c of catalog.categories) add('category', c.name, c.path);
+  for (const pg of pages) if (!pg.derived && pg.kind !== 'product') add(pg.kind === 'blog-post' ? 'post' : pg.kind === 'event' ? 'event' : 'page', pg.h1 || stripSuffix(pg.title), pg.path);
+  const cmp = (a, b) => (a < b ? -1 : a > b ? 1 : 0);
+  items.sort((a, b) => cmp(SEARCH_KINDS.indexOf(a.k), SEARCH_KINDS.indexOf(b.k)) || cmp(a.t, b.t) || cmp(a.u, b.u));
+  const json = JSON.stringify({ v: 1, items });
+  const rel = 'assets/search-index.' + sha(json).slice(0, 10) + '.json';
+  fs.mkdirSync(path.join(OUT, 'assets'), { recursive: true });
+  fs.writeFileSync(path.join(OUT, rel), json);
+  ctx.searchIndex = '/' + rel;
+  const byKind = Object.fromEntries(SEARCH_KINDS.map((k) => [k, items.filter((x) => x.k === k).length]));
+  searchIndexInfo = { url: ctx.searchIndex, items: items.length, bytes: Buffer.byteLength(json), byKind, productsWithBrand: items.filter((x) => x.k === 'product' && x.b).length, giftCardProducts: items.filter((x) => x.k === 'product' && /Gift Card/.test(x.t)).length };
 }
 const h1NotesByPath = new Map();
 for (const nt of h1Notes) { if (!h1NotesByPath.has(nt.path)) h1NotesByPath.set(nt.path, []); h1NotesByPath.get(nt.path).push(nt); }
@@ -830,10 +902,12 @@ const summary = {
   declared: {
     lateImagesUsed: lateUsed.size,
     jsonLdChangedPages: ldDropLog.length, jsonLdChanges: ldDropLog.reduce((a, x) => a + x.drops.length, 0),
-    ogImageOmitted: ogImageOmitted.length, conflictVariantsPurged: conflictPurges.length,
+    ogImageOmitted: ogImageOmitted.length, ogImageSocialCard: ogImageSocialCard.length, conflictVariantsPurged: conflictPurges.length,
     renamedPlatformIds: pages.reduce((a, p) => a + (p.renamed ? p.renamed.length : 0), 0),
     richSanitized: Object.fromEntries([...sanitized].map(([k, v]) => [k, v.count])),
   },
+  ai: { variants: pub.aiVariants.length, assets: aiAssets.size },
+  searchIndex: searchIndexInfo,
   errors: errors.length, errorsByKind: byKind, ms,
 };
 log('build ' + JSON.stringify(summary));
@@ -843,10 +917,13 @@ if (REPORT) {
   for (const x of ldDropLog) for (const d of x.drops) { const k = d.rule + ' | ' + d.what; if (!ldByRule[k]) ldByRule[k] = { count: 0, pages: [] }; ldByRule[k].count++; if (ldByRule[k].pages.length < 8 && !ldByRule[k].pages.includes(x.path)) ldByRule[k].pages.push(x.path); }
   writeIfChanged(path.resolve(REPORT), JSON.stringify({
     summary, errors, linkLog: linker.report(), missingImages: [...missingImages.values()].map((m) => ({ ...m, pages: [...m.pages] })).sort((a, b) => (a.ref < b.ref ? -1 : 1)), h1Notes, missingModels,
+    /* P1 (4.17.12): dist paths of the labelled WebP variants of assets/generated/ files, and of the files copied as-is
+       from assets/generated/ (ctx.asset('generated/...'), media copies); tools/build-check.mjs checks the label bytes */
+    aiVariants: pub.aiVariants, aiAssets: [...aiAssets].sort(),
     declared: {
       lateImages: [...lateUsed].map(([file, e]) => ({ file, srcUrl: e.srcUrl, pages: [...e.pages].sort() })).sort((a, b) => (a.file < b.file ? -1 : 1)),
       jsonLdByRule: ldByRule, jsonLdByPage: ldDropLog,
-      ogImageOmitted, conflictPurges,
+      ogImageOmitted, ogImageSocialCard, conflictPurges,
       renamed: pages.filter((p) => p.renamed).map((p) => ({ path: p.path, renamed: p.renamed })),
       richSanitized: [...sanitized].map(([k, v]) => ({ kind: k, count: v.count, pages: [...v.pages].sort() })),
     },
