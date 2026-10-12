@@ -89,3 +89,14 @@
   01a12d86-ce0b-72d3-88ed-609f7347478b, seed 395673316, about $0.07).
 - Clean: no black frame and no text. The cut-out edges hold on #015375.
 - Keys: fal 404 against a bad-key 401 control; Higgsfield 404 against a bad-key 401 control.
+
+### 1.8 Motion check (Higgsfield)
+- Ran kling-video/v3.0-turbo image-to-video, 5 s at 1080p ($0.70 by the free estimate endpoint; 5 s at 720p would be
+  $0.56, 10 s at 1080p $1.40), from the reviewed `tmp/panel/kit/whale-tail.jpg`. Request
+  c0e0997b-4fbe-4e37-904e-ee305411524b; output 1928x1072, 24 fps, 5.04 s.
+- `tools/make-loop.mjs --fade 1.0 --width 1920` made a 4 s seamless loop.
+  - YDIF mean 2.18, max 3.22, p95 2.45; 0 frames over 20; seam 3.22. No flashing (WCAG 2.3.1).
+  - Sizes: MP4 1.43 MB, WebM 1.55 MB, poster 100 KB.
+- A frame strip was reviewed by eye (`tmp/look/whale-frames.png`): the fluke holds, water streams, the light
+  shimmers. No artefacts, no text, no land, boats or people.
+- Media spend so far is about $1.30: 9 ultra stills, 8 cut-outs and 1 clip.
