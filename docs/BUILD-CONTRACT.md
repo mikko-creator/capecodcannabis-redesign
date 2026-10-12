@@ -165,6 +165,10 @@ source of truth.
    - Titles, descriptions, robots meta and Open Graph come from the source per page.
    - JSON-LD (LocalBusiness/Store, BreadcrumbList, Product, Event, FAQPage, Article) is kept with its URLs; the
      Rank Math graph is consolidated to one business entity with an `@id`.
+   - **Exception, added 09:33:** JSON-LD that contradicts the page's visible copy is NOT carried over. The home and
+     /faqs-420/ FAQPage markup still says "up to 1 ounce of flower ... 28 grams"; the visible copy on 23 pages says 2
+     ounces / 56 grams (`docs/FACTS-EVIDENCE.md` C3). The removal is recorded in the ledger.
+   - The pipeline lanes started before this note, so the INTEGRATOR enforces it.
 8. **Removed, with reasons** (in the change ledger), as platform runtime:
    - GTM/GA, the Facebook pixel, server-side tagging (`sst.`), OneSignal push, the Alpine IQ loader, Ahrefs and WPMU
      analytics, LiteSpeed, WP Defender, the Elementor/Jet runtime and the Joint runtime;
@@ -188,11 +192,24 @@ source of truth.
     - `fonts.gstatic.com` / `fonts.googleapis.com` (OFL fonts);
     - `b2702268.assetcdn.net` (site images);
     - `images.dutchie.com` (product images, Plan A only).
-13. **The 20 dead internal links** (`audit/failures.json`, status 404).
-    - The anchor text is kept.
-    - A link is retargeted only where one existing page is the unambiguous target (for example `/blog` ->
-      `/our-blog/`). Otherwise it is unlinked.
-    - Each case is recorded in the ledger and in the client report *(targets after WF1)*.
+13. **The 20 dead internal links** (`audit/failures.json`, status 404; evidence and referrers in
+    `docs/FACTS-EVIDENCE.md`, "The 20 dead internal links").
+    - The anchor text is always kept verbatim. Every change is a DECLARED change in the ledger and the client report,
+      never silent.
+    - **Retargeted** (one live page is the unambiguous target):
+      - `/recreational-dispensary-near-dennis-02638` -> `/recreational-dispensary-near-me-in-dennis/`
+      - `/recreational-dispensary-near-falmouth-02540` -> `/recreational-dispensary-near-falmouth/`
+      - `/recreational-dispensary-near-provincetown-02657` -> `/dispensary-near-provincetown/`
+      - `/recreational-dispensary-near-sandwich-02563` -> `/recreational-dispensary-near-sandwich/`
+      - `/terpene-guide` -> `/terpene-cannabinoid-guide/`
+      - `/categories/concentrates/rosin` -> `/categories/concentrates/live-rosin/`
+      - `/blog` -> `/our-blog/`
+      - `/beautiful-wellfleet-ma-attractions` -> `/things-to-do-near-cape-cod-cannabis-in-wellfleet-ma/`
+    - **Expired `/offers/...` promotions** (8 links; each 301s to `/specials/...` and then 404s on the live site)
+      -> `/specials/`, the destination of the live site's own `/offers` alias.
+    - **Unlinked, text kept, listed in `docs/OPEN-DECISIONS.md` for the client:** `/our-team` ("Learn More" on About),
+      `/categories/concentrates/hash`, `/categories/clones`, `/brands/perpetual-harvest`.
+    - The pipeline lanes started before this mapping, so the INTEGRATOR applies it as a declared post-extraction rule.
 14. **Class names.** Never use names a CMS detector reads as a platform:
     - `w-container`, `w-row`, `w-col`, `w-nav`, `w-slider`, which also catches `row-container` and `show-nav`;
     - `sqs-block`, `et_pb_`, `elementor-`, `wp-`, `data-wf-`, `svelte-xxxxxx`, `data-v-xxxxxxxx`.
