@@ -1,0 +1,27 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>bad</title>
+<style>
+body{margin:0;font:16px/1.5 Arial,sans-serif;background:#fff}
+header{position:fixed;top:0;left:0;right:0;height:100px;background:#015375;color:#fff;z-index:5}
+.hero{position:relative;height:60vh}
+.hero img{width:100%;height:100%;object-fit:cover;display:block}
+.hero h1{position:absolute;top:40px;left:20px;margin:0}
+.wide{width:2000px;height:20px;background:#02a7eb}
+.glass{margin:40px;padding:30px;backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);background:rgba(255,255,255,.2);border:1px solid rgba(255,255,255,.4)}
+.glass p{color:#dddddd}
+.pro{position:relative}
+.pro img{position:absolute;top:0;left:0;width:200px;height:60px}
+.spin{width:20px;height:20px;background:#00db4a;animation:sp 2s linear infinite}
+@keyframes sp{to{transform:rotate(360deg)}}
+main .faded{opacity:.2}
+</style></head><body>
+<header>Header</header>
+<main>
+<section class="hero"><img src="small.png" alt=""><h1>Hero under the header</h1></section>
+<div class="wide"></div>
+<div class="glass"><p>Pale text on glass over a flat field</p></div>
+<div class="pro"><img data-protrude src="small.png" alt=""><p>Paragraph covered by a protrusion</p></div>
+<div class="spin"></div>
+<p class="faded">Stranded reveal text</p>
+</main>
+<script>throw new Error('fixture error');</script>
+</body></html>

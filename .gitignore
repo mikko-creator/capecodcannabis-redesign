@@ -17,3 +17,4 @@ Thumbs.db
 /*.zip
 /tools/tests/proj-*/
 /tools/tests/brk-*/
+/tools/tests/qa-fixture/report-*.json

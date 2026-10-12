@@ -1,0 +1,25 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>good</title>
+<style>
+body{margin:0;font:16px/1.5 Arial,sans-serif;background:#fff;overflow-x:clip}
+header{position:fixed;top:0;left:0;right:0;height:80px;background:#015375;color:#fff;z-index:5}
+.hero{position:relative;height:60vh;margin-top:0}
+.hero img{width:100%;height:100%;object-fit:cover;display:block}
+.hero h1{position:absolute;top:120px;left:20px;margin:0;color:#000;background:#fff}
+.stage{position:relative;background:url(big.png) center/cover}
+.glass{margin:0 20px;padding:30px;backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.4)}
+.glass p{color:#000;background:rgba(255,255,255,.9);padding:4px}
+.pro{position:relative;height:120px}
+.pro img{position:absolute;top:0;right:0;width:80px;height:60px}
+.spin{width:20px;height:20px;background:#00db4a;animation:sp 2s linear infinite}
+@keyframes sp{to{transform:rotate(360deg)}}
+@media (prefers-reduced-motion: reduce){.spin{animation:none}}
+</style></head><body>
+<header>Header</header>
+<main>
+<section class="hero"><img src="big.png" alt=""><h1>Hero clear of the header</h1></section>
+<section class="stage"><div style="height:60px"></div><div class="glass"><p>Dark text on a light plate over a varied backdrop</p></div><div style="height:60px"></div></section>
+<div class="pro"><img data-protrude src="big.png" alt=""><p style="max-width:50%">Paragraph clear of the protrusion</p></div>
+<div class="spin"></div>
+<p>Visible text</p>
+</main>
+</body></html>
