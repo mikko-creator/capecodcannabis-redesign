@@ -241,7 +241,8 @@ const ctx = {
   asset(name) {
     if (assetUrls.has(name)) return assetUrls.get(name);
     const abs = path.join(ROOT, 'assets', name);
-    if (!/^(fonts|brand|generated)\//.test(name) || !fs.existsSync(abs)) { fail('missing-asset', { asset: name, page: current && current.path }); return '/assets/missing/' + name; }
+    /* media/: operator-supplied footage (the hero video, 2026-10-13); not AI-generated, so it is not labelled */
+    if (!/^(fonts|brand|generated|media)\//.test(name) || !fs.existsSync(abs)) { fail('missing-asset', { asset: name, page: current && current.path }); return '/assets/missing/' + name; }
     return fingerprintCopy(name, abs);
   },
   /** the live-site URL of an output path (the hand-off to the live menu; carries data-handoff="live-menu") */

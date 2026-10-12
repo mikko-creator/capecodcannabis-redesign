@@ -88,22 +88,29 @@ function heroH1(ctx, text) {
 function heroPicture(ctx) {
   /* tag:false here: the art-directed <picture> needs bare <img> markup; the AI tag is placed once on the hero (hero()) */
   const wide = slotImg(ctx, 'HERO-DESKTOP', { alt: '', sizes: '100vw', loading: 'eager', fetchpriority: 'high', cls: 'hero__img', tag: false });
-  /* widths include 1170: a 390 CSS px phone at DPR 3 paints exactly 1170 device px (R-1 at 1.0, R-20 weight) */
-  const tall = slotImg(ctx, 'HERO-PHONE', { alt: '', sizes: '100vw', cls: 'hero__img', tag: false, widths: [640, 960, 1170] });
+  const tall = slotImg(ctx, 'HERO-PHONE', { alt: '', sizes: '100vw', cls: 'hero__img', tag: false });
   const a = (re) => { const m = tall.match(re); return m ? m[1] : null; };
   const srcset = a(/\ssrcset="([^"]*)"/) || a(/\ssrc="([^"]*)"/);
   if (!/^<img\b/.test(wide) || !srcset) return wide;
   const rec = slot('HERO-PHONE') || {};
   return '<picture><source' + ctx.attrs({ media: '(max-width: 700px)', srcset, sizes: '100vw', width: rec.w || null, height: rec.h || null }) + '>' + wide + '</picture>';
 }
+/** the hero background video (BUILD-CONTRACT 4.21): operator-supplied aerial footage of a whale and her calf, mirrored so
+    they swim beside the pane; a portrait crop for phones. Muted, inline, looping, preload none; the poster <picture>
+    underneath is the first frame, so nothing jumps when the video fades in (.is-playing). */
+function heroVideo(ctx) {
+  return '<video class="hero__video" data-loop muted playsinline loop preload="none" width="1280" height="720">'
+    + '<source media="(max-width: 700px)" src="' + ctx.asset('media/hero-whale-calf-phone.mp4') + '" type="video/mp4">'
+    + '<source src="' + ctx.asset('media/hero-whale-calf.mp4') + '" type="video/mp4"></video>';
+}
 function hero(ctx, { h1, award, badge, ctas, sign }) {
   const pill = award ? link(ctx, award.href, icon('star', 'award__star') + '<span>' + ctx.esc(award.text) + '</span>', { class: 'award' }) : '';
   const panel = '<div class="hero__panel glass glass--hero" data-glass="light">' + pill + heroH1(ctx, h1)
     + (ctas.length ? '<div class="hero__cta">' + ctas.join('') + '</div>' : '')
     + (sign ? '<p class="hero__sign script">' + ctx.esc(sign) + '</p>' : '')
-    + protrusion(ctx, 'CUT-SEAGLASS', { cls: 'protrude--p1', sizes: '(max-width: 700px) 100px, (max-width: 1279px) 190px, 260px' }) + '</div>';
+    + '</div>';   /* the floating sea glass (P1) was removed at the operator's request, 2026-10-13 */
   return '<section class="hero" data-band="stage" aria-labelledby="h1">'
-    + '<div class="hero__media" aria-hidden="true"><div class="hero__layer" data-parallax=".08">' + heroPicture(ctx) + '</div>'
+    + '<div class="hero__media" aria-hidden="true"><div class="hero__layer" data-parallax=".08">' + heroPicture(ctx) + heroVideo(ctx) + '</div>'
     /* the hero photo is an AI illustration since 2026-10-13 (BUILD-CONTRACT 4.20): the visible tag (4.17.4, R-40) */
     + ((slot('HERO-DESKTOP') || {}).ai ? '<span class="ai-tag hero__ai" aria-hidden="true">' + ctx.esc(LABELS.aiTag) + '</span>' : '') + '</div>'
     + '<div class="wrap hero__in">' + panel + (badge || '') + '</div>'
@@ -311,7 +318,7 @@ export function renderHome(page, ctx) {
   out.push(hero(ctx, {
     h1: h1Block.text,
     award: awardLine && awardHref ? { text: awardLine.text, href: awardHref } : null,
-    badge: googleBadge(ctx, gLogo, gLine),
+    badge: '',   /* the Google plate was removed from the hero at the operator's request, 2026-10-13; the rating stays in the reviews band */
     ctas: ctaHtml,
     sign: ctx.site && ctx.site.tagline,
   }));

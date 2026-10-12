@@ -511,3 +511,56 @@ source of truth.
        - link-check, build-check (AI label 192/192), product-guard, static checks, the R-46 scan, hover parity and C13
          all pass;
        - the age gate passes 78/78.
+21. **The hero becomes the operator's whale-calf video, with no plate or gems (added 2026-10-13, on the operator's
+    direction).**
+
+    The operator wrote: "C:\Users\Dell\Downloads\4912007_Whale_Calf_1280x720.mp4 use this as hero background instead.
+    and then remove the google review tag in the hero, and also remove the floating gems/rocks in the hero section".
+    This ruling amends 4.20 point 3.
+
+    1. **The footage.** The source is operator-supplied aerial footage of a whale and her calf: 1280x720, 23.976 fps,
+       12.2 s, no audio track.
+       - It is mirrored so the whales swim right of the hero pane.
+       - Desktop: `assets/media/hero-whale-calf.mp4` (H.264 CRF 30, faststart, 1,275 KB). It is the lightest of the
+         encodes compared in `tmp/hero-video/enc/`: CRF 27 was 1,990 KB and VP9 at CRF 40 was 1,626 KB. It is over
+         the 900 KB per-file cap the loop was given (4.17.11). The orchestrator accepted that for the first screen; a
+         higher CRF is the lever if weight matters more.
+       - Phones: `assets/media/hero-whale-calf-phone.mp4`, a fixed 406x720 portrait crop of the same frames (H.264
+         CRF 30, 565 KB).
+       - Muted, inline, looping, preload none, played by `site.js [data-loop]`: it loads when in view, pauses
+         off-screen, and never plays under reduced motion or Save-Data. Print shows the poster.
+       - The posters `assets/derived/hero-whale-poster{,-phone}.jpg` are the first frames (38 KB and 12 KB) and stay
+         the preloaded `fetchpriority=high` hero image (R-23).
+       - It is not AI-generated, so it carries no AI tag. The license is the operator's to confirm (OPEN-DECISIONS
+         B23).
+    2. **The Google rating plate is removed from the hero.** The rating still shows, verbatim, in the reviews band;
+       text parity reports 0 missing.
+    3. **The floating sea glass (P1) is removed from the hero.** Home keeps one cut-out, the footer whale fluke. R-16
+       stays superseded (4.19).
+    4. **R-20.** R-20 counts images, fonts, CSS and JS; videos have their own cap (4.17.11), so both videos are counted
+       apart, as the loop already was (`tmp/hero-video/weight-*.json`).
+       - 1280x585@1.5: 2,228 KB before scroll including the 1,275 KB hero video, so 953 KB without it. After a full
+         scroll, 1,333 KB without the hero video and the 713 KB loop.
+       - 390x844@3: 1,396 KB before scroll including the 565 KB phone video, so 831 KB without it. After a full scroll,
+         1,497 KB without both videos.
+
+       The caps are 1,400 and 3,000 KB. CLS is 0 at both windows.
+    5. **R-1.** The hero is now 720p footage. **Measured** (`tmp/hero-video/play-check.json`): 0.667 file px per device
+       px at 1280x585@1.5, and 0.323 at 390x844@3, where the cover fit paints the 406 px crop 420 CSS px wide. Both are
+       below R-1's 1.0, accepted at the operator's choice of footage. A 1080p or 4K version of the same clip would
+       restore it (OPEN-DECISIONS B23).
+    6. **Gates on this build:**
+       - text parity recall 1, 0 missing, 0 added;
+       - all pass, and the first six fired their planted controls:
+         - link-check;
+         - build-check (AI label 178/178);
+         - product-guard;
+         - static checks;
+         - the R-46 scan;
+         - hover parity (70 hovers, 0 missing);
+         - C13 (0 literals vs 194 referenced tokens);
+       - the age gate passes 78/78;
+       - the playback check (`tmp/hero-video/play-check.mjs`):
+         - the desktop file plays at 1280x585@1.5 and the phone file at 390x844@3, both reaching `.is-playing` at
+           opacity 1;
+         - under reduced motion the video is `display: none` and loads nothing (readyState 0).

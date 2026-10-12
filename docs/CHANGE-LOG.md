@@ -120,3 +120,19 @@ the visible "AI illustration" tag. Four other candidates were reviewed and rejec
 
 **Weight.** The hero images are encoded at 216 KB (desktop) and 241 KB (phone). Home is 1,176 KB before scroll and
 1,553 KB after at 1280. CLS is 0. All gates pass. The age gate passes 78/78.
+
+## The whale-calf hero video (2026-10-13)
+
+At the operator's request:
+- **Hero background:** their aerial video of a whale and her calf, mirrored so the whales swim beside the headline
+  pane.
+  - Desktop file: 1,275 KB. Phones get a portrait crop: 565 KB.
+  - It plays muted, inline and looping once in view. The first frame shows as the poster, and the still poster stays
+    under reduced motion and data-saver.
+- **Removed from the hero:** the Google rating plate (the rating stays in the reviews band) and the floating sea-glass
+  gems.
+- **Checks:** all gates pass; the age gate passes 78/78; CLS is 0.
+
+**Open:**
+- The video adds 1.27 MB to the first load on desktop.
+- The video's license is on the client decisions list (B23).

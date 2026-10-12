@@ -371,43 +371,31 @@
   "slots": [
     {
       "id": "HERO-DESKTOP",
-      "file": "assets/generated/hero-capecod-desktop.jpg",
-      "ai": true,
-      "tag": true,
-      "w": 2880,
-      "h": 1620,
-      "minW": 1920,
-      "focal": "62% 38%",
+      "file": "assets/derived/hero-whale-poster.jpg",
+      "ai": false,
+      "tag": false,
+      "w": 1280,
+      "h": 720,
+      "minW": 1280,
+      "focal": "50% 50%",
       "alt": "",
-      "use": "Home hero backdrop at 701px and up (DESIGN-SPEC 6.9; BUILD-CONTRACT 4.20): an AI illustration of a Cape Cod bay shore, decorative alt=\"\", visible AI illustration tag",
-      "source": "Higgsfield REST marketing-studio/image/sunburst, text-to-image, 4k, 16:9, quality high, request 4d23b3c3-f23a-424d-9698-b1942bab28f6; 3840x2160 downscaled to 2880x1620 (tmp/hero/d-sun-B.png)",
-      "review": {
-        "verdict": "ACCEPT",
-        "reason": "ACCEPT by eye (orchestrator, 2026-10-13): a generic Cape Cod bay shore at golden hour - turquoise shallows, sandbars, a dune bluff with beach grass, a humpback whale tail on the horizon; no people, no text, no marks or logos, no buildings, lighthouse or other real landmark, no cannabis, no candy look; the whale tail checked at 100% (plausible fluke and water). Chosen over 3 desktop and 1 portrait candidates (tmp/hero/rejected/)."
-      },
-      "previous": "assets/derived/hero-uncle-tims-2600.jpg (the client photo of Uncle Tim's Bridge; replaced at the operator's request, 2026-10-13)",
-      "quality": 72,
-      "qualityWhy": "R-20 decorative-image cap (250 KB): measured with cwebp on this master - 1920 variant 272 KB at q80, 214 KB at q72 (orchestrator, 2026-10-13)"
+      "use": "Poster of the home hero video (the first frame of assets/media/hero-whale-calf.mp4) at 701px and up; decorative alt=\"\"",
+      "source": "frame 0 of the operator-supplied aerial video C:UsersDellDownloads\u0004912007_Whale_Calf_1280x720.mp4 (1280x720, 12.2 s), mirrored so the whales swim beside the pane (BUILD-CONTRACT 4.21)",
+      "previous": "assets/generated/hero-capecod-desktop.jpg (the Higgsfield hero, 2026-10-13; replaced by the operator's video the same day)"
     },
     {
       "id": "HERO-PHONE",
-      "file": "assets/generated/hero-capecod-phone.jpg",
-      "ai": true,
-      "tag": true,
-      "w": 1440,
-      "h": 2560,
-      "minW": 1170,
+      "file": "assets/derived/hero-whale-poster-phone.jpg",
+      "ai": false,
+      "tag": false,
+      "w": 406,
+      "h": 720,
+      "minW": 406,
       "focal": "50% 0%",
       "alt": "",
-      "use": "Home hero backdrop at 700px and below: the same bay-shore scene composed vertically; decorative alt=\"\", visible AI illustration tag",
-      "source": "Higgsfield REST marketing-studio/image/sunburst, text-to-image, 4k, 9:16, quality high, request 7751c804-5166-4dfb-bce3-da04d18d82a6; 2160x3840 downscaled to 1440x2560 (tmp/hero/p-sun-PB.png)",
-      "review": {
-        "verdict": "ACCEPT",
-        "reason": "ACCEPT by eye (orchestrator, 2026-10-13): a generic Cape Cod bay shore at golden hour - turquoise shallows, sandbars, a dune bluff with beach grass, a humpback whale tail on the horizon; no people, no text, no marks or logos, no buildings, lighthouse or other real landmark, no cannabis, no candy look; the whale tail checked at 100% (plausible fluke and water). Chosen over 3 desktop and 1 portrait candidates (tmp/hero/rejected/)."
-      },
-      "previous": "assets/derived/hero-uncle-tims-portrait.jpg",
-      "quality": 50,
-      "qualityWhy": "R-20 decorative-image cap (250 KB): measured with cwebp on this master - the fine dune grass compresses poorly: 1170 variant 223 KB at q50 (452 KB at q80 for 1280); a 100% crop compare showed only slight softening, invisible at DPR 3 (tmp/tex/q/pq-compare.png)"
+      "use": "Poster of the phone hero video (the first frame of assets/media/hero-whale-calf-phone.mp4, a 9:16 crop that follows the whales)",
+      "source": "frame 0 of the portrait crop (x 578-984) of the operator-supplied aerial video C:UsersDellDownloads\u0004912007_Whale_Calf_1280x720.mp4 (1280x720, 12.2 s), mirrored so the whales swim beside the pane (BUILD-CONTRACT 4.21)",
+      "previous": "assets/generated/hero-capecod-phone.jpg (the Higgsfield hero, 2026-10-13; replaced by the operator's video the same day)"
     },
     {
       "id": "POSTCARD",
