@@ -1,0 +1,17 @@
+node_modules/
+.DS_Store
+Thumbs.db
+.tmp/
+# audit/raw holds the untouched live-site capture — keep it, it is the evidence.
+
+# capecodcannabis-reforge (2026-10-12). Anchored paths. The harvest stays on disk but out of git: the origin has
+# locked us out, so audit/raw and audit/prelock cannot be re-fetched (decide before any public push).
+/tmp/
+/assets/source/
+/assets/optimized/
+/audit/raw/
+/audit/prelock/
+/audit/capture/
+/audit/screens/
+/preview/
+/*.zip

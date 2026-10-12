@@ -1,0 +1,11 @@
+{
+  "schema": "site-reforge/scan-blocked-hosts@1",
+  "note": "Project-local block ledger, read by lib/fetchx.mjs through SR_BLOCK_LEDGER (tools/sr.sh sets it). A host listed here is refused before the first request. Remove an entry only when the site owner has allowlisted us or the operator has explicitly authorized resuming.",
+  "hosts": {
+    "capecodcannabis.com": {
+      "host": "capecodcannabis.com",
+      "ts": "2026-10-12T00:44:20.469Z",
+      "reason": "Firewall lockout during crawl run A: 20 x 404 from the site's own dead internal links (00:41:06-00:44:19Z), then 161 x HTTP 403 from 00:44:20Z with only 2 successes after the first 403. WP Defender is installed (robots.txt markers), so its 404-detection lockout is the likely cause (UNVERIFIED). Not retried."
+    }
+  }
+}

@@ -1,0 +1,18 @@
+# This file is automatically added by Rank Math SEO plugin to help a website index better
+# More info: https://rankmath.com/?utm_source=Plugin&utm_medium=Robots&utm_campaign=WP
+User-Agent: *
+
+# WP Defender - Begin
+Disallow: /7b62afab7960ee01
+# WP Defender - End
+
+
+# WP Defender - Begin
+Disallow: /72881c24c5395daa
+# WP Defender - End
+
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://capecodcannabis.com/sitemap_index.xml
+Sitemap: https://capecodcannabis.com/sitemap-ai.xml

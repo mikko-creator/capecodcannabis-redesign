@@ -1,0 +1,177 @@
+// zip.mjs — minimal ZIP writer + reader. Node builtins only (zlib, crypto-free).
+// Writer: store or deflate, local headers + central directory + EOCD.
+// Reader: EOCD scan -> central directory -> per-entry inflateRaw.
+// Deliberately no ZIP64: a website handoff bundle never exceeds 4 GB / 65535 files,
+// and the writer THROWS if it would, rather than emitting a silently broken archive.
+
+import fs from 'node:fs';
+import path from 'node:path';
+import zlib from 'node:zlib';
+
+const CRC_TABLE = (() => {
+  const t = new Int32Array(256);
+  for (let n = 0; n < 256; n++) {
+    let c = n;
+    for (let k = 0; k < 8; k++) c = c & 1 ? 0xedb88320 ^ (c >>> 1) : c >>> 1;
+    t[n] = c;
+  }
+  return t;
+})();
+
+export function crc32(buf) {
+  let c = -1;
+  for (let i = 0; i < buf.length; i++) c = CRC_TABLE[(c ^ buf[i]) & 0xff] ^ (c >>> 8);
+  return (c ^ -1) >>> 0;
+}
+
+function dosDateTime(d) {
+  const year = d.getFullYear();
+  if (year < 1980) return { time: 0, date: 0x21 };
+  const time = ((d.getHours() & 31) << 11) | ((d.getMinutes() & 63) << 5) | ((d.getSeconds() / 2) & 31);
+  const date = (((year - 1980) & 127) << 9) | (((d.getMonth() + 1) & 15) << 5) | (d.getDate() & 31);
+  return { time, date };
+}
+
+const NO_COMPRESS = new Set([
+  '.png', '.jpg', '.jpeg', '.gif', '.webp', '.avif', '.woff', '.woff2',
+  '.mp4', '.webm', '.zip', '.gz', '.ico',
+]);
+
+/**
+ * files: [{ name: 'a/b.txt', data: Buffer|string, mtime?: Date }]
+ * Returns a Buffer holding the complete archive.
+ */
+export function zipBuffer(files) {
+  if (files.length > 65535) throw new Error('zip: more than 65535 entries (ZIP64 not supported)');
+  const chunks = [];
+  const central = [];
+  let offset = 0;
+
+  for (const f of files) {
+    const name = String(f.name).replace(/\\/g, '/').replace(/^\/+/, '');
+    // a traversal is a '..' (or '.') path SEGMENT; a file name that merely contains two dots
+    // ('Real Flavor..html', a page whose URL ends in a full stop) is not one (local patch 2026-09-24)
+    if (name.split('/').some((seg) => seg === '..' || seg === '.')) throw new Error('zip: refusing path traversal entry: ' + name);
+    const nameBuf = Buffer.from(name, 'utf8');
+    const raw = Buffer.isBuffer(f.data) ? f.data : Buffer.from(String(f.data), 'utf8');
+    const ext = path.extname(name).toLowerCase();
+    const store = NO_COMPRESS.has(ext) || raw.length < 64;
+    const data = store ? raw : zlib.deflateRawSync(raw, { level: 9 });
+    const method = store ? 0 : 8;
+    const crc = crc32(raw);
+    const { time, date } = dosDateTime(f.mtime instanceof Date ? f.mtime : new Date());
+
+    const local = Buffer.alloc(30);
+    local.writeUInt32LE(0x04034b50, 0);
+    local.writeUInt16LE(20, 4);              // version needed
+    local.writeUInt16LE(0x0800, 6);          // flags: UTF-8 names
+    local.writeUInt16LE(method, 8);
+    local.writeUInt16LE(time, 10);
+    local.writeUInt16LE(date, 12);
+    local.writeUInt32LE(crc, 14);
+    local.writeUInt32LE(data.length, 18);
+    local.writeUInt32LE(raw.length, 22);
+    local.writeUInt16LE(nameBuf.length, 26);
+    local.writeUInt16LE(0, 28);
+    chunks.push(local, nameBuf, data);
+
+    const cd = Buffer.alloc(46);
+    cd.writeUInt32LE(0x02014b50, 0);
+    cd.writeUInt16LE(0x031e, 4);             // made by: unix, spec 3.0
+    cd.writeUInt16LE(20, 6);
+    cd.writeUInt16LE(0x0800, 8);
+    cd.writeUInt16LE(method, 10);
+    cd.writeUInt16LE(time, 12);
+    cd.writeUInt16LE(date, 14);
+    cd.writeUInt32LE(crc, 16);
+    cd.writeUInt32LE(data.length, 20);
+    cd.writeUInt32LE(raw.length, 24);
+    cd.writeUInt16LE(nameBuf.length, 28);
+    cd.writeUInt16LE(0, 30);                 // extra len
+    cd.writeUInt16LE(0, 32);                 // comment len
+    cd.writeUInt16LE(0, 34);                 // disk
+    cd.writeUInt16LE(0, 36);                 // internal attrs
+    cd.writeUInt32LE(((0o100644 << 16) >>> 0), 38); // external attrs (regular file 0644)
+    cd.writeUInt32LE(offset, 42);
+    central.push(cd, nameBuf);
+
+    offset += local.length + nameBuf.length + data.length;
+    if (offset > 0xfffffffe) throw new Error('zip: archive exceeds 4 GB (ZIP64 not supported)');
+  }
+
+  const centralBuf = Buffer.concat(central);
+  const eocd = Buffer.alloc(22);
+  eocd.writeUInt32LE(0x06054b50, 0);
+  eocd.writeUInt16LE(0, 4);
+  eocd.writeUInt16LE(0, 6);
+  eocd.writeUInt16LE(files.length, 8);
+  eocd.writeUInt16LE(files.length, 10);
+  eocd.writeUInt32LE(centralBuf.length, 12);
+  eocd.writeUInt32LE(offset, 16);
+  eocd.writeUInt16LE(0, 20);
+
+  return Buffer.concat([...chunks, centralBuf, eocd]);
+}
+
+/** Recursively collect files under `dir` into zip entries rooted at `prefix`. */
+export function collectDir(dir, prefix = '', skip = () => false) {
+  const out = [];
+  const stack = [{ abs: dir, rel: prefix }];
+  while (stack.length) {
+    const cur = stack.pop();
+    let entries = [];
+    try { entries = fs.readdirSync(cur.abs, { withFileTypes: true }); } catch { continue; }
+    for (const e of entries) {
+      const abs = path.join(cur.abs, e.name);
+      const rel = cur.rel ? cur.rel + '/' + e.name : e.name;
+      if (skip(rel, e)) continue;
+      if (e.isDirectory()) stack.push({ abs, rel });
+      else if (e.isFile()) {
+        const st = fs.statSync(abs);
+        out.push({ name: rel, data: fs.readFileSync(abs), mtime: st.mtime });
+      }
+    }
+  }
+  return out.sort((a, b) => (a.name < b.name ? -1 : a.name > b.name ? 1 : 0));
+}
+
+export function writeZip(outPath, files) {
+  const buf = zipBuffer(files);
+  fs.mkdirSync(path.dirname(outPath), { recursive: true });
+  fs.writeFileSync(outPath, buf);
+  return { path: outPath, bytes: buf.length, entries: files.length };
+}
+
+// --- reader ------------------------------------------------------------------
+export function readZip(zipPath) {
+  const buf = fs.readFileSync(zipPath);
+  let eocd = -1;
+  for (let i = buf.length - 22; i >= 0 && i > buf.length - 22 - 65536; i--) {
+    if (buf.readUInt32LE(i) === 0x06054b50) { eocd = i; break; }
+  }
+  if (eocd < 0) throw new Error('zip: end-of-central-directory not found');
+  const count = buf.readUInt16LE(eocd + 10);
+  let p = buf.readUInt32LE(eocd + 16);
+  const entries = [];
+  for (let i = 0; i < count; i++) {
+    if (buf.readUInt32LE(p) !== 0x02014b50) throw new Error('zip: bad central directory at ' + p);
+    const method = buf.readUInt16LE(p + 10);
+    const compSize = buf.readUInt32LE(p + 20);
+    const rawSize = buf.readUInt32LE(p + 24);
+    const nameLen = buf.readUInt16LE(p + 28);
+    const extraLen = buf.readUInt16LE(p + 30);
+    const commentLen = buf.readUInt16LE(p + 32);
+    const localOff = buf.readUInt32LE(p + 42);
+    const name = buf.slice(p + 46, p + 46 + nameLen).toString('utf8');
+    entries.push({ name, method, compSize, rawSize, localOff });
+    p += 46 + nameLen + extraLen + commentLen;
+  }
+  for (const e of entries) {
+    const lnLen = buf.readUInt16LE(e.localOff + 26);
+    const leLen = buf.readUInt16LE(e.localOff + 28);
+    const start = e.localOff + 30 + lnLen + leLen;
+    const comp = buf.slice(start, start + e.compSize);
+    e.data = e.method === 0 ? comp : zlib.inflateRawSync(comp);
+  }
+  return entries;
+}

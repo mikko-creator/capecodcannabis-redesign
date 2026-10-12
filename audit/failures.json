@@ -1,0 +1,1682 @@
+{
+  "schema": "site-reforge/failures@1",
+  "items": [
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/recreational-dispensary-near-dennis-02638",
+      "reason": "status 404",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:41:06.910Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/recreational-dispensary-near-falmouth-02540",
+      "reason": "status 404",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:41:09.535Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/recreational-dispensary-near-provincetown-02657",
+      "reason": "status 404",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:41:09.535Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/recreational-dispensary-near-sandwich-02563",
+      "reason": "status 404",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:41:14.015Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/our-team",
+      "reason": "status 404",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:41:17.415Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/terpene-guide",
+      "reason": "status 404",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:41:22.022Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/offers/end-of-summer-blowout",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://capecodcannabis.com/offers/end-of-summer-blowout",
+            "status": 301,
+            "to": "https://capecodcannabis.com/specials/end-of-summer-blowout"
+          }
+        ]
+      },
+      "at": "2026-10-12T00:41:52.104Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/categories/concentrates/hash",
+      "reason": "status 404",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:42:07.449Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/offers/stocking-stuffers-2025",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://capecodcannabis.com/offers/stocking-stuffers-2025",
+            "status": 301,
+            "to": "https://capecodcannabis.com/specials/stocking-stuffers-2025"
+          }
+        ]
+      },
+      "at": "2026-10-12T00:42:16.197Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/categories/concentrates/rosin",
+      "reason": "status 404",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:42:19.069Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/blog",
+      "reason": "status 404",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:42:54.261Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/categories/clones",
+      "reason": "status 404",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:43:02.661Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/beautiful-wellfleet-ma-attractions",
+      "reason": "status 404",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:43:10.420Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/brands/perpetual-harvest",
+      "reason": "status 404",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:01.378Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/offers/concentrates-1g-2-for-5-off-3-for-10-off-4-for-15-off-5-for-20-off",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://capecodcannabis.com/offers/concentrates-1g-2-for-5-off-3-for-10-off-4-for-15-off-5-for-20-off",
+            "status": 301,
+            "to": "https://capecodcannabis.com/specials/concentrates-1g-2-for-5-off-3-for-10-off-4-for-15-off-5-for-20-off"
+          }
+        ]
+      },
+      "at": "2026-10-12T00:44:12.645Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/offers/tinctures-treeworks-2-for-10-off-3-for-15-off-4-for-20-off",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://capecodcannabis.com/offers/tinctures-treeworks-2-for-10-off-3-for-15-off-4-for-20-off",
+            "status": 301,
+            "to": "https://capecodcannabis.com/specials/tinctures-treeworks-2-for-10-off-3-for-15-off-4-for-20-off"
+          }
+        ]
+      },
+      "at": "2026-10-12T00:44:12.645Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/offers/500mg-syrups-3-for-99",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://capecodcannabis.com/offers/500mg-syrups-3-for-99",
+            "status": 301,
+            "to": "https://capecodcannabis.com/specials/500mg-syrups-3-for-99"
+          }
+        ]
+      },
+      "at": "2026-10-12T00:44:16.032Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/offers/cartridges-jeeter-1g-5-for-120",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://capecodcannabis.com/offers/cartridges-jeeter-1g-5-for-120",
+            "status": 301,
+            "to": "https://capecodcannabis.com/specials/cartridges-jeeter-1g-5-for-120"
+          }
+        ]
+      },
+      "at": "2026-10-12T00:44:16.032Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/offers/vaporizers-1g-3-for-69-5-for-105",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://capecodcannabis.com/offers/vaporizers-1g-3-for-69-5-for-105",
+            "status": 301,
+            "to": "https://capecodcannabis.com/specials/vaporizers-1g-3-for-69-5-for-105"
+          }
+        ]
+      },
+      "at": "2026-10-12T00:44:19.454Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/offers/jeeter-1g-cartridge-5-for-120",
+      "reason": "status 404",
+      "extra": {
+        "chain": [
+          {
+            "from": "https://capecodcannabis.com/offers/jeeter-1g-cartridge-5-for-120",
+            "status": 301,
+            "to": "https://capecodcannabis.com/specials/jeeter-1g-cartridge-5-for-120"
+          }
+        ]
+      },
+      "at": "2026-10-12T00:44:19.455Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/offers/1g-vaporizers-3-for-69-5-for-105",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:20.469Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/offers/bundle-crude-boys-1g-cartridges-4-for-72",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:20.469Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/offers/infused-pre-rolls-10-for-105",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:21.336Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/offers/infused-5pks-jeeter-3-for-135-5-for-200",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:21.336Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/offers/1g-pre-rolls-14-for-70",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:22.183Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/offers/10-infused-pre-rolls-for-105-bundle",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:22.183Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/offers/jeeter-5pks",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:23.100Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/categories/flower?category=flower&strain=indica",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:23.100Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/categories/flower?category=flower&strain=sativa",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:24.059Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/categories/flower?category=flower&strain=hybrid",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:24.059Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/offers/edibles-2-for-10-off-4-for-20-off",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:25.017Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/offers/gummies-live-rosin-3-for-60-5-for-75",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:25.017Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/offers/live-rosin-gummies-3-for-60-5-for-75",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:25.887Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/offers/1906-zonked-kanha-double-baked-bundle",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:25.887Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/terpenes/page/2",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:26.802Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/terpenes/page/3",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:26.802Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/terpenes/page/4",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:27.748Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/terpenes/page/5",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:27.748Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/events-calendar/list",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:28.744Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/events-calendar/list?eventDisplay=past",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:28.744Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/events-calendar/category/pop-ups",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:29.710Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/2g-dispos",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:29.710Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/best-dispensary-on-cape-cod",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:30.695Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/cannabis-dispensary-in-wellfleet",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:30.695Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/cape-cod-cannabis",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:31.677Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/dispos",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:31.677Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/disposables",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:32.596Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/pop-up",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:32.596Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/vaporizers",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:33.473Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/events-calendar/category/events",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:33.473Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/cannabis-flower",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:34.442Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/club-9-ball",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:34.442Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/edibles",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:35.354Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/gummies",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:35.354Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/johnny-spampinato",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:36.267Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/labor-day-weekend-event-2026",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:36.267Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/outer-cape-music-festival-2026",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:37.119Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/wellfleet-music",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:37.119Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/wellfleet-music-event-2026",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:38.055Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/boards-in-the-stores",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:38.055Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/cape-cod-artist",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:38.922Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/online-auction",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:38.922Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/orleans-chamber-of-commerce",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:39.899Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/proud-sponsor",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:39.899Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/sunshine-singleton",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:40.865Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/cannabis",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:40.865Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/dispensary-near-me",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:41.733Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/northeast-alternatives",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:41.733Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/pre-roll",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:42.655Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/pop-up-event",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:42.655Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/tinctures",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:43.527Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/cartridges",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:43.527Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/infused-pre-rolls",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:44.483Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/jeeter",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:44.483Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/va",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:45.444Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/vapes",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:45.444Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/thc-gummies",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:46.424Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/wana",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:46.424Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/coast-cannabis",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:47.317Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/wellfleet-dispensary",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:47.317Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/flower",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:48.169Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/garcia-hand-picked",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:48.169Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/cannabis-concentrate",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:49.058Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/cannabis-dispensary-near-me",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:49.058Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/cultivators-classic",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:49.959Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/kosmik",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:49.959Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/pre-rolls",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:50.845Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/regenerative-llc",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:50.845Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/live-rosin",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:51.697Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/best",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:51.697Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/edible-drinks",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:52.546Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/levia",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:52.546Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/thc-seltzers",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:53.526Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/dispo",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:53.526Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/disposable-vapes",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:54.432Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/eureka-vapor",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:54.432Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/infused-chocolates",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:55.367Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/infused-gummies",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:55.367Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/thc-chocolate",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:56.265Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/thc-edibles",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:56.265Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/blunts",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:57.197Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/stingers",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:57.197Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/sweet-stingers",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:58.129Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/strane",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:58.129Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/event",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:58.990Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/events",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:58.990Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/nea",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:59.909Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/pop-ups",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:44:59.909Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/baja-blastoff",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:00.905Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/carts",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:00.905Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/hellavated",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:01.924Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/cannabis-tinctures",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:01.924Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/good-feels",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:02.858Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/good-vibes",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:02.858Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/syrups",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:03.868Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/cbd-gummies",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:03.868Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/wana-gummies",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:04.949Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/cbd",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:04.949Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/thc",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:05.908Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/wyld",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:05.908Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/2g-vapes",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:06.883Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/boutiq",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:06.883Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/boutiq-switch",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:07.761Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/dual-disposables",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:07.762Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/treeworks",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:08.737Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/cali-blaze",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:08.737Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/sluggers-hit",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:09.622Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/wellfleet-cannabis",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:09.622Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/fog-cutter-infused-pre-rolls",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:10.551Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/cape-cod",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:10.551Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/hydroponic-flower",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:11.482Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/northern-grown-cannabis",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:11.482Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/do-drops",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:12.444Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/fog-cutter",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:12.444Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/northern-grown",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:13.374Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/events-calendar/category/420-weekend-2026",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:13.374Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/4-20",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:14.331Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/420",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:14.331Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/420-celebration",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:15.297Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/420-day",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:15.297Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/4th-anniversary",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:16.237Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/join-us",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:16.237Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/concentrates",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:17.099Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/hookup-day",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:17.099Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/moonrocks",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:17.971Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/sparq",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:17.971Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/thc-toothpicks",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:18.814Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/brands/u4ea-farms",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:18.814Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/u4ea-farms",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:19.729Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/perpetual-harvest",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:19.729Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/brands/vangarden",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:20.587Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/south-wellfleet",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:20.587Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/vangarden",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:21.545Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/coast-cannabis-co",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:21.545Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/vape-carts",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:22.470Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/blackstone-valley-cannabis",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:22.470Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/brands/do-drops",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:23.317Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/brands/uncut",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:23.317Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/cclassic",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:24.206Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/crumble",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:24.206Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/live-badder",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:25.099Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/sugar",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:25.099Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/sugar-wax",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:25.939Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/uncut",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:25.939Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/chill-medicated",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:26.800Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/brands/cann",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:26.800Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/beverages",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:27.686Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/cann",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:27.686Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/learn",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:28.551Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/thc-beverage",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:28.551Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/brands/natures-heritage",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:29.424Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/concentrate",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:29.424Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/natures-heritage",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:30.290Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/premier-cannabis",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:30.290Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/brands/rezzy-2",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:31.122Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/hashables",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:31.122Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/rezzy",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:31.975Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/zzzonked",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:31.975Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/chocolates",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:32.861Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/bertha",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:32.861Z"
+    },
+    {
+      "stage": "crawl:page",
+      "target": "https://capecodcannabis.com/tag/bertha-is-back",
+      "reason": "refused: HTTP 403",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-10-12T00:45:34.461Z"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "schema": "site-reforge/project@1",
+  "name": "capecodcannabis-com",
+  "targetUrl": "https://capecodcannabis.com/",
+  "origin": "https://capecodcannabis.com",
+  "createdAt": "2026-10-12T00:09:39.500Z",
+  "updatedAt": "2026-10-12T00:49:32.946Z",
+  "config": {
+    "maxPages": 8000,
+    "concurrency": 2,
+    "includeSubdomains": false,
+    "breakpoints": [
+      390,
+      768,
+      1024,
+      1440
+    ],
+    "pixelDiffThreshold": 0.02,
+    "contentRecallFloor": 0.95,
+    "requestDelayMs": 150,
+    "requestHeaders": {}
+  },
+  "tooling": {
+    "browser": "unknown",
+    "imageGen": "unknown",
+    "detectedAt": null
+  },
+  "stages": {
+    "intake": {
+      "status": "done",
+      "at": "2026-10-12T00:09:39.501Z",
+      "note": "workspace created"
+    },
+    "crawl": {
+      "status": "partial",
+      "at": "2026-10-12T00:45:35.116Z",
+      "note": "931 pages, 181 failed, 102 excluded by pattern, STOPPED with 5881 deferred"
+    },
+    "extract": {
+      "status": "done",
+      "at": "2026-10-12T00:49:32.946Z",
+      "note": "745 pages extracted"
+    },
+    "assets": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "capture": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "tokens": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "motion": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "presets": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "ux": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "brand": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "implement": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "clone": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "cloneVerify": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "responsive": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "seo": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "performance": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "decontaminate": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "parity": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "fabrication": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "pixeldiff": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "sweep": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "functional": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "gate": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "package": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    }
+  },
+  "notes": []
+}
