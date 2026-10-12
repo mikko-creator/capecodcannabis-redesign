@@ -1,6 +1,6 @@
 {
   "schema": "site-reforge/parity-report@1",
-  "generated": "2026-10-12T16:54:14.929Z",
+  "generated": "2026-10-12T17:40:12.926Z",
   "sourcePages": 745,
   "rebuiltFiles": 6733,
   "mappedPages": 745,
@@ -6022,7 +6022,7 @@
       "missingWords": 185,
       "longestMissingRun": 4,
       "sourceWords": 3924,
-      "rebuiltWords": 4681,
+      "rebuiltWords": 4683,
       "sourceH1": [
         "Cape Cod Cannabis Recreational Dispensary | Wellfleet, MA"
       ],
