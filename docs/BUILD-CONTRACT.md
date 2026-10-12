@@ -169,6 +169,19 @@ source of truth.
      /faqs-420/ FAQPage markup still says "up to 1 ounce of flower ... 28 grams"; the visible copy on 23 pages says 2
      ounces / 56 grams (`docs/FACTS-EVIDENCE.md` C3). The removal is recorded in the ledger.
    - The pipeline lanes started before this note, so the INTEGRATOR enforces it.
+   - **The consolidated business entity carries printed facts only** (`docs/COMPLIANCE.md` sections 7 and 9). NOT
+     carried, each declared in the ledger and flagged to the client:
+     - the personal staff e-mail (jbourgea@...) from an ezlocal listing in the home JSON-LD;
+     - Joint's `alternateName` "Medical Marijuana Dispensary" (the store is adult-use only);
+     - the stale FAQPage markup above.
+     - Rank Math's `openingHours` "8:00 - 8:00" becomes the printed "8:00am – 8:00pm" daily, i.e. 08:00 to 20:00,
+       as Joint's own LocalBusiness block already states.
+   - **Reviews:**
+     - verbatim text, name, date and rating, with "Google" named as the source and the capture date shown
+       (2026-10-12);
+     - the ratings exactly as printed ("4.9", "900+", "(967)");
+     - reviewer avatars are NOT mirrored or hotlinked (third-party personal images); use initials;
+     - source typos are kept.
 8. **Removed, with reasons** (in the change ledger), as platform runtime:
    - GTM/GA, the Facebook pixel, server-side tagging (`sst.`), OneSignal push, the Alpine IQ loader, Ahrefs and WPMU
      analytics, LiteSpeed, WP Defender, the Elementor/Jet runtime and the Joint runtime;
